@@ -1,4 +1,4 @@
-## WhoAdvertisesOn: A Conservative News Channel Advertiser Repository
+## WhoAdvertisesOn: A Partisan News Channel Advertiser Repository
 WhoAdvertisesOn is an open data repository for collecting and sharing information on companies that are advertising on partisan news channels. Currently only data on Fox News Channel is included, but others may be added in the future.
 
 ### Purpose
