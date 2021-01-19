@@ -1,5 +1,5 @@
 ## WhoAdvertisesOn: A Conservative News Channel Advertiser Repository
-WhoAdvertisesOn is an open data repository for collecting and sharing information on companies that are advertising on conservative news channels. Currently only data on Fox News Channel is included, but others may be added in the future.
+WhoAdvertisesOn is an open data repository for collecting and sharing information on companies that are advertising on partisan news channels. Currently only data on Fox News Channel is included, but others may be added in the future.
 
 ### Purpose
 For-profit television news is largely funded through advertising. To boost viewership, and thereby make ad slots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels such as those that claim to be “conservative” may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Thus all citizens have a right to know whose dollars are funding these channels.
