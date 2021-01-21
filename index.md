@@ -17,7 +17,7 @@ Currently the following data is collected for each observed advertisement:
 ### Data Files
 Currently the following files are available in the repository: 
 
-*FoxNewsChannel_ObservedAdvertisements.csv*
+*[FoxNewsChannel_ObservedAdvertisements.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)*
 
 ### Update Frequency
 The goal is to collect a small amount of data daily and to update the dataset weekly.  
