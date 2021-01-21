@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Purpose
+For-profit television news is largely funded through advertising. To boost viewership, and thereby make ad slots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels such as those that claim to be “conservative” may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Thus all citizens have a right to know whose dollars are funding these channels.
 
-You can use the [editor on GitHub](https://github.com/whoadvertiseson/whoadvertiseson/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Sampling Strategy
+The most comprehensive way to know who is advertising on a particular channel would entail watching every hour every day, yet this is not feasible for volunteers. Therefore the notion of "sampling" is used to gather data with less effort. The strategy is that nearly every day a volunteer watches a channel for a fifteen minute interval at an arbitrary time (excluding overnight), and collects data about observed advertisements. Over time this should generate a comprehensive picture of advertising on a particular channel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Collection
+Currently the following data is collected for each observed advertisement: 
 
-### Markdown
+*CompanyName, ProductName, DateObserved, TimeOfDay, Channel, ShowName*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Data Files
+Currently the following files are available in the repository: 
 
-```markdown
-Syntax highlighted code block
+*FoxNewsChannel_ObservedAdvertisements.csv*
 
-# Header 1
-## Header 2
-### Header 3
+### Update Frequency
+The goal is to collect a small amount of data daily and to update the dataset weekly.  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whoadvertiseson/whoadvertiseson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+If you have questions or comments please find us on Twitter at https://twitter.com/WhoAdvertisesOn, or write to us at whoadvertiseson@protonmail.com
