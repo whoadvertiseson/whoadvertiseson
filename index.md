@@ -1,7 +1,7 @@
 <div style="width:100%; text-align:center"><img src="https://avatars.githubusercontent.com/u/77581621?s=460&u=cea7754d276ada68597da92d06e3e3bc9c337a0b&v=4" alt="alt text" width="160"></div>
 
 ##### &nbsp;
-<[See the latest data on Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)>
+[See the latest data on Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)>>
 
 ### Project Purpose
 For-profit television news is largely funded through advertising. To boost viewership, and thereby make ad slots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels such as those that claim to be “conservative” may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Thus all citizens have a right to know whose dollars are funding these channels.
