@@ -1,5 +1,2 @@
 theme: jekyll-theme-minimal
-title                    : "Test 1"
-title_separator          : "-"
-name                     : &name "Test 2"
-description              : &description "test 3"
+title: "Who Advertises On"
