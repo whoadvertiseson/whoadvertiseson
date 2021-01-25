@@ -15,7 +15,8 @@ Currently the following data is collected for each observed advertisement:
 ### Data Files
 Currently data is only being collected about Fox News Channel, and the following files are available in the repository: 
 
-*[FoxNewsChannel_ObservedAdvertisements.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)*
+- *[FoxNewsChannel_ObservedAdvertisements.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)*
+- *[FoxNewsChannel_RecentTopAdvertisers.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_RecentTopAdvertisers.csv)*
 
 ### Contact
 If you have questions or comments please find us on Twitter at [https://twitter.com/WhoAdvertisesOn](https://twitter.com/WhoAdvertisesOn), or write to us at whoadvertiseson@protonmail.com
