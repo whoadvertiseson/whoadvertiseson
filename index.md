@@ -25,4 +25,8 @@ Currently data is only being collected about Fox News Channel, and the following
 ### Contact
 If you have questions or comments please find us on Twitter at [https://twitter.com/WhoAdvertisesOn](https://twitter.com/WhoAdvertisesOn), or write to us at whoadvertiseson@protonmail.com
 
+### Licenses
+
+- Data files (ie. .csv) are governed by an Open Data Commons Open Database License (ODbL) v1.0 as detailed in the file LICENSE_data
+- Code files (ie. .py) are governed by a GNU GENERAL PUBLIC LICENSE Version 3 as detailed in the file LICENSE_code
 
