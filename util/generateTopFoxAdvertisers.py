@@ -29,6 +29,7 @@ print(topAdvertisers.head())
 for index, row in topAdvertisers.iterrows():
     productsList = ''
     lastProduct = ''
+    lastSeen = ''
     for inner_index, inner_row in observedAdvertisers.iterrows():
         if row['CompanyName'] == inner_row['CompanyName']:
             product = inner_row['ProductName']
@@ -37,9 +38,15 @@ for index, row in topAdvertisers.iterrows():
                     productsList = product
                 else:
                     productsList = productsList + ', ' + product
+                if lastSeen == '':
+                    lastSeen = inner_row['DateObserved']
+                else:
+                    if inner_row['DateObserved'] > lastSeen:
+                        lastSeen = inner_row['DateObserved']
                 lastProduct = product
 
     topAdvertisers.loc[index, "ProductsAdvertised"] = productsList
+    topAdvertisers.loc[index, "LastObserved"] = lastSeen
 
 # ADD INDICATION OF TIMESPAN (probably a more efficient way to do this)
 timeSpan = ''
