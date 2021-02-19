@@ -2,11 +2,10 @@
 
 ##### &nbsp;
 **Latest Fox News Estimates:**
-<div style="width:100%; text-align:center"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
+<div style="width:100%; text-align:left"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
 
 - [Most recently sampled Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)
 - [Top recent Fox News Channel advertisers per our sampling](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_RecentTopAdvertisers.csv)
-
 
 ### Project Purpose
 For-profit television news is funded in part through advertising. To boost viewership and make ad spots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels, such as conservative media, may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Therefore all citizens have a right to know whose dollars are funding these channels.
