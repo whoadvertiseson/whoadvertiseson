@@ -1,7 +1,7 @@
 <div style="width:100%; text-align:center"><img src="https://avatars.githubusercontent.com/u/77581621?s=460&u=cea7754d276ada68597da92d06e3e3bc9c337a0b&v=4" alt="alt text" width="160"></div>
 
 ##### &nbsp;
-**Latest Fox News Estimates:**
+### Latest Fox News Estimates:
 <div style="width:100%; text-align:left"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
 
 - [Most recently sampled Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)
