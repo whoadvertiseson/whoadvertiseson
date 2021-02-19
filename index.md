@@ -1,12 +1,15 @@
 <div style="width:100%; text-align:center"><img src="https://avatars.githubusercontent.com/u/77581621?s=460&u=cea7754d276ada68597da92d06e3e3bc9c337a0b&v=4" alt="alt text" width="160"></div>
 
 ##### &nbsp;
-**Latest data files:**
+**Latest Fox News Estimates:**
+<div style="width:100%; text-align:center"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
+
 - [Most recently sampled Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)
 - [Top recent Fox News Channel advertisers per our sampling](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_RecentTopAdvertisers.csv)
 
+
 ### Project Purpose
-For-profit television news is funded through advertising. To boost viewership and make ad spots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels, such as conservative media, may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Therefore all citizens have a right to know whose dollars are funding these channels.
+For-profit television news is funded in part through advertising. To boost viewership and make ad spots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels, such as conservative media, may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Therefore all citizens have a right to know whose dollars are funding these channels.
 
 ### Sampling Strategy
 The most comprehensive way to know who is advertising on a particular channel would entail watching every hour every day, yet this is not feasible for volunteers. Therefore the notion of "sampling" is used to gather data with less effort. Our strategy is that nearly every day a volunteer watches a channel for a fifteen minute interval at an arbitrary time (excluding overnight), and collects data about observed advertisements. Over time this should generate a comprehensive picture of advertising on a particular channel.
