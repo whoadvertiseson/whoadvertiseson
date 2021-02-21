@@ -1,5 +1,5 @@
 # WhoAdvertisesOn
-## A toolkit for tracking advertisers on partisan news outlets with data science and open data, starting with Fox News Channel
+## Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News.
 
 ### Project Purpose
 For-profit television news is funded in part through advertising. To boost viewership and make ad spots more valuable, commercial news channels may set aside journalistic standards in favor of more sensational and emotional styles of programming. Furthermore, partisan channels, such as conservative media, may additionally selectively report or distort information for political gain. These deviations from journalistic standards have real world consequences that effect lives and families of even non-viewers. Therefore all citizens have a right to know whose dollars are funding these channels.
