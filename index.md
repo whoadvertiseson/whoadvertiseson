@@ -2,7 +2,7 @@
 
 ##### &nbsp;
 ### Latest Fox News Estimates:
-<div style="width:100%; text-align:left"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
+<div style="width:100%; text-align:left"><a href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png"><img src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png" alt="alt text" width="400"></a></div>
 
 - [DATA: Most recently sampled Fox News Channel advertisers](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_ObservedAdvertisements.csv)
 - [DATA: Top recent Fox News Channel advertisers per our sampling](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNewsChannel_RecentTopAdvertisers.csv)
