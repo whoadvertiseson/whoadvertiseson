@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: "WhoAdvertisesOn"
 description: "Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News. "
