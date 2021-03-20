@@ -1,6 +1,5 @@
 # WhoAdvertisesOn ToolKit for Tracking Advertisers
 ## How to Reproduce This Project to Track Advertisers on Different Partisan News Outlets
-## *Draft Version*
 ***
 
 ## Overview
