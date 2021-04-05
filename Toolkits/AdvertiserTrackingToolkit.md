@@ -1,7 +1,6 @@
 # WhoAdvertisesOn ToolKit for Tracking Advertisers
 ## How to Reproduce This Project to Track Advertisers on Different Partisan News Outlets
 ***
-Questions/comments: whoadvertiseson@protonmail.com
 
 ## Overview
 [WhoAdvertisesOn](http://whoadvertiseson.org/) is not just a project tracking and summarizing advertising on a single partisan news outlet, Fox News. It is also an open source data science toolkit that can allow any person or organization to do the same for their own purposes and in their own contexts. Doing so does not require advanced coding skills, but it does require a comfort with editing spreadsheets, and knowledge of some basic tools of data science, including the ability to run Python code locally to process your data. This guide will help you gain that basic knowledge and to get started with tracking advertisers. This guide is written for use with TV channels, but it could be adapted to radio, print, or online media.
