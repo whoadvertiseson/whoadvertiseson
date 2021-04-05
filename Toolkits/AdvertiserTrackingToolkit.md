@@ -15,7 +15,7 @@ This guide will walk you through the following steps:
 
 ## 1. Create your plan for the manual sampling of advertisements
 
-There is no getting around the need for someone to watch a channel and manually record its advertisements into a spreadsheet. But by using a sampling approach, you can make this as painless, efficient, and accurate as possible.
+There is no getting around the need for someone to watch a channel and manually record its advertisements into a spreadsheet. But by using a sampling approach, you can make this as brief, efficient, and accurate as possible.
 
 ### Sampling 101
 Sampling here means that instead of watching and listing every advertisement, you will just list some of them and use that to make assumptions about the rest. This has two important implications:
