@@ -7,22 +7,13 @@ WhoAdvertisesOn is not just a project tracking and summarizing advertising on a 
 
 ## Outline of Steps
 This guide will walk you through the following steps:
-1. Make your own copy of the WhoAdvertisesOn repository from GitHub
 1. Create your plan for the manual sampling of advertisements
+1. Make your own copy of the WhoAdvertisesOn repository from GitHub
 1. Start collecting samples and adding them to your spreadsheet
 1. Install a Python Anaconda environment and use a Jupyter Notebook to run scripts
 1. Start sharing your data
 
-## 1. Make your own copy of the WhoAdvertisesOn repository from GitHub
-GitHub is a hosted version control service that is commonly used to share and collaborate on open source software projects. It can also be used an open repository for data. WhoAdvertisesOn hosts all of its code and data in a GitHub repository available here: [https://github.com/whoadvertiseson/whoadvertiseson](https://github.com/whoadvertiseson/whoadvertiseson)
-
-The first step is copy all of our code and data. At the top right of the main page column you will see a green button button that reads "Code". This will allow you to download (aka "clone") the repository. If you are an experienced GitHub user you may do this many ways, have fun.
-
-If you are not an experienced GitHub user you have two options. Firstly you can simply choose the "Download ZIP" option to download the files to your local computer. Unzip these files into some working directory of your choice. Just keep in mind that WhoAdvertisesOn is a living repository, and its code will be updated to fix problems and new features added, which means that what you just downloaded is a snapshot in time. To access newest features at a later date you will need to go back and read up on what has changed and update your files manually. As this is a fairly simple repository, it should be not too complicated to do so. But the alternative is to install and use the GitHub Desktop application, which will allow you to download the files but will also keep you apprised of changes. We will strive to make all new changes backwards compatible.
-
-To get your downloaded directory ready to begin collecting data simply create a folder at the top level named after the channel you will be tracking. This will live next to the existing "FoxNews" example folder. Then, make a copy of "ToolkitGuide/Templates/ChannelName_ObservedAdvertisements.csv" and put it in this new folder, replacing "ChannelName" with the name of the channel you are tracking.
-
-## 2. Create your plan for the manual sampling of advertisements
+## 1. Create your plan for the manual sampling of advertisements
 
 There is no getting around the need for someone to watch a channel and manually record its advertisements into a spreadsheet. But by using a sampling approach, you can make this as painless, efficient, and accurate as possible.
 
@@ -44,6 +35,15 @@ In this approach, you simply the edit the data file in place in your working dir
 
 #### **Online Google Sheets for Collaborative Data Collection**
 In this approach, you can collaborate with others using an online file, such as a Google Sheet. Each collaborator can add advertisers as they are observed. Then a single point person can keep this file sorted, and can download into a local working directory as needed to run scripts (more on that later). In this collaborative approach care must be taken to ensure that collaborators are being consistent with their company and product names. For example there is a danger of ending up with "Kraft Heinz", "Kraft Hienz", "Kraft Heinz Co.", "Kraft Heinz Company" etc., which should ideally all have the same name. The point person must be vigilent about this. Because of this, a larger number of less trained collaborators increases the risk that the data will lose integrity.
+
+## 2. Make your own copy of the WhoAdvertisesOn repository from GitHub
+GitHub is a hosted version control service that is commonly used to share and collaborate on open source software projects. It can also be used an open repository for data. WhoAdvertisesOn hosts all of its code and data in a GitHub repository available here: [https://github.com/whoadvertiseson/whoadvertiseson](https://github.com/whoadvertiseson/whoadvertiseson)
+
+The first step is copy all of our code and data. At the top right of the main page column you will see a green button button that reads "Code". This will allow you to download (aka "clone") the repository. If you are an experienced GitHub user you may do this many ways, have fun.
+
+If you are not an experienced GitHub user you have two options. Firstly you can simply choose the "Download ZIP" option to download the files to your local computer. Unzip these files into some working directory of your choice. Just keep in mind that WhoAdvertisesOn is a living repository, and its code will be updated to fix problems and new features added, which means that what you just downloaded is a snapshot in time. To access newest features at a later date you will need to go back and read up on what has changed and update your files manually. As this is a fairly simple repository, it should be not too complicated to do so. But the alternative is to install and use the GitHub Desktop application, which will allow you to download the files but will also keep you apprised of changes. We will strive to make all new changes backwards compatible.
+
+To get your downloaded directory ready to begin collecting data simply create a folder at the top level named after the channel you will be tracking. This will live next to the existing "FoxNews" example folder. Then, make a copy of "ToolkitGuide/Templates/ChannelName_ObservedAdvertisements.csv" and put it in this new folder, replacing "ChannelName" with the name of the channel you are tracking.
 
 ## 3. Start collecting samples and adding them to your spreadsheet
 The template csv file [ChannelName_ObservedAdvertisements.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/ToolkitGuide/Templates/ChannelName_ObservedAdvertisements.csv), which you copied and renamed earlier, has a header row that defines column names. This row must be preserved exactly, because the scripts rely on recognizing these column names. Therefore your data should begin in row 2. The columns names are CompanyName,ProductName, DateObserved, TimeOfDay, Channel, ShowName. Additional columns may be supported by future scripts. The best way to understand each column and their use is to look at the example [FoxNews/FoxNews_ObservedAdvertisements.csv](https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_ObservedAdvertisements.csv) file. As noted above, consistency in naming is important, not just for companies, but also for products, times of day, shows etc. So consider it one of your main responsibilities as data curator to maintain this consistency across all of the rows of your data. The scripts that will help to process your data depend on it.
