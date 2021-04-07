@@ -1,97 +1,99 @@
 CompanyName,AdsSampled,ProductsAdvertised,LastObserved,TimeSpan,EstFreqProminence
-Balance of Nature,33,Veggies,2021-04-02,1/2021 to 4/2021,0.08048780487804878
-Liberty Mutual,24,Liberty Mutual Insurance,2021-03-22,1/2021 to 4/2021,0.05853658536585366
-USAA,16,"USAA Insurance, USAA Homeowners Insurance, USAA Switch",2021-04-02,1/2021 to 4/2021,0.03902439024390244
-NewDayUSA,13,"NewDayUSA, NewDayUSA RefiPlus",2021-03-30,1/2021 to 4/2021,0.03170731707317073
-MyPillow,13,"MyPillow Sheets, MyPillow, MyPillow Towel, MyPillow Topper",2021-03-15,1/2021 to 4/2021,0.03170731707317073
-Nutrisystem,12,"Nutrisystem, Nutrisystem Men",2021-03-21,1/2021 to 4/2021,0.02926829268292683
-General Motors,11,"Chevrolet, Trail Boss, Buick, Chevy Trucks, Chevy Silverado, Cadillac, Cadillac XT5, Chevy Equinox",2021-03-28,1/2021 to 4/2021,0.026829268292682926
-Safelite Group,9,Safelite AutoGlass,2021-03-30,1/2021 to 4/2021,0.02195121951219512
-Intuit,9,"Intuit Quickbooks, Quickbooks",2021-04-03,1/2021 to 4/2021,0.02195121951219512
-Indeed,8,"Indeed.com, Indeed",2021-03-28,1/2021 to 4/2021,0.01951219512195122
-Abbott Laboratories ,8,"Ensure, Pedialyte, Glucerna",2021-03-30,1/2021 to 4/2021,0.01951219512195122
-Qunol,8,"Qunol Tumeric, Qunol Immune Support",2021-03-17,1/2021 to 4/2021,0.01951219512195122
-GlaxoSmithKline,8,"Flonase, Advil, Pro Partial, Trellegy, Voltaren, Abreva",2021-04-02,1/2021 to 4/2021,0.01951219512195122
-Promdev,7,"ReliefFactor, Relief Factor",2021-03-30,1/2021 to 4/2021,0.01707317073170732
-AbbVie,7,"Skyrizi, Humira, Juvederm, Vraylar",2021-03-29,1/2021 to 4/2021,0.01707317073170732
-WeatherTech,7,WeatherTech,2021-03-15,1/2021 to 4/2021,0.01707317073170732
-Novartis,6,"Cosentryx, Xiidra",2021-03-31,1/2021 to 4/2021,0.014634146341463415
-Kraft Heinz Company,6,"Kraft Cheese, Planters Mixed Nuts, Velveeta, Heinz Tomato Ketchup, Kraft Macaroni and Cheese",2021-04-02,1/2021 to 4/2021,0.014634146341463415
-Johnson and Johnson,5,"Lactaid, Listerine, Tylenol, Stelara, Aveeno",2021-03-04,1/2021 to 4/2021,0.012195121951219513
-GOLO.com,5,GOLO.com,2021-04-03,1/2021 to 4/2021,0.012195121951219513
-Ford Motor Company,5,"Lincoln SUV, Lincoln Corsair, Ford Escape",2021-02-18,1/2021 to 4/2021,0.012195121951219513
-Ro,4,Roman,2021-03-18,1/2021 to 4/2021,0.00975609756097561
-Rocket Mortgage,4,Rocket Mortgage,2021-03-20,1/2021 to 4/2021,0.00975609756097561
-Go2Bank,4,Go2Bank,2021-03-15,1/2021 to 4/2021,0.00975609756097561
-Allstate,4,Allstate,2021-03-30,1/2021 to 4/2021,0.00975609756097561
-Lear Capital,4,Lear Capital,2021-03-15,1/2021 to 4/2021,0.00975609756097561
-T-Mobile,4,"T-Mobile, T-Mobile For Buisness",2021-03-04,1/2021 to 4/2021,0.00975609756097561
-Kubota,4,"Kubota, Kubota Tractors, Kubota Mowers",2021-03-27,1/2021 to 4/2021,0.00975609756097561
-Sanofi,4,"Gold Bond Medicated, Aspercreme, Dupixent",2021-03-28,1/2021 to 4/2021,0.00975609756097561
-Amgen,4,"Otezla, Enbrel",2021-03-22,1/2021 to 4/2021,0.00975609756097561
-Toyota,4,Lexus,2021-03-07,1/2021 to 4/2021,0.00975609756097561
-Energizer,4,ArmorAll,2021-03-31,1/2021 to 4/2021,0.00975609756097561
-Vroom,4,Vroom,2021-04-02,1/2021 to 4/2021,0.00975609756097561
-Old Dominion Freight Line,3,Old Dominion Freight Line,2021-03-28,1/2021 to 4/2021,0.007317073170731708
-Priceline,3,Priceline,2021-03-28,1/2021 to 4/2021,0.007317073170731708
-Weight Watchers,3,Weight Watchers Reimagined,2021-03-19,1/2021 to 4/2021,0.007317073170731708
-Consumer Cellular,3,Consumer Cellular,2021-03-26,1/2021 to 4/2021,0.007317073170731708
-Coventry Direct,3,Coventry Direct,2021-02-27,1/2021 to 4/2021,0.007317073170731708
-ADT,3,ADT,2021-02-18,1/2021 to 4/2021,0.007317073170731708
-Amerisave Mortgage Company,3,"Amerisave Mortgage, Amerisave Mortgage Company",2021-02-17,1/2021 to 4/2021,0.007317073170731708
-Force Factor,3,Force Factor,2021-03-11,1/2021 to 4/2021,0.007317073170731708
-PureTalk,3,PureTalk,2021-02-22,1/2021 to 4/2021,0.007317073170731708
-Procter and Gamble,3,"Febreze, Pepto Bismol, Oral B",2021-04-03,1/2021 to 4/2021,0.007317073170731708
-Ancestry,3,Ancestry.com,2021-02-21,1/2021 to 4/2021,0.007317073170731708
-Comcast,3,Comcast Business,2021-03-16,1/2021 to 4/2021,0.007317073170731708
-Quincy Bioscience,3,Prevagen,2021-03-14,1/2021 to 4/2021,0.007317073170731708
-LegalZoom,3,LegalZoom,2021-03-30,1/2021 to 4/2021,0.007317073170731708
-LeafFilter,3,LeafFilter,2021-02-12,1/2021 to 4/2021,0.007317073170731708
-Americas Best,3,Americas Best,2021-02-20,1/2021 to 4/2021,0.007317073170731708
-AT&T,2,AT&T Wireless,2021-02-01,1/2021 to 4/2021,0.004878048780487805
-John Deere,2,"John Deere Tractors, John Deere",2021-03-22,1/2021 to 4/2021,0.004878048780487805
-Robinhood,2,Robinhood,2021-03-20,1/2021 to 4/2021,0.004878048780487805
-Goldwater Law Firm,2,Goldwater Law Firm,2021-03-17,1/2021 to 4/2021,0.004878048780487805
-Voya Financial,2,Voya Financial,2021-02-27,1/2021 to 4/2021,0.004878048780487805
-ZipRecruiter,2,ZipRecruiter,2021-03-21,1/2021 to 4/2021,0.004878048780487805
-University of Phoenix,2,University of Phoenix,2021-03-14,1/2021 to 4/2021,0.004878048780487805
-Remax,2,Remax,2021-02-14,1/2021 to 4/2021,0.004878048780487805
-TaxSlayer,2,TaxSlayer,2021-02-28,1/2021 to 4/2021,0.004878048780487805
-Kings Hawaiian Bread,2,Kings Hawaiian Bread,2021-03-21,1/2021 to 4/2021,0.004878048780487805
-HomeTitleLock,2,"HomeTitleLock, HomeTitleLock.com",2021-03-22,1/2021 to 4/2021,0.004878048780487805
-Miracle-Ear,2,Miracle-Ear,2021-03-26,1/2021 to 4/2021,0.004878048780487805
-Dynamo Emergency Band Radio,2,Dynamo Emergency Band Radio,2021-02-15,1/2021 to 4/2021,0.004878048780487805
-United Healthcare,2,Medicare Advantage,2021-02-17,1/2021 to 4/2021,0.004878048780487805
-Amphastar,2,"Primatine Mist, Primatene Mist",2021-03-30,1/2021 to 4/2021,0.004878048780487805
-Built Bar,2,Built Bar,2021-02-06,1/2021 to 4/2021,0.004878048780487805
-Progressive,2,Progressive Insurance,2021-03-03,1/2021 to 4/2021,0.004878048780487805
-Sling,2,Sling,2021-02-14,1/2021 to 4/2021,0.004878048780487805
-Lovesac,2,Lovesac,2021-04-03,1/2021 to 4/2021,0.004878048780487805
-Dish TV,2,Dish TV,2021-03-21,1/2021 to 4/2021,0.004878048780487805
-Medicare Coverage Helpline,2,Medicare Coverage Helpline,2021-01-29,1/2021 to 4/2021,0.004878048780487805
-Idaho Potatoes,2,Idaho Potatoes,2021-03-18,1/2021 to 4/2021,0.004878048780487805
-Rosland Capital,2,Rosland Capital,2021-01-25,1/2021 to 4/2021,0.004878048780487805
-Purple,2,Purple Mattress,2021-02-13,1/2021 to 4/2021,0.004878048780487805
-Sleep Number,2,Sleep Number,2021-02-17,1/2021 to 4/2021,0.004878048780487805
-Ideal Agent,2,Idealagent.com,2021-01-29,1/2021 to 4/2021,0.004878048780487805
-Bissel,2,Bissel Vacuums,2021-03-20,1/2021 to 4/2021,0.004878048780487805
-Ageless Male,2,Ageless Male,2021-04-03,1/2021 to 4/2021,0.004878048780487805
-Carfax,2,carfax.com,2021-02-12,1/2021 to 4/2021,0.004878048780487805
-Dine Brands Global,2,IHOP,2021-02-18,1/2021 to 4/2021,0.004878048780487805
-TrueCar,2,TrueCar,2021-02-13,1/2021 to 4/2021,0.004878048780487805
-Transitions Lenses,2,Transitions Signature,2021-02-28,1/2021 to 4/2021,0.004878048780487805
-SingleCare,2,SingleCare,2021-03-14,1/2021 to 4/2021,0.004878048780487805
-X-Chair,2,X-Chair,2021-03-17,1/2021 to 4/2021,0.004878048780487805
-Proactiv,2,Proactiv,2021-03-21,1/2021 to 4/2021,0.004878048780487805
-NortonLifeLock,2,NortonLifeLock,2021-02-07,1/2021 to 4/2021,0.004878048780487805
-LoanDepot,2,LoanDepot,2021-03-04,1/2021 to 4/2021,0.004878048780487805
-Arcadia Consumer Healthcare,2,Kaopectate,2021-02-17,1/2021 to 4/2021,0.004878048780487805
-SurePayroll,2,SurePayroll,2021-02-04,1/2021 to 4/2021,0.004878048780487805
-VisionWorks,2,VisionWorks,2021-02-15,1/2021 to 4/2021,0.004878048780487805
-Jersey Mikes,2,Jersey Mikes,2021-03-04,1/2021 to 4/2021,0.004878048780487805
-Progressive Insurance,2,Progressive Insurance,2021-03-29,1/2021 to 4/2021,0.004878048780487805
-Glowforge,2,Glowforge,2021-03-18,1/2021 to 4/2021,0.004878048780487805
-Redex Industries,2,Udderly Smooth,2021-02-11,1/2021 to 4/2021,0.004878048780487805
-Tempur-pedic,2,Tempur-pedic,2021-03-14,1/2021 to 4/2021,0.004878048780487805
-Novo Nordisk,2,Ozempic,2021-03-26,1/2021 to 4/2021,0.004878048780487805
-Subway,2,Subway,2021-02-01,1/2021 to 4/2021,0.004878048780487805
+Balance of Nature,34,Veggies,2021-04-05,1/2021 to 4/2021,0.07962529274004684
+Liberty Mutual,24,Liberty Mutual Insurance,2021-03-22,1/2021 to 4/2021,0.05620608899297424
+USAA,16,"USAA Insurance, USAA Homeowners Insurance, USAA Switch",2021-04-02,1/2021 to 4/2021,0.03747072599531616
+MyPillow,14,"MyPillow Mattess Topper, MyPillow Sheets, MyPillow, MyPillow Towel, MyPillow Topper",2021-04-06,1/2021 to 4/2021,0.03278688524590164
+Nutrisystem,13,"Nutrisystem, Nutrisystem Men",2021-04-04,1/2021 to 4/2021,0.03044496487119438
+NewDayUSA,13,"NewDayUSA, NewDayUSA RefiPlus",2021-03-30,1/2021 to 4/2021,0.03044496487119438
+General Motors,11,"Chevrolet, Trail Boss, Buick, Chevy Trucks, Chevy Silverado, Cadillac, Cadillac XT5, Chevy Equinox",2021-03-28,1/2021 to 4/2021,0.02576112412177986
+Intuit,9,"Intuit Quickbooks, Quickbooks",2021-04-03,1/2021 to 4/2021,0.02107728337236534
+Safelite Group,9,Safelite AutoGlass,2021-03-30,1/2021 to 4/2021,0.02107728337236534
+Indeed,8,"Indeed.com, Indeed",2021-03-28,1/2021 to 4/2021,0.01873536299765808
+WeatherTech,8,WeatherTech,2021-04-06,1/2021 to 4/2021,0.01873536299765808
+Promdev,8,"ReliefFactor, Relief Factor",2021-04-05,1/2021 to 4/2021,0.01873536299765808
+GlaxoSmithKline,8,"Flonase, Advil, Pro Partial, Trellegy, Voltaren, Abreva",2021-04-02,1/2021 to 4/2021,0.01873536299765808
+Qunol,8,"Qunol Tumeric, Qunol Immune Support",2021-03-17,1/2021 to 4/2021,0.01873536299765808
+AbbVie,8,"Linzess, Skyrizi, Humira, Juvederm, Vraylar",2021-04-07,1/2021 to 4/2021,0.01873536299765808
+Abbott Laboratories ,8,"Ensure, Pedialyte, Glucerna",2021-03-30,1/2021 to 4/2021,0.01873536299765808
+GOLO.com,6,GOLO.com,2021-04-05,1/2021 to 4/2021,0.01405152224824356
+Novartis,6,"Cosentryx, Xiidra",2021-03-31,1/2021 to 4/2021,0.01405152224824356
+Kraft Heinz Company,6,"Kraft Cheese, Planters Mixed Nuts, Velveeta, Heinz Tomato Ketchup, Kraft Macaroni and Cheese",2021-04-02,1/2021 to 4/2021,0.01405152224824356
+Lear Capital,5,Lear Capital,2021-04-07,1/2021 to 4/2021,0.0117096018735363
+Johnson and Johnson,5,"Lactaid, Listerine, Tylenol, Stelara, Aveeno",2021-03-04,1/2021 to 4/2021,0.0117096018735363
+Ford Motor Company,5,"Lincoln SUV, Lincoln Corsair, Ford Escape",2021-02-18,1/2021 to 4/2021,0.0117096018735363
+Ro,4,Roman,2021-03-18,1/2021 to 4/2021,0.00936768149882904
+Vroom,4,Vroom,2021-04-02,1/2021 to 4/2021,0.00936768149882904
+LegalZoom,4,LegalZoom,2021-04-06,1/2021 to 4/2021,0.00936768149882904
+Allstate,4,Allstate,2021-03-30,1/2021 to 4/2021,0.00936768149882904
+Kubota,4,"Kubota, Kubota Tractors, Kubota Mowers",2021-03-27,1/2021 to 4/2021,0.00936768149882904
+Amgen,4,"Otezla, Enbrel",2021-03-22,1/2021 to 4/2021,0.00936768149882904
+Sanofi,4,"Gold Bond Medicated, Aspercreme, Dupixent",2021-03-28,1/2021 to 4/2021,0.00936768149882904
+Toyota,4,Lexus,2021-03-07,1/2021 to 4/2021,0.00936768149882904
+Go2Bank,4,Go2Bank,2021-03-15,1/2021 to 4/2021,0.00936768149882904
+Old Dominion Freight Line,4,Old Dominion Freight Line,2021-04-06,1/2021 to 4/2021,0.00936768149882904
+Energizer,4,ArmorAll,2021-03-31,1/2021 to 4/2021,0.00936768149882904
+Rocket Mortgage,4,Rocket Mortgage,2021-03-20,1/2021 to 4/2021,0.00936768149882904
+T-Mobile,4,"T-Mobile, T-Mobile For Buisness",2021-03-04,1/2021 to 4/2021,0.00936768149882904
+Ancestry,3,Ancestry.com,2021-02-21,1/2021 to 4/2021,0.00702576112412178
+Ideal Agent,3,Idealagent.com,2021-04-06,1/2021 to 4/2021,0.00702576112412178
+Coventry Direct,3,Coventry Direct,2021-02-27,1/2021 to 4/2021,0.00702576112412178
+PureTalk,3,PureTalk,2021-02-22,1/2021 to 4/2021,0.00702576112412178
+LeafFilter,3,LeafFilter,2021-02-12,1/2021 to 4/2021,0.00702576112412178
+Consumer Cellular,3,Consumer Cellular,2021-03-26,1/2021 to 4/2021,0.00702576112412178
+Novo Nordisk,3,"Rybelsus, Ozempic",2021-04-06,1/2021 to 4/2021,0.00702576112412178
+ADT,3,ADT,2021-02-18,1/2021 to 4/2021,0.00702576112412178
+Americas Best,3,Americas Best,2021-02-20,1/2021 to 4/2021,0.00702576112412178
+Force Factor,3,Force Factor,2021-03-11,1/2021 to 4/2021,0.00702576112412178
+NortonLifeLock,3,"Norton360, NortonLifeLock",2021-04-06,1/2021 to 4/2021,0.00702576112412178
+Weight Watchers,3,Weight Watchers Reimagined,2021-03-19,1/2021 to 4/2021,0.00702576112412178
+Priceline,3,Priceline,2021-03-28,1/2021 to 4/2021,0.00702576112412178
+Procter and Gamble,3,"Febreze, Pepto Bismol, Oral B",2021-04-03,1/2021 to 4/2021,0.00702576112412178
+Amerisave Mortgage Company,3,"Amerisave Mortgage, Amerisave Mortgage Company",2021-02-17,1/2021 to 4/2021,0.00702576112412178
+Comcast,3,Comcast Business,2021-03-16,1/2021 to 4/2021,0.00702576112412178
+Quincy Bioscience,3,Prevagen,2021-03-14,1/2021 to 4/2021,0.00702576112412178
+Kings Hawaiian Bread,2,Kings Hawaiian Bread,2021-03-21,1/2021 to 4/2021,0.00468384074941452
+Glowforge,2,Glowforge,2021-03-18,1/2021 to 4/2021,0.00468384074941452
+Dine Brands Global,2,IHOP,2021-02-18,1/2021 to 4/2021,0.00468384074941452
+Voya Financial,2,Voya Financial,2021-02-27,1/2021 to 4/2021,0.00468384074941452
+Redex Industries,2,Udderly Smooth,2021-02-11,1/2021 to 4/2021,0.00468384074941452
+Purple,2,Purple Mattress,2021-02-13,1/2021 to 4/2021,0.00468384074941452
+University of Phoenix,2,University of Phoenix,2021-03-14,1/2021 to 4/2021,0.00468384074941452
+Rosland Capital,2,Rosland Capital,2021-01-25,1/2021 to 4/2021,0.00468384074941452
+Dynamo Emergency Band Radio,2,Dynamo Emergency Band Radio,2021-02-15,1/2021 to 4/2021,0.00468384074941452
+Remax,2,Remax,2021-02-14,1/2021 to 4/2021,0.00468384074941452
+Jersey Mikes,2,Jersey Mikes,2021-03-04,1/2021 to 4/2021,0.00468384074941452
+Lovesac,2,Lovesac,2021-04-03,1/2021 to 4/2021,0.00468384074941452
+Progressive,2,Progressive Insurance,2021-03-03,1/2021 to 4/2021,0.00468384074941452
+Bissel,2,Bissel Vacuums,2021-03-20,1/2021 to 4/2021,0.00468384074941452
+Tempur-pedic,2,Tempur-pedic,2021-03-14,1/2021 to 4/2021,0.00468384074941452
+Colonial Penn,2,995 Plan,2021-04-07,1/2021 to 4/2021,0.00468384074941452
+TaxSlayer,2,TaxSlayer,2021-02-28,1/2021 to 4/2021,0.00468384074941452
+Proactiv,2,Proactiv,2021-03-21,1/2021 to 4/2021,0.00468384074941452
+Dish TV,2,Dish TV,2021-03-21,1/2021 to 4/2021,0.00468384074941452
+HomeTitleLock,2,"HomeTitleLock, HomeTitleLock.com",2021-03-22,1/2021 to 4/2021,0.00468384074941452
+SingleCare,2,SingleCare,2021-03-14,1/2021 to 4/2021,0.00468384074941452
+LoanDepot,2,LoanDepot,2021-03-04,1/2021 to 4/2021,0.00468384074941452
+Subway,2,Subway,2021-02-01,1/2021 to 4/2021,0.00468384074941452
+Ageless Male,2,Ageless Male,2021-04-03,1/2021 to 4/2021,0.00468384074941452
+VisionWorks,2,VisionWorks,2021-02-15,1/2021 to 4/2021,0.00468384074941452
+Hero,2,Hero Pill Dispensor,2021-04-05,1/2021 to 4/2021,0.00468384074941452
+Idaho Potatoes,2,Idaho Potatoes,2021-03-18,1/2021 to 4/2021,0.00468384074941452
+Goldwater Law Firm,2,Goldwater Law Firm,2021-03-17,1/2021 to 4/2021,0.00468384074941452
+John Deere,2,"John Deere Tractors, John Deere",2021-03-22,1/2021 to 4/2021,0.00468384074941452
+Sling,2,Sling,2021-02-14,1/2021 to 4/2021,0.00468384074941452
+Miracle-Ear,2,Miracle-Ear,2021-03-26,1/2021 to 4/2021,0.00468384074941452
+Carfax,2,carfax.com,2021-02-12,1/2021 to 4/2021,0.00468384074941452
+AT&T,2,AT&T Wireless,2021-02-01,1/2021 to 4/2021,0.00468384074941452
+United Healthcare,2,Medicare Advantage,2021-02-17,1/2021 to 4/2021,0.00468384074941452
+Arcadia Consumer Healthcare,2,Kaopectate,2021-02-17,1/2021 to 4/2021,0.00468384074941452
+Sleep Number,2,Sleep Number,2021-02-17,1/2021 to 4/2021,0.00468384074941452
+X-Chair,2,X-Chair,2021-03-17,1/2021 to 4/2021,0.00468384074941452
+ZipRecruiter,2,ZipRecruiter,2021-03-21,1/2021 to 4/2021,0.00468384074941452
+Transitions Lenses,2,Transitions Signature,2021-02-28,1/2021 to 4/2021,0.00468384074941452
+Medicare Coverage Helpline,2,Medicare Coverage Helpline,2021-01-29,1/2021 to 4/2021,0.00468384074941452
+SurePayroll,2,SurePayroll,2021-02-04,1/2021 to 4/2021,0.00468384074941452
+TrueCar,2,TrueCar,2021-02-13,1/2021 to 4/2021,0.00468384074941452
+Progressive Insurance,2,Progressive Insurance,2021-03-29,1/2021 to 4/2021,0.00468384074941452
+Built Bar,2,Built Bar,2021-02-06,1/2021 to 4/2021,0.00468384074941452
+Robinhood,2,Robinhood,2021-03-20,1/2021 to 4/2021,0.00468384074941452
+Amphastar,2,"Primatine Mist, Primatene Mist",2021-03-30,1/2021 to 4/2021,0.00468384074941452
