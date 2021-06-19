@@ -25,7 +25,7 @@ Sampling here means that instead of watching and listing every advertisement, yo
 
 For example if you only take samples in the morning, you may completely miss advertisers who run ads at night. And if you only take samples once per week, then it is going to be a very long time before you can reliably estimate who the top advertisers are on the channel.
 
-Therefore you need to be systematic and consistent in your sampling. To start, we recommend daily 15 minutes samples spread evenly between morning, afternoon, and evening. After a couple months you could decrease this to every other day. Eventually you will come to know what minutes ads are generally shown in a given hour to make your time use even more efficient.
+Therefore you need to be systematic and consistent in your sampling. To start, we recommend one daily 15 minutes sample dispersed evenly between morning, afternoon, and evening times through each month. After a couple months you could decrease this to every other day. Eventually you will come to know what minutes ads are generally shown in a given hour to make your time use even more efficient.
 
 ### Decide on spreadsheet software: Local or online?
 You will manually collect your data in a spreadsheet using our templates. There are many options for what spreadsheet software can be used and how. Only two approaches will be described here, one illustrating a use case where a single individual is conducting all sampling for a channel. And a second illustrating a use case where multiple individuals are collaborating on collecting samples. 
