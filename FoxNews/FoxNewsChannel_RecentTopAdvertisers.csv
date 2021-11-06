@@ -1,107 +1,106 @@
 CompanyName,AdsSampled,ProductsAdvertised,LastObserved,TimeSpan,EstFreqProminence,Fortune500,Global500,Sector,Size
-Balance of Nature,34,"Veggies, Balance of Nature, Fruits, Fruits and Veggies",2021-10-18,8/2021 to 11/2021,7.439824945295405,,,Supplements & Weight Loss,Other Companies
-GlaxoSmithKline,15,"Centrum, Tums, Preperation H, Trellegy, Nucala, Emergency, Voltaren",2021-10-30,8/2021 to 11/2021,3.282275711159737,,282.0,Healthcare,Global 500 / Fortune 1000
-Liberty Mutual,15,"Liberty Mutual, Liberty Mutual Insurance, Relief Factor",2021-10-27,8/2021 to 11/2021,3.282275711159737,77.0,278.0,Insurance,Global 500 / Fortune 1000
-Nutrisystem,14,"Nutrisystem, Nutrisystem for Men, Nutrisystem MaxT, Nutrisystem Men",2021-10-20,8/2021 to 11/2021,3.063457330415755,,,Supplements & Weight Loss,Other Companies
-NewDayUSA,13,NewDayUSA,2021-10-28,8/2021 to 11/2021,2.8446389496717726,,,Insurance,Other Companies
-General Motors,12,"Chevrolet, Buick SUV, GMC",2021-10-15,8/2021 to 11/2021,2.62582056892779,18.0,40.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-Relief Factor,12,Relief Factor,2021-11-04,8/2021 to 11/2021,2.62582056892779,,,Healthcare,Other Companies
-Angi,9,Angi,2021-10-04,8/2021 to 11/2021,1.9693654266958425,,,Household Services,Other Companies
-Ideal Agent,8,Ideal Agent,2021-10-18,8/2021 to 11/2021,1.75054704595186,,,Ecommerce & Software,Other Companies
-MRHFM,8,Mesobook,2021-10-28,8/2021 to 11/2021,1.75054704595186,,,Other,Other Companies
-Ford Motor Company,8,Lincoln,2021-10-29,8/2021 to 11/2021,1.75054704595186,12.0,31.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-Safelite Group,8,"Safelite AutoGlass, Safelite",2021-10-26,8/2021 to 11/2021,1.75054704595186,,,Motor Vehicles & Automotive,Other Companies
-Sleep Number,7,Sleep Number,2021-10-26,8/2021 to 11/2021,1.5317286652078774,,,Household & Food Products,Other Companies
-LeafFilter,6,LeafFilter,2021-10-08,8/2021 to 11/2021,1.312910284463895,,,Household Services,Other Companies
-Abbott Laboratories ,6,"Ensure, Abbott, FreeStyle Libre",2021-10-09,8/2021 to 11/2021,1.312910284463895,104.0,393.0,Healthcare,Global 500 / Fortune 1000
-Dine Brands,6,Applebees,2021-09-03,8/2021 to 11/2021,1.312910284463895,,,Retail & Restaurants,Other Companies
-X-Chair,6,"X-Chair, Elemax",2021-10-22,8/2021 to 11/2021,1.312910284463895,,,Household & Food Products,Other Companies
-JG Wentworth,6,JG Wentworth,2021-10-24,8/2021 to 11/2021,1.312910284463895,,,Other,Other Companies
-Old Dominion Freight,6,Old Dominion Freight,2021-10-20,8/2021 to 11/2021,1.312910284463895,634.0,,Other,Global 500 / Fortune 1000
-Verizon,6,"Verizon 5G, Verizon Wireless, Verizon",2021-09-22,8/2021 to 11/2021,1.312910284463895,20.0,44.0,Telecommunications,Global 500 / Fortune 1000
-Golden Corral,6,Golden Corral,2021-11-02,8/2021 to 11/2021,1.312910284463895,,,Retail & Restaurants,Other Companies
-Indeed,5,"Indeed, Indeed.com",2021-09-30,8/2021 to 11/2021,1.0940919037199124,,,Business Services,Other Companies
-Johnson and Johnson,5,"Tremfya, Neutrogena, Lactaid",2021-10-17,8/2021 to 11/2021,1.0940919037199124,35.0,104.0,Healthcare,Global 500 / Fortune 1000
-MyPillow,5,"MyPillow Mattress Topper, MyPillow Sheets, MyPillow, MyPillow Premium",2021-10-30,8/2021 to 11/2021,1.0940919037199124,,,Household & Food Products,Other Companies
-Novartis,5,"Xiidra, Cosentyx",2021-10-11,8/2021 to 11/2021,1.0940919037199124,,225.0,Healthcare,Global 500 / Fortune 1000
-Amerisave Mortgage,5,Amerisave Mortgage,2021-10-31,8/2021 to 11/2021,1.0940919037199124,,,Financial,Other Companies
-Force Factor,5,"Alpha King , Alpha King, Alpha King Immortal, Force Factor",2021-10-31,8/2021 to 11/2021,1.0940919037199124,,,Supplements & Weight Loss,Other Companies
-Eargo,5,Eargo,2021-10-14,8/2021 to 11/2021,1.0940919037199124,,,Healthcare,Other Companies
-Coventry Direct,5,Coventry Direct,2021-10-28,8/2021 to 11/2021,1.0940919037199124,,,Financial,Other Companies
-Kraft Heinz Company,5,"Kraft Cheese, Ore Ida, Classico, Planters Mixed Nuts",2021-09-12,8/2021 to 11/2021,1.0940919037199124,122.0,,Household & Food Products,Global 500 / Fortune 1000
-The Farmers Dog,5,The Farmers Dog,2021-10-17,8/2021 to 11/2021,1.0940919037199124,,,Household & Food Products,Other Companies
-Tractor Supply Company,4,Tractor Supply Company,2021-10-18,8/2021 to 11/2021,0.87527352297593,380.0,,Retail & Restaurants,Global 500 / Fortune 1000
-Medicare Helpline,4,Medicare Helpline,2021-10-31,8/2021 to 11/2021,0.87527352297593,,,Healthcare,Other Companies
-PureTalk,4,PureTalk,2021-11-02,8/2021 to 11/2021,0.87527352297593,,,Telecommunications,Other Companies
-MoonPod,4,MoonPod,2021-09-24,8/2021 to 11/2021,0.87527352297593,,,Household & Food Products,Other Companies
-ReputationDefender,4,ReputationDefender,2021-11-04,8/2021 to 11/2021,0.87527352297593,,,Business Services,Other Companies
-Made In,4,Made In Cookware,2021-10-10,8/2021 to 11/2021,0.87527352297593,,,Household & Food Products,Other Companies
-AliveCor,4,KardiaMobile,2021-11-04,8/2021 to 11/2021,0.87527352297593,,,Healthcare,Other Companies
-Sling,4,Sling,2021-11-02,8/2021 to 11/2021,0.87527352297593,,,Telecommunications,Other Companies
-Creative Planning,4,Creative Planning,2021-09-27,8/2021 to 11/2021,0.87527352297593,,,Financial,Other Companies
-Ancestry,4,"Ancestry, Ancestry.com",2021-10-17,8/2021 to 11/2021,0.87527352297593,,,Ecommerce & Software,Other Companies
-ADT,4,"ADT, ADT ",2021-08-31,8/2021 to 11/2021,0.87527352297593,541.0,,Household Services,Global 500 / Fortune 1000
-Facebook,4,"Meta, Facebook Privacy, Facebook Groups",2021-11-04,8/2021 to 11/2021,0.87527352297593,34.0,86.0,Ecommerce & Software,Global 500 / Fortune 1000
-Farmers Insurance,3,Farmers Insurance,2021-10-13,8/2021 to 11/2021,0.6564551422319475,256.0,,Insurance,Global 500 / Fortune 1000
-Sandals,3,Sandals,2021-10-02,8/2021 to 11/2021,0.6564551422319475,,,Other,Other Companies
-LemonAid Health,3,LemonAid Health,2021-10-11,8/2021 to 11/2021,0.6564551422319475,,,Healthcare,Venture Funded
-Brainly,3,Brainly,2021-10-13,8/2021 to 11/2021,0.6564551422319475,,,Ecommerce & Software,Other Companies
-Dish TV,3,Dish TV,2021-10-28,8/2021 to 11/2021,0.6564551422319475,251.0,,Telecommunications,Global 500 / Fortune 1000
-ZipRecruiter,3,ZipRecruiter,2021-10-28,8/2021 to 11/2021,0.6564551422319475,,,Business Services,Venture Funded
-Bayer,3,"Aleve, AleveX, One a Day",2021-09-16,8/2021 to 11/2021,0.6564551422319475,,214.0,Healthcare,Global 500 / Fortune 1000
-Boxed,3,Boxed,2021-10-22,8/2021 to 11/2021,0.6564551422319475,,,Ecommerce & Software,Venture Funded
-Consumer Cellular,3,Consumer Cellular,2021-10-22,8/2021 to 11/2021,0.6564551422319475,,,Telecommunications,Other Companies
-Inspire Brands,3,Arbys,2021-10-18,8/2021 to 11/2021,0.6564551422319475,,,Retail & Restaurants,Other Companies
-University of Phoenix,3,University of Phoenix,2021-10-16,8/2021 to 11/2021,0.6564551422319475,,,Other,Other Companies
-NordicTrack,3,NordicTrack,2021-09-26,8/2021 to 11/2021,0.6564551422319475,,,Household & Food Products,Other Companies
-Amazon,3,"Ring, Amazon",2021-09-14,8/2021 to 11/2021,0.6564551422319475,2.0,9.0,Ecommerce & Software,Global 500 / Fortune 1000
-ClearChoice,3,ClearChoice,2021-10-13,8/2021 to 11/2021,0.6564551422319475,,,Healthcare,Other Companies
-Quincy Bioscience,3,Prevagen,2021-10-11,8/2021 to 11/2021,0.6564551422319475,,,Healthcare,Other Companies
-RockAuto,3,RockAuto,2021-10-18,8/2021 to 11/2021,0.6564551422319475,,,Ecommerce & Software,Other Companies
-Vitrazza,3,Vitrazza,2021-10-08,8/2021 to 11/2021,0.6564551422319475,,,Household & Food Products,Other Companies
-GoHealth,3,GoMedicare,2021-11-02,8/2021 to 11/2021,0.6564551422319475,,,Healthcare,Other Companies
-TD Ameritrade,3,TD Ameritrade,2021-10-09,8/2021 to 11/2021,0.6564551422319475,509.0,,Financial,Global 500 / Fortune 1000
-AbbVie,3,"Humira, Rinvoq",2021-10-18,8/2021 to 11/2021,0.6564551422319475,99.0,378.0,Healthcare,Global 500 / Fortune 1000
-Harry and David,3,Harry and David,2021-09-26,8/2021 to 11/2021,0.6564551422319475,,,Household & Food Products,Other Companies
-Honeywell,3,"Honeywell, Honeywell Forge",2021-10-23,8/2021 to 11/2021,0.6564551422319475,94.0,374.0,Hardware and Machinery,Global 500 / Fortune 1000
-Pella,2,Pella,2021-10-29,8/2021 to 11/2021,0.437636761487965,,,Household Services,Other Companies
-FindingTruePeace,2,FindingTruePeace,2021-11-04,8/2021 to 11/2021,0.437636761487965,,,Other,Other Companies
-Zoetis Petcare,2,Simparica,2021-09-26,8/2021 to 11/2021,0.437636761487965,,,Household & Food Products,Other Companies
-CrowdStrike,2,CrowdStrike,2021-10-18,8/2021 to 11/2021,0.437636761487965,,,Ecommerce & Software,Venture Funded
-VSP,2,Vision Care,2021-10-28,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Transitions Lenses,2,Transitions Lenses,2021-10-09,8/2021 to 11/2021,0.437636761487965,,,Household & Food Products,Other Companies
-Glowforge,2,Glowforge,2021-08-30,8/2021 to 11/2021,0.437636761487965,,,Household & Food Products,Other Companies
-Schiff Vitamins,2,Neuriva,2021-09-11,8/2021 to 11/2021,0.437636761487965,,,Supplements & Weight Loss,Other Companies
-Essilor,2,Varilux,2021-08-28,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Best Western,2,Best Western,2021-09-13,8/2021 to 11/2021,0.437636761487965,,,Other,Other Companies
-Daimler AG,2,Mercedes C Class,2021-10-18,8/2021 to 11/2021,0.437636761487965,,20.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-T-Mobile,2,"T-Mobile For Buisness, T-Mobile for Business",2021-10-02,8/2021 to 11/2021,0.437636761487965,,,Telecommunications,Other Companies
-Teva,2,Austedo,2021-10-01,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Greenlight,2,"Greenlight, Greenlight Card",2021-09-07,8/2021 to 11/2021,0.437636761487965,,,Financial,Other Companies
-Playtika,2,Caesars Slots,2021-09-09,8/2021 to 11/2021,0.437636761487965,,,Other,Other Companies
-Humana,2,Humana Medicare,2021-10-26,8/2021 to 11/2021,0.437636761487965,73.0,,Healthcare,Global 500 / Fortune 1000
-Hisamitsu,2,Salonpas,2021-08-12,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Procter and Gamble,2,"DayQuil, Crest",2021-09-18,8/2021 to 11/2021,0.437636761487965,50.0,156.0,Household & Food Products,Global 500 / Fortune 1000
-Charles Schwab,2,"Charles Schwab, Schwab Intelligent Income",2021-09-26,8/2021 to 11/2021,0.437636761487965,251.0,,Financial,Global 500 / Fortune 1000
-Neurocrine,2,Ingrezza,2021-09-01,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Amgen,2,Otezla,2021-09-16,8/2021 to 11/2021,0.437636761487965,135.0,,Healthcare,Global 500 / Fortune 1000
-Citigroup,2,Citi,2021-08-12,8/2021 to 11/2021,0.437636761487965,33.0,82.0,Financial,Global 500 / Fortune 1000
-23andme,2,23andme,2021-10-24,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Venture Funded
-ATT,2,ATT Wireless,2021-09-25,8/2021 to 11/2021,0.437636761487965,,11.0,Telecommunications,Global 500 / Fortune 1000
-Aspen Dental,2,Aspen Dental,2021-11-04,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Rocket Mortgage,2,Rocket Mortgage,2021-09-06,8/2021 to 11/2021,0.437636761487965,194.0,,Financial,Global 500 / Fortune 1000
-Stellantis,2,Jeep,2021-10-23,8/2021 to 11/2021,0.437636761487965,,,Motor Vehicles & Automotive,Other Companies
-Ecolab,2,Ecolab,2021-09-03,8/2021 to 11/2021,0.437636761487965,,,Business Services,Other Companies
-Geely,2,Polestar,2021-08-23,8/2021 to 11/2021,0.437636761487965,,243.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-NRIA,2,NRIA,2021-10-14,8/2021 to 11/2021,0.437636761487965,,,Financial,Other Companies
-Boehringer Ingelheim,2,Jardiance,2021-09-07,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Global 500 / Fortune 1000
-USAA,2,USAA,2021-08-20,8/2021 to 11/2021,0.437636761487965,94.0,355.0,Insurance,Global 500 / Fortune 1000
-SimpliSafe,2,SimpliSafe,2021-10-26,8/2021 to 11/2021,0.437636761487965,,,Ecommerce & Software,Venture Funded
-Stihl,2,Stihl Chainsaws,2021-10-26,8/2021 to 11/2021,0.437636761487965,,,Hardware and Machinery,Other Companies
-Walmart,2,Walmart,2021-09-26,8/2021 to 11/2021,0.437636761487965,1.0,1.0,Retail & Restaurants,Global 500 / Fortune 1000
-Paychex,2,Paychex,2021-09-28,8/2021 to 11/2021,0.437636761487965,617.0,,Business Services,Global 500 / Fortune 1000
-Simplisafe,2,Simplisafe,2021-09-21,8/2021 to 11/2021,0.437636761487965,,,Household Services,Other Companies
-M1 Finance,2,M1 Finance,2021-10-29,8/2021 to 11/2021,0.437636761487965,,,Financial,Venture Funded
-New Vitality,2,"Ageless Male, Super Beta Prostate",2021-08-28,8/2021 to 11/2021,0.437636761487965,,,Supplements & Weight Loss,Other Companies
-Omaha Steaks,2,Omaha Steaks,2021-09-11,8/2021 to 11/2021,0.437636761487965,,,Healthcare,Other Companies
-Kajabi,2,Kajabi,2021-09-24,8/2021 to 11/2021,0.437636761487965,,,Ecommerce & Software,Venture Funded
+Balance of Nature,37,"Veggies, Fruits, Balance of Nature, Fruits and Veggies",2021-11-06,8/2021 to 11/2021,8.222222222222223,,,Supplements & Weight Loss,Other Companies
+Nutrisystem,14,"Nutrisystem, Nutrisystem for Men, Nutrisystem MaxT, Nutrisystem Men",2021-10-20,8/2021 to 11/2021,3.111111111111111,,,Supplements & Weight Loss,Other Companies
+GlaxoSmithKline,14,"Centrum, Tums, Preperation H, Trellegy, Nucala, Emergency",2021-10-30,8/2021 to 11/2021,3.111111111111111,,282.0,Healthcare,Global 500 / Fortune 1000
+Liberty Mutual,13,"Liberty Mutual, Liberty Mutual Insurance",2021-10-27,8/2021 to 11/2021,2.888888888888889,77.0,278.0,Insurance,Global 500 / Fortune 1000
+NewDayUSA,13,NewDayUSA,2021-10-28,8/2021 to 11/2021,2.888888888888889,,,Insurance,Other Companies
+Relief Factor,11,Relief Factor,2021-11-04,8/2021 to 11/2021,2.4444444444444446,,,Healthcare,Other Companies
+General Motors,10,"Chevrolet, Buick SUV, GMC",2021-10-15,8/2021 to 11/2021,2.2222222222222223,18.0,40.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Angi,9,Angi,2021-10-04,8/2021 to 11/2021,2.0,,,Household Services,Other Companies
+Ideal Agent,8,Ideal Agent,2021-10-18,8/2021 to 11/2021,1.7777777777777777,,,Ecommerce & Software,Other Companies
+Safelite Group,8,"Safelite AutoGlass, Safelite",2021-10-26,8/2021 to 11/2021,1.7777777777777777,,,Motor Vehicles & Automotive,Other Companies
+MRHFM,8,Mesobook,2021-10-28,8/2021 to 11/2021,1.7777777777777777,,,Other,Other Companies
+Ford Motor Company,8,Lincoln,2021-10-29,8/2021 to 11/2021,1.7777777777777777,12.0,31.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Sleep Number,7,Sleep Number,2021-10-26,8/2021 to 11/2021,1.5555555555555556,,,Household & Food Products,Other Companies
+MyPillow,7,"MyPillow, MyPillow Mattress Topper, MyPillow Sheets, MyPillow Premium",2021-11-06,8/2021 to 11/2021,1.5555555555555556,,,Household & Food Products,Other Companies
+Force Factor,6,"Alpha King Immortal, Alpha King , Alpha King, Force Factor",2021-11-06,8/2021 to 11/2021,1.3333333333333335,,,Supplements & Weight Loss,Other Companies
+Old Dominion Freight,6,Old Dominion Freight,2021-10-20,8/2021 to 11/2021,1.3333333333333335,634.0,,Other,Global 500 / Fortune 1000
+Golden Corral,6,Golden Corral,2021-11-02,8/2021 to 11/2021,1.3333333333333335,,,Retail & Restaurants,Other Companies
+LeafFilter,6,LeafFilter,2021-10-08,8/2021 to 11/2021,1.3333333333333335,,,Household Services,Other Companies
+Verizon,6,"Verizon 5G, Verizon Wireless, Verizon",2021-09-22,8/2021 to 11/2021,1.3333333333333335,20.0,44.0,Telecommunications,Global 500 / Fortune 1000
+The Farmers Dog,5,The Farmers Dog,2021-10-17,8/2021 to 11/2021,1.1111111111111112,,,Household & Food Products,Other Companies
+Amerisave Mortgage,5,Amerisave Mortgage,2021-10-31,8/2021 to 11/2021,1.1111111111111112,,,Financial,Other Companies
+Johnson and Johnson,5,"Tremfya, Neutrogena, Lactaid",2021-10-17,8/2021 to 11/2021,1.1111111111111112,35.0,104.0,Healthcare,Global 500 / Fortune 1000
+X-Chair,5,"X-Chair, Elemax",2021-10-22,8/2021 to 11/2021,1.1111111111111112,,,Household & Food Products,Other Companies
+Coventry Direct,5,Coventry Direct,2021-10-28,8/2021 to 11/2021,1.1111111111111112,,,Financial,Other Companies
+Indeed,5,"Indeed, Indeed.com",2021-09-30,8/2021 to 11/2021,1.1111111111111112,,,Business Services,Other Companies
+Eargo,5,Eargo,2021-10-14,8/2021 to 11/2021,1.1111111111111112,,,Healthcare,Other Companies
+Kraft Heinz Company,5,"Kraft Cheese, Ore Ida, Classico, Planters Mixed Nuts",2021-09-12,8/2021 to 11/2021,1.1111111111111112,122.0,,Household & Food Products,Global 500 / Fortune 1000
+JG Wentworth,5,JG Wentworth,2021-10-24,8/2021 to 11/2021,1.1111111111111112,,,Other,Other Companies
+Novartis,5,"Xiidra, Cosentyx",2021-10-11,8/2021 to 11/2021,1.1111111111111112,,225.0,Healthcare,Global 500 / Fortune 1000
+Creative Planning,4,Creative Planning,2021-09-27,8/2021 to 11/2021,0.8888888888888888,,,Financial,Other Companies
+ReputationDefender,4,ReputationDefender,2021-11-04,8/2021 to 11/2021,0.8888888888888888,,,Business Services,Other Companies
+Tractor Supply Company,4,Tractor Supply Company,2021-10-18,8/2021 to 11/2021,0.8888888888888888,380.0,,Retail & Restaurants,Global 500 / Fortune 1000
+Made In,4,Made In Cookware,2021-10-10,8/2021 to 11/2021,0.8888888888888888,,,Household & Food Products,Other Companies
+PureTalk,4,PureTalk,2021-11-02,8/2021 to 11/2021,0.8888888888888888,,,Telecommunications,Other Companies
+AliveCor,4,KardiaMobile,2021-11-04,8/2021 to 11/2021,0.8888888888888888,,,Healthcare,Other Companies
+Dine Brands,4,Applebees,2021-09-03,8/2021 to 11/2021,0.8888888888888888,,,Retail & Restaurants,Other Companies
+Sling,4,Sling,2021-11-02,8/2021 to 11/2021,0.8888888888888888,,,Telecommunications,Other Companies
+Medicare Helpline,4,Medicare Helpline,2021-10-31,8/2021 to 11/2021,0.8888888888888888,,,Healthcare,Other Companies
+MoonPod,4,MoonPod,2021-09-24,8/2021 to 11/2021,0.8888888888888888,,,Household & Food Products,Other Companies
+ADT,4,"ADT, ADT ",2021-08-31,8/2021 to 11/2021,0.8888888888888888,541.0,,Household Services,Global 500 / Fortune 1000
+Ancestry,4,"Ancestry, Ancestry.com",2021-10-17,8/2021 to 11/2021,0.8888888888888888,,,Ecommerce & Software,Other Companies
+Facebook,4,"Meta, Facebook Privacy, Facebook Groups",2021-11-04,8/2021 to 11/2021,0.8888888888888888,34.0,86.0,Ecommerce & Software,Global 500 / Fortune 1000
+Abbott Laboratories ,4,"Ensure, Abbott",2021-10-09,8/2021 to 11/2021,0.8888888888888888,104.0,393.0,Healthcare,Global 500 / Fortune 1000
+Dish TV,3,Dish TV,2021-10-28,8/2021 to 11/2021,0.6666666666666667,251.0,,Telecommunications,Global 500 / Fortune 1000
+TD Ameritrade,3,TD Ameritrade,2021-10-09,8/2021 to 11/2021,0.6666666666666667,509.0,,Financial,Global 500 / Fortune 1000
+Consumer Cellular,3,Consumer Cellular,2021-10-22,8/2021 to 11/2021,0.6666666666666667,,,Telecommunications,Other Companies
+Vitrazza,3,Vitrazza,2021-10-08,8/2021 to 11/2021,0.6666666666666667,,,Household & Food Products,Other Companies
+LemonAid Health,3,LemonAid Health,2021-10-11,8/2021 to 11/2021,0.6666666666666667,,,Healthcare,Venture Funded
+University of Phoenix,3,University of Phoenix,2021-10-16,8/2021 to 11/2021,0.6666666666666667,,,Other,Other Companies
+AbbVie,3,"Humira, Rinvoq",2021-10-18,8/2021 to 11/2021,0.6666666666666667,99.0,378.0,Healthcare,Global 500 / Fortune 1000
+Honeywell,3,"Honeywell, Honeywell Forge",2021-10-23,8/2021 to 11/2021,0.6666666666666667,94.0,374.0,Hardware and Machinery,Global 500 / Fortune 1000
+RockAuto,3,RockAuto,2021-10-18,8/2021 to 11/2021,0.6666666666666667,,,Ecommerce & Software,Other Companies
+Bayer,3,"Aleve, AleveX, One a Day",2021-09-16,8/2021 to 11/2021,0.6666666666666667,,214.0,Healthcare,Global 500 / Fortune 1000
+Farmers Insurance,3,Farmers Insurance,2021-10-13,8/2021 to 11/2021,0.6666666666666667,256.0,,Insurance,Global 500 / Fortune 1000
+ClearChoice,3,ClearChoice,2021-10-13,8/2021 to 11/2021,0.6666666666666667,,,Healthcare,Other Companies
+Inspire Brands,3,Arbys,2021-10-18,8/2021 to 11/2021,0.6666666666666667,,,Retail & Restaurants,Other Companies
+Brainly,3,Brainly,2021-10-13,8/2021 to 11/2021,0.6666666666666667,,,Ecommerce & Software,Other Companies
+Sandals,3,Sandals,2021-10-02,8/2021 to 11/2021,0.6666666666666667,,,Other,Other Companies
+NordicTrack,3,NordicTrack,2021-09-26,8/2021 to 11/2021,0.6666666666666667,,,Household & Food Products,Other Companies
+Rocket Mortgage,3,Rocket Mortgage,2021-11-06,8/2021 to 11/2021,0.6666666666666667,194.0,,Financial,Global 500 / Fortune 1000
+Quincy Bioscience,3,Prevagen,2021-10-11,8/2021 to 11/2021,0.6666666666666667,,,Healthcare,Other Companies
+Amazon,3,"Ring, Amazon",2021-09-14,8/2021 to 11/2021,0.6666666666666667,2.0,9.0,Ecommerce & Software,Global 500 / Fortune 1000
+ZipRecruiter,3,ZipRecruiter,2021-10-28,8/2021 to 11/2021,0.6666666666666667,,,Business Services,Venture Funded
+Harry and David,3,Harry and David,2021-09-26,8/2021 to 11/2021,0.6666666666666667,,,Household & Food Products,Other Companies
+GoHealth,3,GoMedicare,2021-11-02,8/2021 to 11/2021,0.6666666666666667,,,Healthcare,Other Companies
+Boxed,3,Boxed,2021-10-22,8/2021 to 11/2021,0.6666666666666667,,,Ecommerce & Software,Venture Funded
+Aspen Dental,2,Aspen Dental,2021-11-04,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+NRIA,2,NRIA,2021-10-14,8/2021 to 11/2021,0.4444444444444444,,,Financial,Other Companies
+Humana,2,Humana Medicare,2021-10-26,8/2021 to 11/2021,0.4444444444444444,73.0,,Healthcare,Global 500 / Fortune 1000
+Walmart,2,Walmart,2021-09-26,8/2021 to 11/2021,0.4444444444444444,1.0,1.0,Retail & Restaurants,Global 500 / Fortune 1000
+Pella,2,Pella,2021-10-29,8/2021 to 11/2021,0.4444444444444444,,,Household Services,Other Companies
+Geely,2,Polestar,2021-08-23,8/2021 to 11/2021,0.4444444444444444,,243.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Omaha Steaks,2,Omaha Steaks,2021-09-11,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+Simplisafe,2,Simplisafe,2021-09-21,8/2021 to 11/2021,0.4444444444444444,,,Household Services,Other Companies
+Kajabi,2,Kajabi,2021-09-24,8/2021 to 11/2021,0.4444444444444444,,,Ecommerce & Software,Venture Funded
+Procter and Gamble,2,"DayQuil, Crest",2021-09-18,8/2021 to 11/2021,0.4444444444444444,50.0,156.0,Household & Food Products,Global 500 / Fortune 1000
+Citigroup,2,Citi,2021-08-12,8/2021 to 11/2021,0.4444444444444444,33.0,82.0,Financial,Global 500 / Fortune 1000
+VSP,2,Vision Care,2021-10-28,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+Schiff Vitamins,2,Neuriva,2021-09-11,8/2021 to 11/2021,0.4444444444444444,,,Supplements & Weight Loss,Other Companies
+USAA,2,USAA,2021-08-20,8/2021 to 11/2021,0.4444444444444444,94.0,355.0,Insurance,Global 500 / Fortune 1000
+Greenlight,2,"Greenlight, Greenlight Card",2021-09-07,8/2021 to 11/2021,0.4444444444444444,,,Financial,Other Companies
+T-Mobile,2,"T-Mobile For Buisness, T-Mobile for Business",2021-10-02,8/2021 to 11/2021,0.4444444444444444,,,Telecommunications,Other Companies
+Charles Schwab,2,"Charles Schwab, Schwab Intelligent Income",2021-09-26,8/2021 to 11/2021,0.4444444444444444,251.0,,Financial,Global 500 / Fortune 1000
+CrowdStrike,2,CrowdStrike,2021-10-18,8/2021 to 11/2021,0.4444444444444444,,,Ecommerce & Software,Venture Funded
+Teva,2,Austedo,2021-10-01,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+MHRFM,2,MesoBook,2021-11-05,8/2021 to 11/2021,0.4444444444444444,,,,
+New Vitality,2,"Ageless Male, Super Beta Prostate",2021-08-28,8/2021 to 11/2021,0.4444444444444444,,,Supplements & Weight Loss,Other Companies
+Best Western,2,Best Western,2021-09-13,8/2021 to 11/2021,0.4444444444444444,,,Other,Other Companies
+Paychex,2,Paychex,2021-09-28,8/2021 to 11/2021,0.4444444444444444,617.0,,Business Services,Global 500 / Fortune 1000
+Transitions Lenses,2,Transitions Lenses,2021-10-09,8/2021 to 11/2021,0.4444444444444444,,,Household & Food Products,Other Companies
+Neurocrine,2,Ingrezza,2021-09-01,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+Playtika,2,Caesars Slots,2021-09-09,8/2021 to 11/2021,0.4444444444444444,,,Other,Other Companies
+FindingTruePeace,2,FindingTruePeace,2021-11-04,8/2021 to 11/2021,0.4444444444444444,,,Other,Other Companies
+Stellantis,2,Jeep,2021-10-23,8/2021 to 11/2021,0.4444444444444444,,,Motor Vehicles & Automotive,Other Companies
+Amgen,2,Otezla,2021-09-16,8/2021 to 11/2021,0.4444444444444444,135.0,,Healthcare,Global 500 / Fortune 1000
+Stihl,2,Stihl Chainsaws,2021-10-26,8/2021 to 11/2021,0.4444444444444444,,,Hardware and Machinery,Other Companies
+23andme,2,23andme,2021-10-24,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Venture Funded
+Essilor,2,Varilux,2021-08-28,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Other Companies
+M1 Finance,2,M1 Finance,2021-10-29,8/2021 to 11/2021,0.4444444444444444,,,Financial,Venture Funded
+Daimler AG,2,Mercedes C Class,2021-10-18,8/2021 to 11/2021,0.4444444444444444,,20.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Boehringer Ingelheim,2,Jardiance,2021-09-07,8/2021 to 11/2021,0.4444444444444444,,,Healthcare,Global 500 / Fortune 1000
+SimpliSafe,2,SimpliSafe,2021-10-26,8/2021 to 11/2021,0.4444444444444444,,,Ecommerce & Software,Venture Funded
+Zoetis Petcare,2,Simparica,2021-09-26,8/2021 to 11/2021,0.4444444444444444,,,Household & Food Products,Other Companies
+ATT,2,ATT Wireless,2021-09-25,8/2021 to 11/2021,0.4444444444444444,,11.0,Telecommunications,Global 500 / Fortune 1000
+Glowforge,2,Glowforge,2021-08-30,8/2021 to 11/2021,0.4444444444444444,,,Household & Food Products,Other Companies
