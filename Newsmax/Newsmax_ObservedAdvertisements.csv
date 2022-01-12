@@ -1,1 +1,37 @@
-CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowNameCurallux,Capillus,10/11/21,Evening,Newsmax,Spicer and CoMyPillow,MyPillow,10/11/21,Evening,Newsmax,Spicer and CoHumana,Humana Medicare Advantage,10/11/21,Evening,Newsmax,Spicer and CoIdealAgent,IdealAgent,8/2/21,Afternoon,Newsmax,American AgendaVitrazza,Vitrazza Glass Chair Mat,8/2/21,Afternoon,Newsmax,American AgendaGOLO,GOLO.com,8/2/21,Afternoon,Newsmax,American AgendaBalance of Nature,Fruits and Veggies,7/12/21,Morning,Newsmax,Wake up AmericaGOLO,GOLO.com,7/12/21,Morning,Newsmax,Wake up AmericaAdaptive Health,Instaflex,7/12/21,Morning,Newsmax,Wake up AmericaRuffGreens,RuffGreens,7/12/21,Morning,Newsmax,Wake up AmericaNutramax,Cosequin,6/29/21,Afternoon,Newsmax,American AgendaNew Vitality,Ageless Male Max,6/29/21,Afternoon,Newsmax,American AgendaSoClean,SoClean,6/29/21,Afternoon,Newsmax,American AgendaMad Hungry,Spurtle,6/5/21,Evening,Newsmax,Special CoverageIdealAgent,IdealAgent,6/5/21,Evening,Newsmax,Special CoverageSilver Double Eagle,Silver Double Eagle,6/5/21,Evening,Newsmax,Special CoverageSleepASAP,NutriStrips,5/25/21,Morning,Newsmax,Wake up AmericaGenerac,PRWCell,5/25/21,Morning,Newsmax,Wake up AmericaMyPillow,MyPillow Mattress Topper,5/25/21,Morning,Newsmax,Wake up AmericaWaterpik,ToothBrushes,5/25/21,Morning,Newsmax,Wake up America
+CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+MyPillow,MyPillow Towels,1/12/22,Morning,Newsmax,Wake up America
+AstraZeneca,Breztri,1/12/22,Morning,Newsmax,Wake up America
+Interactive Brokers,IBKR,1/12/22,Morning,Newsmax,Wake up America
+DSE Healthcare Solutions,UrinoZinc,1/12/22,Morning,Newsmax,Wake up America
+Balance of Nature,Fruits and Veggies,11/15/21,Afternoon,Newsmax,Eric Bolling The Balance
+MyPillow,Cancel Culture Sale,11/15/21,Afternoon,Newsmax,Eric Bolling The Balance
+BlackMP,BlackMP,11/15/21,Afternoon,Newsmax,Eric Bolling The Balance
+Sekur,Sekur,10/26/21,Evening,Newsmax,Greg Kelly Reports
+DealDash,DealDash.com,10/26/21,Evening,Newsmax,Greg Kelly Reports
+Balance of Nature,Fruits and Veggies,10/26/21,Evening,Newsmax,Greg Kelly Reports
+Swiss America,Swiss America,10/26/21,Evening,Newsmax,Greg Kelly Reports
+Medicare Helpline,Medicare Helpline,10/19/21,Morning,Newsmax,Wake up America
+Balance of Nature,Fruits and Veggies,10/19/21,Morning,Newsmax,Wake up America
+MyPillow,MyPillow Mattress Topper,10/19/21,Morning,Newsmax,Wake up America
+MyPillow,MyPillow Sheets,10/17/21,Afternoon,Newsmax,Conversations with Nancy Brinker
+GoMedicare,GoMedicare,10/17/21,Afternoon,Newsmax,Conversations with Nancy Brinker
+Curallux,Capillus,10/11/21,Evening,Newsmax,Spicer and Co
+MyPillow,MyPillow,10/11/21,Evening,Newsmax,Spicer and Co
+Humana,Humana Medicare Advantage,10/11/21,Evening,Newsmax,Spicer and Co
+IdealAgent,IdealAgent,8/2/21,Afternoon,Newsmax,American Agenda
+Vitrazza,Vitrazza Glass Chair Mat,8/2/21,Afternoon,Newsmax,American Agenda
+GOLO,GOLO.com,8/2/21,Afternoon,Newsmax,American Agenda
+Balance of Nature,Fruits and Veggies,7/12/21,Morning,Newsmax,Wake up America
+GOLO,GOLO.com,7/12/21,Morning,Newsmax,Wake up America
+Adaptive Health,Instaflex,7/12/21,Morning,Newsmax,Wake up America
+RuffGreens,RuffGreens,7/12/21,Morning,Newsmax,Wake up America
+Nutramax,Cosequin,6/29/21,Afternoon,Newsmax,American Agenda
+New Vitality,Ageless Male Max,6/29/21,Afternoon,Newsmax,American Agenda
+SoClean,SoClean,6/29/21,Afternoon,Newsmax,American Agenda
+Mad Hungry,Spurtle,6/5/21,Evening,Newsmax,Special Coverage
+IdealAgent,IdealAgent,6/5/21,Evening,Newsmax,Special Coverage
+Silver Double Eagle,Silver Double Eagle,6/5/21,Evening,Newsmax,Special Coverage
+SleepASAP,NutriStrips,5/25/21,Morning,Newsmax,Wake up America
+Generac,PRWCell,5/25/21,Morning,Newsmax,Wake up America
+MyPillow,MyPillow Mattress Topper,5/25/21,Morning,Newsmax,Wake up America
+Waterpik,ToothBrushes,5/25/21,Morning,Newsmax,Wake up America
