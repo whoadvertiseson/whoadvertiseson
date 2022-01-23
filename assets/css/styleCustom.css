@@ -41,7 +41,8 @@
     }
 
     @media screen and (max-width: 720px) {
-      body {
-       word-wrap: !important normal;
+      .section {
+       word-wrap:normal;
+       width:94%;
       }
     }
