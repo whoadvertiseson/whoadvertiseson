@@ -34,7 +34,7 @@
       float: right
     }
 
-    @media screen and (max-width: 667px) {
+    @media screen and (max-width: 720px) {
       .channelbox {
         float: none;
       }
