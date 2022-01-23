@@ -1,4 +1,29 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Abbott Laboratories ,Glucerna,1/23/22,Afternoon,Fox News,The Big Sunday Show
+GlaxoSmithKline,Chapstick,1/23/22,Afternoon,Fox News,The Big Sunday Show
+University of Phoenix,University of Phoenix,1/23/22,Afternoon,Fox News,The Big Sunday Show
+New Vitality,Ageless Male Max,1/23/22,Afternoon,Fox News,The Big Sunday Show
+Astra Zeneca,Fasenra,1/23/22,Afternoon,Fox News,The Big Sunday Show
+X-Chair,Elemax,1/23/22,Afternoon,Fox News,The Big Sunday Show
+True Classic Tees,True Classic Tees,1/23/22,Afternoon,Fox News,The Big Sunday Show
+Jerry,Get Jerry,1/23/22,Afternoon,Fox News,The Big Sunday Show
+Relaxium,Relaxium,1/22/22,Evening,Fox News,Gutfield
+Rebath,Rebath,1/21/22,Evening,Fox News,Hannity
+Balance of Nature,Fruits,1/21/22,Evening,Fox News,Hannity
+Honeywell,Honeywell,1/21/22,Evening,Fox News,Hannity
+Nutrisystem,Nutrisystem,1/21/22,Evening,Fox News,Hannity
+Bayer,Aleve,1/21/22,Evening,Fox News,Hannity
+Jerry,Get Jerry,1/21/22,Evening,Fox News,Hannity
+Upsie,Upsie,1/21/22,Evening,Fox News,Hannity
+Stamps.com,Stamps.com,1/21/22,Evening,Fox News,Hannity
+Greenlight,Greenlight,1/21/22,Evening,Fox News,Hannity
+Liberty Mutual,Liberty Mutual Insurance,1/21/22,Morning,Fox News,Fox and Friends
+Natures Health Connection,Australian Dream,1/21/22,Morning,Fox News,Fox and Friends
+Balance of Nature,Veggies,1/21/22,Morning,Fox News,Fox and Friends
+Argenx,Argenx,1/21/22,Morning,Fox News,Fox and Friends
+InteractiveBrokers,InteractiveBrokers,1/21/22,Morning,Fox News,Fox and Friends
+Sleep Number,Sleep Number,1/21/22,Morning,Fox News,Fox and Friends
+X-Chair,Elemax,1/21/22,Morning,Fox News,Fox and Friends
 Farmers Insurance,Farmers Insurance,1/20/22,Afternoon,Fox News,The FIVE
 Amphastar,Primatene Mist,1/20/22,Afternoon,Fox News,The FIVE
 TommieCopper,TommieCopper,1/20/22,Afternoon,Fox News,The FIVE
@@ -174,7 +199,7 @@ Americas Best,Americas Best,12/31/21,Afternoon,Fox News,Your World with Neil Cav
 Lowes,Lowes,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
 Indeed,Indeed,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
 SoFi,SoFi,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
-"University of Phoenix	University of Phoenix",University of Phoenix,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
+University of Phoenix,University of Phoenix,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
 Dish TV,Dish TV,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
 WeatherTech,WeatherTech,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
 Brightstar Care,Brightstar Care,12/31/21,Afternoon,Fox News,Your World with Neil Cavuto
@@ -192,7 +217,7 @@ Balance of Nature,Veggies,12/28/21,Afternoon,Fox News,The FIVE
 American Home Shield,American Home Shield,12/28/21,Afternoon,Fox News,The FIVE
 Nestle,Boost,12/28/21,Afternoon,Fox News,The FIVE
 Quincy Bioscience,Prevagen,12/28/21,Afternoon,Fox News,The FIVE
-TomieCopper,TomieCopper,12/28/21,Afternoon,Fox News,The FIVE
+TommieCopper,TommieCopper,12/28/21,Afternoon,Fox News,The FIVE
 Liberty Mutual,Liberty Mutual Insurance,12/28/21,Afternoon,Fox News,The FIVE
 Marvel Studios,Spiiderman,12/28/21,Afternoon,Fox News,The FIVE
 Sleep Number,Sleep Number,12/28/21,Afternoon,Fox News,The FIVE
@@ -226,7 +251,7 @@ Made In,Made In Cookware,12/26/21,Morning,Fox News,Fox and Friends Weekend
 Sleep Number,Sleep Number,12/26/21,Morning,Fox News,Fox and Friends Weekend
 Upsie,Upsie,12/26/21,Morning,Fox News,Fox and Friends Weekend
 GlaxoSmithKline,Chapstick,12/25/21,Evening,Fox News,All American Christmas
-VisitingAngels,VisitingAngels,12/25/21,Evening,Fox News,All American Christmas
+Visiting Angels,Visiting Angels,12/25/21,Evening,Fox News,All American Christmas
 Novartis,Xiidra,12/25/21,Evening,Fox News,All American Christmas
 Paw.com,Paw.com,12/25/21,Evening,Fox News,All American Christmas
 Made In,Made In Cookware,12/25/21,Evening,Fox News,All American Christmas
@@ -283,7 +308,7 @@ CyberReason,CyberReason,12/20/21,Evening,Fox News,The FIVE
 Liberty Mutual,Liberty Mutual,12/20/21,Evening,Fox News,The FIVE
 WeatherTech,WeatherTech,12/20/21,Evening,Fox News,The FIVE
 The Farmers Dog,The Farmers Dog,12/20/21,Evening,Fox News,The FIVE
-Paramount,Paramount Plus,12/19/21,Evening,Fox News,Who Can Forget Christmas
+Viacom,Paramount Plus,12/19/21,Evening,Fox News,Who Can Forget Christmas
 Neurocrine,Ingrezza,12/19/21,Evening,Fox News,Who Can Forget Christmas
 WeatherTech,WeatherTech,12/19/21,Evening,Fox News,Who Can Forget Christmas
 SingleCare,SingleCare,12/19/21,Evening,Fox News,Who Can Forget Christmas
@@ -372,7 +397,7 @@ Pajamagram,Pajamagram,12/7/21,Evening,Fox News,The Ingraham Angle
 Ferndale Healthcare ,RectiCare,12/7/21,Evening,Fox News,The Ingraham Angle
 Relief Factor,Relief Factor,12/7/21,Evening,Fox News,The Ingraham Angle
 GoHealth,GoMedicare,12/7/21,Evening,Fox News,The Ingraham Angle
-VisitingAngels,VisitingAngels,12/7/21,Evening,Fox News,The Ingraham Angle
+Visiting Angels,Visiting Angels,12/7/21,Evening,Fox News,The Ingraham Angle
 MyPillow,MySlippers,12/7/21,Evening,Fox News,The Ingraham Angle
 Abbott Laboratories ,Ensure,12/6/21,Afternoon,Fox News,America Reports
 SiriusXM,Listen Free Event,12/6/21,Afternoon,Fox News,America Reports
@@ -387,7 +412,7 @@ MyPillow,MyPillow,12/5/21,Morning,Fox News,Fox and Friends Sunday
 Balance of Nature,Fruits,12/5/21,Morning,Fox News,Fox and Friends Sunday
 Abbott Laboratories ,Abbott Laboratories ,12/5/21,Morning,Fox News,Fox and Friends Sunday
 Egglands Best,Egglands Best,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
-Suburu,Share the Love Event,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
+Subaru,Share the Love Event,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
 Regeneron,Now Eye See,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
 Kayak,Kayak,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
 Tailored Brands,Mens Warehouse,12/4/21,Evening,Fox News,Unfiltered with Dan Bongino
@@ -609,7 +634,7 @@ ShipStation,ShipStation,11/10/21,Afternoon,Fox News,Special Report
 Sleep Number,Sleep Number,11/10/21,Afternoon,Fox News,Special Report
 SmartBiz,SmartBiz Loans,11/10/21,Evening,Fox News,The Ingraham Angle
 TD Ameritrade,TD Ameritrade,11/10/21,Afternoon,Fox News,Special Report
-VisitingAngels,VisitingAngels,11/10/21,Evening,Fox News,The Ingraham Angle
+Visiting Angels,Visiting Angels,11/10/21,Evening,Fox News,The Ingraham Angle
 VSP,Vision Care,11/10/21,Evening,Fox News,The Ingraham Angle
 Whisker,Litter Robot,11/10/21,Evening,Fox News,The Ingraham Angle
 AliveCor,KardiaMobile,11/8/21,Afternoon,Fox News,The FIVE
@@ -617,7 +642,7 @@ Consumer Cellular,Consumer Cellular,11/8/21,Afternoon,Fox News,The FIVE
 TogetherHealth,Medicare Coverage Helpline,11/8/21,Afternoon,Fox News,The FIVE
 Mylan,Cold Eeze,11/8/21,Afternoon,Fox News,The FIVE
 Safelite Group,Safelite AutoGlass,11/8/21,Afternoon,Fox News,The FIVE
-ViiV,Cabenuva,11/8/21,Afternoon,Fox News,The FIVE
+Viiv Healthcare,Cabenuva,11/8/21,Afternoon,Fox News,The FIVE
 Balance of Nature,Veggies,11/7/21,Evening,Fox News,Sunday Night in America
 Deal Dash,Deal Dash,11/7/21,Evening,Fox News,Sunday Night in America
 Force Factor,Total Beets,11/7/21,Evening,Fox News,Sunday Night in America
@@ -907,7 +932,7 @@ X-Chair,Elemax,9/27/21,Evening,Fox News,Hannity
 AbbVie,Rinvoq,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
 Aspen Dental,Aspen Dental,9/26/21,Morning,Fox News,Media Buzz
 Balance of Nature,Fruits,9/26/21,Morning,Fox News,Media Buzz
-Boston Beer Company,Sam Adams,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
+Boston Beer Co,Sam Adams,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
 Charles Schwab,Charles Schwab,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
 General Motors,Buick SUV,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
 Golden Corral,Golden Corral,9/26/21,Afternoon,FoxNews,Sunday Morning Futures
@@ -1281,7 +1306,7 @@ Guardian Legal Network,Guardian Legal Network,7/30/21,Afternoon,Fox News,America
 Lear Capital,Lear Capital,7/30/21,Afternoon,Fox News,America Reports
 Liberty Mutual,Liberty Mutual Insurance,7/30/21,Afternoon,Fox News,America Reports
 Nano Hearing Aids,Nano Hearing Aids,7/30/21,Afternoon,Fox News,America Reports
-NewsDayUSA,NewsDayUSA,7/30/21,Afternoon,Fox News,America Reports
+NewDayUSA,NewDayUSA,7/30/21,Afternoon,Fox News,America Reports
 ServiceNow,ServiceNow,7/30/21,Afternoon,Fox News,America Reports
 T-Mobile,T-Mobile,7/30/21,Afternoon,Fox News,America Reports
 Balance of Nature,Fruits and Veggies,7/29/21,Evening,Fox News,Hannity
@@ -1303,7 +1328,7 @@ Sandals,Sandals Resorts,7/28/21,Evening,Fox News,Special Report
 SleepNumber,SleepNumber,7/28/21,Evening,Fox News,Special Report
 Verizon,Verizon,7/28/21,Evening,Fox News,Special Report
 VisionWorks,VisionWorks,7/28/21,Evening,Fox News,Special Report
-VisitingAngels,VisitingAngels,7/28/21,Evening,Fox News,Special Report
+Visiting Angels,Visiting Angels,7/28/21,Evening,Fox News,Special Report
 ZipRecruiter,ZipRecruiter,7/28/21,Evening,Fox News,Special Report
 Force Factor,Force Factor,7/27/21,Afternoon,Fox News,America Reports
 JG Wentworth,JG Wentworth,7/27/21,Afternoon,Fox News,America Reports
@@ -2418,7 +2443,7 @@ Comcast,Comcast Business,3/3/21,Afternoon,Fox News,Outnumbered
 Lonestar Transfer,Lonestar Transfer,3/3/21,Afternoon,Fox News,Outnumbered
 NewDayUSA,NewDayUSA,3/3/21,Afternoon,Fox News,Outnumbered
 Novartis,Cosentryx,3/3/21,Afternoon,Fox News,Outnumbered
-PCMatic,PCMatic,3/3/21,Afternoon,Fox News,Outnumbered
+PC Matic,PC Matic,3/3/21,Afternoon,Fox News,Outnumbered
 Progressive,Progressive Insurance,3/3/21,Afternoon,Fox News,Outnumbered
 Charter Communications,Spectrum Mobile,3/2/21,Morning,Fox News,Americas Newsroom
 Indeed,Indeed,3/2/21,Morning,Fox News,Americas Newsroom
@@ -2773,4 +2798,3 @@ Fracture,Fracture Me,1/17/21,Morning,Fox News,Fox and Friends Sunday
 HumanN,SuperBeets,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Kraft Heinz Company,Kraft Macaroni and Cheese,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Pretty Litter,Pretty Litter,1/17/21,Morning,Fox News,Fox and Friends Sunday
-,,,,,
