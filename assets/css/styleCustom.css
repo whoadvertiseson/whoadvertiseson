@@ -34,11 +34,11 @@
       float: right
     }
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 667px) {
       .channelbox {
         float: none;
       }
-      .section {
+      section {
        word-wrap:normal !important;
        width:94% !important;
       }
