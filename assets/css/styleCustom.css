@@ -37,7 +37,10 @@
       .channelbox {
         float: none;
       }
+    }
+
+    @media screen and (max-width: 720px) {
       .section {
-        width: 500px !important;
+        width: auto !important;
       }
     }
