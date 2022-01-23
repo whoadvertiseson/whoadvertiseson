@@ -7,6 +7,10 @@
       width: 240px
     }
 
+    footer {
+      bottom: 250px;
+    }
+
     section {
       width: 600px;
     }
