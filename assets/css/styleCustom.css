@@ -38,11 +38,8 @@
       .channelbox {
         float: none;
       }
-    }
-
-    @media screen and (max-width: 720px) {
       .section {
-       word-wrap:normal;
-       width:94%;
+       word-wrap:normal !important;
+       width:94% !important;
       }
     }
