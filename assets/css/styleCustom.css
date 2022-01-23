@@ -1,10 +1,11 @@
 
     body {
-      padding: 0px !important
+      padding: 0px !important;
+      word-wrap: !important normal;
     }
 
     header {
-      width: 26%
+      width: 240px;
     }
 
     footer {
@@ -40,7 +41,7 @@
     }
 
     @media screen and (max-width: 720px) {
-      .section {
-        width: auto !important;
+      body {
+       word-wrap: !important normal;
       }
     }
