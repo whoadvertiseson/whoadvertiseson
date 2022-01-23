@@ -8,7 +8,7 @@
     }
 
     section {
-      width: 600px !important
+      width: 600px;
     }
 
     h1 {
@@ -33,7 +33,7 @@
       .channelbox {
         float: none;
       }
-      .channelbox {
+      .section {
         width: 500px;
       }
     }
