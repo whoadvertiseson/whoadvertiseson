@@ -4,15 +4,15 @@
     }
 
     header {
-      width: 240px
+      width: 26%
     }
 
     footer {
-      bottom: 150px;
+      bottom: 26%;
     }
 
     section {
-      width: 620px;
+      width: 72%;
     }
 
     h1 {
