@@ -1,7 +1,11 @@
 
     body {
       padding: 0px !important
-      font-size: 14px;
+      font-size: 14px !important
+    }
+
+    p {
+      font-size: 14px !important;
     }
 
     header {
