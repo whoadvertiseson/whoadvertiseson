@@ -4,7 +4,7 @@
     }
 
     header {
-      width: 240px !important
+      width: 240px
     }
 
     section {
@@ -34,6 +34,6 @@
         float: none;
       }
       .section {
-        width: 500px;
+        width: auto;
       }
     }
