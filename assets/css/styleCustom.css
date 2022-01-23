@@ -1,1 +1,29 @@
 
+    body {
+      padding: 0px !important
+    }
+
+    header {
+      width: 240px !important
+    }
+
+    section {
+      width: 620px !important
+    }
+
+    .wrapper {
+      width: 940px !important
+    }
+
+    h1 {
+      font-size: 38px !important;
+      color: #444 !important;
+    }
+
+    h2 {
+      font-size: 24px !important
+    }
+
+    h1 a {
+      color: #444 !important
+    }
