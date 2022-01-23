@@ -7,6 +7,10 @@
       width: 240px
     }
 
+    section {
+      width: 600px;
+    }
+
     h1 {
       font-size: 38px !important;
       color: #444 !important;
