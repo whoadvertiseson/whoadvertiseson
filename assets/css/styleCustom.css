@@ -34,6 +34,6 @@
         float: none;
       }
       .section {
-        width: auto;
+        width: 500px !important;
       }
     }
