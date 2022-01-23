@@ -33,4 +33,7 @@
       .channelbox {
         float: none;
       }
+      .channelbox {
+        width: 500px;
+      }
     }
