@@ -16,6 +16,10 @@
       width: 72%;
     }
 
+    .wrapper {
+      width: 1024px;
+    }
+
     h1 {
       font-size: 32px !important;
       color: #444 !important;
