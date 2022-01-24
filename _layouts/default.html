@@ -23,44 +23,44 @@
   <body>
     <div style="width:100%; height:25px; background-color: black; margin-bottom: 50px">&nbsp;</div>
     <div class="wrapper">
-      <header>
-      <div style="text-align:left"><img
-          src="https://avatars.githubusercontent.com/u/77581621?v=4"
-          alt="WhoAdvertisesOn Logo" width="210">
+    <header>
+      <div style="text-align:left"><img src="https://avatars.githubusercontent.com/u/77581621?v=4"
+          alt="WhoAdvertisesOn Logo" width="210" style="border-radius:15px">
       </div>
-      </header>
+    </header>
       <section>
 
-      <h1 style="margin-bottom: 5px"><a href="http://whoadvertiseson.org/">WhoAdvertisesOn</a></h1>
-      <h2 style="color: #267CB9">Open Data About Sponsors of Partisan Channels</h2>
+        <h1 style="margin-bottom: 5px"><a href="http://whoadvertiseson.org/">WhoAdvertisesOn</a></h1>
+      <h2 style="color: #267CB9">Open Data About Sponsors of Partisan Cable Channels</h2>
       <p
-        style="font-size:16px; padding:8px; background-color:#ebebf2; border-top: 2px solid #351c75;  border-bottom: 2px solid #351c75; color:#555; ">
-        Disinformation from partisan "news" channels is a threat to US democracy and public health, yet is still sponsored by major corporations. We track advertisers on Fox News
-        and other partisan channels using sampling, data science, and open data, to bring accountability to companies funding disinformation.
+        style="font-size:16px; padding:8px; background-color:#ebebf2; border-top: 0px solid #351c75;  border-bottom: 0px solid #351c75; color:#555; ">
+        Disinformation from partisan cable "news" channels is a threat to US
+        democracy and public health, yet is still sponsored by major
+        corporations. We track advertisers on Fox News
+        and other partisan channels using sampling, data science, and
+        open data, to bring accountability to companies funding disinformation.
       </p>
-
-      <h2 id="latest-fox-news-estimates">Latest Fox News Data</h3>
+      <div style="border: 3px solid #351c75;">
+        <h2 style="padding:8px 12px; margin-bottom:4px">LATEST FOX NEWS DATA </h2>
 
         <div style="width:100%;">
           <div class="channelbox"><a
               href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png"><img
                 src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png"
-                alt="alt text" width="400"></a></div>
+                alt="alt text" width="396"></a></div>
           <div class="channelbox">
             <h4
-              style="margin-top:30px; line-height:15px; color:grey; font-size:15px; font-family:Arial, Helvetica, sans-serif;">
-              Current
-              corporate sponsors<br />of Fox News
-              Channel include
+              style="margin-top:30px; margin-left:6px; line-height:13px; color:grey; font-size:13px; font-family:Arial, Helvetica, sans-serif;">
+              Current sponsors of<br />Fox News include
             </h4>
             <img
               src="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopLogos.png"
-              alt="alt text" width="180">
+              alt="alt text" width="160">
           </div>
         </div>
-        <div style="width:100%; clear:both;">
-          <h4>Access the data directly</h4>
-          <ul style="font-size:12px;">
+        <div style="width:100%; clear:both; background-color: #ebebf2">
+          <h4 style="padding:6px 56px; margin-bottom:10px;">GET THE DATA FILES</h4>
+          <ul style="font-size:12px; margin-bottom:0px; padding-left: 106px; padding-bottom:10px">
             <li><a
                 href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_ObservedAdvertisements.csv">CSV:
                 Most recently sampled Fox News Channel advertisers</a></li>
@@ -69,81 +69,82 @@
                 Top recent Fox News Channel advertisers per our sampling</a></li>
           </ul>
         </div>
-        <hr style="border-top: 2px solid #9f40ff;">
-        <br />
-        <h2 id="latest-fox-news-estimates">Latest Newsmax Data</h3>
-          <div style="width:100%; clear:both; font-size:12px">
-            <p>COMING SOON</p>
-          </div>
-          <hr style="border-top: 2px solid #9f40ff;">
-          <br />
-          <h2 id="latest-fox-news-estimates">More About the Project</h3>
-           <div style="width:100%; clear:both;">
-            <h3 id="project-purpose">Project Purpose</h3>
-            <p>For-profit television news is funded in part through advertising. To
-              boost viewership, commercial news channels set aside journalistic
-              standards in favor of sensational and emotional styles of programming.
-              Furthermore, partisan channels, such as conservative media, selectively
-              report or distort information for political gain. These deviations from
-              journalistic standards have real world consequences that effect lives
-              and families of even non-viewers. Therefore everyone has a right to know
-              whose dollars are funding these channels.</p>
+      </div>
+      <br />
+      <div style="border: 3px solid #351c75">
+        <h2 style="padding:8px 12px; margin-bottom:4px">LATEST NEWSMAX DATA</h2>
+        <div style="width:100%; padding:10px 30px; clear:both; font-size:12px">
+          <p>Coming Soon!</p>
+        </div>
+      </div>
+      <br />
+      <h2 style="margin-top:12px;">About the Project</h2>
+      <div style="width:100%; clear:both;">
+        <h3 id="project-purpose">Project Purpose</h3>
+        <p>For-profit television news is funded in part through advertising. To
+          boost viewership, commercial news channels set aside journalistic
+          standards in favor of sensational and emotional styles of programming.
+          Furthermore, partisan channels, such as conservative media, selectively
+          report or distort information for political gain. These deviations from
+          journalistic standards have real world consequences that effect lives
+          and families of even non-viewers. Therefore everyone has a right to know
+          whose dollars are funding these channels.</p>
 
-            <h3 id="sampling-strategy">Sampling Strategy</h3>
-            <p>The most comprehensive way to know who is advertising on a particular
-              channel would entail watching every hour every day, yet this is not
-              feasible for volunteers. Therefore the notion of “sampling” is used to
-              gather data with less effort. Our strategy is that nearly every day a
-              volunteer watches a channel for a fifteen minute interval at an
-              arbitrary time (excluding overnight), and collects data about observed
-              advertisements. Over time this should generate a comprehensive picture
-              of advertising on a particular channel.</p>
+        <h3 id="sampling-strategy">Sampling Strategy</h3>
+        <p>The most comprehensive way to know who is advertising on a particular
+          channel would entail watching every hour every day, yet this is not
+          feasible for volunteers. Therefore the notion of “sampling” is used to
+          gather data with less effort. Our strategy is that nearly every day a
+          volunteer watches a channel for a fifteen minute interval at an
+          arbitrary time (excluding overnight), and collects data about observed
+          advertisements. Over time this should generate a comprehensive picture
+          of advertising on a particular channel.</p>
 
-            <h3 id="data-collection">Data Collection</h3>
-            <p>The following data is collected for each observed advertisement:</p>
+        <h3 id="data-collection">Data Collection</h3>
+        <p>The following data is collected for each observed advertisement:</p>
 
-            <p><em>CompanyName, ProductName, DateObserved, TimeOfDay, Channel, ShowName</em></p>
+        <p><em>CompanyName, ProductName, DateObserved, TimeOfDay, Channel, ShowName</em></p>
 
-            <h3 id="data-files">Data Files</h3>
-            <p>Currently data is being collected about Fox News Channel, and the following files are available in
-              the
-              repository:</p>
+        <h3 id="data-files">Data Files</h3>
+        <p>Currently data is being collected about Fox News Channel, and the following files are available in
+          the
+          repository:</p>
 
-            <ul>
-              <li><em><a
-                    href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_ObservedAdvertisements.csv">CSV:
-                    FoxNewsChannel_ObservedAdvertisements.csv</a></em></li>
-              <li><em><a
-                    href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.csv">CSV:
-                    FoxNewsChannel_RecentTopAdvertisers.csv</a></em></li>
-              <li><em><a
-                    href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png">PNG:
-                    FoxNewsChannel_RecentTopAdvertisers.png</a></em></li>
-            </ul>
+        <ul>
+          <li><em><a
+                href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_ObservedAdvertisements.csv">CSV:
+                FoxNewsChannel_ObservedAdvertisements.csv</a></em></li>
+          <li><em><a
+                href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.csv">CSV:
+                FoxNewsChannel_RecentTopAdvertisers.csv</a></em></li>
+          <li><em><a
+                href="https://raw.githubusercontent.com/whoadvertiseson/whoadvertiseson/main/FoxNews/FoxNewsChannel_RecentTopAdvertisers.png">PNG:
+                FoxNewsChannel_RecentTopAdvertisers.png</a></em></li>
+        </ul>
 
-            <h3 id="toolkit">Toolkit</h3>
-            <p>WhoAdvertisesOn is not just a project tracking and summarizing
-              advertising on a single partisan news outlet. It is also an open source
-              data science toolkit that can allow any person or organization to do the
-              same for their own purposes and in their own contexts. Doing so does
-              not require advanced coding skills. Read the <a
-                href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/Toolkits/AdvertiserTrackingToolkit.md">Toolkit
-                Guide here</a>.</p>
+        <h3 id="toolkit">Toolkit</h3>
+        <p>WhoAdvertisesOn is not just a project tracking and summarizing
+          advertising on a single partisan news outlet. It is also an open source
+          data science toolkit that can allow any person or organization to do the
+          same for their own purposes and in their own contexts. Doing so does
+          not require advanced coding skills. Read the <a
+            href="https://github.com/whoadvertiseson/whoadvertiseson/blob/main/Toolkits/AdvertiserTrackingToolkit.md">Toolkit
+            Guide here</a>.</p>
 
-            <h3 id="contact">Contact</h3>
-            <p>If you have questions or comments please find us on Twitter at <a
-                href="https://twitter.com/WhoAdvertisesOn">https://twitter.com/WhoAdvertisesOn</a>, or write to us at
-              whoadvertiseson@protonmail.com</p>
+        <h3 id="contact">Contact</h3>
+        <p>If you have questions or comments please find us on Twitter at <a
+            href="https://twitter.com/WhoAdvertisesOn">https://twitter.com/WhoAdvertisesOn</a>, or write to us at
+          whoadvertiseson@protonmail.com</p>
 
-            <h3 id="licenses">Licenses</h3>
+        <h3 id="licenses">Licenses</h3>
 
-            <ul>
-              <li>Data files (ie. .csv) are governed by an Open Data Commons Open
-                Database License (ODbL) v1.0 as detailed in the file LICENSE_data</li>
-              <li>Code files (ie. .py) are governed by a GNU GENERAL PUBLIC LICENSE Version 3 as detailed in the file
-                LICENSE_code</li>
-            </ul>
-             </div>
+        <ul>
+          <li>Data files (ie. .csv) are governed by an Open Data Commons Open
+            Database License (ODbL) v1.0 as detailed in the file LICENSE_data</li>
+          <li>Code files (ie. .py) are governed by a GNU GENERAL PUBLIC LICENSE Version 3 as detailed in the file
+            LICENSE_code</li>
+        </ul>
+      </div>
 
       </section>
       <footer>
