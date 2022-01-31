@@ -1,120 +1,118 @@
 CompanyName,AdsSampled,ProductsAdvertised,LastObserved,TimeSpan,EstFreqProminence,Fortune500,Global500,Sector,Size
-Balance of Nature,27,"Fruits, Veggies, Balance of Nature",2022-01-30,Month of 1/2022,10.305343511450381,,,Supplements & Weight Loss,Other Companies
-Liberty Mutual,13,"Liberty Mutual Insurance, Liberty Mutual",2022-01-27,Month of 1/2022,4.961832061068702,77.0,278.0,Insurance,Global 500 / Fortune 1000
-X-Chair,8,"X-HMT, Elemax, X77",2022-01-29,Month of 1/2022,3.0534351145038165,,,Household & Food Products,Other Companies
-Relief Factor,7,Relief Factor,2022-01-28,Month of 1/2022,2.6717557251908395,,,Healthcare,Other Companies
-MyPillow,7,"MyStore, MyPillow Towel, MyPillow, MyPillow Towels, MyPillow Sale",2022-01-27,Month of 1/2022,2.6717557251908395,,,Household & Food Products,Other Companies
-Nutrisystem,7,"Nutrisystem, Nutrisystem for Men",2022-01-30,Month of 1/2022,2.6717557251908395,,,Supplements & Weight Loss,Other Companies
-Sleep Number,6,Sleep Number,2022-01-25,Month of 1/2022,2.2900763358778624,,,Household & Food Products,Other Companies
-Safelite Group,5,Safelite AutoGlass,2022-01-28,Month of 1/2022,1.9083969465648856,,,Motor Vehicles & Automotive,Other Companies
-Force Factor,5,"Alpha King, Prime High, Total Beets, Force Factor",2022-01-27,Month of 1/2022,1.9083969465648856,,,Supplements & Weight Loss,Other Companies
-Paw.com,5,Paw.com,2022-01-29,Month of 1/2022,1.9083969465648856,,,Retail & Restaurants,Other Companies
-ADT,4,ADT,2022-01-29,Month of 1/2022,1.5267175572519083,541.0,,Household Services,Global 500 / Fortune 1000
-Owning,4,Owning,2022-01-24,Month of 1/2022,1.5267175572519083,,,Financial,Other Companies
-ClearChoice,4,ClearChoice,2022-01-28,Month of 1/2022,1.5267175572519083,,,Healthcare,Other Companies
-Rosland Capital,4,Rosland Capital,2022-01-29,Month of 1/2022,1.5267175572519083,,,Financial,Other Companies
-NewDayUSA,4,NewDayUSA,2022-01-27,Month of 1/2022,1.5267175572519083,,,Insurance,Other Companies
-Homelight,3,Homelight,2022-01-25,Month of 1/2022,1.1450381679389312,,,,
-NortonLifeLock,3,"LifeLock, Lifelock",2022-01-29,Month of 1/2022,1.1450381679389312,573.0,,Ecommerce & Software,Global 500 / Fortune 1000
-Novartis,3,"Cosentyx, Xiidra",2022-01-18,Month of 1/2022,1.1450381679389312,,225.0,Healthcare,Global 500 / Fortune 1000
-Toyota,3,Lexus,2022-01-11,Month of 1/2022,1.1450381679389312,,10.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-GoodRX,3,GoodRX,2022-01-28,Month of 1/2022,1.1450381679389312,,,,Venture Funded
-Novo Nordisk,3,"Rybelsus, Ozempic",2022-01-25,Month of 1/2022,1.1450381679389312,,,Healthcare,Other Companies
-HomeTitleLock,3,HomeTitleLock,2022-01-20,Month of 1/2022,1.1450381679389312,,,Household Services,Other Companies
-Vitrazza,3,Chair Mats,2022-01-20,Month of 1/2022,1.1450381679389312,,,Household & Food Products,Other Companies
-PureTalk,3,PureTalk,2022-01-28,Month of 1/2022,1.1450381679389312,,,Telecommunications,Other Companies
-WeatherTech,3,WeatherTech,2022-01-28,Month of 1/2022,1.1450381679389312,,,Motor Vehicles & Automotive,Other Companies
-Jenny Craig,3,Jenny Craig,2022-01-11,Month of 1/2022,1.1450381679389312,,,Supplements & Weight Loss,Other Companies
-iFIT,3,ProForm,2022-01-30,Month of 1/2022,1.1450381679389312,,,,Venture Funded
-Johnson and Johnson,3,"Listerine, Tremfya",2022-01-10,Month of 1/2022,1.1450381679389312,35.0,104.0,Healthcare,Global 500 / Fortune 1000
-Idaho Potatoes,2,Idaho Potatoes,2022-01-29,Month of 1/2022,0.7633587786259541,,,Household & Food Products,Other Companies
-New Vitality,2,Ageless Male Max,2022-01-23,Month of 1/2022,0.7633587786259541,,,Supplements & Weight Loss,Other Companies
-Fisher Investments,2,Fisher Investments,2022-01-11,Month of 1/2022,0.7633587786259541,,,Financial,Other Companies
-Abbott Laboratories ,2,Glucerna,2022-01-28,Month of 1/2022,0.7633587786259541,104.0,393.0,Healthcare,Global 500 / Fortune 1000
-Stamps.com,2,Stamps.com,2022-01-29,Month of 1/2022,0.7633587786259541,,,Business Services,Other Companies
-Inspire Medical Systems,2,Inspire Sleep,2022-01-05,Month of 1/2022,0.7633587786259541,,,,
-Aspen Dental,2,Aspen Dental,2022-01-09,Month of 1/2022,0.7633587786259541,,,Healthcare,Other Companies
-Publishers Clearing House,2,Publishers Clearing House,2022-01-14,Month of 1/2022,0.7633587786259541,,,Other,Other Companies
-Quincy Bioscience,2,Prevagen,2022-01-10,Month of 1/2022,0.7633587786259541,,,Healthcare,Other Companies
-SoClean,2,SoClean,2022-01-20,Month of 1/2022,0.7633587786259541,,,Healthcare,Other Companies
-Lear Capital,2,Lear Silver,2022-01-05,Month of 1/2022,0.7633587786259541,,,Financial,Other Companies
-Carfax,2,Carfax,2022-01-06,Month of 1/2022,0.7633587786259541,,,Ecommerce & Software,Other Companies
-Honeywell,2,Honeywell,2022-01-21,Month of 1/2022,0.7633587786259541,94.0,374.0,Hardware and Machinery,Global 500 / Fortune 1000
-Jerry,2,Get Jerry,2022-01-23,Month of 1/2022,0.7633587786259541,,,,Venture Funded
-Bayer,2,"Miralax, Aleve",2022-01-27,Month of 1/2022,0.7633587786259541,,214.0,Healthcare,Global 500 / Fortune 1000
-Argenx,2,"Now4gmg, Argenx",2022-01-24,Month of 1/2022,0.7633587786259541,,,,
-Greenlight,2,Greenlight,2022-01-21,Month of 1/2022,0.7633587786259541,,,Financial,Other Companies
-General Motors,2,Chevrolet,2022-01-29,Month of 1/2022,0.7633587786259541,18.0,40.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-Natures Health Connection,2,Australian Dream,2022-01-21,Month of 1/2022,0.7633587786259541,,,Supplements & Weight Loss,Other Companies
-MRHFM,2,Mesobook,2022-01-28,Month of 1/2022,0.7633587786259541,,,Other,Other Companies
-GlaxoSmithKline,2,"Chapstick, Trellegy",2022-01-23,Month of 1/2022,0.7633587786259541,,282.0,Healthcare,Global 500 / Fortune 1000
-Right at Home,2,Right at Home,2022-01-15,Month of 1/2022,0.7633587786259541,,,Healthcare,Other Companies
-Procter and Gamble,2,"Metamucil, Gillette",2022-01-30,Month of 1/2022,0.7633587786259541,50.0,156.0,Household & Food Products,Global 500 / Fortune 1000
-Subway,1,Subway,2022-01-27,Month of 1/2022,0.38167938931297707,,,Retail & Restaurants,Other Companies
-Bristol Meyers Squibb,1,Opdivo Yeryoy,2022-01-12,Month of 1/2022,0.38167938931297707,75.0,,,Global 500 / Fortune 1000
-Bank of America,1,Bank of America,2022-01-10,Month of 1/2022,0.38167938931297707,29.0,77.0,,Global 500 / Fortune 1000
-Finishing Touch,1,Flawless Pedi,2022-01-12,Month of 1/2022,0.38167938931297707,,,Household & Food Products,Other Companies
-Made In,1,Made In Cookware,2022-01-01,Month of 1/2022,0.38167938931297707,,,Household & Food Products,Other Companies
-Egglands Best,1,Egglands Best,2022-01-10,Month of 1/2022,0.38167938931297707,,,Household & Food Products,Other Companies
-Embr Labs,1,Embr Wave,2022-01-06,Month of 1/2022,0.38167938931297707,,,,Other Companies
-SingleCare,1,SingleCare,2022-01-27,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-Chase,1,Freedom Unlimited,2022-01-20,Month of 1/2022,0.38167938931297707,19.0,48.0,,Global 500 / Fortune 1000
-Biovanta,1,Biovanta,2022-01-16,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Discover,1,Cashback Match,2022-01-28,Month of 1/2022,0.38167938931297707,,,,Other Companies
-AliveCor,1,KardiaMobile,2022-01-04,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-Astra Zeneca,1,Fasenra,2022-01-23,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-Lively,1,Lively,2022-01-20,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-Resperate,1,Resperate,2022-01-27,Month of 1/2022,0.38167938931297707,,,,
-Nature Made ,1,Nature Made ,2022-01-04,Month of 1/2022,0.38167938931297707,,,Supplements & Weight Loss,Other Companies
-Florida Keys,1,Florida Keys,2022-01-15,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Northwestern Mutual,1,Northwestern Mutual,2022-01-26,Month of 1/2022,0.38167938931297707,,,,Other Companies
-LeafFilter,1,LeafFilter,2022-01-11,Month of 1/2022,0.38167938931297707,,,Household Services,Other Companies
-InteractiveBrokers,1,InteractiveBrokers,2022-01-21,Month of 1/2022,0.38167938931297707,,,Financial,Other Companies
-Subaru,1,Subaru Wilderness,2022-01-28,Month of 1/2022,0.38167938931297707,,459.0,,Global 500 / Fortune 1000
-Carvana,1,Carvana,2022-01-09,Month of 1/2022,0.38167938931297707,,,Ecommerce & Software,Other Companies
-Clover,1,Clover,2022-01-30,Month of 1/2022,0.38167938931297707,,,,
-Silac Insurance,1,Silac Insurance,2022-01-27,Month of 1/2022,0.38167938931297707,,,,
-SurePayroll,1,SurePayroll,2022-01-19,Month of 1/2022,0.38167938931297707,,,Business Services,Venture Funded
-Dine Brands,1,Applebees,2022-01-12,Month of 1/2022,0.38167938931297707,,,Retail & Restaurants,Other Companies
-Farmers Insurance,1,Farmers Insurance,2022-01-20,Month of 1/2022,0.38167938931297707,256.0,,Insurance,Global 500 / Fortune 1000
-Alva Amco,1,Fungi Cure,2022-01-12,Month of 1/2022,0.38167938931297707,,,,
-Allergan,1,Botox,2022-01-04,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Allergan,1,Botox,2022-01-04,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Pray.com,1,Pray.com,2022-01-27,Month of 1/2022,0.38167938931297707,,,,
-Del Webb,1,Del Webb Communities,2022-01-26,Month of 1/2022,0.38167938931297707,,,,
-ZipRecruiter,1,ZipRecruiter,2022-01-12,Month of 1/2022,0.38167938931297707,,,Business Services,Venture Funded
-ATT,1,ATT Business,2022-01-28,Month of 1/2022,0.38167938931297707,9.0,11.0,Telecommunications,Global 500 / Fortune 1000
-World Gold Council,1,World Gold Council,2022-01-28,Month of 1/2022,0.38167938931297707,,,Financial,Other Companies
-AbbVie,1,Vraylar,2022-01-10,Month of 1/2022,0.38167938931297707,99.0,378.0,Healthcare,Global 500 / Fortune 1000
-Upsie,1,Upsie,2022-01-21,Month of 1/2022,0.38167938931297707,,,,Other Companies
-23andme,1,23andme,2022-01-11,Month of 1/2022,0.38167938931297707,,,Healthcare,Venture Funded
-JointFlex,1,JointFlex,2022-01-26,Month of 1/2022,0.38167938931297707,,,,
-Safe Step,1,Safe Step Walk in Tub,2022-01-05,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Verizon,1,Verizon Wireless,2022-01-30,Month of 1/2022,0.38167938931297707,20.0,44.0,Telecommunications,Global 500 / Fortune 1000
-Teleflex,1,Urolift,2022-01-14,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-The Farmers Dog,1,The Farmers Dog,2022-01-30,Month of 1/2022,0.38167938931297707,,,Household & Food Products,Other Companies
-Ideal Agent,1,Ideal Agent,2022-01-01,Month of 1/2022,0.38167938931297707,,,Ecommerce & Software,Other Companies
-Eli Lilly,1,Trulicity,2022-01-11,Month of 1/2022,0.38167938931297707,118.0,,Healthcare,Global 500 / Fortune 1000
-PLX Pharma,1,Vazalore,2022-01-30,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Paychex,1,Paychex,2022-01-25,Month of 1/2022,0.38167938931297707,617.0,,Business Services,Global 500 / Fortune 1000
-HealthyWager,1,HealthyWager,2022-01-02,Month of 1/2022,0.38167938931297707,,,,Other Companies
-VSP,1,Vision Care,2022-01-15,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-Qunol,1,CoQ10,2022-01-05,Month of 1/2022,0.38167938931297707,,,Supplements & Weight Loss,Other Companies
-Nestle,1,Boost,2022-01-10,Month of 1/2022,0.38167938931297707,,82.0,Household & Food Products,Global 500 / Fortune 1000
-Sling,1,Sling,2022-01-30,Month of 1/2022,0.38167938931297707,,,Telecommunications,Other Companies
-ShipStation,1,ShipStation,2022-01-20,Month of 1/2022,0.38167938931297707,,,Business Services,Other Companies
-Rebath,1,Rebath,2022-01-21,Month of 1/2022,0.38167938931297707,,,,Other Companies
-M1 Finance,1,M1 Finance,2022-01-16,Month of 1/2022,0.38167938931297707,,,Financial,Venture Funded
-Blue Diamond,1,Blue Diamond Cookware,2022-01-27,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Amphastar,1,Primatene Mist,2022-01-20,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-OnDeck,1,OnDeck,2022-01-29,Month of 1/2022,0.38167938931297707,,,,
-TommieCopper,1,TommieCopper,2022-01-20,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Silver Singles,1,Silver Singles ,2022-01-16,Month of 1/2022,0.38167938931297707,,,,Other Companies
-Bausch and Lomb,1,PreserVision,2022-01-27,Month of 1/2022,0.38167938931297707,,,Healthcare,Other Companies
-True Classic Tees,1,True Classic Tees,2022-01-23,Month of 1/2022,0.38167938931297707,,,,Other Companies
-TheRealReal,1,TheRealReal,2022-01-12,Month of 1/2022,0.38167938931297707,,,,Venture Funded
-Relaxium,1,Relaxium,2022-01-22,Month of 1/2022,0.38167938931297707,,,,Other Companies
-University of Phoenix,1,University of Phoenix,2022-01-23,Month of 1/2022,0.38167938931297707,,,Other,Other Companies
-Focus Factor,1,Focus Factor,2022-01-15,Month of 1/2022,0.38167938931297707,,,,
-LegalZoom,1,LegalZoom,2022-01-30,Month of 1/2022,0.38167938931297707,,,Ecommerce & Software,Venture Funded
-Coventry Direct,1,Coventry Direct,2022-01-13,Month of 1/2022,0.38167938931297707,,,Financial,Other Companies
+Balance of Nature,27,"Fruits, Veggies, Balance of Nature",2022-01-30,Month of 1/2022,10.546875,,,Supplements & Weight Loss,Other Companies
+Liberty Mutual,12,"Liberty Mutual Insurance, Liberty Mutual",2022-01-27,Month of 1/2022,4.6875,77.0,278.0,Insurance,Global 500 / Fortune 1000
+Nutrisystem,7,"Nutrisystem, Nutrisystem for Men",2022-01-30,Month of 1/2022,2.734375,,,Supplements & Weight Loss,Other Companies
+MyPillow,7,"MyStore, MyPillow Towel, MyPillow, MyPillow Towels, MyPillow Sale",2022-01-27,Month of 1/2022,2.734375,,,Household & Food Products,Other Companies
+X-Chair,7,"X-HMT, Elemax, X77",2022-01-29,Month of 1/2022,2.734375,,,Household & Food Products,Other Companies
+Relief Factor,7,Relief Factor,2022-01-28,Month of 1/2022,2.734375,,,Healthcare,Other Companies
+Sleep Number,6,Sleep Number,2022-01-25,Month of 1/2022,2.34375,,,Household & Food Products,Other Companies
+Safelite Group,5,Safelite AutoGlass,2022-01-28,Month of 1/2022,1.953125,,,Motor Vehicles & Automotive,Other Companies
+Paw.com,5,Paw.com,2022-01-29,Month of 1/2022,1.953125,,,Retail & Restaurants,Other Companies
+Force Factor,5,"Alpha King, Prime High, Total Beets, Force Factor",2022-01-27,Month of 1/2022,1.953125,,,Supplements & Weight Loss,Other Companies
+ClearChoice,4,ClearChoice,2022-01-28,Month of 1/2022,1.5625,,,Healthcare,Other Companies
+Owning,4,Owning,2022-01-24,Month of 1/2022,1.5625,,,Financial,Other Companies
+NewDayUSA,4,NewDayUSA,2022-01-27,Month of 1/2022,1.5625,,,Insurance,Other Companies
+Rosland Capital,4,Rosland Capital,2022-01-29,Month of 1/2022,1.5625,,,Financial,Other Companies
+ADT,4,ADT,2022-01-29,Month of 1/2022,1.5625,541.0,,Household Services,Global 500 / Fortune 1000
+Toyota,3,Lexus,2022-01-11,Month of 1/2022,1.171875,,10.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+iFIT,3,ProForm,2022-01-30,Month of 1/2022,1.171875,,,,Venture Funded
+NortonLifeLock,3,"LifeLock, Lifelock",2022-01-29,Month of 1/2022,1.171875,573.0,,Ecommerce & Software,Global 500 / Fortune 1000
+Johnson and Johnson,3,"Listerine, Tremfya",2022-01-10,Month of 1/2022,1.171875,35.0,104.0,Healthcare,Global 500 / Fortune 1000
+PureTalk,3,PureTalk,2022-01-28,Month of 1/2022,1.171875,,,Telecommunications,Other Companies
+HomeTitleLock,3,HomeTitleLock,2022-01-20,Month of 1/2022,1.171875,,,Household Services,Other Companies
+WeatherTech,3,WeatherTech,2022-01-28,Month of 1/2022,1.171875,,,Motor Vehicles & Automotive,Other Companies
+Novartis,3,"Cosentyx, Xiidra",2022-01-18,Month of 1/2022,1.171875,,225.0,Healthcare,Global 500 / Fortune 1000
+Homelight,3,Homelight,2022-01-25,Month of 1/2022,1.171875,,,,
+GoodRX,3,GoodRX,2022-01-28,Month of 1/2022,1.171875,,,,Venture Funded
+Vitrazza,3,Chair Mats,2022-01-20,Month of 1/2022,1.171875,,,Household & Food Products,Other Companies
+Novo Nordisk,3,"Rybelsus, Ozempic",2022-01-25,Month of 1/2022,1.171875,,,Healthcare,Other Companies
+Honeywell,2,Honeywell,2022-01-21,Month of 1/2022,0.78125,94.0,374.0,Hardware and Machinery,Global 500 / Fortune 1000
+Bayer,2,"Miralax, Aleve",2022-01-27,Month of 1/2022,0.78125,,214.0,Healthcare,Global 500 / Fortune 1000
+Jerry,2,Get Jerry,2022-01-23,Month of 1/2022,0.78125,,,,Venture Funded
+Inspire Medical Systems,2,Inspire Sleep,2022-01-05,Month of 1/2022,0.78125,,,,
+Carfax,2,Carfax,2022-01-06,Month of 1/2022,0.78125,,,Ecommerce & Software,Other Companies
+Procter and Gamble,2,"Metamucil, Gillette",2022-01-30,Month of 1/2022,0.78125,50.0,156.0,Household & Food Products,Global 500 / Fortune 1000
+Publishers Clearing House,2,Publishers Clearing House,2022-01-14,Month of 1/2022,0.78125,,,Other,Other Companies
+General Motors,2,Chevrolet,2022-01-29,Month of 1/2022,0.78125,18.0,40.0,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Lear Capital,2,Lear Silver,2022-01-05,Month of 1/2022,0.78125,,,Financial,Other Companies
+Idaho Potatoes,2,Idaho Potatoes,2022-01-29,Month of 1/2022,0.78125,,,Household & Food Products,Other Companies
+Argenx,2,"Now4gmg, Argenx",2022-01-24,Month of 1/2022,0.78125,,,,
+Abbott Laboratories ,2,Glucerna,2022-01-28,Month of 1/2022,0.78125,104.0,393.0,Healthcare,Global 500 / Fortune 1000
+Stamps.com,2,Stamps.com,2022-01-29,Month of 1/2022,0.78125,,,Business Services,Other Companies
+Natures Health Connection,2,Australian Dream,2022-01-21,Month of 1/2022,0.78125,,,Supplements & Weight Loss,Other Companies
+Fisher Investments,2,Fisher Investments,2022-01-11,Month of 1/2022,0.78125,,,Financial,Other Companies
+SoClean,2,SoClean,2022-01-20,Month of 1/2022,0.78125,,,Healthcare,Other Companies
+Greenlight,2,Greenlight,2022-01-21,Month of 1/2022,0.78125,,,Financial,Other Companies
+Jenny Craig,2,Jenny Craig,2022-01-11,Month of 1/2022,0.78125,,,Supplements & Weight Loss,Other Companies
+GlaxoSmithKline,2,"Chapstick, Trellegy",2022-01-23,Month of 1/2022,0.78125,,282.0,Healthcare,Global 500 / Fortune 1000
+Quincy Bioscience,2,Prevagen,2022-01-10,Month of 1/2022,0.78125,,,Healthcare,Other Companies
+Aspen Dental,2,Aspen Dental,2022-01-09,Month of 1/2022,0.78125,,,Healthcare,Other Companies
+Right at Home,2,Right at Home,2022-01-15,Month of 1/2022,0.78125,,,Healthcare,Other Companies
+MRHFM,2,Mesobook,2022-01-28,Month of 1/2022,0.78125,,,Other,Other Companies
+Pray.com,1,Pray.com,2022-01-27,Month of 1/2022,0.390625,,,,
+OnDeck,1,OnDeck,2022-01-29,Month of 1/2022,0.390625,,,,
+Relaxium,1,Relaxium,2022-01-22,Month of 1/2022,0.390625,,,,Other Companies
+23andme,1,23andme,2022-01-11,Month of 1/2022,0.390625,,,Healthcare,Venture Funded
+Lively,1,Lively,2022-01-20,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+Blue Diamond,1,Blue Diamond Cookware,2022-01-27,Month of 1/2022,0.390625,,,,Other Companies
+Biovanta,1,Biovanta,2022-01-16,Month of 1/2022,0.390625,,,,Other Companies
+TommieCopper,1,TommieCopper,2022-01-20,Month of 1/2022,0.390625,,,,Other Companies
+Finishing Touch,1,Flawless Pedi,2022-01-12,Month of 1/2022,0.390625,,,Household & Food Products,Other Companies
+Discover,1,Cashback Match,2022-01-28,Month of 1/2022,0.390625,,,,Other Companies
+Embr Labs,1,Embr Wave,2022-01-06,Month of 1/2022,0.390625,,,,Other Companies
+Nestle,1,Boost,2022-01-10,Month of 1/2022,0.390625,,82.0,Household & Food Products,Global 500 / Fortune 1000
+Safe Step,1,Safe Step Walk in Tub,2022-01-05,Month of 1/2022,0.390625,,,,Other Companies
+Amphastar,1,Primatene Mist,2022-01-20,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+University of Phoenix,1,University of Phoenix,2022-01-23,Month of 1/2022,0.390625,,,Other,Other Companies
+New Vitality,1,Ageless Male Max,2022-01-23,Month of 1/2022,0.390625,,,Supplements & Weight Loss,Other Companies
+Farmers Insurance,1,Farmers Insurance,2022-01-20,Month of 1/2022,0.390625,256.0,,Insurance,Global 500 / Fortune 1000
+M1 Finance,1,M1 Finance,2022-01-16,Month of 1/2022,0.390625,,,Financial,Venture Funded
+ZipRecruiter,1,ZipRecruiter,2022-01-12,Month of 1/2022,0.390625,,,Business Services,Venture Funded
+Subaru,1,Subaru Wilderness,2022-01-28,Month of 1/2022,0.390625,,459.0,,Global 500 / Fortune 1000
+Resperate,1,Resperate,2022-01-27,Month of 1/2022,0.390625,,,,
+Teleflex,1,Urolift,2022-01-14,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+Astra Zeneca,1,Fasenra,2022-01-23,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+Carvana,1,Carvana,2022-01-09,Month of 1/2022,0.390625,,,Ecommerce & Software,Other Companies
+Dine Brands,1,Applebees,2022-01-12,Month of 1/2022,0.390625,,,Retail & Restaurants,Other Companies
+Bausch and Lomb,1,PreserVision,2022-01-27,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+Nature Made ,1,Nature Made ,2022-01-04,Month of 1/2022,0.390625,,,Supplements & Weight Loss,Other Companies
+Verizon,1,Verizon Wireless,2022-01-30,Month of 1/2022,0.390625,20.0,44.0,Telecommunications,Global 500 / Fortune 1000
+JointFlex,1,JointFlex,2022-01-26,Month of 1/2022,0.390625,,,,
+AliveCor,1,KardiaMobile,2022-01-04,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+SurePayroll,1,SurePayroll,2022-01-19,Month of 1/2022,0.390625,,,Business Services,Venture Funded
+True Classic Tees,1,True Classic Tees,2022-01-23,Month of 1/2022,0.390625,,,,Other Companies
+The Farmers Dog,1,The Farmers Dog,2022-01-30,Month of 1/2022,0.390625,,,Household & Food Products,Other Companies
+Northwestern Mutual,1,Northwestern Mutual,2022-01-26,Month of 1/2022,0.390625,,,,Other Companies
+Bristol Meyers Squibb,1,Opdivo Yeryoy,2022-01-12,Month of 1/2022,0.390625,75.0,,,Global 500 / Fortune 1000
+Rebath,1,Rebath,2022-01-21,Month of 1/2022,0.390625,,,,Other Companies
+Bank of America,1,Bank of America,2022-01-10,Month of 1/2022,0.390625,29.0,77.0,,Global 500 / Fortune 1000
+Allergan,1,Botox,2022-01-04,Month of 1/2022,0.390625,,,,Other Companies
+Allergan,1,Botox,2022-01-04,Month of 1/2022,0.390625,,,,Other Companies
+PLX Pharma,1,Vazalore,2022-01-30,Month of 1/2022,0.390625,,,,Other Companies
+Chase,1,Freedom Unlimited,2022-01-20,Month of 1/2022,0.390625,19.0,48.0,,Global 500 / Fortune 1000
+Florida Keys,1,Florida Keys,2022-01-15,Month of 1/2022,0.390625,,,,Other Companies
+InteractiveBrokers,1,InteractiveBrokers,2022-01-21,Month of 1/2022,0.390625,,,Financial,Other Companies
+Upsie,1,Upsie,2022-01-21,Month of 1/2022,0.390625,,,,Other Companies
+LegalZoom,1,LegalZoom,2022-01-30,Month of 1/2022,0.390625,,,Ecommerce & Software,Venture Funded
+Coventry Direct,1,Coventry Direct,2022-01-13,Month of 1/2022,0.390625,,,Financial,Other Companies
+Alva Amco,1,Fungi Cure,2022-01-12,Month of 1/2022,0.390625,,,,
+Silac Insurance,1,Silac Insurance,2022-01-27,Month of 1/2022,0.390625,,,,
+LeafFilter,1,LeafFilter,2022-01-11,Month of 1/2022,0.390625,,,Household Services,Other Companies
+Egglands Best,1,Egglands Best,2022-01-10,Month of 1/2022,0.390625,,,Household & Food Products,Other Companies
+Paychex,1,Paychex,2022-01-25,Month of 1/2022,0.390625,617.0,,Business Services,Global 500 / Fortune 1000
+AbbVie,1,Vraylar,2022-01-10,Month of 1/2022,0.390625,99.0,378.0,Healthcare,Global 500 / Fortune 1000
+ShipStation,1,ShipStation,2022-01-20,Month of 1/2022,0.390625,,,Business Services,Other Companies
+Clover,1,Clover,2022-01-30,Month of 1/2022,0.390625,,,,
+Focus Factor,1,Focus Factor,2022-01-15,Month of 1/2022,0.390625,,,,
+World Gold Council,1,World Gold Council,2022-01-28,Month of 1/2022,0.390625,,,Financial,Other Companies
+HealthyWager,1,HealthyWager,2022-01-02,Month of 1/2022,0.390625,,,,Other Companies
+Subway,1,Subway,2022-01-27,Month of 1/2022,0.390625,,,Retail & Restaurants,Other Companies
+Del Webb,1,Del Webb Communities,2022-01-26,Month of 1/2022,0.390625,,,,
+VSP,1,Vision Care,2022-01-15,Month of 1/2022,0.390625,,,Healthcare,Other Companies
+Sling,1,Sling,2022-01-30,Month of 1/2022,0.390625,,,Telecommunications,Other Companies
+Eli Lilly,1,Trulicity,2022-01-11,Month of 1/2022,0.390625,118.0,,Healthcare,Global 500 / Fortune 1000
+TheRealReal,1,TheRealReal,2022-01-12,Month of 1/2022,0.390625,,,,Venture Funded
+Silver Singles,1,Silver Singles ,2022-01-16,Month of 1/2022,0.390625,,,,Other Companies
+ATT,1,ATT Business,2022-01-28,Month of 1/2022,0.390625,9.0,11.0,Telecommunications,Global 500 / Fortune 1000
+Qunol,1,CoQ10,2022-01-05,Month of 1/2022,0.390625,,,Supplements & Weight Loss,Other Companies
+SingleCare,1,SingleCare,2022-01-27,Month of 1/2022,0.390625,,,Healthcare,Other Companies
