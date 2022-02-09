@@ -33,6 +33,12 @@
       color: #444 !important
     }
 
+    a:hover,
+    a:focus {
+      color:#069;
+      font-weight:normal !important;
+    }
+
     .channelbox {
       text-align: left;
       float: left
