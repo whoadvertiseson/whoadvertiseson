@@ -1,62 +1,65 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-MyPillow,8.737864077669903,2022-02-21,"MyPillow Sheets, MySlippers, MyPillow, MyPillow Towels, MyPillow Pillows",Household & Food Products,,,30 days ending 2022-02-21,9
-Balance of Nature,6.796116504854369,2022-02-18,"Fruits, Veggies",Supplements & Weight Loss,,,30 days ending 2022-02-21,7
-AstraZeneca,3.8834951456310676,2022-02-17,"Breztri, Farxiga",Healthcare,,462.0,30 days ending 2022-02-21,4
-Clover,2.912621359223301,2022-02-14,Clover.com,,,,30 days ending 2022-02-21,3
-Force Factor,2.912621359223301,2022-01-29,"Total Beets, Test180, Prostate Advanced",Supplements & Weight Loss,,,30 days ending 2022-02-21,3
-Blue Emu,2.912621359223301,2022-02-16,Blue Emu,,,,30 days ending 2022-02-21,3
-IdealAgent,2.912621359223301,2022-02-14,IdealAgent,,,,30 days ending 2022-02-21,3
-Pray.com,2.912621359223301,2022-02-05,Pray.com,,,,30 days ending 2022-02-21,3
-Nugenix,2.912621359223301,2022-02-06,Total-T,,,,30 days ending 2022-02-21,3
-Lear Capital,1.9417475728155338,2022-02-18,Lear Silver,Financial,,,30 days ending 2022-02-21,2
-Solo Stove,1.9417475728155338,2022-02-04,Solo Stove,,,,30 days ending 2022-02-21,2
-Quincy Bioscience,1.9417475728155338,2022-02-15,Prevagen,Supplements & Weight Loss,,,30 days ending 2022-02-21,2
-MicroVisor,1.9417475728155338,2022-02-20,MicroVisor,,,,30 days ending 2022-02-21,2
-Convention of States,1.9417475728155338,2022-02-16,Convention of States,,,,30 days ending 2022-02-21,2
-PLX Pharma,1.9417475728155338,2022-02-15,Vazalore,,,,30 days ending 2022-02-21,2
-Noble Gold,1.9417475728155338,2022-01-27,Noble Gold,,,,30 days ending 2022-02-21,2
-Therabody,1.9417475728155338,2022-02-17,Theragun,Household & Food Products,,,30 days ending 2022-02-21,2
-Experian,1.9417475728155338,2022-02-10,Experian App,Financial,,,30 days ending 2022-02-21,2
-WeatherTech,1.9417475728155338,2022-02-21,WeatherTech,Motor Vehicles & Automotive,,,30 days ending 2022-02-21,2
-Nutrisystem,1.9417475728155338,2022-01-29,Nutrisystem,Supplements & Weight Loss,,,30 days ending 2022-02-21,2
-Harrelsons Own,1.9417475728155338,2022-02-15,Harrelsons Own CBD,,,,30 days ending 2022-02-21,2
-Owning,1.9417475728155338,2022-02-18,Owning,Financial,,,30 days ending 2022-02-21,2
-ProLon Fast,0.9708737864077669,2022-01-29,ProLon Fast,,,,30 days ending 2022-02-21,1
-NortonLifeLock,0.9708737864077669,2022-01-28,LifeLock,Ecommerce & Software,573.0,,30 days ending 2022-02-21,1
-SelectQuote,0.9708737864077669,2022-01-29,SelectQuote,Ecommerce & Software,,,30 days ending 2022-02-21,1
-SoClean,0.9708737864077669,2022-02-10,SoClean,Healthcare,,,30 days ending 2022-02-21,1
-Glint,0.9708737864077669,2022-02-13,Glint,,,,30 days ending 2022-02-21,1
-The Bonati Institute,0.9708737864077669,2022-02-07,The Bonati Institute,,,,30 days ending 2022-02-21,1
-Hempvana,0.9708737864077669,2022-01-29,Hempvana,,,,30 days ending 2022-02-21,1
-Zicam,0.9708737864077669,2022-02-21,Zicam,,,,30 days ending 2022-02-21,1
-SmartBiz Loans,0.9708737864077669,2022-01-27,SmartBiz Loans,,,,30 days ending 2022-02-21,1
-Humana,0.9708737864077669,2022-02-07,Humana Medicare Advantage,Healthcare,73.0,,30 days ending 2022-02-21,1
-HumanN,0.9708737864077669,2022-02-21,SuperBeets,,,,30 days ending 2022-02-21,1
-Strikeman,0.9708737864077669,2022-01-26,Train With Strikeman,,,,30 days ending 2022-02-21,1
-Saiontz and Kirk,0.9708737864077669,2022-02-05,Hernia Mesh Injury,,,,30 days ending 2022-02-21,1
-Superzilla,0.9708737864077669,2022-02-06,Superzilla,,,,30 days ending 2022-02-21,1
-Nutramax,0.9708737864077669,2022-01-27,Cosequin,,,,30 days ending 2022-02-21,1
-Publishers Clearing House,0.9708737864077669,2022-02-19,Publishers Clearing House,Other,,,30 days ending 2022-02-21,1
-Medix Select,0.9708737864077669,2022-02-05,Prostate Revive,,,,30 days ending 2022-02-21,1
-HomeTitleLock,0.9708737864077669,2022-02-01,HomeTitleLock,Household Services,,,30 days ending 2022-02-21,1
-FanDuel,0.9708737864077669,2022-01-27,FanDuel,,,,30 days ending 2022-02-21,1
-Energized Health,0.9708737864077669,2022-02-04,Energized Health,,,,30 days ending 2022-02-21,1
-InnerScope Hearing,0.9708737864077669,2022-02-13,InnerScope Hearing,,,,30 days ending 2022-02-21,1
-Silver Singles,0.9708737864077669,2022-02-04,Silver Singles,,,,30 days ending 2022-02-21,1
-Regeneron,0.9708737864077669,2022-02-06,NowEyeSee,Healthcare,354.0,,30 days ending 2022-02-21,1
-KidsFightSocialism,0.9708737864077669,2022-02-21,KidsFightSocialism,,,,30 days ending 2022-02-21,1
-SkinnyStacks,0.9708737864077669,2022-02-20,SkinnyStacks,,,,30 days ending 2022-02-21,1
-Qunol,0.9708737864077669,2022-01-26,CoQ10,Supplements & Weight Loss,,,30 days ending 2022-02-21,1
-Resperate,0.9708737864077669,2022-02-09,Resperate,,,,30 days ending 2022-02-21,1
-FindingTruePeace,0.9708737864077669,2022-02-14,FindingTruePeace,Other,,,30 days ending 2022-02-21,1
-Marley Spoon,0.9708737864077669,2022-01-27,Martha Stewart,,,,30 days ending 2022-02-21,1
-Exceptional Products,0.9708737864077669,2022-02-06,Trumpy Bear,,,,30 days ending 2022-02-21,1
-Bell Howell,0.9708737864077669,2022-02-05,TacLight,,,,30 days ending 2022-02-21,1
-Bartesian,0.9708737864077669,2022-02-08,Bartesian,,,,30 days ending 2022-02-21,1
-Henry USA,0.9708737864077669,2022-02-17,Henry USA,,,,30 days ending 2022-02-21,1
-Sekur,0.9708737864077669,2022-01-26,Sekur,,,,30 days ending 2022-02-21,1
-The Jewelry Exchange,0.9708737864077669,2022-01-28,The Jewelry Exchange,,,,30 days ending 2022-02-21,1
-Teleflex,0.9708737864077669,2022-02-11,Urolift,Healthcare,,,30 days ending 2022-02-21,1
-Teeter,0.9708737864077669,2022-02-19,FreeStep,,,,30 days ending 2022-02-21,1
-NonyX,0.9708737864077669,2022-02-11,NonyX,,,,30 days ending 2022-02-21,1
-Interactive Brokers,0.9708737864077669,2022-02-08,IBKR,,,,30 days ending 2022-02-21,1
+MyPillow,9.090909090909092,2022-02-22,"MyPillow Sheets, MySlippers, MyPillow, MyPillow Towels, MyPillow Pillows",Household & Food Products,,,30 days ending 2022-02-23,10
+Balance of Nature,6.363636363636363,2022-02-18,"Fruits, Veggies",Supplements & Weight Loss,,,30 days ending 2022-02-23,7
+AstraZeneca,3.6363636363636362,2022-02-17,"Breztri, Farxiga",Healthcare,,462.0,30 days ending 2022-02-23,4
+Therabody,2.727272727272727,2022-02-23,Theragun,Household & Food Products,,,30 days ending 2022-02-23,3
+Clover,2.727272727272727,2022-02-14,Clover.com,,,,30 days ending 2022-02-23,3
+Nugenix,2.727272727272727,2022-02-06,Total-T,,,,30 days ending 2022-02-23,3
+Blue Emu,2.727272727272727,2022-02-16,Blue Emu,,,,30 days ending 2022-02-23,3
+Force Factor,2.727272727272727,2022-01-29,"Total Beets, Test180, Prostate Advanced",Supplements & Weight Loss,,,30 days ending 2022-02-23,3
+Nutrisystem,2.727272727272727,2022-02-23,Nutrisystem,Supplements & Weight Loss,,,30 days ending 2022-02-23,3
+Pray.com,2.727272727272727,2022-02-05,Pray.com,,,,30 days ending 2022-02-23,3
+IdealAgent,2.727272727272727,2022-02-14,IdealAgent,,,,30 days ending 2022-02-23,3
+Owning,1.8181818181818181,2022-02-18,Owning,Financial,,,30 days ending 2022-02-23,2
+Qunol,1.8181818181818181,2022-02-22,CoQ10,Supplements & Weight Loss,,,30 days ending 2022-02-23,2
+MicroVisor,1.8181818181818181,2022-02-20,MicroVisor,,,,30 days ending 2022-02-23,2
+Noble Gold,1.8181818181818181,2022-01-27,Noble Gold,,,,30 days ending 2022-02-23,2
+Lear Capital,1.8181818181818181,2022-02-18,Lear Silver,Financial,,,30 days ending 2022-02-23,2
+Experian,1.8181818181818181,2022-02-10,Experian App,Financial,,,30 days ending 2022-02-23,2
+Convention of States,1.8181818181818181,2022-02-16,Convention of States,,,,30 days ending 2022-02-23,2
+WeatherTech,1.8181818181818181,2022-02-21,WeatherTech,Motor Vehicles & Automotive,,,30 days ending 2022-02-23,2
+Harrelsons Own,1.8181818181818181,2022-02-15,Harrelsons Own CBD,,,,30 days ending 2022-02-23,2
+Quincy Bioscience,1.8181818181818181,2022-02-15,Prevagen,Supplements & Weight Loss,,,30 days ending 2022-02-23,2
+PLX Pharma,1.8181818181818181,2022-02-15,Vazalore,,,,30 days ending 2022-02-23,2
+Solo Stove,1.8181818181818181,2022-02-04,Solo Stove,,,,30 days ending 2022-02-23,2
+KidsFightSocialism,0.9090909090909091,2022-02-21,KidsFightSocialism,,,,30 days ending 2022-02-23,1
+NonyX,0.9090909090909091,2022-02-11,NonyX,,,,30 days ending 2022-02-23,1
+FindingTruePeace,0.9090909090909091,2022-02-14,FindingTruePeace,Other,,,30 days ending 2022-02-23,1
+SimpleMoney911,0.9090909090909091,2022-02-22,SimpleMoney911,,,,30 days ending 2022-02-23,1
+ProLon Fast,0.9090909090909091,2022-01-29,ProLon Fast,,,,30 days ending 2022-02-23,1
+SmartBiz Loans,0.9090909090909091,2022-01-27,SmartBiz Loans,,,,30 days ending 2022-02-23,1
+Medix Select,0.9090909090909091,2022-02-05,Prostate Revive,,,,30 days ending 2022-02-23,1
+Superzilla,0.9090909090909091,2022-02-06,Superzilla,,,,30 days ending 2022-02-23,1
+Zicam,0.9090909090909091,2022-02-21,Zicam,,,,30 days ending 2022-02-23,1
+SoClean,0.9090909090909091,2022-02-10,SoClean,Healthcare,,,30 days ending 2022-02-23,1
+Energized Health,0.9090909090909091,2022-02-04,Energized Health,,,,30 days ending 2022-02-23,1
+Saiontz and Kirk,0.9090909090909091,2022-02-05,Hernia Mesh Injury,,,,30 days ending 2022-02-23,1
+Teleflex,0.9090909090909091,2022-02-11,Urolift,Healthcare,,,30 days ending 2022-02-23,1
+Glint,0.9090909090909091,2022-02-13,Glint,,,,30 days ending 2022-02-23,1
+The Bonati Institute,0.9090909090909091,2022-02-07,The Bonati Institute,,,,30 days ending 2022-02-23,1
+SkinnyStacks,0.9090909090909091,2022-02-20,SkinnyStacks,,,,30 days ending 2022-02-23,1
+FanDuel,0.9090909090909091,2022-01-27,FanDuel,,,,30 days ending 2022-02-23,1
+Strikeman,0.9090909090909091,2022-01-26,Train With Strikeman,,,,30 days ending 2022-02-23,1
+Exceptional Products,0.9090909090909091,2022-02-06,Trumpy Bear,,,,30 days ending 2022-02-23,1
+Sekur,0.9090909090909091,2022-01-26,Sekur,,,,30 days ending 2022-02-23,1
+Nutramax,0.9090909090909091,2022-01-27,Cosequin,,,,30 days ending 2022-02-23,1
+Silver Singles,0.9090909090909091,2022-02-04,Silver Singles,,,,30 days ending 2022-02-23,1
+HumanN,0.9090909090909091,2022-02-21,SuperBeets,,,,30 days ending 2022-02-23,1
+Interactive Brokers,0.9090909090909091,2022-02-08,IBKR,,,,30 days ending 2022-02-23,1
+Publishers Clearing House,0.9090909090909091,2022-02-19,Publishers Clearing House,Other,,,30 days ending 2022-02-23,1
+Resperate,0.9090909090909091,2022-02-09,Resperate,,,,30 days ending 2022-02-23,1
+Novo Nordisk,0.9090909090909091,2022-02-22,Ozempic,Healthcare,,,30 days ending 2022-02-23,1
+CarShield,0.9090909090909091,2022-02-23,CarShield,Household & Food Products,,,30 days ending 2022-02-23,1
+Regeneron,0.9090909090909091,2022-02-06,NowEyeSee,Healthcare,354.0,,30 days ending 2022-02-23,1
+SelectQuote,0.9090909090909091,2022-01-29,SelectQuote,Ecommerce & Software,,,30 days ending 2022-02-23,1
+Henry USA,0.9090909090909091,2022-02-17,Henry USA,,,,30 days ending 2022-02-23,1
+Bell Howell,0.9090909090909091,2022-02-05,TacLight,,,,30 days ending 2022-02-23,1
+Hempvana,0.9090909090909091,2022-01-29,Hempvana,,,,30 days ending 2022-02-23,1
+Humana,0.9090909090909091,2022-02-07,Humana Medicare Advantage,Healthcare,73.0,,30 days ending 2022-02-23,1
+Marley Spoon,0.9090909090909091,2022-01-27,Martha Stewart,,,,30 days ending 2022-02-23,1
+Teeter,0.9090909090909091,2022-02-19,FreeStep,,,,30 days ending 2022-02-23,1
+Bartesian,0.9090909090909091,2022-02-08,Bartesian,,,,30 days ending 2022-02-23,1
+NortonLifeLock,0.9090909090909091,2022-01-28,LifeLock,Ecommerce & Software,573.0,,30 days ending 2022-02-23,1
+The Jewelry Exchange,0.9090909090909091,2022-01-28,The Jewelry Exchange,,,,30 days ending 2022-02-23,1
+HomeTitleLock,0.9090909090909091,2022-02-01,HomeTitleLock,Household Services,,,30 days ending 2022-02-23,1
+InnerScope Hearing,0.9090909090909091,2022-02-13,InnerScope Hearing,,,,30 days ending 2022-02-23,1
