@@ -1,4 +1,15 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+VitaPod,VitaPod,3/20/22,Evening,Newsmax,Putins War on Ukraine
+MyPillow,MyPillow,3/20/22,Evening,Newsmax,Putins War on Ukraine
+Balance of Nature,Fruits,3/20/22,Evening,Newsmax,Putins War on Ukraine
+KidsStopSocialism,KidsStopSocialism,3/19/22,Afternoon,Newsmax,The Count
+NortonLifeLock,LifeLock,3/19/22,Afternoon,Newsmax,The Count
+MyPillow,MyPillow,3/19/22,Afternoon,Newsmax,The Count
+VitaPod,VitaPod,3/19/22,Afternoon,Newsmax,The Count
+Hempvana,Hempvana,3/19/22,Afternoon,Newsmax,The Count
+Cuddly,Cuddly,3/16/22,Afternoon,Newsmax,John Bachman Now
+Choice Home Warranty,Choice Home Warranty,3/16/22,Afternoon,Newsmax,John Bachman Now
+Owning,Owning,3/16/22,Afternoon,Newsmax,John Bachman Now
 Boehringer Ingelheim,Jardiance,3/15/22,Evening,Newsmax,Prime News
 MyPillow,MyPillow Sheets,3/15/22,Evening,Newsmax,Prime News
 NortonLifeLock,LifeLock,3/15/22,Evening,Newsmax,Prime News
@@ -23,11 +34,11 @@ Ferndale Healthcare ,DerMend,3/9/22,Afternoon,Newsmax,John Bachman Now
 CarShield,CarShield,3/9/22,Afternoon,Newsmax,John Bachman Now
 Lear Capital,Lear Gold,3/9/22,Afternoon,Newsmax,John Bachman Now
 Danziger and De llano LLP,Danziger and De llano LLP,3/9/22,Afternoon,Newsmax,John Bachman Now
-AstraZeneca,Breztri,3/8/22,Afernoon,Newsmax,Eric Bolling The Balance
-Cuddly,Cuddly,3/8/22,Afernoon,Newsmax,Eric Bolling The Balance
-Coventry Direct,Coventry Direct,3/8/22,Afernoon,Newsmax,Eric Bolling The Balance
-Long John Silvers,Long John Silvers,3/8/22,Afernoon,Newsmax,Eric Bolling The Balance
-Danziger and De llano LLP,Danziger and De llano LLP,3/8/22,Afernoon,Newsmax,Eric Bolling The Balance
+AstraZeneca,Breztri,3/8/22,Afternoon,Newsmax,Eric Bolling The Balance
+Cuddly,Cuddly,3/8/22,Afternoon,Newsmax,Eric Bolling The Balance
+Coventry Direct,Coventry Direct,3/8/22,Afternoon,Newsmax,Eric Bolling The Balance
+Long John Silvers,Long John Silvers,3/8/22,Afternoon,Newsmax,Eric Bolling The Balance
+Danziger and De llano LLP,Danziger and De llano LLP,3/8/22,Afternoon,Newsmax,Eric Bolling The Balance
 Rosland Capital,Rosland Capital,3/7/22,Afternoon,Newsmax,American Agenda
 Owning,Owning,3/7/22,Afternoon,Newsmax,American Agenda
 HomeTitleLock,HomeTitleLock,3/7/22,Afternoon,Newsmax,American Agenda
@@ -75,7 +86,7 @@ HumanN,SuperBeets,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
 Zicam,Zicam,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
 WeatherTech,WeatherTech,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
 MyPillow,MyPillow Sheets,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
-KidsFightSocialism,KidsFightSocialism,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
+KidsStopSocialism,KidsStopSocialism,2/21/22,Afternoon,Newsmax,The Chris Salcedo Show
 SkinnyStacks,SkinnyStacks,2/20/22,Morning,Newsmax,Wake up America Weekend
 MicroVisor,MicroVisor,2/20/22,Morning,Newsmax,Wake up America Weekend
 PCH,Publishers Clearing House,2/19/22,Evening,Newsmax,The Benny Report
