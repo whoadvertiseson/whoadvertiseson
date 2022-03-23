@@ -1,14 +1,14 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
-Iowa,Iowa,3/22/22,Afternoon,Fox News,The FIVE
-USPS,USPS,3/22/22,Afternoon,Fox News,The FIVE
-Relief Factor,Relief Factor,3/22/22,Afternoon,Fox News,The FIVE
 Liberty Mutual,Liberty Mutual Insurance,3/22/22,Afternoon,Fox News,Special Report
 Indeed,Indeed,3/22/22,Afternoon,Fox News,Special Report
 Amgen,Enbrel,3/22/22,Afternoon,Fox News,Special Report
-Walmart,Walmart,3/22/22,Afternoon,Fox News,Special Report
 Aspen Dental,Aspen Dental,3/22/22,Afternoon,Fox News,Special Report
 Force Factor,Prime High,3/22/22,Afternoon,Fox News,Special Report
 X-Chair,Elemax,3/22/22,Afternoon,Fox News,Special Report
+Walmart,Walmart,3/22/22,Afternoon,Fox News,Special Report
+Iowa,Iowa,3/22/22,Afternoon,Fox News,The FIVE
+USPS,USPS,3/22/22,Afternoon,Fox News,The FIVE
+Relief Factor,Relief Factor,3/22/22,Afternoon,Fox News,The FIVE
 Kings Hawaiian Bread,Kings Hawaiian Bread,3/21/22,Morning,Fox News,Fox and Friends
 Liberty Mutual,Liberty Mutual Insurance,3/21/22,Morning,Fox News,Fox and Friends
 Relaxium,Relaxium,3/21/22,Morning,Fox News,Fox and Friends
@@ -58,7 +58,7 @@ Qunol,Tumeric Gummies,3/13/22,Morning,Fox News,Fox and Friends Sunday
 General Motors,Chevrolet,3/13/22,Morning,Fox News,Fox and Friends Sunday
 Mammoth Nation,Mammoth Nation,3/13/22,Morning,Fox News,Fox and Friends Sunday
 Vitrazza,Chair Mats,3/13/22,Morning,Fox News,Fox and Friends Sunday
-ForceFactor,Prostate Advanced,3/13/22,Morning,Fox News,Fox and Friends Sunday
+Force Factor,Prostate Advanced,3/13/22,Morning,Fox News,Fox and Friends Sunday
 Novo Nordisk,Rybelsus,3/12/22,Evening,Fox News,Lawrence Jones Cross Country
 Balance of Nature,Veggies,3/12/22,Evening,Fox News,Lawrence Jones Cross Country
 Nano Hearing Aids,Nano Hearing Aids,3/12/22,Evening,Fox News,Lawrence Jones Cross Country
@@ -102,12 +102,12 @@ Safelite Group,Safelite AutoGlass,3/7/22,Evening,Fox News,Jesse Watters Primetim
 MyPillow,MyPillow Sheets,3/7/22,Evening,Fox News,Jesse Watters Primetime
 PureTalk,PureTalk,3/7/22,Evening,Fox News,Jesse Watters Primetime
 Hero,Hero,3/7/22,Evening,Fox News,Jesse Watters Primetime
-NBC,The Thing About Pam,3/7/22,Evening,Fox News,Jesse Watters Primetime
+Comcast,NBC,3/7/22,Evening,Fox News,Jesse Watters Primetime
 HumanN,SuperBeets,3/7/22,Evening,Fox News,Jesse Watters Primetime
 NewDayUSA,NewDayUSA,3/7/22,Morning,Fox News,America's Newsroom
 Nutrisystem,Nutrisystem Men,3/7/22,Morning,Fox News,America's Newsroom
 Mammoth Nation,Mammoth Nation,3/7/22,Morning,Fox News,America's Newsroom
-Liberty',Liberty Mutual Insurance,3/7/22,Morning,Fox News,America's Newsroom
+Liberty Mutual,Liberty Mutual Insurance,3/7/22,Morning,Fox News,America's Newsroom
 Balance of Nature,Veggies,3/7/22,Morning,Fox News,America's Newsroom
 Cuddly,Cuddly,3/7/22,Morning,Fox News,America's Newsroom
 Priceline,Priceline,3/7/22,Morning,Fox News,America's Newsroom
@@ -119,7 +119,7 @@ Dine Brands,Applebees,3/6/22,Evening,Fox News,The Next Revolution
 Liberty Mutual,Liberty Mutual Insurance,3/6/22,Evening,Fox News,The Next Revolution
 Balance of Nature,Fruits,3/6/22,Evening,Fox News,The Next Revolution
 MyPillow,MyPillow,3/6/22,Evening,Fox News,The Next Revolution
-Focus Factor,Prime High,3/6/22,Evening,Fox News,The Next Revolution
+Force Factor,Prime High,3/6/22,Evening,Fox News,The Next Revolution
 SoClean,SoClean,3/6/22,Evening,Fox News,The Next Revolution
 Hair Club,Hair Club,3/6/22,Evening,Fox News,The Next Revolution
 Indeed,Indeed,3/5/22,Afternoon,Fox News,The Big Saturday Show
