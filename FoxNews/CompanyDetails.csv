@@ -1,0 +1,489 @@
+CompanyName,Fortune500Rank,Global500Rank,Sector,Size
+Abbott Laboratories ,104,393,Healthcare,Global 500 / Fortune 1000
+AbbVie,99,378,Healthcare,Global 500 / Fortune 1000
+ADT,541,,Household Services,Global 500 / Fortune 1000
+Allstate,72,263,Insurance,Global 500 / Fortune 1000
+Amazon,2,9,Ecommerce & Software,Global 500 / Fortune 1000
+Ameritrade,251,,Financial,Global 500 / Fortune 1000
+Amgen,135,,Healthcare,Global 500 / Fortune 1000
+AT&T,9,22,Telecommunications,Global 500 / Fortune 1000
+ATT,9,11,Telecommunications,Global 500 / Fortune 1000
+Bank of America,29,77,Financial,Global 500 / Fortune 1000
+Bayer,,214,Healthcare,Global 500 / Fortune 1000
+BMW,,56,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Boehringer Ingelheim,,,Healthcare,Global 500 / Fortune 1000
+Boston Scientific,296,,Healthcare,Global 500 / Fortune 1000
+Bristol Meyers Squibb,75,,Healthcare,Global 500 / Fortune 1000
+Charles Schwab,251,,Financial,Global 500 / Fortune 1000
+Charter Communications,71,258,Telecommunications,Global 500 / Fortune 1000
+Chase,19,48,Financial,Global 500 / Fortune 1000
+Citigroup,33,82,Financial,Global 500 / Fortune 1000
+Comcast,28,63,Telecommunications,Global 500 / Fortune 1000
+Daimler AG,,20,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Dell Technologies,34,81,Hardware and Machinery,Global 500 / Fortune 1000
+Dish TV,251,,Telecommunications,Global 500 / Fortune 1000
+Eli Lilly,118,,Healthcare,Global 500 / Fortune 1000
+Energizer,834,,Household & Food Products,Global 500 / Fortune 1000
+Facebook,34,86,Ecommerce & Software,Global 500 / Fortune 1000
+Farmers Insurance,256,,Insurance,Global 500 / Fortune 1000
+Ford Motor Company,12,31,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Fox,247,,Telecommunications,Global 500 / Fortune 1000
+Gap,221,,Retail & Restaurants,Global 500 / Fortune 1000
+Geely,,243,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+General Motors,18,40,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+GlaxoSmithKline,,282,Healthcare,Global 500 / Fortune 1000
+Google,,,Ecommerce & Software,Global 500 / Fortune 1000
+Honeywell,94,374,Hardware and Machinery,Global 500 / Fortune 1000
+Humana,73,,Healthcare,Global 500 / Fortune 1000
+Intuit,445,,Ecommerce & Software,Global 500 / Fortune 1000
+John Deere,84,319,Hardware and Machinery,Global 500 / Fortune 1000
+Johnson and Johnson,35,104,Healthcare,Global 500 / Fortune 1000
+Kraft Heinz Company,122,,Household & Food Products,Global 500 / Fortune 1000
+Liberty Mutual,77,278,Insurance,Global 500 / Fortune 1000
+Lowes,31,80,Retail & Restaurants,Global 500 / Fortune 1000
+Merck,65,,Healthcare,Global 500 / Fortune 1000
+Nestle,,82,Household & Food Products,Global 500 / Fortune 1000
+NortonLifeLock,573,,Ecommerce & Software,Global 500 / Fortune 1000
+Novartis,,225,Healthcare,Global 500 / Fortune 1000
+Old Dominion Freight,634,,Other,Global 500 / Fortune 1000
+Paychex,617,,Business Services,Global 500 / Fortune 1000
+Paycom,617,,Business Services,Global 500 / Fortune 1000
+Pfizer,77,,Healthcare,Global 500 / Fortune 1000
+PNC Bank,120,,Financial,Global 500 / Fortune 1000
+Procter and Gamble,50,156,Household & Food Products,Global 500 / Fortune 1000
+Progressive,86,323,Insurance,Global 500 / Fortune 1000
+Regeneron,354,,Healthcare,Global 500 / Fortune 1000
+Rocket Mortgage,194,,Financial,Global 500 / Fortune 1000
+Samsung,,19,Telecommunications,Global 500 / Fortune 1000
+Sanofi,,289,Healthcare,Global 500 / Fortune 1000
+Scotts Miracle-Gro,753,,Household & Food Products,Global 500 / Fortune 1000
+SiriusXM,652,,Telecommunications,Global 500 / Fortune 1000
+Subaru,,459,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Tailored Brands,784,,Retail & Restaurants,Global 500 / Fortune 1000
+TD Ameritrade,509,,Financial,Global 500 / Fortune 1000
+TIAA,79,306,Insurance,Global 500 / Fortune 1000
+Toyota,,10,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Tractor Supply Company,380,,Retail & Restaurants,Global 500 / Fortune 1000
+United Healthcare,7,15,Healthcare,Global 500 / Fortune 1000
+USAA,94,355,Insurance,Global 500 / Fortune 1000
+Vanguard,,,Financial,Global 500 / Fortune 1000
+Verizon,20,44,Telecommunications,Global 500 / Fortune 1000
+Viacom,,,Telecommunications,Global 500 / Fortune 1000
+Volkswagen,,7,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+Voya Financial,353,,Financial,Global 500 / Fortune 1000
+Walmart,1,1,Retail & Restaurants,Global 500 / Fortune 1000
+Walt Disney,50,145,Telecommunications,Global 500 / Fortune 1000
+Warner Brothers,98,,Other,Global 500 / Fortune 1000
+Wayfair,217,,Ecommerce & Software,Global 500 / Fortune 1000
+4Ocean,,,,Other Companies
+A Place for Mom,,,Healthcare,Other Companies
+A&E Networks,,,,Other Companies
+Abeka,,,Other,Other Companies
+Acadia,,,,Other Companies
+Advantice Health,,,Healthcare,Other Companies
+AliveCor,,,Healthcare,Other Companies
+Allergan,,,,Other Companies
+Amarin,,,,Other Companies
+America's Best,,,,Other Companies
+American Advisors Group,,,Financial,Other Companies
+American Home Shield,,,Household Services,Other Companies
+Americas Best,,,Retail & Restaurants,Other Companies
+Amerisave,,,,Other Companies
+Amerisave Mortgage,,,Financial,Other Companies
+Amphastar,,,Healthcare,Other Companies
+Ancestry,,,Ecommerce & Software,Other Companies
+Andersen,,,,Other Companies
+Angi,,,Household Services,Other Companies
+Arc Encounter,,,,Other Companies
+Arctic Air,,,,Other Companies
+Aspen Dental,,,Healthcare,Other Companies
+AspenDental,,,,Other Companies
+AstraZeneca,,462,Healthcare,Global 500 / Fortune 1000
+Avadim Health,,,Healthcare,Other Companies
+Balance of Nature,,,Supplements & Weight Loss,Other Companies
+Bass Pro Shops,,,Retail & Restaurants,Other Companies
+Bausch and Lomb,,,Healthcare,Other Companies
+BD,,,,Other Companies
+BDO,,,Business Services,Other Companies
+BeenVerified,,,,Other Companies
+Best Western,,,Other,Other Companies
+Billy Graham,,,,Other Companies
+Biotab Nutraceuticals,,,Healthcare,Other Companies
+Bissel,,,Household & Food Products,Other Companies
+Black Rifle Coffee,,,,Other Companies
+Blue Diamond,,,,Other Companies
+Bona,,,,Other Companies
+Boston Beer Co,,,Household & Food Products,Other Companies
+Brainly,,,Ecommerce & Software,Other Companies
+Bridges CHC,,,Healthcare,Other Companies
+Built Bar,,,Supplements & Weight Loss,Other Companies
+Calibrate,,,Supplements & Weight Loss,Other Companies
+Care.com,,,Ecommerce & Software,Other Companies
+Carfax,,,Ecommerce & Software,Other Companies
+CarShield,,,Household & Food Products,Other Companies
+Carvana,,,Ecommerce & Software,Other Companies
+Chaffin and Luhana,,,,Other Companies
+Chevron,27,75,,Other Companies
+CleanBossMask,,,,Other Companies
+ClearCaptions,,,,Other Companies
+ClearChoice,,,Healthcare,Other Companies
+Combe Incorporated,,,,Other Companies
+Consumer Cellular,,,Telecommunications,Other Companies
+Copper Fit,,,Household & Food Products,Other Companies
+Cosori,,,,Other Companies
+Coventry Direct,,,Financial,Other Companies
+Creative Planning,,,Financial,Other Companies
+CreditAssociates,,,,Other Companies
+CreditRepair,,,Financial,Other Companies
+Cuddly,,,,Other Companies
+Cuisinart,,,Household & Food Products,Other Companies
+CyberReason,,,Ecommerce & Software,Other Companies
+Deal Dash,,,Ecommerce & Software,Other Companies
+Dell,,,,Other Companies
+Dine Brands,,,Retail & Restaurants,Other Companies
+Discover,,,,Other Companies
+Doggondiments,,,,Other Companies
+Dr Reddys,,,,Other Companies
+DraftKings,,,,Other Companies
+Dynamo Emergency Band Radio,,,Household & Food Products,Other Companies
+Eargo,,,Healthcare,Other Companies
+Ecolab,,,Business Services,Other Companies
+Empire,,,,Other Companies
+Empire,,,,Other Companies
+Empower,,,Financial,Other Companies
+Empower Retirement,,,Financial,Other Companies
+Endo Pharmaceuticals,,,,Other Companies
+Essilor,,,Healthcare,Other Companies
+Expedia,,,,Other Companies
+Experian,,,Financial,Other Companies
+Fage International,,,,Other Companies
+FastSigns,,,Business Services,Other Companies
+Ferndale Healthcare ,,,Healthcare,Other Companies
+Fetch Rewards,,,,Other Companies
+Fifth Third Bank,,,,Other Companies
+FindingTruePeace,,,Other,Other Companies
+Fingerhut,,,,Other Companies
+Finishing Touch,,,Household & Food Products,Other Companies
+Firstleaf,,,,Other Companies
+Fisher Investments,,,Financial,Other Companies
+Flex Seal,,,,Other Companies
+Focus Consumer Healthcare,,,,Other Companies
+Follow the Smart Money,,,,Other Companies
+Force Factor,,,Supplements & Weight Loss,Other Companies
+Fracture,,,,Other Companies
+Frontline Books,,,,Other Companies
+fuboTV,,,,Other Companies
+Generac,,,,Other Companies
+Glowforge,,,Household & Food Products,Other Companies
+Go2Bank,,,Financial,Other Companies
+GoHealth,,,Healthcare,Other Companies
+Golden Corral,,,Retail & Restaurants,Other Companies
+Goldline,,,,Other Companies
+Goldwater Law Firm,,,Other,Other Companies
+Goli,,,Supplements & Weight Loss,Other Companies
+GOLO.com,,,Supplements & Weight Loss,Other Companies
+Greenlight,,,Financial,Venture Funded
+Guardian Legal Network,,,Other,Other Companies
+Guthy-Renker,,,Household & Food Products,Other Companies
+Harry and David,,,Household & Food Products,Other Companies
+Healthmarkets,,,Healthcare,Other Companies
+HealthyWager,,,,Other Companies
+HearX,,,,Other Companies
+Heaven or Not,,,,Other Companies
+Hero,,,Healthcare,Other Companies
+Hillsdale College,,,,Other Companies
+Hisamitsu,,,Healthcare,Other Companies
+HobbyLobby,,,,Other Companies
+HomeLight,,,Household & Food Products,Other Companies
+Homeserv,,,,Other Companies
+HomeTitleLock,,,Household Services,Other Companies
+Honda,,,,Other Companies
+Horizon,,,Healthcare,Other Companies
+Hormel,,,,Other Companies
+HumanN,,,,Other Companies
+Hylands,,,,Other Companies
+ID Tech,,,,Other Companies
+Idaho Potatoes,,,Household & Food Products,Other Companies
+Ideal Agent,,,Ecommerce & Software,Other Companies
+IdealAgent,,,,Other Companies
+IdentityIQ,,,,Other Companies
+IHOP,,,,Other Companies
+Indeed,,408,Business Services,Other Companies
+Inspire Brands,,,Retail & Restaurants,Other Companies
+Invent Help,,,Business Services,Other Companies
+Invesco QQQ,,,Financial,Other Companies
+Jaguar Land Rover,,,Motor Vehicles & Automotive,Other Companies
+Jazz Pharmaceuticals,,,,Other Companies
+JB Wentworth,,,,Other Companies
+Jersey Mikes,,,Retail & Restaurants,Other Companies
+JG Wentworth,,,Other,Other Companies
+K12 Inc,,,,Other Companies
+Kayak,,,Ecommerce & Software,Other Companies
+Kings Hawaiian Bread,,,Household & Food Products,Other Companies
+Kramer Labs,,,,Other Companies
+Kreg,,,,Other Companies
+Kubota,,,Hardware and Machinery,Other Companies
+Leaf Guard,,,,Other Companies
+LeafFilter,,,Household Services,Other Companies
+Lear Capital,,,Financial,Other Companies
+LetsGetChecked,,,,Other Companies
+Life Alert,,,,Other Companies
+Lipozene,,,,Other Companies
+Litter Robot,,,,Other Companies
+"Little, Brown and Company",,,,Other Companies
+Lively,,,Healthcare,Other Companies
+LoanDepot,,,Financial,Other Companies
+Lonestar Transfer,,,,Other Companies
+Lovesac,,,Household & Food Products,Other Companies
+Mad Hungry,,,Household & Food Products,Other Companies
+Made In,,,Household & Food Products,Other Companies
+Magic Mesh,,,,Other Companies
+Marcum LLP,,,,Other Companies
+Medicare Benefits and Questions Line,,,Healthcare,Other Companies
+MedicareEnroll,,,,Other Companies
+MHRFM,,,Other,Other Companies
+Midas,,,,Other Companies
+Miracle-Ear,,,Healthcare,Other Companies
+MoonPod,,,Household & Food Products,Other Companies
+MRHFM,,,Other,Other Companies
+Musely.com,,,,Other Companies
+Mutrafax,,,,Other Companies
+Mylan,,,,Other Companies
+MyPillow,,,Household & Food Products,Other Companies
+Nano Hearing Aids,,,Healthcare,Other Companies
+Nature Made ,,,Supplements & Weight Loss,Other Companies
+Natures Health Connection,,,Supplements & Weight Loss,Other Companies
+Navage,,,,Other Companies
+NetCredit,,,,Other Companies
+Neurocrine,,,Healthcare,Other Companies
+New Vitality,,,Supplements & Weight Loss,Other Companies
+NewDayUSA,,,Financial,Other Companies
+NordicTrack,,,Household & Food Products,Other Companies
+Northwestern Mutual,,,,Other Companies
+Norwegian Cruise Line,,,,Other Companies
+Novo Nordisk,,,Healthcare,Other Companies
+NRIA,,,Financial,Other Companies
+Nufinish,,,,Other Companies
+Nutramax Laboratories,,,,Other Companies
+Nutrisystem,,,Supplements & Weight Loss,Other Companies
+Omaha Steaks,,,Healthcare,Other Companies
+OOFOS,,,,Other Companies
+Oral Care Products,,,,Other Companies
+Parker Waikman LLP,,,,Other Companies
+Paw.com,,,Retail & Restaurants,Other Companies
+PC Matic,,,Ecommerce & Software,Other Companies
+Peachtree Financial,,,Financial,Other Companies
+Pella,,,Household Services,Other Companies
+PicnicTax,,,,Other Companies
+Playtika,,,Other,Other Companies
+PLX Pharma,,,,Other Companies
+PragerU,,,Other,Other Companies
+Pretty Litter,,,,Other Companies
+Principal,,,Financial,Other Companies
+Product Madness,,,Ecommerce & Software,Other Companies
+Publishers Clearing House,,,Other,Other Companies
+Pulte Group,,,,Other Companies
+PureTalk,,,Telecommunications,Other Companies
+Quincy Bioscience,,,Supplements & Weight Loss,Other Companies
+Qunol,,,Supplements & Weight Loss,Other Companies
+Re-Bath,,,,Other Companies
+Realtor.com,,,Ecommerce & Software,Other Companies
+Reckitt Benckiser,,,,Other Companies
+Red Volcano,,,Household & Food Products,Other Companies
+Redex Industries,,,Household & Food Products,Other Companies
+Rejuvenate,,,Household & Food Products,Other Companies
+Relaxium,,,,Other Companies
+Relief Factor,,,Supplements & Weight Loss,Other Companies
+Remax,,,Ecommerce & Software,Other Companies
+ReputationDefender,,,Business Services,Other Companies
+RexMD,,,,Other Companies
+Ridge Wallet,,,,Other Companies
+RoboKiller,,,,Other Companies
+RockAuto,,,Ecommerce & Software,Other Companies
+Rockland Capital,,,,Other Companies
+Rosland Capital,,,Financial,Other Companies
+Safelite Group,,,Motor Vehicles & Automotive,Other Companies
+Sandals,,,Other,Other Companies
+Schiff Vitamins,,,Supplements & Weight Loss,Other Companies
+ScotteVest,,,Household & Food Products,Other Companies
+Select Advisor,,,,Other Companies
+SelectQuote,,,Ecommerce & Software,Other Companies
+SerVaas,,,,Other Companies
+ServPro,,,Household Services,Other Companies
+Shift,,,,Other Companies
+ShipGo,,,,Other Companies
+ShipStation,,,Business Services,Other Companies
+Silver Double Eagle Coin,,,,Other Companies
+Silver Singles,,,,Other Companies
+SingleCare,,,Healthcare,Other Companies
+SKIL,,,,Other Companies
+Sleep Number,,,Household & Food Products,Other Companies
+Sling,,,Telecommunications,Other Companies
+SmartBiz,,,,Other Companies
+SmartNews,,,,Other Companies
+SoClean,,,Healthcare,Other Companies
+SoFi,,,Financial,Other Companies
+Solo Stove,,,,Other Companies
+Sophos,,,,Other Companies
+Splash Financial,,,,Other Companies
+Stamps.com,,,Business Services,Other Companies
+Stanley Steamer,,,Household Services,Other Companies
+Stellantis,,,Motor Vehicles & Automotive,Other Companies
+Stihl,,,Hardware and Machinery,Other Companies
+Strides Pharma,,,,Other Companies
+Subway,,,Retail & Restaurants,Other Companies
+Sumitomo,,,Healthcare,Other Companies
+T-Mobile,,,Telecommunications,Other Companies
+TaxAct,,,Ecommerce & Software,Other Companies
+Teleflex,,,Healthcare,Other Companies
+Tempur-pedic,,,Household & Food Products,Other Companies
+Terminix,,,Household Services,Other Companies
+Teva,,,Healthcare,Other Companies
+The CW,,,,Other Companies
+The Farmers Dog,,,Household & Food Products,Other Companies
+The Mentor ESQ,,,,Other Companies
+The Motley Fool,,,,Other Companies
+The Ridge,,,,Other Companies
+The Zebra,,,,Other Companies
+Therabody,,,Household & Food Products,Other Companies
+TheraBreath,,,Healthcare,Other Companies
+Thryve,,,,Other Companies
+Thryve,,,,Other Companies
+Titan Exit Group,,,,Other Companies
+TogetherHealth,,,Healthcare,Other Companies
+TommieCopper,,,,Other Companies
+Tommy John,,,Retail & Restaurants,Other Companies
+Transitions Lenses,,,Household & Food Products,Other Companies
+Travel Alaska,,,Other,Other Companies
+Tristar Products,,,,Other Companies
+Truebill,,,,Other Companies
+Tubi,,,,Other Companies
+University of Phoenix,,,Other,Other Companies
+Unstoppable Prosperity,,,,Other Companies
+UNTUCKit,,,,Other Companies
+Upsie,,,,Venture Funded
+VersaTraction,,,,Other Companies
+Viiv Healthcare,,,,Other Companies
+Viking,,,,Other Companies
+Vincero Collective,,,,Other Companies
+Visa,,,,Other Companies
+VisionWorks,,,Healthcare,Other Companies
+Visit Florida,,,,Other Companies
+Visiting Angels,,,Healthcare,Other Companies
+Vitrazza,,,Household & Food Products,Other Companies
+VSP,,,Healthcare,Other Companies
+Waterpik,,,,Other Companies
+WeatherTech,,,Motor Vehicles & Automotive,Other Companies
+Weight Watchers,,,Venture Funded,Other Companies
+Wesley Financial Group,,,,Other Companies
+Whisker,,,Household & Food Products,Other Companies
+White Heart Legal,,,,Other Companies
+Wix,,,,Other Companies
+WM Barr,,,Household & Food Products,Other Companies
+Workhuman,,,,Other Companies
+World Gold Council,,,Financial,Other Companies
+X-Chair,,,Household & Food Products,Other Companies
+ZestyPaws,,,,Other Companies
+Zevo,,,,Other Companies
+Zoetis Petcare,,,Household & Food Products,Other Companies
+23andme,,,Healthcare,Venture Funded
+Boxed,,,Ecommerce & Software,Venture Funded
+CarGurus,,,Ecommerce & Software,Venture Funded
+coursera,,,,Venture Funded
+CrowdStrike,,,Ecommerce & Software,Venture Funded
+Crypto.com,,,,Venture Funded
+FightCamp,,,,Venture Funded
+Freshly,,,,Venture Funded
+GoodRX,,,,Venture Funded
+Grammarly,,,,Venture Funded
+iFIT,,,,Venture Funded
+Jerry,,,,Venture Funded
+Kajabi,,,Ecommerce & Software,Venture Funded
+LegalZoom,,,Ecommerce & Software,Venture Funded
+LemonAid,,,Healthcare,Venture Funded
+LemonAid Health,,,Healthcare,Venture Funded
+M1 Finance,,,Financial,Venture Funded
+NerdWallet,,,Financial,Venture Funded
+Priceline,,,Ecommerce & Software,Venture Funded
+Purple,,,Household & Food Products,Venture Funded
+Ro,,,Healthcare,Venture Funded
+Robinhood,,,Financial,Venture Funded
+ServiceNow,,,Business Services,Venture Funded
+Shutterfly,,,,Venture Funded
+SimpliSafe,,,Ecommerce & Software,Venture Funded
+SurePayroll,,,Business Services,Venture Funded
+TheRealReal,,,,Venture Funded
+ThredUP,,,,Venture Funded
+Trivago,,,Ecommerce & Software,Venture Funded
+TrueCar,,,Ecommerce & Software,Venture Funded
+Vroom,,,Ecommerce & Software,Venture Funded
+ZipRecruiter,,,Business Services,Venture Funded
+Alien Tape,,,Household & Food Products,Other Companies
+Allergan,,,,Other Companies
+Ameriprise,,,Financial,Other Companies
+Arcadia Consumer Healthcare,,,Healthcare,Other Companies
+Bell Howell,,,,Other Companies
+Biovanta,,,,Other Companies
+Brightstar Care,,,,Other Companies
+Carewell,,,,Other Companies
+Colonial Penn,,,Financial,Other Companies
+Dexcom,,,,Other Companies
+Egglands Best,,,Household & Food Products,Other Companies
+Embr Labs,,,,Other Companies
+Florida Keys,,,,Other Companies
+Freshpet,,,,Other Companies
+InteractiveBrokers,,,Financial,Other Companies
+Jenny Craig,,,Supplements & Weight Loss,Other Companies
+Land O Frost,,,Household & Food Products,Other Companies
+Owning,,,Financial,Other Companies
+Pajamagram,,,,Other Companies
+Rebath,,,,Other Companies
+Right at Home,,,Healthcare,Other Companies
+Rowpar Pharmaceuticals Inc,,,Healthcare,Other Companies
+Safe Step,,,,Other Companies
+TaxSlayer,,,Business Services,Other Companies
+True Classic,,,,Other Companies
+Trust and Will,,,,Other Companies
+Viviscal,,,,Other Companies
+WaxRx,,,,Other Companies
+Inspire Medical Systems,,,,Venture Funded
+Argenx,,,,Other Companies
+Silac Insurance,,,,Other Companies
+Clover,,,,Venture Funded
+Focus Factor,,,,Other Companies
+JointFlex,,,,Other Companies
+Grainger,,,,Other Companies
+Karving King,,,,Other Companies
+iTrustCapital,,,,Other Companies
+Resperate,,,,Other Companies
+Meta,34,86,Ecommerce & Software,Global 500 / Fortune 1000
+OnDeck,,,,Venture Funded
+Alva Amco,,,,Other Companies
+Pray.com,,,,Other Companies
+Del Webb,,,,Other Companies
+Jamaica Tourism,,,,Other Companies
+Simplisafe,,,,Other Companies
+Ark Encounter,,,,Other Companies
+Sokolove Law,,,,Other Companies
+Jackson Hewitt,,,Business Services,Other Companies
+Timeshare Defense Attorneys,,,,Other Companies
+United Arts Corporation,,,Telecommunications,Other Companies
+GovX,,,,Other Companies
+Mammoth Nation,,,Ecommerce & Software,Other Companies
+Exults,,,,Other Companies
+Gettr,,,Telecommunications,Other Companies
+Knightline Legal,,,Other,Other Companies
+Bathfitter,,,Household Services,Other Companies
+Bless Jews,,,Other,Other Companies
+Wolf and Shepherd,,,Retail & Restaurants,Venture Funded
+Espired,,,,Other Companies
+Thirdhome,,,,Other Companies
+Dr Scholls,,,Retail & Restaurants,Other Companies
+Homelight,,,Household Services,Venture Funded
+Tivic Health,,,Healthcare,Venture Funded
+Stifel,,,Financial,Global 500 / Fortune 1000
+USPS,,,,Other Companies
+Iowa,,,,Other Companies
+Ownerly,,,,Other Companies
+Hair Club,,,,Other Companies
+Nissan,,116,Motor Vehicles & Automotive,Global 500 / Fortune 1000
