@@ -22,7 +22,7 @@
     function loadWhich() {
       queryString = window.location.search;
       urlParams = new URLSearchParams(queryString);
-      tab = urlParams.get('mode')
+      mode = urlParams.get('mode')
       if (mode) {
         obj = document.getElementById(mode)
         obj.innerHTML = "Thanks for Signing Up!";
