@@ -18,8 +18,19 @@
     <meta name="twitter:title" content="Which companies sponsor far-right cable channels?" />
     <meta name="twitter:description" content=" Browse our data. We track advertisers on partisan channels to bring accountability to companies funding disinformation."/>
     <meta name="twitter:image" content="http://whoadvertiseson.org/assets/images/TwitterCardFN.png" />
+    <script type="application/javascript">
+    function loadWhich() {
+      queryString = window.location.search;
+      urlParams = new URLSearchParams(queryString);
+      tab = urlParams.get('mode')
+      if (mode) {
+        obj = document.getElementById(mode)
+        obj.innerHTML = "Thanks for Signing Up!";
+      }
+    }
+    </script>
   </head>
-  <body>
+  <body onload="loadWhich()">
     <div style="width:100%; height:25px; background-color: black; margin-bottom: 30px; border-bottom: 4px solid #83b44b;">&nbsp;</div>
     <div class="wrapper">
     <header>
@@ -31,6 +42,7 @@
 
         <h1 style="margin-bottom: 5px">WhoAdvertisesOn</h1>
       <h2 style="color: #267CB9">Open Data About Sponsors of Partisan Cable Channels</h2>
+        <div id="thanks"></div>
       <p
         style="font-size:15px; padding:8px; background-color:#ebebf2; border-top: 0px solid #351c75;  border-bottom: 0px solid #351c75; color:#555; ">
         Disinformation from far-right cable channels threatens US
