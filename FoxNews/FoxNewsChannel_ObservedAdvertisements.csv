@@ -1,4 +1,9 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+LeafFilter,LeafFilter,5/2/22,Afternoon,Fox News,Special Report
+General Motors,Buick,5/2/22,Afternoon,Fox News,Special Report
+ShipStation,ShipStation,5/2/22,Afternoon,Fox News,Special Report
+Force Factor,Test 180 Alpha,5/2/22,Afternoon,Fox News,Special Report
+CreditRepair,CreditRepair,5/2/22,Afternoon,Fox News,Special Report
 Fisher Investments,Fisher Investments,4/30/22,Evening,Fox News,One Nation
 Made In,Made In Cookware,4/30/22,Evening,Fox News,One Nation
 Relaxium,Relaxium Sleep,4/30/22,Evening,Fox News,One Nation
@@ -2762,11 +2767,7 @@ Balance of Nature,Fruits and Veggies,5/3/21,Afternoon,Fox News,The Story with Ma
 Liberty Mutual,Liberty Mutual Insurance,5/3/21,Afternoon,Fox News,The Story with Martha MacCallum
 Relief Factor,Relief Factor,5/3/21,Afternoon,Fox News,The Story with Martha MacCallum
 Safelite Group,Safelite AutoGlass,5/3/21,Afternoon,Fox News,The Story with Martha MacCallum
-LeafFilter,LeafFilter,5/2/21,Afternoon,Fox News,Special Report
 General Motors,Buick,5/2/21,Afternoon,Fox News,Special Report
-General Motors,Buick,5/2/21,Afternoon,Fox News,Special Report
-Force Factor,Test 180 Alpha,5/2/21,Afternoon,Fox News,Special Report
-CreditRepair,CreditRepair,5/2/21,Afternoon,Fox News,Special Report
 Angi,Angi,5/1/21,Morning,Fox News,Fox and Friends
 BMW,BMW X3,5/1/21,Morning,Fox News,Fox and Friends
 Dine Brands,Applebees,5/1/21,Morning,Fox News,Fox and Friends
