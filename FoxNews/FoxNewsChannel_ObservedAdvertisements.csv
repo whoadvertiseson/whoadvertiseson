@@ -1,4 +1,13 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Bausch and Lomb,BioTrue,5/10/22,Afternoon,Fox News,Special Report
+Priceline,Priceline,5/10/22,Afternoon,Fox News,Special Report
+General Motors,Buick,5/10/22,Afternoon,Fox News,Special Report
+Balance of Nature,Fruits,5/10/22,Afternoon,Fox News,Special Report
+WeatherTech,WeatherTech,5/10/22,Afternoon,Fox News,Special Report
+SingleCare,SingleCare,5/10/22,Afternoon,Fox News,Special Report
+ATT,DirectTV,5/10/22,Afternoon,Fox News,Special Report
+Coventry Direct,Coventry Direct,5/10/22,Afternoon,Fox News,Special Report
+Stamps.com,Stamps.com,5/10/22,Afternoon,Fox News,Special Report
 Eli Lilly,Trulicity,5/9/22,Evening,Fox News,Jesse Watters Primetime
 NortonLifeLock,Lifelock,5/9/22,Evening,Fox News,Jesse Watters Primetime
 WeatherTech,WeatherTech,5/9/22,Evening,Fox News,Jesse Watters Primetime
@@ -3522,7 +3531,7 @@ Charter Communications,Spectrum Mobile,1/30/21,Evening,Fox News,Life Liberty and
 Force Factor,Force Factor,1/30/21,Evening,Fox News,Life Liberty and Levin
 HomeTitleLock,HomeTitleLock.com,1/30/21,Evening,Fox News,Life Liberty and Levin
 The Ridge,The Ridge,1/30/21,Evening,Fox News,Life Liberty and Levin
-Weathertech,CupFone,1/30/21,Evening,Fox News,Life Liberty and Levin
+WeatherTech,CupFone,1/30/21,Evening,Fox News,Life Liberty and Levin
 CarGurus,CarGurus,1/29/21,Morning,Fox News,America's Newsroom
 coursera,coursera.org,1/29/21,Morning,Fox News,The Faulkner Focus
 Eargo,Eargo,1/29/21,Morning,Fox News,The Faulkner Focus
