@@ -1,10 +1,20 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
-HumanN,SuperBeets Heart Chews,5/29/22,Aternoon,Newsmax,Greg Kelly This Week
-Lectric eBikes,Lectric eBikes,5/29/22,Aternoon,Newsmax,Stinchfield Report
-Golden Corral,Golden Corral,5/29/22,Aternoon,Newsmax,Stinchfield Report
-MyPillow,MyStore,5/29/22,Aternoon,Newsmax,Stinchfield Report
-SunSetter,SunSetter,5/29/22,Aternoon,Newsmax,Stinchfield Report
-Balance of Nature,Fruits,5/29/22,Aternoon,Newsmax,Stinchfield Report
+Nutramax,Cosequin,6/17/22,Morning,Newsmax,Wake up America
+Relaxium,Relaxium,6/17/22,Morning,Newsmax,Wake up America
+Lectric eBikes,Lectric eBikes,6/17/22,Morning,Newsmax,Wake up America
+Interactive Brokers,Global Trader,6/17/22,Morning,Newsmax,Wake up America
+Relaxium,Relaxium,6/11/22,Afternoon,Newsmax,The Chris Salcedo Show
+Miso Robotics,Flippy,6/5/22,Evening,Newsmax,Woke America
+Humanix Books,War on Cash 911,5/31/22,Morning,Newsmax,Rob Carson
+Novo Nordisk,Ozempic,5/31/22,Morning,Newsmax,Rob Carson
+Relaxium,Relaxium,5/31/22,Morning,Newsmax,Rob Carson
+Golden Corral,Golden Corral,5/31/22,Morning,Newsmax,Rob Carson
+HumanN,SuperBeets Heart Chews,5/29/22,Afternoon,Newsmax,Greg Kelly This Week
+Lectric eBikes,Lectric eBikes,5/29/22,Afternoon,Newsmax,Stinchfield Report
+Golden Corral,Golden Corral,5/29/22,Afternoon,Newsmax,Stinchfield Report
+MyPillow,MyStore,5/29/22,Afternoon,Newsmax,Stinchfield Report
+SunSetter,SunSetter,5/29/22,Afternoon,Newsmax,Stinchfield Report
+Balance of Nature,Fruits,5/29/22,Afternoon,Newsmax,Stinchfield Report
 Humanix Books,War on Cash 911,5/27/22,Morning,Newsmax,Conversations with Nancy Brinker
 MyPillow,MySlippers,5/27/22,Morning,Newsmax,Conversations with Nancy Brinker
 Medix Select,Prostate Revive,5/27/22,Morning,Newsmax,Conversations with Nancy Brinker
@@ -425,9 +435,3 @@ SleepASAP,NutriStrips,5/25/21,Morning,Newsmax,Wake up America
 Generac,PRWCell,5/25/21,Morning,Newsmax,Wake up America
 MyPillow,MyPillow Mattress Topper,5/25/21,Morning,Newsmax,Wake up America
 Waterpik,ToothBrushes,5/25/21,Morning,Newsmax,Wake up America
-Humanix Books,War on Cash 911,5/31/22,Morning,Newsmax,Rob Carson
-Novo Nordisk,Ozempic,5/31/22,Morning,Newsmax,Rob Carson
-Relaxium,Relaxium,5/31/22,Morning,Newsmax,Rob Carson
-Golden Corral,Golden Corral,5/31/22,Morning,Newsmax,Rob Carson
-,,,,,
-,,,`,,
