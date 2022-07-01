@@ -1,7 +1,55 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Relief Factor,Relief Factor,6/30/22,Evening,Fox News,Tucker Carlson
+Focus on the Family,Focus on the Family,6/30/22,Evening,Fox News,Tucker Carlson
+WaxRx,WaxRx,6/30/22,Evening,Fox News,Tucker Carlson
+MRHFM,Mesobook,6/30/22,Evening,Fox News,Tucker Carlson
+X-Chair,Elemax,6/30/22,Evening,Fox News,Tucker Carlson
+NewDayUSA,NewDayUSA,6/29/22,Morning,Fox News,Americas Newsroom
+Amgen,Prolia,6/29/22,Morning,Fox News,Americas Newsroom
+USPS,USPS,6/29/22,Morning,Fox News,Americas Newsroom
+Indeed,Indeed,6/29/22,Morning,Fox News,Americas Newsroom
+The Farmers Dog,The Farmers Dog,6/29/22,Morning,Fox News,Americas Newsroom
+Balance of Nature,Fruits,6/29/22,Morning,Fox News,Americas Newsroom
+GovMint,GovMint,6/29/22,Morning,Fox News,Americas Newsroom
+Sleep Number,Sleep Number,6/29/22,Morning,Fox News,Americas Newsroom
+Mypurmist,Mypurmist,6/29/22,Morning,Fox News,Americas Newsroom
+Bass Pro Shops,Bass Pro Shops,6/29/22,Evening,Fox News,The Ingraham Angle
+Balance of Nature,Fruits,6/29/22,Evening,Fox News,The Ingraham Angle
+MyPillow,Mattress Topper,6/29/22,Evening,Fox News,The Ingraham Angle
+ThunderWorks,ThunderEase,6/29/22,Evening,Fox News,The Ingraham Angle
+Ideal Agent,Ideal Agent,6/29/22,Evening,Fox News,The Ingraham Angle
+Force Factor,Total Beets,6/29/22,Evening,Fox News,The Ingraham Angle
+Resperate,Resperate,6/28/22,Evening,Fox News,Hannity
+Force Factor,Prostate Advanced,6/28/22,Evening,Fox News,Hannity
+Visiting Angels,Visiting Angels,6/28/22,Evening,Fox News,Hannity
+WeatherTech,WeatherTech,6/28/22,Evening,Fox News,Hannity
+Kramer Labs,Fungi Nail,6/28/22,Evening,Fox News,Hannity
+PCH,Publishers Clearing House,6/28/22,Evening,Fox News,Hannity
+GOLO,GOLO,6/28/22,Evening,Fox News,Hannity
+OOFOS,OOFOS,6/28/22,Evening,Fox News,Hannity
+Relief Factor,Relief Factor,6/28/22,Evening,Fox News,Hannity
+The Farmers Dog,The Farmers Dog,6/28/22,Afternoon,Fox News,The FIVE
+Subway,Subway,6/28/22,Afternoon,Fox News,The FIVE
+Abbott Laboratories ,FreeStyle Libre,6/28/22,Afternoon,Fox News,The FIVE
+Relief Factor,Relief Factor,6/28/22,Afternoon,Fox News,The FIVE
+Stamps.com,Stamps.com,6/28/22,Afternoon,Fox News,The FIVE
+American Home Shield,American Home Shield,6/28/22,Afternoon,Fox News,The FIVE
+MRHFM,Mesobook,6/28/22,Afternoon,Fox News,The FIVE
+Meta,Meta,6/28/22,Morning,Fox News,Fox and Friends
+Safelite Group,Safelite AutoGlass,6/28/22,Morning,Fox News,Fox and Friends
+ADT,ADT,6/28/22,Morning,Fox News,Fox and Friends
+ZipRecruiter,ZipRecruiter,6/28/22,Morning,Fox News,Fox and Friends
+GOLO,GOLO,6/28/22,Morning,Fox News,Fox and Friends
+Boehringer Ingelheim,Jardiance,6/28/22,Morning,Fox News,Fox and Friends
+MyPillow,MySlippers,6/28/22,Morning,Fox News,Fox and Friends
+Novo Nordisk,Ozempic,6/28/22,Morning,Fox News,Fox and Friends
+GlaxoSmithKline,Cabenuva,6/28/22,Morning,Fox News,Fox and Friends
+Marcum,Marcum,6/28/22,Morning,Fox News,Fox and Friends
+Balance of Nature,United We Pledge,6/28/22,Morning,Fox News,Fox and Friends
+Inspire Medical Systems,Inspire Sleep,6/28/22,Morning,Fox News,Fox and Friends
 Focus on the Family,Focus on the Family,6/27/22,Evening,Fox News,Hannity
 MyPillow,MyPillow,6/27/22,Evening,Fox News,Hannity
-GOLO.com,GOLO.com,6/27/22,Evening,Fox News,Hannity
+GOLO,GOLO,6/27/22,Evening,Fox News,Hannity
 OOFOS,OOFOS,6/27/22,Evening,Fox News,Hannity
 Stamps.com,Stamps.com,6/27/22,Evening,Fox News,Hannity
 Nano Hearing Aids,Nano Hearing Aids,6/27/22,Evening,Fox News,Hannity
@@ -10,7 +58,7 @@ Bayer,Aleve,6/26/22,Evening,Fox News,Life Liberty and Levin
 Alpecin,Alpecin Shampoo,6/26/22,Evening,Fox News,Life Liberty and Levin
 Nissan,Infiniti,6/26/22,Evening,Fox News,Life Liberty and Levin
 Ideal Agent,Ideal Agent,6/26/22,Evening,Fox News,Life Liberty and Levin
-GOLO.com,GOLO.com,6/26/22,Evening,Fox News,Life Liberty and Levin
+GOLO,GOLO,6/26/22,Evening,Fox News,Life Liberty and Levin
 Relaxium,Relaxium,6/26/22,Evening,Fox News,Life Liberty and Levin
 X-Chair,X-HMT,6/26/22,Evening,Fox News,Life Liberty and Levin
 Ideal Agent,Ideal Agent,6/25/22,Morning,Fox News,Fox and Friends Saturday
@@ -90,7 +138,7 @@ Rosland Capital,Rosland Capital,6/20/22,Afternoon,Fox News,Outnumbered
 JG Wentworth,JG Wentworth,6/20/22,Afternoon,Fox News,Outnumbered
 AliveCor,KardiaMobile,6/20/22,Afternoon,Fox News,Outnumbered
 Meta,Meta Portal,6/20/22,Evening,Fox News,Hannity
-GOLO.com,GOLO.com,6/20/22,Evening,Fox News,Hannity
+GOLO,GOLO,6/20/22,Evening,Fox News,Hannity
 Ideal Agent,Ideal Agent,6/20/22,Evening,Fox News,Hannity
 John Hagee Ministries,Sanctuary of Hope,6/20/22,Evening,Fox News,Hannity
 Magic Mesh,Magic Mesh,6/20/22,Evening,Fox News,Hannity
@@ -451,7 +499,7 @@ Nissan,Infiniti,4/17/22,Evening,Fox News,The Next Revolution
 Safelite Group,Safelite AutoGlass,4/17/22,Evening,Fox News,The Next Revolution 
 Balance of Nature,Fruits,4/17/22,Evening,Fox News,The Next Revolution 
 MyPillow,MyPillow Towels,4/17/22,Evening,Fox News,The Next Revolution 
-GOLO.com,GOLO.com,4/17/22,Evening,Fox News,The Next Revolution 
+GOLO,GOLO,4/17/22,Evening,Fox News,The Next Revolution 
 Advantice Health,Kerasal,4/17/22,Evening,Fox News,The Next Revolution 
 Hip Optical,Hip Optical,4/17/22,Evening,Fox News,The Next Revolution 
 Abbott Laboratories ,Glucerna,4/16/22,Afternoon,Fox News,Journal Editorial Report
@@ -514,7 +562,7 @@ iTrustCapital,iTrustCapital,4/10/22,Morning,Fox News,Fox and Friends Sunday
 Lively,Lively,4/10/22,Morning,Fox News,Fox and Friends Sunday
 Lectric eBikes,Lectric eBikes,4/10/22,Morning,Fox News,Fox and Friends Sunday
 RockAuto,RockAuto,4/10/22,Morning,Fox News,Fox and Friends Sunday
-GOLO.com,GOLO.com,4/10/22,Morning,Fox News,Fox and Friends Sunday
+GOLO,GOLO,4/10/22,Morning,Fox News,Fox and Friends Sunday
 Nutrisystem,Nutrisystem,4/10/22,Morning,Fox News,Fox and Friends Sunday
 Novo Nordisk,Ozempic,4/10/22,Afternoon,Fox News,Fox Report
 Hip Optical,Hip Optical,4/9/22,Evening,Fox News,Unfiltered with Dan Bongino
@@ -639,7 +687,7 @@ Balance of Nature,Fruits,3/27/22,Morning,Fox News,Fox and Friends Weekend
 23andme,23andme,3/27/22,Morning,Fox News,Fox and Friends Weekend
 Northwestern Mutual,Northwestern Mutual,3/27/22,Morning,Fox News,Fox and Friends Weekend
 Lively,Lively,3/26/22,Morning,Fox News,Fox and Friends Weekend
-GOLO.com,GOLO.com,3/26/22,Morning,Fox News,Fox and Friends Weekend
+GOLO,GOLO,3/26/22,Morning,Fox News,Fox and Friends Weekend
 Force Factor,Total Beets,3/26/22,Morning,Fox News,Fox and Friends Weekend
 Resperate,Resperate,3/26/22,Morning,Fox News,Fox and Friends Weekend
 Nature Made ,Nature Made ,3/26/22,Morning,Fox News,Fox and Friends Weekend
@@ -873,7 +921,7 @@ MyPillow,MyPillow Sheets,2/23/22,Afternoon,Fox News,America Reports
 General Motors,Chevrolet,2/23/22,Afternoon,Fox News,America Reports
 Liberty Mutual,Liberty Mutual Insurance,2/22/22,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Cabenuva,2/22/22,Morning,Fox News,Fox and Friends
-GOLO.com,GOLO.com,2/22/22,Morning,Fox News,Fox and Friends
+GOLO,GOLO,2/22/22,Morning,Fox News,Fox and Friends
 Owning,Owning,2/22/22,Morning,Fox News,Fox and Friends
 X-Chair,X-HMT,2/22/22,Morning,Fox News,Fox and Friends
 Sleep Number,Sleep Number,2/22/22,Morning,Fox News,Fox and Friends
@@ -2112,7 +2160,7 @@ NerdWallet,NerdWallet,9/19/21,Evening,Fox News,Life Liberty and Levin
 SerVaas,Bar Keepers Friend,9/19/21,Evening,Fox News,Life Liberty and Levin
 Bridges CHC,ThermaCare,9/18/21,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Centrum,9/18/21,Morning,Fox News,Fox and Friends
-GOLO.com,GOLO.com,9/18/21,Morning,Fox News,Fox and Friends
+GOLO,GOLO,9/18/21,Morning,Fox News,Fox and Friends
 Indeed,Indeed.com,9/18/21,Morning,Fox News,Fox and Friends
 Johnson and Johnson,Neutrogena,9/18/21,Morning,Fox News,Fox and Friends
 Northwestern Mutual,Northwestern Mutual,9/18/21,Morning,Fox News,Fox and Friends
@@ -2540,7 +2588,7 @@ Relief Factor,Relief Factor,7/19/21,Afternoon,Fox News,Outnumbered
 USAA,USAA Insurance,7/19/21,Afternoon,Fox News,Outnumbered
 Abbott Laboratories ,Abbott Laboratories ,7/18/21,Morning,Fox News,Media Buzz
 Amgen,Otezla,7/18/21,Morning,Fox News,Media Buzz
-GOLO.com,GOLO.com,7/18/21,Morning,Fox News,Media Buzz
+GOLO,GOLO,7/18/21,Morning,Fox News,Media Buzz
 Heaven or Not,Heaven or Not,7/18/21,Morning,Fox News,Media Buzz
 Invent Help,Invent Help,7/18/21,Morning,Fox News,Media Buzz
 Kraft Heinz Company,Philadelphia Cream Cheese,7/18/21,Morning,Fox News,Media Buzz
@@ -2643,7 +2691,7 @@ Sleep Number,Sleep Number,7/4/21,Afternoon,Fox News,Fox News Sunday Replay
 Aspen Dental,Aspen Dental,7/3/21,Morning,Fox News,Fox and Friends
 Dine Brands,Applebees,7/3/21,Morning,Fox News,Fox and Friends
 Finishing Touch,Flawless Pedi,7/3/21,Morning,Fox News,Fox and Friends
-GOLO.com,GOLO.com,7/3/21,Morning,Fox News,Fox and Friends
+GOLO,GOLO,7/3/21,Morning,Fox News,Fox and Friends
 Johnson and Johnson,Zyrtec,7/3/21,Morning,Fox News,Fox and Friends
 Liberty Mutual,Liberty Mutual Insurance,7/3/21,Morning,Fox News,Fox and Friends
 LoveSac,LoveSac,7/3/21,Morning,Fox News,Fox and Friends
@@ -2678,7 +2726,7 @@ Novo Nordisk,Ozempic,6/29/21,Afternoon,Fox News,Outnumbered
 Progressive,Progressive Insurance,6/29/21,Afternoon,Fox News,Outnumbered
 American Advisors Group,AAG Reverse ,6/28/21,Morning,FoxNews,Americas Newsroom
 Force Factor,Force Factor Prostate,6/28/21,Evening,FoxNews,Hannity
-GOLO.com,GOLO.com,6/28/21,Evening,FoxNews,Hannity
+GOLO,GOLO,6/28/21,Evening,FoxNews,Hannity
 Greenlight,Greenlight Card,6/28/21,Evening,FoxNews,Hannity
 HearX,Lexie,6/28/21,Evening,FoxNews,Hannity
 Ideal Agent,Idealagent.com,6/28/21,Evening,FoxNews,Hannity
@@ -3264,7 +3312,7 @@ Vroom,Vroom,4/19/21,Afternoon,Fox News,Special Report
 Balance of Nature,Veggies,4/18/21,Evening,Fox News,Life Liberty and Levin
 Copper Fit,Copper Fit Pro,4/18/21,Evening,Fox News,Life Liberty and Levin
 GlaxoSmithKline,Sensodyne,4/18/21,Evening,Fox News,Life Liberty and Levin
-GOLO.com,GOLO.com,4/18/21,Evening,Fox News,Life Liberty and Levin
+GOLO,GOLO,4/18/21,Evening,Fox News,Life Liberty and Levin
 LoanDepot,LoanDepot,4/18/21,Evening,Fox News,Life Liberty and Levin
 New Vitality,Super Beta Prostate,4/18/21,Evening,Fox News,Life Liberty and Levin
 Safelite Group,Safelite AutoGlass,4/18/21,Evening,Fox News,Life Liberty and Levin
@@ -3376,7 +3424,7 @@ Old Dominion Freight,Old Dominion Freight,4/6/21,Evening,Fox News,Fox News Prime
 WeatherTech,WeatherTech,4/6/21,Evening,Fox News,Fox News Primetime
 Balance of Nature,Veggies,4/5/21,Evening,Fox News,Tucker Carlson
 Cuddly,Cuddly,4/5/21,Evening,Fox News,Tucker Carlson
-GOLO.com,GOLO.com,4/5/21,Evening,Fox News,Tucker Carlson
+GOLO,GOLO,4/5/21,Evening,Fox News,Tucker Carlson
 Hero,Hero Pill Dispensor,4/5/21,Evening,Fox News,Tucker Carlson
 Relief Factor,ReliefFactor,4/5/21,Evening,Fox News,Tucker Carlson
 TommieCopper,TommieCopper,4/5/21,Evening,Fox News,Tucker Carlson
@@ -3384,7 +3432,7 @@ Charter Communications,Spectrum Mobile,4/4/21,Evening,Fox News,Justice with Judg
 Nutrisystem,Nutrisystem,4/4/21,Evening,Fox News,Justice with Judge Jeanine
 Sandals,Sandals,4/4/21,Evening,Fox News,Justice with Judge Jeanine
 Zoetis Petcare,Simparica,4/4/21,Evening,Fox News,Justice with Judge Jeanine
-GOLO.com,GOLO.com,4/3/21,Morning,Fox News,Cavuto Live
+GOLO,GOLO,4/3/21,Morning,Fox News,Cavuto Live
 Intuit,Intuit Quickbooks,4/3/21,Morning,Fox News,Cavuto Live
 Lovesac,Lovesac,4/3/21,Morning,Fox News,Cavuto Live
 New Vitality,Ageless Male,4/3/21,Morning,Fox News,Cavuto Live
@@ -3425,7 +3473,7 @@ Abbott Laboratories ,Pedialyte,3/28/21,Afternoon,Fox News,Fox News Sunday
 Balance of Nature,Veggies,3/28/21,Morning,Fox News,Fox and Friends Sunday
 Flex Seal,Flex Paste,3/28/21,Morning,Fox News,Fox and Friends Sunday
 General Motors,Chevrolet,3/28/21,Afternoon,Fox News,Fox News Sunday
-GOLO.com,GOLO.com,3/28/21,Morning,Fox News,Fox and Friends Sunday
+GOLO,GOLO,3/28/21,Morning,Fox News,Fox and Friends Sunday
 Indeed,Indeed.com,3/28/21,Afternoon,Fox News,Fox News Sunday
 Indeed,Indeed.com,3/28/21,Morning,Fox News,Fox and Friends Sunday
 Intuit,Intuit Quickbooks,3/28/21,Morning,Fox News,Fox and Friends Sunday
@@ -3552,7 +3600,7 @@ Sumitomo,Latuda,3/8/21,Afternoon,Fox News,Special Report
 Volkswagen,Audi,3/8/21,Afternoon,Fox News,Special Report
 Freshly,"Freshly,com",3/7/21,Morning,Fox News,Fox and Friends Sunday
 GlaxoSmithKline,Trellegy,3/7/21,Morning,Fox News,Fox and Friends Sunday
-GOLO.com,GOLO.com,3/7/21,Morning,Fox News,Fox and Friends Sunday
+GOLO,GOLO,3/7/21,Morning,Fox News,Fox and Friends Sunday
 Kings Hawaiian Bread,Kings Hawaiian Bread,3/7/21,Morning,Fox News,Fox and Friends Sunday
 Liberty Mutual,Liberty Mutual Insurance,3/7/21,Morning,Fox News,Fox and Friends Sunday
 Oral Care Products,Smileactives,3/7/21,Morning,Fox News,Fox and Friends Sunday
@@ -3591,7 +3639,7 @@ USAA,USAA Insurance,3/2/21,Morning,Fox News,Americas Newsroom
 Walmart,Walmart Pharmacy,3/2/21,Morning,Fox News,Americas Newsroom
 Balance of Nature,Veggies,3/1/21,Evening,Fox News,Tucker Carlson
 General Steel,General Steel Buildings,3/1/21,Evening,Fox News,Tucker Carlson
-GOLO.com,GOLO.com,3/1/21,Evening,Fox News,Tucker Carlson
+GOLO,GOLO,3/1/21,Evening,Fox News,Tucker Carlson
 Kubota,Kubota Mowers,3/1/21,Evening,Fox News,Tucker Carlson
 MyPillow,MyPillow Towel,3/1/21,Evening,Fox News,Tucker Carlson
 Relief Factor,Relief Factor,3/1/21,Evening,Fox News,Tucker Carlson
@@ -3782,7 +3830,7 @@ Americas Best,Americas Best,2/7/21,Morning,Fox News,Sunday Morning Futures
 Balance of Nature,Veggies,2/7/21,Morning,Fox News,Sunday Morning Futures
 Charter Communications,Spectrum Business,2/7/21,Morning,Fox News,Sunday Morning Futures
 Dynamo Emergency Band Radio,Dynamo Emergency Band Radio,2/7/21,Morning,Fox News,Sunday Morning Futures
-GOLO.com,GOLO.com,2/7/21,Morning,Fox News,Sunday Morning Futures
+GOLO,GOLO,2/7/21,Morning,Fox News,Sunday Morning Futures
 Kraft Heinz Company,Velveeta,2/7/21,Morning,Fox News,Sunday Morning Futures
 Liberty Mutual,Liberty Mutual Insurance,2/7/21,Morning,Fox News,Sunday Morning Futures
 NortonLifeLock,NortonLifeLock,2/7/21,Morning,Fox News,Sunday Morning Futures
