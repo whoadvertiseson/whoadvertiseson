@@ -108,7 +108,7 @@ X-Chair,X-HMT,6/26/22,Evening,Fox News,Life Liberty and Levin
 Ideal Agent,Ideal Agent,6/25/22,Morning,Fox News,Fox and Friends Saturday
 Force Factor,SmarterGreens,6/25/22,Morning,Fox News,Fox and Friends Saturday
 AbbVie,Juvederm,6/25/22,Morning,Fox News,Fox and Friends Saturday
-Astra Zeneca,Breztri,6/25/22,Morning,Fox News,Fox and Friends Saturday
+AstraZeneca,Breztri,6/25/22,Morning,Fox News,Fox and Friends Saturday
 MyPillow,MyPillow Sheets,6/25/22,Morning,Fox News,Fox and Friends Saturday
 ClearChoice,ClearChoice,6/25/22,Evening,Fox News,Lawrence Jones Cross Country
 ADT,ADT,6/25/22,Evening,Fox News,Lawrence Jones Cross Country
@@ -198,7 +198,7 @@ General Motors,GMC,6/17/22,Morning,Fox News,Fox and Friends
 Lowes,Lowes,6/17/22,Morning,Fox News,Fox and Friends
 Schiff Vitamins,Neuriva,6/17/22,Morning,Fox News,Fox and Friends
 Choice Hotels,Choice Hotels,6/17/22,Morning,Fox News,Fox and Friends
-Zoetis,Cytopoint,6/17/22,Morning,Fox News,Fox and Friends
+Zoetis Petcare,Cytopoint,6/17/22,Morning,Fox News,Fox and Friends
 Marcum,Marcum,6/17/22,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Paradontax,6/17/22,Morning,Fox News,Fox and Friends
 Liberty Legal,Liberty Legal,6/17/22,Morning,Fox News,Fox and Friends
@@ -294,7 +294,7 @@ MyPillow,MyPillow Premium,5/29/22,Afternoon,Fox News,Fox News Live
 Homelight,Homelight,5/29/22,Afternoon,Fox News,Fox News Live
 Fox Entertainment,Beat Shazam,5/29/22,Afternoon,Fox News,Fox News Live
 Stellantis,Dodge Ram,5/28/22,Evening,Fox News,One Nation
-Zoetis,Cytopoint,5/28/22,Evening,Fox News,One Nation
+Zoetis Petcare,Cytopoint,5/28/22,Evening,Fox News,One Nation
 Golden Corral,Golden Corral,5/28/22,Evening,Fox News,One Nation
 GlaxoSmithKline,Flonase,5/28/22,Evening,Fox News,One Nation
 Truebill,Truebill,5/28/22,Evening,Fox News,One Nation
@@ -315,7 +315,7 @@ Quincy Bioscience,Prevagen,5/22/22,Morning,Fox News,Fox and Friends Sunday
 Argenx,Vyvgart,5/22/22,Morning,Fox News,Fox and Friends Sunday
 Solo Stove,Solo Stove,5/22/22,Morning,Fox News,Fox and Friends Sunday
 iTrustCapital,iTrustCapital,5/22/22,Morning,Fox News,Fox and Friends Sunday
-Zoetis,Cytopoint,5/22/22,Morning,Fox News,Fox and Friends Sunday
+Zoetis Petcare,Cytopoint,5/22/22,Morning,Fox News,Fox and Friends Sunday
 JG Wentworth,JG Wentworth,5/21/22,Afternoon,Fox News,Fox News Live
 Boxed,Boxed,5/21/22,Afternoon,Fox News,Fox News Live
 Force Factor,Probio Slim,5/21/22,Afternoon,Fox News,Fox News Live
@@ -1228,7 +1228,7 @@ Abbott Laboratories ,Glucerna,1/23/22,Afternoon,Fox News,The Big Sunday Show
 GlaxoSmithKline,Chapstick,1/23/22,Afternoon,Fox News,The Big Sunday Show
 University of Phoenix,University of Phoenix,1/23/22,Afternoon,Fox News,The Big Sunday Show
 New Vitality,Ageless Male Max,1/23/22,Afternoon,Fox News,The Big Sunday Show
-Astra Zeneca,Fasenra,1/23/22,Afternoon,Fox News,The Big Sunday Show
+AstraZeneca,Fasenra,1/23/22,Afternoon,Fox News,The Big Sunday Show
 X-Chair,Elemax,1/23/22,Afternoon,Fox News,The Big Sunday Show
 True Classic Tees,True Classic Tees,1/23/22,Afternoon,Fox News,The Big Sunday Show
 Jerry,Get Jerry,1/23/22,Afternoon,Fox News,The Big Sunday Show
@@ -2358,7 +2358,7 @@ Rejuvenate,Rejuvenate Products,8/29/21,Morning,Fox News,Fox and Friends Sunday
 Sleep Number,Sleep Number,8/29/21,Morning,Fox News,Fox and Friends Sunday
 Allstate,Allstate,8/28/21,Morning,Fox News,Fox and Friends
 Angi,Angi,8/28/21,Morning,Fox News,Fox and Friends
-Astra Zeneca,Breztri,8/28/21,Morning,Fox News,Fox and Friends
+AstraZeneca,Breztri,8/28/21,Morning,Fox News,Fox and Friends
 Essilor,Varilux,8/28/21,Morning,Fox News,Fox and Friends
 New Vitality,Ageless Male,8/28/21,Morning,Fox News,Fox and Friends
 SeaBond,SeaBond,8/28/21,Morning,Fox News,Fox and Friends
@@ -3028,7 +3028,7 @@ Guthy-Renker,Proactiv,5/27/21,Evening,Fox News,The Ingraham Angle
 Quincy Bioscience,Prevagen,5/27/21,Evening,Fox News,The Ingraham Angle
 Tractor Supply Company,Tractor Supply Company,5/27/21,Evening,Fox News,The Ingraham Angle
 Visiting Angels,Visiting Angels,5/27/21,Evening,Fox News,The Ingraham Angle
-Astra Zeneca,Breztri,5/26/21,Afternoon,Fox News,The FIVE
+AstraZeneca,Breztri,5/26/21,Afternoon,Fox News,The FIVE
 Balance of Nature,Fruits and Veggies,5/26/21,Afternoon,Fox News,The FIVE
 Charter Communications,Spectrum Mobile,5/26/21,Afternoon,Fox News,The FIVE
 Coventry Direct,Coventry Direct,5/26/21,Afternoon,Fox News,The FIVE
@@ -3289,7 +3289,7 @@ Splash Financial,Splash Financial,4/25/21,Evening,Fox News,Tucker Carlson Origin
 The Motley Fool,Stock Advisor,4/25/21,Evening,Fox News,Tucker Carlson Originals
 Tubi,Tubi App,4/25/21,Evening,Fox News,Tucker Carlson Originals
 WeatherTech,WeatherTech,4/25/21,Evening,Fox News,Tucker Carlson Originals
-Astra Zeneca,Breztri,4/24/21,Morning,Fox News,Cavuto Live
+AstraZeneca,Breztri,4/24/21,Morning,Fox News,Cavuto Live
 Balance of Nature,Fruits,4/24/21,Morning,Fox News,Cavuto Live
 Empower,Empower Retirement,4/24/21,Morning,Fox News,Cavuto Live
 Guthy-Renker,Proactiv,4/24/21,Morning,Fox News,Cavuto Live
@@ -3424,7 +3424,7 @@ Safelite Group,Safelite AutoGlass,4/12/21,Morning,Fox News,Americas Newsroom
 Tailored Brands,Mens Warehouse,4/12/21,Morning,Fox News,Americas Newsroom
 USAA,USAA Insurance,4/12/21,Morning,Fox News,Americas Newsroom
 ZipRecruiter,ZipRecruiter,4/12/21,Morning,Fox News,Americas Newsroom
-Astra Zeneca,Breztri,4/11/21,Morning,Fox News,Sunday Morning Futures
+AstraZeneca,Breztri,4/11/21,Morning,Fox News,Sunday Morning Futures
 Balance of Nature,Veggies,4/11/21,Morning,Fox News,Sunday Morning Futures
 Care.com,Care.com,4/11/21,Morning,Fox News,Sunday Morning Futures
 Charter Communications,Spectrum Mobile,4/11/21,Morning,Fox News,Sunday Morning Futures
@@ -3823,7 +3823,7 @@ Purple,Purple Mattress,2/13/21,Evening,Fox News,Special Report
 TrueCar,TrueCar,2/13/21,Evening,Fox News,Special Report
 Vroom,Vroom,2/13/21,Evening,Fox News,Special Report
 ZipRecruiter,ZipRecruiter,2/13/21,Evening,Fox News,Special Report
-Astra Zeneca,Nexium,2/12/21,Morning,Fox News,Fox and Friends
+AstraZeneca,Nexium,2/12/21,Morning,Fox News,Fox and Friends
 Balance of Nature,Veggies,2/12/21,Morning,Fox News,Fox and Friends
 BDO,BDO,2/12/21,Morning,Fox News,Fox and Friends
 Carfax,carfax.com,2/12/21,Morning,Fox News,Fox and Friends
