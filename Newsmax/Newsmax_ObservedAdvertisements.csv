@@ -1,4 +1,9 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Teeter,FreeStep,7/12/22,Morning,Newsmax,Wake Up America
+Novo Nordisk,Ozempic,7/12/22,Morning,Newsmax,Wake Up America
+Tommy John,Tommy John,7/11/22,Evening,Newsmax,Prime News
+TheZebra,TheZebra,7/11/22,Evening,Newsmax,Prime News
+Dormeo,Dormeo,7/11/22,Evening,Newsmax,Prime News
 Quincy Bioscience,Prevagen,7/10/22,Evening,Newsmax,Ronald Reagan
 Balance of Nature,Veggies,7/10/22,Afternoon,Newsmax,Dick Morris Democracy
 Gotham Steel,Gotham Steel Cookware,7/10/22,Afternoon,Newsmax,Dick Morris Democracy
@@ -28,7 +33,7 @@ Solo Stove,Solo Stove,6/22/22,Morning,Newsmax,National Report
 Zoetis Petcare,Simparica,6/22/22,Morning,Newsmax,National Report
 Focus Factor,Focus Factor,6/22/22,Morning,Newsmax,National Report
 Solo Stove,Solo Stove,6/21/22,Afternoon,Newsmax,Wake up America
-Tommy,Tommy John,6/21/22,Afternoon,Newsmax,Wake up America
+Tommy John,Tommy John,6/21/22,Afternoon,Newsmax,Wake up America
 MyPillow,MyPillow Sheets,6/21/22,Afternoon,Newsmax,Wake up America
 Avadim Health,Theraworx,6/20/22,Afternoon,Newsmax,John Bachman Now
 Solo Stove,Solo Stove,6/20/22,Afternoon,Newsmax,John Bachman Now
