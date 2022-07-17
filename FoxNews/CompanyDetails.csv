@@ -11,7 +11,7 @@ ATT,9,11,Telecommunications,Global 500 / Fortune 1000
 Bank of America,29,77,Financial,Global 500 / Fortune 1000
 Bayer,,214,Healthcare,Global 500 / Fortune 1000
 BMW,,56,Motor Vehicles & Automotive,Global 500 / Fortune 1000
-Boehringer Ingelheim,,,Healthcare,Global 500 / Fortune 1000
+Boehringer Ingelheim,,464,Healthcare,Global 500 / Fortune 1000
 Boston Scientific,296,,Healthcare,Global 500 / Fortune 1000
 Bristol Meyers Squibb,75,,Healthcare,Global 500 / Fortune 1000
 Charles Schwab,251,,Financial,Global 500 / Fortune 1000
@@ -93,7 +93,7 @@ Amerisave Mortgage,,,Financial,Other Companies
 Amphastar,,,Healthcare,Other Companies
 Ancestry,,,Ecommerce & Software,Other Companies
 Andersen,,,,Other Companies
-Angi,,,Household Services,Other Companies
+Angi,740,,Household Services,Global 500 / Fortune 1000
 Arc Encounter,,,,Other Companies
 Arctic Air,,,,Other Companies
 Aspen Dental,,,Healthcare,Other Companies
@@ -181,7 +181,7 @@ Golden Corral,,,Retail & Restaurants,Other Companies
 Goldline,,,,Other Companies
 Goldwater Law Firm,,,Other,Other Companies
 Goli,,,Supplements & Weight Loss,Other Companies
-GOLO.com,,,Supplements & Weight Loss,Other Companies
+GOLO,,,Supplements & Weight Loss,Other Companies
 Greenlight,,,Financial,Venture Funded
 Guardian Legal Network,,,Other,Other Companies
 Guthy-Renker,,,Household & Food Products,Other Companies
@@ -252,7 +252,7 @@ Mylan,,,,Other Companies
 MyPillow,,,Household & Food Products,Other Companies
 Nano Hearing Aids,,,Healthcare,Other Companies
 Nature Made ,,,Supplements & Weight Loss,Other Companies
-Natures Health Connection,,,Supplements & Weight Loss,Other Companies
+Natures Health,,,Supplements & Weight Loss,Other Companies
 Navage,,,,Other Companies
 NetCredit,,,,Other Companies
 Neurocrine,,,Healthcare,Other Companies
@@ -404,7 +404,7 @@ LemonAid,,,Healthcare,Venture Funded
 LemonAid Health,,,Healthcare,Venture Funded
 M1 Finance,,,Financial,Venture Funded
 NerdWallet,,,Financial,Venture Funded
-Priceline,,,Ecommerce & Software,Venture Funded
+Priceline,339,,Ecommerce & Software,Global 500 / Fortune 1000
 Purple,,,Household & Food Products,Venture Funded
 Ro,,,Healthcare,Venture Funded
 Robinhood,,,Financial,Venture Funded
@@ -487,3 +487,51 @@ Iowa,,,,Other Companies
 Ownerly,,,,Other Companies
 Hair Club,,,,Other Companies
 Nissan,,116,Motor Vehicles & Automotive,Global 500 / Fortune 1000
+ChromaDex,,,,Other Companies
+Pods,,,,Other Companies
+Hip Optical,,,,Other Companies
+JB Weld,,,,Other Companies
+Walgreens,16,,Retail & Restaurants,Other Companies
+PCH,,,,Other Companies
+Nugenix,,,,Other Companies
+Cubii,,,,Other Companies
+Pie Insurance,,,,Other Companies
+Lectric eBikes,,,,Other Companies
+Nonyx,,,,Other Companies
+IFCJ,,,,Other Companies
+Miso Robotics,,,,Other Companies
+FreshPet,,,,Other Companies
+Miracle Ear,,,,Other Companies
+Babbel,,,,Other Companies
+Gelesis,,,,Other Companies
+Upwork,,,,Venture Funded
+Booking.com,,,,Other Companies
+FileSmart.tax,,,,Other Companies
+Sony,,88,Telecommunications,Global 500 / Fortune 1000
+LeafGuard,,,,Other Companies
+American Edge,,,,Other Companies
+DentalPlans.com,,,,Other Companies
+Vari,,,,Other Companies
+Mypurmist,,,Healthcare,Other Companies
+Similasan,,,,Other Companies
+Elevance Health,20,,Healthcare,Other Companies
+Annuity General,,,Financial,Other Companies
+Focus on the Family,,,,Other Companies
+Choice Hotels,,,Retail & Restaurants,Other Companies
+Marcum,,,Financial,Other Companies
+GovMint,,,Financial,Other Companies
+John Hagee Ministries,,,,Other Companies
+Aurobindo Pharma,,,,Other Companies
+Liberty Legal,,,,Other Companies
+Ashley,,,,Other Companies
+Red Lobster,,,Retail & Restaurants,Other Companies
+GolfForever,,,,Other Companies
+Fox Entertainment,,,Telecommunications,Other Companies
+CampLejueneVictims,,,Other,Other Companies
+Total Gym,,,,Other Companies
+Nascar ,,,Telecommunications,Other Companies
+WalletHub,,,Financial,Other Companies
+ThunderWorks,,,,Other Companies
+Alpecin,,,,Other Companies
+Opti-Nail,,,,Other Companies
+Kia,,215,Motor Vehicles & Automotive,Global 500 / Fortune 1000
