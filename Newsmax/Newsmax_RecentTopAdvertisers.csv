@@ -1,88 +1,83 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-MyPillow,7.344632768361582,2022-07-17,"MyPillow, MySlippers, MyPillow Premium, MyPillow Sheets, MyStore",Household & Food Products,,,100 days ending 2022-07-18,13
-Balance of Nature,3.954802259887006,2022-07-18,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2022-07-18,7
-Relief Factor,3.389830508474576,2022-06-22,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-07-18,6
-Ideal Agent,3.389830508474576,2022-07-15,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-07-18,6
-Lectric eBikes,3.389830508474576,2022-07-16,"Lectric eBikes, XR2",,,,100 days ending 2022-07-18,6
-Tommy John,2.824858757062147,2022-07-11,Tommy John,Retail & Restaurants,,,100 days ending 2022-07-18,5
-TheZebra,2.824858757062147,2022-07-15,TheZebra,,,,100 days ending 2022-07-18,5
-Avadim Health,2.2598870056497176,2022-06-20,Theraworx,Healthcare,,,100 days ending 2022-07-18,4
-Novo Nordisk,2.2598870056497176,2022-07-17,"Rybelsus, Ozempic",Healthcare,,,100 days ending 2022-07-18,4
-AstraZeneca,2.2598870056497176,2022-05-19,"Breztri, Farxiga",Healthcare,,462.0,100 days ending 2022-07-18,4
-Relaxium,2.2598870056497176,2022-06-17,Relaxium,,,,100 days ending 2022-07-18,4
-Harrelsons Own,2.2598870056497176,2022-05-25,Harrelsons Own,,,,100 days ending 2022-07-18,4
-Solo Stove,2.2598870056497176,2022-06-22,Solo Stove,,,,100 days ending 2022-07-18,4
-Interactive Brokers,2.2598870056497176,2022-06-17,"Global Trader, IBKR",,,,100 days ending 2022-07-18,4
-Golden Corral,1.694915254237288,2022-05-31,Golden Corral,Retail & Restaurants,,,100 days ending 2022-07-18,3
-Choice Home Warranty,1.694915254237288,2022-07-18,Choice Home Warranty,,,,100 days ending 2022-07-18,3
-Sketchers,1.694915254237288,2022-06-20,"Massage Fit, Foamies, Sketchers",,,,100 days ending 2022-07-18,3
-Stihl,1.694915254237288,2022-05-19,Stihl Chainsaws,Hardware and Machinery,,,100 days ending 2022-07-18,3
-Qunol,1.694915254237288,2022-05-19,"CoQ10, Ultra Omega 3",Supplements & Weight Loss,,,100 days ending 2022-07-18,3
-GOLO,1.694915254237288,2022-07-04,GOLO,Supplements & Weight Loss,,,100 days ending 2022-07-18,3
-BlendJet,1.694915254237288,2022-07-15,BlendJet,,,,100 days ending 2022-07-18,3
-Nutrisystem,1.694915254237288,2022-07-06,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-07-18,3
-Silver Singles,1.1299435028248588,2022-07-06,Silver Singles,,,,100 days ending 2022-07-18,2
-New Vitality,1.1299435028248588,2022-05-23,Ageless Male Max,Supplements & Weight Loss,,,100 days ending 2022-07-18,2
-Miso Robotics,1.1299435028248588,2022-06-17,Flippy,,,,100 days ending 2022-07-18,2
-Winning Team Pub.,1.1299435028248588,2022-04-22,45Books,,,,100 days ending 2022-07-18,2
-Boehringer Ingelheim,1.1299435028248588,2022-07-06,Jardiance,Healthcare,,464.0,100 days ending 2022-07-18,2
-Focus Factor,1.1299435028248588,2022-06-22,Focus Factor,,,,100 days ending 2022-07-18,2
-FindingTruePeace,1.1299435028248588,2022-05-04,FindingTruePeace,Other,,,100 days ending 2022-07-18,2
-Victims Justice Group,1.1299435028248588,2022-07-01,Victims Justice Group,,,,100 days ending 2022-07-18,2
-Humanix Books,1.1299435028248588,2022-05-31,War on Cash 911,,,,100 days ending 2022-07-18,2
-Zoetis Petcare,1.1299435028248588,2022-07-04,Simparica,Household & Food Products,,,100 days ending 2022-07-18,2
-HumanN,1.1299435028248588,2022-05-29,"SuperBeets Heart Chews, SuperBeets",,,,100 days ending 2022-07-18,2
-OptimaTax,1.1299435028248588,2022-04-29,OptimaTax,,,,100 days ending 2022-07-18,2
-WorkX,0.5649717514124294,2022-04-16,WorkX Nitrol,,,,100 days ending 2022-07-18,1
-Ferndale Healthcare ,0.5649717514124294,2022-05-05,DerMend,Healthcare,,,100 days ending 2022-07-18,1
-PWRCell,0.5649717514124294,2022-04-29,PWRCell,,,,100 days ending 2022-07-18,1
-DailyWire,0.5649717514124294,2022-04-11,DailyWire Streaming,,,,100 days ending 2022-07-18,1
-Standard Manufacturing,0.5649717514124294,2022-07-06,Switch Gun,,,,100 days ending 2022-07-18,1
-SmartBiz Loans,0.5649717514124294,2022-07-17,SmartBiz Loans,,,,100 days ending 2022-07-18,1
-Pooph,0.5649717514124294,2022-07-04,Pooph,,,,100 days ending 2022-07-18,1
-AquaCare,0.5649717514124294,2022-04-20,AquaCare,,,,100 days ending 2022-07-18,1
-Teeter,0.5649717514124294,2022-07-12,FreeStep,,,,100 days ending 2022-07-18,1
-Quincy Bioscience,0.5649717514124294,2022-07-10,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-07-18,1
-CarShield,0.5649717514124294,2022-04-15,CarShield,Household & Food Products,,,100 days ending 2022-07-18,1
-SunSetter,0.5649717514124294,2022-05-29,SunSetter,,,,100 days ending 2022-07-18,1
-Coventry Direct,0.5649717514124294,2022-04-11,Coventry Direct,Financial,,,100 days ending 2022-07-18,1
-Hint,0.5649717514124294,2022-05-11,Drink Hint,,,,100 days ending 2022-07-18,1
-PowerXL,0.5649717514124294,2022-04-26,PowerXL,,,,100 days ending 2022-07-18,1
-Omaha Steaks,0.5649717514124294,2022-04-23,Omaha Steaks,Healthcare,,,100 days ending 2022-07-18,1
-Sokolove Law,0.5649717514124294,2022-07-04,Camp Lejeune Water,,,,100 days ending 2022-07-18,1
-American Advisors Group,0.5649717514124294,2022-04-21,AAG Reverse ,Financial,,,100 days ending 2022-07-18,1
-Brightstar Care,0.5649717514124294,2022-04-10,Brightstar Care,,,,100 days ending 2022-07-18,1
-Whisker,0.5649717514124294,2022-05-19,Litter Robot,Household & Food Products,,,100 days ending 2022-07-18,1
-American Home Shield,0.5649717514124294,2022-05-16,American Home Shield,Household Services,,,100 days ending 2022-07-18,1
-Nutramax,0.5649717514124294,2022-06-17,Cosequin,,,,100 days ending 2022-07-18,1
-Carpe,0.5649717514124294,2022-04-13,Carpe,,,,100 days ending 2022-07-18,1
-Medix Select,0.5649717514124294,2022-05-27,Prostate Revive,,,,100 days ending 2022-07-18,1
-GovMint,0.5649717514124294,2022-07-15,GovMint,Financial,,,100 days ending 2022-07-18,1
-CreditAssociates,0.5649717514124294,2022-07-16,CreditAssociates,,,,100 days ending 2022-07-18,1
-Rigged2020,0.5649717514124294,2022-05-13,Rigged2020,,,,100 days ending 2022-07-18,1
-Nuzzle,0.5649717514124294,2022-05-04,MyNuzzle,,,,100 days ending 2022-07-18,1
-Legacy Precious Metals,0.5649717514124294,2022-05-17,Legacy Precious Metals,,,,100 days ending 2022-07-18,1
-Startengine,0.5649717514124294,2022-05-13,Startengine,,,,100 days ending 2022-07-18,1
-Navage,0.5649717514124294,2022-04-11,Navage Nasal Care,,,,100 days ending 2022-07-18,1
-Blue Sky Recovery,0.5649717514124294,2022-06-30,Blue Sky Recovery,,,,100 days ending 2022-07-18,1
-Bond Arms,0.5649717514124294,2022-04-11,Bond Arms,,,,100 days ending 2022-07-18,1
-SunJoe,0.5649717514124294,2022-04-24,Try SunJoe,,,,100 days ending 2022-07-18,1
-Lonestar Transfer,0.5649717514124294,2022-04-13,Lonestar Transfer,,,,100 days ending 2022-07-18,1
-Patriot Gold and Silver,0.5649717514124294,2022-06-22,Patriot Gold and Silver,,,,100 days ending 2022-07-18,1
-Gotham Steel,0.5649717514124294,2022-07-10,Gotham Steel Cookware,,,,100 days ending 2022-07-18,1
-SoClean,0.5649717514124294,2022-04-23,SoClean,Healthcare,,,100 days ending 2022-07-18,1
-Superzilla,0.5649717514124294,2022-04-16,Superzilla,,,,100 days ending 2022-07-18,1
-Force Factor,0.5649717514124294,2022-04-21,Super Beta Prostate,Supplements & Weight Loss,,,100 days ending 2022-07-18,1
-The Kids Guide,0.5649717514124294,2022-04-11,The Kids Guide to President Trump,,,,100 days ending 2022-07-18,1
-Bionic FloodLight,0.5649717514124294,2022-05-16,Bionic FloodLight,,,,100 days ending 2022-07-18,1
-Dynamo Emergency Band Radio,0.5649717514124294,2022-06-30,Dynamo Emergency Band Radio,Household & Food Products,,,100 days ending 2022-07-18,1
-Dormeo,0.5649717514124294,2022-07-11,Dormeo,,,,100 days ending 2022-07-18,1
-Swiss America,0.5649717514124294,2022-05-09,Swiss America,,,,100 days ending 2022-07-18,1
-Novex Biotech,0.5649717514124294,2022-07-17,GF-9,,,,100 days ending 2022-07-18,1
-Unstoppable Prosperity,0.5649717514124294,2022-04-22,Unstoppable Prosperity,,,,100 days ending 2022-07-18,1
-ClearCaptions,0.5649717514124294,2022-05-09,ClearCaptions,,,,100 days ending 2022-07-18,1
-WeatherTech,0.5649717514124294,2022-04-30,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2022-07-18,1
-Gravity Defyer,0.5649717514124294,2022-05-20,GDefy,,,,100 days ending 2022-07-18,1
-Arctic Air,0.5649717514124294,2022-05-25,Arctic Air,,,,100 days ending 2022-07-18,1
-RexMD,0.5649717514124294,2022-04-29,Generic Viagra,,,,100 days ending 2022-07-18,1
-Magnilife,0.5649717514124294,2022-06-22,Magnilife,,,,100 days ending 2022-07-18,1
+MyPillow,7.6923076923076925,2022-07-17,"MyPillow, MySlippers, MyPillow Premium, MyPillow Sheets, MyStore",Household & Food Products,,,100 days ending 2022-07-20,13
+Balance of Nature,4.142011834319527,2022-07-18,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2022-07-20,7
+Relief Factor,3.5502958579881656,2022-06-22,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-07-20,6
+Lectric eBikes,3.5502958579881656,2022-07-16,"Lectric eBikes, XR2",,,,100 days ending 2022-07-20,6
+Ideal Agent,3.5502958579881656,2022-07-15,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-07-20,6
+Tommy John,2.9585798816568047,2022-07-11,Tommy John,Retail & Restaurants,,,100 days ending 2022-07-20,5
+TheZebra,2.9585798816568047,2022-07-15,TheZebra,,,,100 days ending 2022-07-20,5
+Relaxium,2.366863905325444,2022-06-17,Relaxium,,,,100 days ending 2022-07-20,4
+Interactive Brokers,2.366863905325444,2022-06-17,"Global Trader, IBKR",,,,100 days ending 2022-07-20,4
+Novo Nordisk,2.366863905325444,2022-07-17,"Rybelsus, Ozempic",Healthcare,,,100 days ending 2022-07-20,4
+Solo Stove,2.366863905325444,2022-06-22,Solo Stove,,,,100 days ending 2022-07-20,4
+Avadim Health,2.366863905325444,2022-06-20,Theraworx,Healthcare,,,100 days ending 2022-07-20,4
+Golden Corral,1.7751479289940828,2022-05-31,Golden Corral,Retail & Restaurants,,,100 days ending 2022-07-20,3
+BlendJet,1.7751479289940828,2022-07-15,BlendJet,,,,100 days ending 2022-07-20,3
+GOLO,1.7751479289940828,2022-07-04,GOLO,Supplements & Weight Loss,,,100 days ending 2022-07-20,3
+Sketchers,1.7751479289940828,2022-06-20,"Massage Fit, Foamies, Sketchers",,,,100 days ending 2022-07-20,3
+Harrelsons Own,1.7751479289940828,2022-05-25,Harrelsons Own,,,,100 days ending 2022-07-20,3
+Nutrisystem,1.7751479289940828,2022-07-06,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-07-20,3
+Stihl,1.7751479289940828,2022-05-19,Stihl Chainsaws,Hardware and Machinery,,,100 days ending 2022-07-20,3
+Choice Home Warranty,1.7751479289940828,2022-07-18,Choice Home Warranty,,,,100 days ending 2022-07-20,3
+Boehringer Ingelheim,1.183431952662722,2022-07-06,Jardiance,Healthcare,,464.0,100 days ending 2022-07-20,2
+Victims Justice Group,1.183431952662722,2022-07-01,Victims Justice Group,,,,100 days ending 2022-07-20,2
+Miso Robotics,1.183431952662722,2022-06-17,Flippy,,,,100 days ending 2022-07-20,2
+FindingTruePeace,1.183431952662722,2022-05-04,FindingTruePeace,Other,,,100 days ending 2022-07-20,2
+Focus Factor,1.183431952662722,2022-06-22,Focus Factor,,,,100 days ending 2022-07-20,2
+Humanix Books,1.183431952662722,2022-05-31,War on Cash 911,,,,100 days ending 2022-07-20,2
+New Vitality,1.183431952662722,2022-05-23,Ageless Male Max,Supplements & Weight Loss,,,100 days ending 2022-07-20,2
+Qunol,1.183431952662722,2022-05-19,CoQ10,Supplements & Weight Loss,,,100 days ending 2022-07-20,2
+AstraZeneca,1.183431952662722,2022-05-19,"Breztri, Farxiga",Healthcare,,462.0,100 days ending 2022-07-20,2
+OptimaTax,1.183431952662722,2022-04-29,OptimaTax,,,,100 days ending 2022-07-20,2
+Lonestar Transfer,1.183431952662722,2022-07-20,Lonestar Transfer,,,,100 days ending 2022-07-20,2
+Winning Team Pub.,1.183431952662722,2022-04-22,45Books,,,,100 days ending 2022-07-20,2
+Zoetis Petcare,1.183431952662722,2022-07-04,Simparica,Household & Food Products,,,100 days ending 2022-07-20,2
+Silver Singles,1.183431952662722,2022-07-06,Silver Singles,,,,100 days ending 2022-07-20,2
+HumanN,1.183431952662722,2022-05-29,"SuperBeets Heart Chews, SuperBeets",,,,100 days ending 2022-07-20,2
+AquaCare,0.591715976331361,2022-04-20,AquaCare,,,,100 days ending 2022-07-20,1
+Nutramax,0.591715976331361,2022-06-17,Cosequin,,,,100 days ending 2022-07-20,1
+CreditAssociates,0.591715976331361,2022-07-16,CreditAssociates,,,,100 days ending 2022-07-20,1
+Carpe,0.591715976331361,2022-04-13,Carpe,,,,100 days ending 2022-07-20,1
+Pooph,0.591715976331361,2022-07-04,Pooph,,,,100 days ending 2022-07-20,1
+PWRCell,0.591715976331361,2022-04-29,PWRCell,,,,100 days ending 2022-07-20,1
+Rosland Capital,0.591715976331361,2022-07-20,Rosland Capital,Financial,,,100 days ending 2022-07-20,1
+Bionic FloodLight,0.591715976331361,2022-05-16,Bionic FloodLight,,,,100 days ending 2022-07-20,1
+SunJoe,0.591715976331361,2022-04-24,Try SunJoe,,,,100 days ending 2022-07-20,1
+Blue Sky Recovery,0.591715976331361,2022-06-30,Blue Sky Recovery,,,,100 days ending 2022-07-20,1
+Gotham Steel,0.591715976331361,2022-07-10,Gotham Steel Cookware,,,,100 days ending 2022-07-20,1
+Ferndale Healthcare ,0.591715976331361,2022-05-05,DerMend,Healthcare,,,100 days ending 2022-07-20,1
+Unstoppable Prosperity,0.591715976331361,2022-04-22,Unstoppable Prosperity,,,,100 days ending 2022-07-20,1
+Swiss America,0.591715976331361,2022-05-09,Swiss America,,,,100 days ending 2022-07-20,1
+GovMint,0.591715976331361,2022-07-15,GovMint,Financial,,,100 days ending 2022-07-20,1
+WeatherTech,0.591715976331361,2022-04-30,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2022-07-20,1
+Novex Biotech,0.591715976331361,2022-07-17,GF-9,,,,100 days ending 2022-07-20,1
+RexMD,0.591715976331361,2022-04-29,Generic Viagra,,,,100 days ending 2022-07-20,1
+ClearCaptions,0.591715976331361,2022-05-09,ClearCaptions,,,,100 days ending 2022-07-20,1
+Standard Manufacturing,0.591715976331361,2022-07-06,Switch Gun,,,,100 days ending 2022-07-20,1
+Quincy Bioscience,0.591715976331361,2022-07-10,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-07-20,1
+Medix Select,0.591715976331361,2022-05-27,Prostate Revive,,,,100 days ending 2022-07-20,1
+Force Factor,0.591715976331361,2022-04-21,Super Beta Prostate,Supplements & Weight Loss,,,100 days ending 2022-07-20,1
+SmartBiz Loans,0.591715976331361,2022-07-17,SmartBiz Loans,,,,100 days ending 2022-07-20,1
+SoClean,0.591715976331361,2022-04-23,SoClean,Healthcare,,,100 days ending 2022-07-20,1
+American Advisors Group,0.591715976331361,2022-04-21,AAG Reverse ,Financial,,,100 days ending 2022-07-20,1
+Hint,0.591715976331361,2022-05-11,Drink Hint,,,,100 days ending 2022-07-20,1
+SunSetter,0.591715976331361,2022-05-29,SunSetter,,,,100 days ending 2022-07-20,1
+Legacy Precious Metals,0.591715976331361,2022-05-17,Legacy Precious Metals,,,,100 days ending 2022-07-20,1
+Patriot Gold and Silver,0.591715976331361,2022-06-22,Patriot Gold and Silver,,,,100 days ending 2022-07-20,1
+Rigged2020,0.591715976331361,2022-05-13,Rigged2020,,,,100 days ending 2022-07-20,1
+Gravity Defyer,0.591715976331361,2022-05-20,GDefy,,,,100 days ending 2022-07-20,1
+American Home Shield,0.591715976331361,2022-05-16,American Home Shield,Household Services,,,100 days ending 2022-07-20,1
+WorkX,0.591715976331361,2022-04-16,WorkX Nitrol,,,,100 days ending 2022-07-20,1
+Omaha Steaks,0.591715976331361,2022-04-23,Omaha Steaks,Healthcare,,,100 days ending 2022-07-20,1
+PowerXL,0.591715976331361,2022-04-26,PowerXL,,,,100 days ending 2022-07-20,1
+CarShield,0.591715976331361,2022-04-15,CarShield,Household & Food Products,,,100 days ending 2022-07-20,1
+Startengine,0.591715976331361,2022-05-13,Startengine,,,,100 days ending 2022-07-20,1
+Nuzzle,0.591715976331361,2022-05-04,MyNuzzle,,,,100 days ending 2022-07-20,1
+Dormeo,0.591715976331361,2022-07-11,Dormeo,,,,100 days ending 2022-07-20,1
+Superzilla,0.591715976331361,2022-04-16,Superzilla,,,,100 days ending 2022-07-20,1
+Dynamo Emergency Band Radio,0.591715976331361,2022-06-30,Dynamo Emergency Band Radio,Household & Food Products,,,100 days ending 2022-07-20,1
+Arctic Air,0.591715976331361,2022-05-25,Arctic Air,,,,100 days ending 2022-07-20,1
+Sokolove Law,0.591715976331361,2022-07-04,Camp Lejeune Water,,,,100 days ending 2022-07-20,1
+Magnilife,0.591715976331361,2022-06-22,Magnilife,,,,100 days ending 2022-07-20,1
+Teeter,0.591715976331361,2022-07-12,FreeStep,,,,100 days ending 2022-07-20,1
+Whisker,0.591715976331361,2022-05-19,Litter Robot,Household & Food Products,,,100 days ending 2022-07-20,1
