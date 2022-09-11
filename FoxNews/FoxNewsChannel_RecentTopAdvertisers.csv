@@ -1,224 +1,227 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-MyPillow,4.07358738501971,2022-09-06,"MySlippers, MyPillow Sheets, MyCoffee, MyPillow Premium, MyPillow Mattess Topper, Mattress Topper, MyPillow, MySlppers",Household & Food Products,,,100 days ending 2022-09-07,31
-Balance of Nature,3.942181340341656,2022-08-19,"Fruits, Veggies, Balance of Nature, Fruits and Veggies, United We Pledge",Supplements & Weight Loss,,,100 days ending 2022-09-07,30
-GlaxoSmithKline,3.1537450722733245,2022-09-07,"Pronamel, About Whooping Cough, WhatisShingles, MeningitisB, Sensodyne, Centrum, Shingrix, Cabenuva, Nexium 24, Nucala, Tums, Paradontax, Meningitis B Information",Healthcare,,282.0,100 days ending 2022-09-07,24
-Relief Factor,2.628120893561104,2022-09-01,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-09-07,20
-Force Factor,2.2339027595269383,2022-09-06,"Prostate Advanced, Smarter Greens, Alpha King, Total Beets, Better Tumeric, Alpha King Surge, SmarterGreens, Probio Slim, Test X180",Supplements & Weight Loss,,,100 days ending 2022-09-07,17
-ADT,1.971090670170828,2022-09-03,ADT,Household Services,541.0,,100 days ending 2022-09-07,15
-X-Chair,1.7082785808147174,2022-09-03,"X-Chair, Elemax, X-HMT",Household & Food Products,,,100 days ending 2022-09-07,13
-Nat. Inj. Law Center,1.7082785808147174,2022-09-06,"Camp Lejune, Camp Lejune Lawsuit",,,,100 days ending 2022-09-07,13
-AliveCor,1.5768725361366622,2022-09-05,KardiaMobile,Healthcare,,,100 days ending 2022-09-07,12
-Ideal Agent,1.445466491458607,2022-09-01,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-09-07,11
-Camping World,1.445466491458607,2022-08-28,Camping World,,475.0,,100 days ending 2022-09-07,11
-Indeed,1.445466491458607,2022-08-28,Indeed,Business Services,,408.0,100 days ending 2022-09-07,11
-Win Reality,1.314060446780552,2022-08-30,Win Reality,,,,100 days ending 2022-09-07,10
-Arby's,1.314060446780552,2022-08-24,Arbys,Retail & Restaurants,,,100 days ending 2022-09-07,10
-Safelite Group,1.314060446780552,2022-09-01,Safelite AutoGlass,Motor Vehicles & Automotive,,,100 days ending 2022-09-07,10
-Sleep Number,1.314060446780552,2022-09-07,Sleep Number,Household & Food Products,,,100 days ending 2022-09-07,10
-NewDayUSA,1.1826544021024967,2022-09-07,NewDayUSA,Financial,,,100 days ending 2022-09-07,9
-General Motors,1.1826544021024967,2022-08-19,"Chevrolet, GMC",Motor Vehicles & Automotive,18.0,40.0,100 days ending 2022-09-07,9
-GOLO,1.0512483574244416,2022-08-30,GOLO,Supplements & Weight Loss,,,100 days ending 2022-09-07,8
-Subway,1.0512483574244416,2022-08-15,Subway,Retail & Restaurants,,,100 days ending 2022-09-07,8
-Golden Corral,1.0512483574244416,2022-09-01,Golden Corral,Retail & Restaurants,,,100 days ending 2022-09-07,8
-Trivago,1.0512483574244416,2022-07-30,Trivago,Ecommerce & Software,,,100 days ending 2022-09-07,8
-Meta,1.0512483574244416,2022-09-07,"Facebook, Meta Portal, Meta",Ecommerce & Software,34.0,86.0,100 days ending 2022-09-07,8
-AbbVie,0.9198423127463863,2022-07-31,"Rinvoq, Juvederm, Vraylar, Ubrevely",Healthcare,99.0,378.0,100 days ending 2022-09-07,7
-Novartis,0.9198423127463863,2022-08-09,"Leqvio, Xiidra, Kisqali, Cosentyx",Healthcare,,225.0,100 days ending 2022-09-07,7
-Simplisafe,0.9198423127463863,2022-08-12,Simplisafe,,,,100 days ending 2022-09-07,7
-Nutrisystem,0.9198423127463863,2022-09-01,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-09-07,7
-Relaxium,0.9198423127463863,2022-09-01,Relaxium,,,,100 days ending 2022-09-07,7
-Johnson and Johnson,0.7884362680683311,2022-08-26,"Tremfya, Tylenol, Stelara",Healthcare,35.0,104.0,100 days ending 2022-09-07,6
-Bayer,0.7884362680683311,2022-08-29,"Astepro, One a Day, AleveX, Aleve",Healthcare,,214.0,100 days ending 2022-09-07,6
-Choice Hotels,0.7884362680683311,2022-09-07,Choice Hotels,Retail & Restaurants,,,100 days ending 2022-09-07,6
-American Home Shield,0.7884362680683311,2022-08-22,American Home Shield,Household Services,,,100 days ending 2022-09-07,6
-Novo Nordisk,0.7884362680683311,2022-09-01,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2022-09-07,6
-Coventry Direct,0.7884362680683311,2022-09-06,Coventry Direct,Financial,,,100 days ending 2022-09-07,6
-Vroom,0.7884362680683311,2022-07-31,Vroom,Ecommerce & Software,,,100 days ending 2022-09-07,6
-HumanN,0.7884362680683311,2022-09-01,SuperBeets,,,,100 days ending 2022-09-07,6
-Verizon,0.7884362680683311,2022-09-03,"Verizon Business, Verizon Wireless",Telecommunications,20.0,44.0,100 days ending 2022-09-07,6
-USPS,0.657030223390276,2022-08-11,USPS,,,,100 days ending 2022-09-07,5
-Sanofi,0.657030223390276,2022-09-06,"Dulcolax, Dupixent, Aspercreme",Healthcare,,289.0,100 days ending 2022-09-07,5
-Nano Hearing Aids,0.657030223390276,2022-08-21,Nano Hearing Aids,Healthcare,,,100 days ending 2022-09-07,5
-Abbott Laboratories ,0.657030223390276,2022-06-28,"FreeStyle Libre, Ensure, Glucerna, Glocerna",Healthcare,104.0,393.0,100 days ending 2022-09-07,5
-Consumer Cellular,0.657030223390276,2022-08-26,Consumer Cellular,Telecommunications,,,100 days ending 2022-09-07,5
-Realtor.com,0.657030223390276,2022-08-26,Realtor.com,Ecommerce & Software,,,100 days ending 2022-09-07,5
-WeatherTech,0.657030223390276,2022-07-20,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2022-09-07,5
-Rosland Capital,0.657030223390276,2022-08-15,Rosland Capital,Financial,,,100 days ending 2022-09-07,5
-The Farmers Dog,0.657030223390276,2022-07-30,The Farmers Dog,Household & Food Products,,,100 days ending 2022-09-07,5
-Zoetis Petcare,0.657030223390276,2022-08-30,"Simparica, Cytopoint",Household & Food Products,,,100 days ending 2022-09-07,5
-Bank of America,0.657030223390276,2022-08-15,Bank of America,Financial,29.0,77.0,100 days ending 2022-09-07,5
-Dine Brands,0.5256241787122208,2022-07-29,Applebees,Retail & Restaurants,,,100 days ending 2022-09-07,4
-Inspire Medical Systems,0.5256241787122208,2022-07-26,Inspire Sleep,,,,100 days ending 2022-09-07,4
-Abeka,0.5256241787122208,2022-08-12,Abeka,Other,,,100 days ending 2022-09-07,4
-Stellantis,0.5256241787122208,2022-08-12,"Ram, Dodge, Jeep",Motor Vehicles & Automotive,,,100 days ending 2022-09-07,4
-Elevance Health,0.5256241787122208,2022-07-06,Elevance Health,Healthcare,20.0,,100 days ending 2022-09-07,4
-Liberty Mutual,0.5256241787122208,2022-08-11,"Life Alert, Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,100 days ending 2022-09-07,4
-Dr Scholls,0.5256241787122208,2022-08-11,"Dr Scholls, Custom Fit, Custon Fit",Retail & Restaurants,,,100 days ending 2022-09-07,4
-MRHFM,0.5256241787122208,2022-08-11,Mesobook,Other,,,100 days ending 2022-09-07,4
-OOFOS,0.5256241787122208,2022-08-19,OOFOS,,,,100 days ending 2022-09-07,4
-RexMD,0.5256241787122208,2022-08-11,"Generic Viagra, RexMD",,,,100 days ending 2022-09-07,4
-Schiff Vitamins,0.5256241787122208,2022-09-06,Neuriva,Supplements & Weight Loss,,,100 days ending 2022-09-07,4
-Bass Pro Shops,0.5256241787122208,2022-07-15,Bass Pro Shops,Retail & Restaurants,,,100 days ending 2022-09-07,4
-Espired,0.5256241787122208,2022-08-09,Kids Guide to President Trump,,,,100 days ending 2022-09-07,4
-AstraZeneca,0.5256241787122208,2022-08-28,"Breztri, Fasenra, Farxiga",Healthcare,,462.0,100 days ending 2022-09-07,4
-Qunol,0.5256241787122208,2022-07-16,"Ultra CoQ10, Tumeric Gummies",Supplements & Weight Loss,,,100 days ending 2022-09-07,4
-ClearChoice,0.5256241787122208,2022-07-12,ClearChoice,Healthcare,,,100 days ending 2022-09-07,4
-Ownerly,0.5256241787122208,2022-09-01,Ownerly,,,,100 days ending 2022-09-07,4
-ClearCaptions,0.5256241787122208,2022-07-16,ClearCaptions,,,,100 days ending 2022-09-07,4
-LeafFilter,0.39421813403416556,2022-07-19,LeafFilter,Household Services,,,100 days ending 2022-09-07,3
-CampLejueneVictims,0.39421813403416556,2022-07-15,CampLejueneVictims,Other,,,100 days ending 2022-09-07,3
-RockAuto,0.39421813403416556,2022-07-31,RockAuto,Ecommerce & Software,,,100 days ending 2022-09-07,3
-Discover,0.39421813403416556,2022-07-31,Discover Card,,,,100 days ending 2022-09-07,3
-Boll and Branch,0.39421813403416556,2022-07-30,Boll and Branch,Household & Food Products,,,100 days ending 2022-09-07,3
-Annuity General,0.39421813403416556,2022-07-13,Annuity Dos and Donts,Financial,,,100 days ending 2022-09-07,3
-ZipRecruiter,0.39421813403416556,2022-07-05,ZipRecruiter,Business Services,,,100 days ending 2022-09-07,3
-Mypurmist,0.39421813403416556,2022-06-29,Mypurmist,Healthcare,,,100 days ending 2022-09-07,3
-Best Western,0.39421813403416556,2022-08-08,Best Western,Other,,,100 days ending 2022-09-07,3
-Natures Health,0.39421813403416556,2022-08-09,Australian Dream,Supplements & Weight Loss,,,100 days ending 2022-09-07,3
-Empower Retirement,0.39421813403416556,2022-07-29,Empower Retirement,Financial,,,100 days ending 2022-09-07,3
-Similasan,0.39421813403416556,2022-07-07,iVizia,,,,100 days ending 2022-09-07,3
-Ark Encounter,0.39421813403416556,2022-09-01,Ark Encounter,,,,100 days ending 2022-09-07,3
-Nestle,0.39421813403416556,2022-08-18,Boost,Household & Food Products,,82.0,100 days ending 2022-09-07,3
-JG Wentworth,0.39421813403416556,2022-09-01,JG Wentworth,Other,,,100 days ending 2022-09-07,3
-SelectQuote,0.39421813403416556,2022-09-01,SelectQuote,Ecommerce & Software,,,100 days ending 2022-09-07,3
-PureTalk,0.39421813403416556,2022-09-06,PureTalk,Telecommunications,,,100 days ending 2022-09-07,3
-VisionWorks,0.39421813403416556,2022-08-19,VisionWorks,Healthcare,,,100 days ending 2022-09-07,3
-Vitrazza,0.39421813403416556,2022-08-26,Chair Mats,Household & Food Products,,,100 days ending 2022-09-07,3
-Kraft Heinz Company,0.39421813403416556,2022-08-18,"Ore Ida, Delimex, Heinz Ketchup",Household & Food Products,122.0,,100 days ending 2022-09-07,3
-Amgen,0.39421813403416556,2022-08-18,"Otezla, Prolia, Enbrel",Healthcare,135.0,,100 days ending 2022-09-07,3
-InteractiveBrokers,0.2628120893561104,2022-07-22,GlobalTrader,Financial,,,100 days ending 2022-09-07,2
-Blue Emu,0.2628120893561104,2022-07-26,Blue Emu,,,,100 days ending 2022-09-07,2
-Avadim Health,0.2628120893561104,2022-08-04,Theraworx,Healthcare,,,100 days ending 2022-09-07,2
-ThirdHome,0.2628120893561104,2022-08-24,ThirdHome,,,,100 days ending 2022-09-07,2
-Fox Entertainment,0.2628120893561104,2022-07-15,"Dont Forget the Lyrics, Masterchef",Telecommunications,,,100 days ending 2022-09-07,2
-Lear Capital,0.2628120893561104,2022-06-16,Lear Capital,Financial,,,100 days ending 2022-09-07,2
-Kramer Labs,0.2628120893561104,2022-07-27,Fungi Nail,,,,100 days ending 2022-09-07,2
-LegalZoom,0.2628120893561104,2022-07-30,LegalZoom,Ecommerce & Software,,,100 days ending 2022-09-07,2
-Focus on the Family,0.2628120893561104,2022-06-30,Focus on the Family,,,,100 days ending 2022-09-07,2
-TheRealReal,0.2628120893561104,2022-08-06,TheRealReal,,,,100 days ending 2022-09-07,2
-Bausch and Lomb,0.2628120893561104,2022-07-27,"PreserVision, Octuvite",Healthcare,,,100 days ending 2022-09-07,2
-Opti-Nail,0.2628120893561104,2022-07-28,Opti-Nail,,,,100 days ending 2022-09-07,2
-Pretty Litter,0.2628120893561104,2022-09-01,Pretty Litter,,,,100 days ending 2022-09-07,2
-Quincy Bioscience,0.2628120893561104,2022-08-17,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-09-07,2
-Bristol Meyers Squibb,0.2628120893561104,2022-07-29,Opdivo Yeryoy,Healthcare,75.0,,100 days ending 2022-09-07,2
-BlendJet,0.2628120893561104,2022-07-29,BlendJet,,,,100 days ending 2022-09-07,2
-Marcum,0.2628120893561104,2022-06-28,Marcum,Financial,,,100 days ending 2022-09-07,2
-Procter and Gamble,0.2628120893561104,2022-08-04,"ZzzQuil, Gilette",Household & Food Products,50.0,156.0,100 days ending 2022-09-07,2
-Lowes,0.2628120893561104,2022-07-25,Lowes,Retail & Restaurants,31.0,80.0,100 days ending 2022-09-07,2
-Dish TV,0.2628120893561104,2022-07-02,Dish TV,Telecommunications,251.0,,100 days ending 2022-09-07,2
-FastSigns,0.2628120893561104,2022-08-12,FastSigns,Business Services,,,100 days ending 2022-09-07,2
-Americas Best,0.2628120893561104,2022-07-23,Americas Best,Retail & Restaurants,,,100 days ending 2022-09-07,2
-Cuddly,0.2628120893561104,2022-07-05,Cuddly,,,,100 days ending 2022-09-07,2
-Sling,0.2628120893561104,2022-08-18,Sling,Telecommunications,,,100 days ending 2022-09-07,2
-PragerU,0.2628120893561104,2022-07-07,PragerU,Other,,,100 days ending 2022-09-07,2
-Booking.com,0.2628120893561104,2022-07-05,Booking.com,,,,100 days ending 2022-09-07,2
-Ford Motor Company,0.2628120893561104,2022-06-22,Lincoln,Motor Vehicles & Automotive,12.0,31.0,100 days ending 2022-09-07,2
-Boehringer Ingelheim,0.2628120893561104,2022-08-13,Jardiance,Healthcare,,464.0,100 days ending 2022-09-07,2
-A Place for Mom,0.2628120893561104,2022-08-18,A Place for Mom,Healthcare,,,100 days ending 2022-09-07,2
-Horizon,0.2628120893561104,2022-07-24,Treat TED,Healthcare,,,100 days ending 2022-09-07,2
-Ryder,0.2628120893561104,2022-08-19,Ryder Trucks,,,,100 days ending 2022-09-07,2
-Miracle Ear,0.2628120893561104,2022-08-19,Miracle Ear,,,,100 days ending 2022-09-07,2
-Visiting Angels,0.2628120893561104,2022-07-21,Visiting Angels,Healthcare,,,100 days ending 2022-09-07,2
-Old Dominion Freight,0.2628120893561104,2022-08-11,Old Dominion Freight,Other,634.0,,100 days ending 2022-09-07,2
-PCH,0.2628120893561104,2022-09-06,Publishers Clearing House,,,,100 days ending 2022-09-07,2
-Vanguard,0.2628120893561104,2022-08-09,"Vanguard Investments, Vanguard Funds",Financial,,,100 days ending 2022-09-07,2
-Stamps.com,0.2628120893561104,2022-06-28,Stamps.com,Business Services,,,100 days ending 2022-09-07,2
-Lacuna Ventures,0.2628120893561104,2022-09-05,Camp Lejune Ventures,,,,100 days ending 2022-09-07,2
-ThunderWorks,0.2628120893561104,2022-06-29,ThunderEase,,,,100 days ending 2022-09-07,2
-Wolf and Shepherd,0.2628120893561104,2022-08-07,Wolf and Shepherd,Retail & Restaurants,,,100 days ending 2022-09-07,2
-Boston Beer Co,0.2628120893561104,2022-07-29,Sam Adams,Household & Food Products,,,100 days ending 2022-09-07,2
-CoPilot,0.1314060446780552,2022-06-04,CoPilot,,,,100 days ending 2022-09-07,1
-Upwork,0.1314060446780552,2022-06-21,Upwork,,,,100 days ending 2022-09-07,1
-GovMint,0.1314060446780552,2022-06-29,GovMint,Financial,,,100 days ending 2022-09-07,1
-WaxRx,0.1314060446780552,2022-06-30,WaxRx,,,,100 days ending 2022-09-07,1
-Smile Direct Club,0.1314060446780552,2022-06-03,Smile Direct Club,,,,100 days ending 2022-09-07,1
-Resperate,0.1314060446780552,2022-06-28,Resperate,,,,100 days ending 2022-09-07,1
-ATT,0.1314060446780552,2022-06-03,ATT Business,Telecommunications,9.0,11.0,100 days ending 2022-09-07,1
-GolfForever,0.1314060446780552,2022-07-04,GolfForever,,,,100 days ending 2022-09-07,1
-Total Gym,0.1314060446780552,2022-07-04,Total Gym,,,,100 days ending 2022-09-07,1
-Aurobindo Pharma,0.1314060446780552,2022-07-04,MidNite,,,,100 days ending 2022-09-07,1
-Plexaderm,0.1314060446780552,2022-07-05,Plexaderm,,,,100 days ending 2022-09-07,1
-Principal,0.1314060446780552,2022-06-01,Principal Retirement,Financial,,,100 days ending 2022-09-07,1
-Eli Lilly,0.1314060446780552,2022-06-03,Trulicity,Healthcare,118.0,,100 days ending 2022-09-07,1
-Alpecin,0.1314060446780552,2022-06-26,Alpecin Shampoo,,,,100 days ending 2022-09-07,1
-Prodege,0.1314060446780552,2022-06-05,InboxDollars,,,,100 days ending 2022-09-07,1
-Paycom,0.1314060446780552,2022-06-15,Paycom,Business Services,617.0,,100 days ending 2022-09-07,1
-Dr Reddys,0.1314060446780552,2022-06-21,Doans,,,,100 days ending 2022-09-07,1
-PC Matic,0.1314060446780552,2022-06-20,PC Matic,Ecommerce & Software,,,100 days ending 2022-09-07,1
-CopperFit,0.1314060446780552,2022-07-06,Energy Socks,,,,100 days ending 2022-09-07,1
-Farmers Insurance,0.1314060446780552,2022-06-22,Farmers Insurance,Insurance,256.0,,100 days ending 2022-09-07,1
-Silac Insurance,0.1314060446780552,2022-06-24,Silac Insurance,,,,100 days ending 2022-09-07,1
-Red Lobster,0.1314060446780552,2022-06-20,Red Lobster,Retail & Restaurants,,,100 days ending 2022-09-07,1
-John Hagee Ministries,0.1314060446780552,2022-06-20,Sanctuary of Hope,,,,100 days ending 2022-09-07,1
-Magic Mesh,0.1314060446780552,2022-06-20,Magic Mesh,,,,100 days ending 2022-09-07,1
-Ashley,0.1314060446780552,2022-06-19,Ashley Furniture,,,,100 days ending 2022-09-07,1
-Liberty Legal,0.1314060446780552,2022-06-17,Liberty Legal,,,,100 days ending 2022-09-07,1
-Carfax,0.1314060446780552,2022-06-16,Carfax,Ecommerce & Software,,,100 days ending 2022-09-07,1
-FreshPet,0.1314060446780552,2022-06-24,FreshPet,,,,100 days ending 2022-09-07,1
-Teleflex,0.1314060446780552,2022-06-24,Urolift,Healthcare,,,100 days ending 2022-09-07,1
-Arctic Air,0.1314060446780552,2022-06-24,Arctic Air,,,,100 days ending 2022-09-07,1
-Walmart,0.1314060446780552,2022-06-16,Walmart,Retail & Restaurants,1.0,1.0,100 days ending 2022-09-07,1
-Nascar ,0.1314060446780552,2022-06-24,Nascar Nashville,Telecommunications,,,100 days ending 2022-09-07,1
-Andersen,0.1314060446780552,2022-06-16,Renewal by Andersen,,,,100 days ending 2022-09-07,1
-WalletHub,0.1314060446780552,2022-06-16,WalletHub,Financial,,,100 days ending 2022-09-07,1
-Stihl,0.1314060446780552,2022-06-16,Stihl Tools,Hardware and Machinery,,,100 days ending 2022-09-07,1
-Ro,0.1314060446780552,2022-06-25,Roman,Healthcare,,,100 days ending 2022-09-07,1
-Nissan,0.1314060446780552,2022-06-26,Infiniti,Motor Vehicles & Automotive,,116.0,100 days ending 2022-09-07,1
-WM Barr,0.1314060446780552,2022-06-16,DampRid,Household & Food Products,,,100 days ending 2022-09-07,1
-23andme,0.1314060446780552,2022-06-16,23andme,Healthcare,,,100 days ending 2022-09-07,1
-Omaha Steaks,0.1314060446780552,2022-06-21,Omaha Steaks,Healthcare,,,100 days ending 2022-09-07,1
-Behr,0.1314060446780552,2022-08-02,Behr Paint,,,,100 days ending 2022-09-07,1
-Mayo Clinic,0.1314060446780552,2022-07-07,Mayo Clinic,,,,100 days ending 2022-09-07,1
-Cerakote,0.1314060446780552,2022-08-14,Cerakote,,,,100 days ending 2022-09-07,1
-Negligence Network ,0.1314060446780552,2022-08-17,Camp Lejune Lawsuit,,,,100 days ending 2022-09-07,1
-Progressive,0.1314060446780552,2022-08-17,Progessive Insurance,Insurance,86.0,323.0,100 days ending 2022-09-07,1
-Google,0.1314060446780552,2022-08-17,Google Safety,Ecommerce & Software,,,100 days ending 2022-09-07,1
-Kraus and Kinsman,0.1314060446780552,2022-08-18,Camp Lejune Lawsuit,,,,100 days ending 2022-09-07,1
-LoveSac,0.1314060446780552,2022-08-19,LoveSac,,,,100 days ending 2022-09-07,1
-Grainger,0.1314060446780552,2022-08-20,Grainger,,,,100 days ending 2022-09-07,1
-John Deere,0.1314060446780552,2022-08-20,John Deere,Hardware and Machinery,84.0,319.0,100 days ending 2022-09-07,1
-TogetherHealth,0.1314060446780552,2022-08-22,Medicare Coverage Helpline,Healthcare,,,100 days ending 2022-09-07,1
-University of Phoenix,0.1314060446780552,2022-08-22,University of Phoenix,Other,,,100 days ending 2022-09-07,1
-Billy Graham,0.1314060446780552,2022-08-24,Prayer Line,,,,100 days ending 2022-09-07,1
-Carlin Consumer Health,0.1314060446780552,2022-08-24,Zegerid,,,,100 days ending 2022-09-07,1
-Chewy,0.1314060446780552,2022-08-26,Chewy,,,,100 days ending 2022-09-07,1
-Empire,0.1314060446780552,2022-08-28,Empire Flooring,,,,100 days ending 2022-09-07,1
-Empire,0.1314060446780552,2022-08-28,Empire Flooring,,,,100 days ending 2022-09-07,1
-Oofos,0.1314060446780552,2022-08-30,Oofos,,,,100 days ending 2022-09-07,1
-MDHearing,0.1314060446780552,2022-09-01,MDHearing,,,,100 days ending 2022-09-07,1
-White Heart Legal,0.1314060446780552,2022-09-01,Camp Lejune,,,,100 days ending 2022-09-07,1
-World Gold Council,0.1314060446780552,2022-09-01,World Gold Council,Financial,,,100 days ending 2022-09-07,1
-Idorsia,0.1314060446780552,2022-09-01,Seize the Night,,,,100 days ending 2022-09-07,1
-Sieze the Night,0.1314060446780552,2022-09-01,Sieze the Night,,,,100 days ending 2022-09-07,1
-Deal Dash,0.1314060446780552,2022-09-03,Deal Dash,Ecommerce & Software,,,100 days ending 2022-09-07,1
-Pepcid,0.1314060446780552,2022-09-03,Pepcid AC,,,,100 days ending 2022-09-07,1
-Home Instead,0.1314060446780552,2022-09-03,Home Instead,,,,100 days ending 2022-09-07,1
-Verizon Business,0.1314060446780552,2022-09-07,Verizon Business,,,,100 days ending 2022-09-07,1
-Suburu,0.1314060446780552,2022-08-14,Forester,,,,100 days ending 2022-09-07,1
-Fox Sports,0.1314060446780552,2022-08-14,Fox Sports,,,,100 days ending 2022-09-07,1
-GoodRX,0.1314060446780552,2022-07-07,GoodRX,,,,100 days ending 2022-09-07,1
-Subaru,0.1314060446780552,2022-08-13,Subaru Crosstek,Motor Vehicles & Automotive,,459.0,100 days ending 2022-09-07,1
-ZeroWater,0.1314060446780552,2022-07-09,ZeroWater,,,,100 days ending 2022-09-07,1
-Made In,0.1314060446780552,2022-07-09,Made In Cookware,Household & Food Products,,,100 days ending 2022-09-07,1
-Advantage,0.1314060446780552,2022-07-12,AdvantageDIY,,,,100 days ending 2022-09-07,1
-Brad Thor,0.1314060446780552,2022-07-12,Rising Tiger,,,,100 days ending 2022-09-07,1
-3M,0.1314060446780552,2022-07-12,Filrete,Household & Food Products,102.0,,100 days ending 2022-09-07,1
-Argenx,0.1314060446780552,2022-07-13,Vyvgart,,,,100 days ending 2022-09-07,1
-Reperate,0.1314060446780552,2022-07-14,Reperate,,,,100 days ending 2022-09-07,1
-Kia,0.1314060446780552,2022-07-16,Sportage,Motor Vehicles & Automotive,,215.0,100 days ending 2022-09-07,1
-Flex Seal,0.1314060446780552,2022-07-17,Flex Paste,,,,100 days ending 2022-09-07,1
-Angi,0.1314060446780552,2022-07-18,Angi,Household Services,740.0,,100 days ending 2022-09-07,1
-Hylands,0.1314060446780552,2022-07-18,Leg Cramps,,,,100 days ending 2022-09-07,1
-SimpliSafe,0.1314060446780552,2022-07-20,SimpliSafe,Ecommerce & Software,,,100 days ending 2022-09-07,1
-Simon and Schuster,0.1314060446780552,2022-07-21,Taking Back Trumps America,Telecommunications,116.0,,100 days ending 2022-09-07,1
-Homelight,0.1314060446780552,2022-07-24,Homelight,Household Services,,,100 days ending 2022-09-07,1
-TD Ameritrade,0.1314060446780552,2022-07-24,TD Ameritrade,Financial,509.0,,100 days ending 2022-09-07,1
-Waterpik,0.1314060446780552,2022-07-29,Waterpik,,,,100 days ending 2022-09-07,1
-Exoticca,0.1314060446780552,2022-07-29,Exoticca,,,,100 days ending 2022-09-07,1
-Advantice Health,0.1314060446780552,2022-07-30,Kerasal,Healthcare,,,100 days ending 2022-09-07,1
-Walgreens,0.1314060446780552,2022-07-30,Walgreens,Retail & Restaurants,16.0,,100 days ending 2022-09-07,1
-Tempur-pedic,0.1314060446780552,2022-07-31,Tempur-pedic,Household & Food Products,,,100 days ending 2022-09-07,1
-Knightline Legal,0.1314060446780552,2022-08-04,Knightline Legal,Other,,,100 days ending 2022-09-07,1
-Direct Bullion,0.1314060446780552,2022-08-05,Direct Bullion,,,,100 days ending 2022-09-07,1
-Sandals,0.1314060446780552,2022-08-06,Sandals Resorts,Other,,,100 days ending 2022-09-07,1
-Kings Hawaiian Bread,0.1314060446780552,2022-05-31,Kings Hawaiian Bread,Household & Food Products,,,100 days ending 2022-09-07,1
+MyPillow,4.0,2022-09-06,"MySlippers, MyPillow Sheets, MyCoffee, MyPillow Premium, MyPillow Mattess Topper, Mattress Topper, MyPillow, MySlppers",Household & Food Products,,,100 days ending 2022-09-10,31
+Balance of Nature,3.870967741935484,2022-09-10,"Balance of Nature, Fruits, Veggies, Fruits and Veggies, United We Pledge",Supplements & Weight Loss,,,100 days ending 2022-09-10,30
+GlaxoSmithKline,2.967741935483871,2022-09-07,"Pronamel, About Whooping Cough, WhatisShingles, MeningitisB, Sensodyne, Centrum, Shingrix, Cabenuva, Nexium 24, Nucala, Tums, Paradontax, Meningitis B Information",Healthcare,,282.0,100 days ending 2022-09-10,23
+Relief Factor,2.5806451612903225,2022-09-01,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-09-10,20
+Force Factor,2.193548387096774,2022-09-06,"Prostate Advanced, Smarter Greens, Alpha King, Total Beets, Better Tumeric, Alpha King Surge, SmarterGreens, Probio Slim, Test X180",Supplements & Weight Loss,,,100 days ending 2022-09-10,17
+Nat. Inj. Law Center,1.935483870967742,2022-09-09,"Camp Lejune, Camp Lejune Lawsuit",,,,100 days ending 2022-09-10,15
+ADT,1.935483870967742,2022-09-03,ADT,Household Services,541.0,,100 days ending 2022-09-10,15
+X-Chair,1.6774193548387095,2022-09-03,"X-Chair, Elemax, X-HMT",Household & Food Products,,,100 days ending 2022-09-10,13
+Indeed,1.6774193548387095,2022-09-09,Indeed,Business Services,,408.0,100 days ending 2022-09-10,13
+Arby's,1.5483870967741935,2022-09-10,Arbys,Retail & Restaurants,,,100 days ending 2022-09-10,12
+AliveCor,1.5483870967741935,2022-09-05,KardiaMobile,Healthcare,,,100 days ending 2022-09-10,12
+Ideal Agent,1.4193548387096775,2022-09-01,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-09-10,11
+Sleep Number,1.2903225806451613,2022-09-07,Sleep Number,Household & Food Products,,,100 days ending 2022-09-10,10
+Safelite Group,1.2903225806451613,2022-09-01,Safelite AutoGlass,Motor Vehicles & Automotive,,,100 days ending 2022-09-10,10
+Camping World,1.2903225806451613,2022-08-28,Camping World,,475.0,,100 days ending 2022-09-10,10
+NewDayUSA,1.2903225806451613,2022-09-09,NewDayUSA,Financial,,,100 days ending 2022-09-10,10
+Win Reality,1.2903225806451613,2022-08-30,Win Reality,,,,100 days ending 2022-09-10,10
+General Motors,1.1612903225806452,2022-09-10,"Cadillac, Chevrolet, GMC",Motor Vehicles & Automotive,18.0,40.0,100 days ending 2022-09-10,9
+Meta,1.032258064516129,2022-09-07,"Facebook, Meta Portal, Meta",Ecommerce & Software,34.0,86.0,100 days ending 2022-09-10,8
+GOLO,1.032258064516129,2022-08-30,GOLO,Supplements & Weight Loss,,,100 days ending 2022-09-10,8
+Simplisafe,1.032258064516129,2022-09-09,Simplisafe,,,,100 days ending 2022-09-10,8
+Nutrisystem,0.903225806451613,2022-09-01,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-09-10,7
+Golden Corral,0.903225806451613,2022-09-01,Golden Corral,Retail & Restaurants,,,100 days ending 2022-09-10,7
+Novartis,0.903225806451613,2022-08-09,"Leqvio, Xiidra, Kisqali, Cosentyx",Healthcare,,225.0,100 days ending 2022-09-10,7
+Subway,0.903225806451613,2022-08-15,Subway,Retail & Restaurants,,,100 days ending 2022-09-10,7
+Choice Hotels,0.903225806451613,2022-09-09,Choice Hotels,Retail & Restaurants,,,100 days ending 2022-09-10,7
+Relaxium,0.903225806451613,2022-09-01,Relaxium,,,,100 days ending 2022-09-10,7
+Zoetis Petcare,0.903225806451613,2022-09-10,"Cytopoint, Simparica",Household & Food Products,,,100 days ending 2022-09-10,7
+Verizon,0.903225806451613,2022-09-09,"Verizon Business, Verizon Wireless",Telecommunications,20.0,44.0,100 days ending 2022-09-10,7
+Trivago,0.903225806451613,2022-07-30,Trivago,Ecommerce & Software,,,100 days ending 2022-09-10,7
+Novo Nordisk,0.7741935483870968,2022-09-01,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2022-09-10,6
+HumanN,0.7741935483870968,2022-09-01,SuperBeets,,,,100 days ending 2022-09-10,6
+Bayer,0.7741935483870968,2022-08-29,"Astepro, One a Day, AleveX, Aleve",Healthcare,,214.0,100 days ending 2022-09-10,6
+American Home Shield,0.7741935483870968,2022-08-22,American Home Shield,Household Services,,,100 days ending 2022-09-10,6
+Coventry Direct,0.7741935483870968,2022-09-06,Coventry Direct,Financial,,,100 days ending 2022-09-10,6
+Vroom,0.7741935483870968,2022-07-31,Vroom,Ecommerce & Software,,,100 days ending 2022-09-10,6
+AbbVie,0.7741935483870968,2022-07-31,"Rinvoq, Juvederm, Vraylar, Ubrevely",Healthcare,99.0,378.0,100 days ending 2022-09-10,6
+USPS,0.7741935483870968,2022-09-10,USPS,,,,100 days ending 2022-09-10,6
+Johnson and Johnson,0.7741935483870968,2022-08-26,"Tremfya, Tylenol, Stelara",Healthcare,35.0,104.0,100 days ending 2022-09-10,6
+Bank of America,0.6451612903225806,2022-08-15,Bank of America,Financial,29.0,77.0,100 days ending 2022-09-10,5
+Nano Hearing Aids,0.6451612903225806,2022-08-21,Nano Hearing Aids,Healthcare,,,100 days ending 2022-09-10,5
+Realtor.com,0.6451612903225806,2022-08-26,Realtor.com,Ecommerce & Software,,,100 days ending 2022-09-10,5
+Abbott Laboratories ,0.6451612903225806,2022-06-28,"FreeStyle Libre, Ensure, Glucerna, Glocerna",Healthcare,104.0,393.0,100 days ending 2022-09-10,5
+WeatherTech,0.6451612903225806,2022-07-20,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2022-09-10,5
+Sanofi,0.6451612903225806,2022-09-06,"Dulcolax, Dupixent, Aspercreme",Healthcare,,289.0,100 days ending 2022-09-10,5
+Consumer Cellular,0.6451612903225806,2022-08-26,Consumer Cellular,Telecommunications,,,100 days ending 2022-09-10,5
+The Farmers Dog,0.6451612903225806,2022-07-30,The Farmers Dog,Household & Food Products,,,100 days ending 2022-09-10,5
+Rosland Capital,0.6451612903225806,2022-08-15,Rosland Capital,Financial,,,100 days ending 2022-09-10,5
+OOFOS,0.5161290322580645,2022-08-19,OOFOS,,,,100 days ending 2022-09-10,4
+Qunol,0.5161290322580645,2022-09-08,"CoQ10, Ultra CoQ10",Supplements & Weight Loss,,,100 days ending 2022-09-10,4
+Dine Brands,0.5161290322580645,2022-07-29,Applebees,Retail & Restaurants,,,100 days ending 2022-09-10,4
+AstraZeneca,0.5161290322580645,2022-08-28,"Breztri, Fasenra, Farxiga",Healthcare,,462.0,100 days ending 2022-09-10,4
+Elevance Health,0.5161290322580645,2022-07-06,Elevance Health,Healthcare,20.0,,100 days ending 2022-09-10,4
+RexMD,0.5161290322580645,2022-08-11,"Generic Viagra, RexMD",,,,100 days ending 2022-09-10,4
+Inspire Medical Systems,0.5161290322580645,2022-07-26,Inspire Sleep,,,,100 days ending 2022-09-10,4
+MRHFM,0.5161290322580645,2022-08-11,Mesobook,Other,,,100 days ending 2022-09-10,4
+Liberty Mutual,0.5161290322580645,2022-08-11,"Life Alert, Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,100 days ending 2022-09-10,4
+Stellantis,0.5161290322580645,2022-08-12,"Ram, Dodge, Jeep",Motor Vehicles & Automotive,,,100 days ending 2022-09-10,4
+RockAuto,0.5161290322580645,2022-09-08,RockAuto,Ecommerce & Software,,,100 days ending 2022-09-10,4
+Abeka,0.5161290322580645,2022-08-12,Abeka,Other,,,100 days ending 2022-09-10,4
+Ownerly,0.5161290322580645,2022-09-01,Ownerly,,,,100 days ending 2022-09-10,4
+Espired,0.5161290322580645,2022-08-09,Kids Guide to President Trump,,,,100 days ending 2022-09-10,4
+Bass Pro Shops,0.5161290322580645,2022-07-15,Bass Pro Shops,Retail & Restaurants,,,100 days ending 2022-09-10,4
+ClearCaptions,0.5161290322580645,2022-07-16,ClearCaptions,,,,100 days ending 2022-09-10,4
+Kraft Heinz Company,0.3870967741935484,2022-08-18,"Ore Ida, Delimex, Heinz Ketchup",Household & Food Products,122.0,,100 days ending 2022-09-10,3
+Nestle,0.3870967741935484,2022-08-18,Boost,Household & Food Products,,82.0,100 days ending 2022-09-10,3
+Amgen,0.3870967741935484,2022-08-18,"Otezla, Prolia, Enbrel",Healthcare,135.0,,100 days ending 2022-09-10,3
+Best Western,0.3870967741935484,2022-08-08,Best Western,Other,,,100 days ending 2022-09-10,3
+Discover,0.3870967741935484,2022-07-31,Discover Card,,,,100 days ending 2022-09-10,3
+Vitrazza,0.3870967741935484,2022-08-26,Chair Mats,Household & Food Products,,,100 days ending 2022-09-10,3
+Empower Retirement,0.3870967741935484,2022-07-29,Empower Retirement,Financial,,,100 days ending 2022-09-10,3
+VisionWorks,0.3870967741935484,2022-08-19,VisionWorks,Healthcare,,,100 days ending 2022-09-10,3
+Boll and Branch,0.3870967741935484,2022-07-30,Boll and Branch,Household & Food Products,,,100 days ending 2022-09-10,3
+LeafFilter,0.3870967741935484,2022-07-19,LeafFilter,Household Services,,,100 days ending 2022-09-10,3
+PureTalk,0.3870967741935484,2022-09-06,PureTalk,Telecommunications,,,100 days ending 2022-09-10,3
+Annuity General,0.3870967741935484,2022-07-13,Annuity Dos and Donts,Financial,,,100 days ending 2022-09-10,3
+Ryder,0.3870967741935484,2022-09-09,Ryder Trucks,,,,100 days ending 2022-09-10,3
+Procter and Gamble,0.3870967741935484,2022-09-09,"ZzzQuil, Gilette",Household & Food Products,50.0,156.0,100 days ending 2022-09-10,3
+FastSigns,0.3870967741935484,2022-09-09,FastSigns,Business Services,,,100 days ending 2022-09-10,3
+Sling,0.3870967741935484,2022-09-09,Sling,Telecommunications,,,100 days ending 2022-09-10,3
+Mypurmist,0.3870967741935484,2022-06-29,Mypurmist,Healthcare,,,100 days ending 2022-09-10,3
+Bausch and Lomb,0.3870967741935484,2022-09-09,"Lumify, PreserVision, Octuvite",Healthcare,,,100 days ending 2022-09-10,3
+ZipRecruiter,0.3870967741935484,2022-07-05,ZipRecruiter,Business Services,,,100 days ending 2022-09-10,3
+Kramer Labs,0.3870967741935484,2022-09-08,"Nizoral, Fungi Nail",,,,100 days ending 2022-09-10,3
+Schiff Vitamins,0.3870967741935484,2022-09-06,Neuriva,Supplements & Weight Loss,,,100 days ending 2022-09-10,3
+Similasan,0.3870967741935484,2022-07-07,iVizia,,,,100 days ending 2022-09-10,3
+ClearChoice,0.3870967741935484,2022-07-12,ClearChoice,Healthcare,,,100 days ending 2022-09-10,3
+Natures Health,0.3870967741935484,2022-08-09,Australian Dream,Supplements & Weight Loss,,,100 days ending 2022-09-10,3
+Ark Encounter,0.3870967741935484,2022-09-01,Ark Encounter,,,,100 days ending 2022-09-10,3
+SelectQuote,0.3870967741935484,2022-09-01,SelectQuote,Ecommerce & Software,,,100 days ending 2022-09-10,3
+JG Wentworth,0.3870967741935484,2022-09-01,JG Wentworth,Other,,,100 days ending 2022-09-10,3
+CampLejueneVictims,0.3870967741935484,2022-07-15,CampLejueneVictims,Other,,,100 days ending 2022-09-10,3
+Boston Beer Co,0.25806451612903225,2022-07-29,Sam Adams,Household & Food Products,,,100 days ending 2022-09-10,2
+Avadim Health,0.25806451612903225,2022-08-04,Theraworx,Healthcare,,,100 days ending 2022-09-10,2
+Lear Capital,0.25806451612903225,2022-06-16,Lear Capital,Financial,,,100 days ending 2022-09-10,2
+Marcum,0.25806451612903225,2022-06-28,Marcum,Financial,,,100 days ending 2022-09-10,2
+Stamps.com,0.25806451612903225,2022-06-28,Stamps.com,Business Services,,,100 days ending 2022-09-10,2
+Horizon,0.25806451612903225,2022-07-24,Treat TED,Healthcare,,,100 days ending 2022-09-10,2
+Lowes,0.25806451612903225,2022-07-25,Lowes,Retail & Restaurants,31.0,80.0,100 days ending 2022-09-10,2
+Wolf and Shepherd,0.25806451612903225,2022-08-07,Wolf and Shepherd,Retail & Restaurants,,,100 days ending 2022-09-10,2
+Visiting Angels,0.25806451612903225,2022-07-21,Visiting Angels,Healthcare,,,100 days ending 2022-09-10,2
+Fox Entertainment,0.25806451612903225,2022-07-15,"Dont Forget the Lyrics, Masterchef",Telecommunications,,,100 days ending 2022-09-10,2
+Focus on the Family,0.25806451612903225,2022-06-30,Focus on the Family,,,,100 days ending 2022-09-10,2
+Blue Emu,0.25806451612903225,2022-07-26,Blue Emu,,,,100 days ending 2022-09-10,2
+BlendJet,0.25806451612903225,2022-07-29,BlendJet,,,,100 days ending 2022-09-10,2
+Dish TV,0.25806451612903225,2022-07-02,Dish TV,Telecommunications,251.0,,100 days ending 2022-09-10,2
+Opti-Nail,0.25806451612903225,2022-07-28,Opti-Nail,,,,100 days ending 2022-09-10,2
+Booking.com,0.25806451612903225,2022-07-05,Booking.com,,,,100 days ending 2022-09-10,2
+Cuddly,0.25806451612903225,2022-07-05,Cuddly,,,,100 days ending 2022-09-10,2
+LegalZoom,0.25806451612903225,2022-07-30,LegalZoom,Ecommerce & Software,,,100 days ending 2022-09-10,2
+InteractiveBrokers,0.25806451612903225,2022-07-22,GlobalTrader,Financial,,,100 days ending 2022-09-10,2
+Bristol Meyers Squibb,0.25806451612903225,2022-07-29,Opdivo Yeryoy,Healthcare,75.0,,100 days ending 2022-09-10,2
+PragerU,0.25806451612903225,2022-07-07,PragerU,Other,,,100 days ending 2022-09-10,2
+Americas Best,0.25806451612903225,2022-07-23,Americas Best,Retail & Restaurants,,,100 days ending 2022-09-10,2
+Vanguard,0.25806451612903225,2022-08-09,"Vanguard Investments, Vanguard Funds",Financial,,,100 days ending 2022-09-10,2
+Old Dominion Freight,0.25806451612903225,2022-08-11,Old Dominion Freight,Other,634.0,,100 days ending 2022-09-10,2
+Quincy Bioscience,0.25806451612903225,2022-08-17,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-09-10,2
+PCH,0.25806451612903225,2022-09-06,Publishers Clearing House,,,,100 days ending 2022-09-10,2
+Dr Scholls,0.25806451612903225,2022-08-11,"Dr Scholls, Custom Fit",Retail & Restaurants,,,100 days ending 2022-09-10,2
+TogetherHealth,0.25806451612903225,2022-09-09,Medicare Coverage Helpline,Healthcare,,,100 days ending 2022-09-10,2
+Ford Motor Company,0.25806451612903225,2022-09-09,Lincoln,Motor Vehicles & Automotive,12.0,31.0,100 days ending 2022-09-10,2
+Flex Seal,0.25806451612903225,2022-09-09,Flex Paste,,,,100 days ending 2022-09-10,2
+University of Phoenix,0.25806451612903225,2022-09-10,University of Phoenix,Other,,,100 days ending 2022-09-10,2
+Pretty Litter,0.25806451612903225,2022-09-01,Pretty Litter,,,,100 days ending 2022-09-10,2
+ThirdHome,0.25806451612903225,2022-08-24,ThirdHome,,,,100 days ending 2022-09-10,2
+Miracle Ear,0.25806451612903225,2022-08-19,Miracle Ear,,,,100 days ending 2022-09-10,2
+A Place for Mom,0.25806451612903225,2022-08-18,A Place for Mom,Healthcare,,,100 days ending 2022-09-10,2
+Lacuna Ventures,0.25806451612903225,2022-09-05,Camp Lejune Ventures,,,,100 days ending 2022-09-10,2
+Boehringer Ingelheim,0.25806451612903225,2022-08-13,Jardiance,Healthcare,,464.0,100 days ending 2022-09-10,2
+Cigna,0.12903225806451613,2022-09-10,Cigna Medicare,,,,100 days ending 2022-09-10,1
+Alpecin,0.12903225806451613,2022-06-26,Alpecin Shampoo,,,,100 days ending 2022-09-10,1
+Paycom,0.12903225806451613,2022-06-15,Paycom,Business Services,617.0,,100 days ending 2022-09-10,1
+SingleCare,0.12903225806451613,2022-09-10,SingleCare,Healthcare,,,100 days ending 2022-09-10,1
+Negligence Network,0.12903225806451613,2022-09-09,Camp Lejune,,,,100 days ending 2022-09-10,1
+Resperate,0.12903225806451613,2022-06-28,Resperate,,,,100 days ending 2022-09-10,1
+ThunderWorks,0.12903225806451613,2022-06-29,ThunderEase,,,,100 days ending 2022-09-10,1
+Chevron,0.12903225806451613,2022-09-09,Chevron,,27.0,75.0,100 days ending 2022-09-10,1
+GovMint,0.12903225806451613,2022-06-29,GovMint,Financial,,,100 days ending 2022-09-10,1
+WaxRx,0.12903225806451613,2022-06-30,WaxRx,,,,100 days ending 2022-09-10,1
+Prodege,0.12903225806451613,2022-06-05,InboxDollars,,,,100 days ending 2022-09-10,1
+Andersen,0.12903225806451613,2022-06-16,Renewal by Andersen,,,,100 days ending 2022-09-10,1
+GolfForever,0.12903225806451613,2022-07-04,GolfForever,,,,100 days ending 2022-09-10,1
+Total Gym,0.12903225806451613,2022-07-04,Total Gym,,,,100 days ending 2022-09-10,1
+Aurobindo Pharma,0.12903225806451613,2022-07-04,MidNite,,,,100 days ending 2022-09-10,1
+Plexaderm,0.12903225806451613,2022-07-05,Plexaderm,,,,100 days ending 2022-09-10,1
+CoPilot,0.12903225806451613,2022-06-04,CoPilot,,,,100 days ending 2022-09-10,1
+Jacuzzi,0.12903225806451613,2022-09-08,Jacuzzi Bath Remodel,,,,100 days ending 2022-09-10,1
+Smile Direct Club,0.12903225806451613,2022-06-03,Smile Direct Club,,,,100 days ending 2022-09-10,1
+Verizon Business,0.12903225806451613,2022-09-07,Verizon Business,,,,100 days ending 2022-09-10,1
+Eli Lilly,0.12903225806451613,2022-06-03,Trulicity,Healthcare,118.0,,100 days ending 2022-09-10,1
+Nissan,0.12903225806451613,2022-06-26,Infiniti,Motor Vehicles & Automotive,,116.0,100 days ending 2022-09-10,1
+23andme,0.12903225806451613,2022-06-16,23andme,Healthcare,,,100 days ending 2022-09-10,1
+Ro,0.12903225806451613,2022-06-25,Roman,Healthcare,,,100 days ending 2022-09-10,1
+Nascar ,0.12903225806451613,2022-06-24,Nascar Nashville,Telecommunications,,,100 days ending 2022-09-10,1
+Walmart,0.12903225806451613,2022-06-16,Walmart,Retail & Restaurants,1.0,1.0,100 days ending 2022-09-10,1
+Carfax,0.12903225806451613,2022-06-16,Carfax,Ecommerce & Software,,,100 days ending 2022-09-10,1
+Liberty Legal,0.12903225806451613,2022-06-17,Liberty Legal,,,,100 days ending 2022-09-10,1
+Ashley,0.12903225806451613,2022-06-19,Ashley Furniture,,,,100 days ending 2022-09-10,1
+Magic Mesh,0.12903225806451613,2022-06-20,Magic Mesh,,,,100 days ending 2022-09-10,1
+WalletHub,0.12903225806451613,2022-06-16,WalletHub,Financial,,,100 days ending 2022-09-10,1
+John Hagee Ministries,0.12903225806451613,2022-06-20,Sanctuary of Hope,,,,100 days ending 2022-09-10,1
+Red Lobster,0.12903225806451613,2022-06-20,Red Lobster,Retail & Restaurants,,,100 days ending 2022-09-10,1
+Stihl,0.12903225806451613,2022-06-16,Stihl Tools,Hardware and Machinery,,,100 days ending 2022-09-10,1
+PC Matic,0.12903225806451613,2022-06-20,PC Matic,Ecommerce & Software,,,100 days ending 2022-09-10,1
+Upwork,0.12903225806451613,2022-06-21,Upwork,,,,100 days ending 2022-09-10,1
+Dr Reddys,0.12903225806451613,2022-06-21,Doans,,,,100 days ending 2022-09-10,1
+WM Barr,0.12903225806451613,2022-06-16,DampRid,Household & Food Products,,,100 days ending 2022-09-10,1
+Omaha Steaks,0.12903225806451613,2022-06-21,Omaha Steaks,Healthcare,,,100 days ending 2022-09-10,1
+CopperFit,0.12903225806451613,2022-07-06,Energy Socks,,,,100 days ending 2022-09-10,1
+Silac Insurance,0.12903225806451613,2022-06-24,Silac Insurance,,,,100 days ending 2022-09-10,1
+FreshPet,0.12903225806451613,2022-06-24,FreshPet,,,,100 days ending 2022-09-10,1
+Teleflex,0.12903225806451613,2022-06-24,Urolift,Healthcare,,,100 days ending 2022-09-10,1
+Arctic Air,0.12903225806451613,2022-06-24,Arctic Air,,,,100 days ending 2022-09-10,1
+Farmers Insurance,0.12903225806451613,2022-06-22,Farmers Insurance,Insurance,256.0,,100 days ending 2022-09-10,1
+Home Instead,0.12903225806451613,2022-09-03,Home Instead,,,,100 days ending 2022-09-10,1
+Mayo Clinic,0.12903225806451613,2022-07-07,Mayo Clinic,,,,100 days ending 2022-09-10,1
+Walgreens,0.12903225806451613,2022-07-30,Walgreens,Retail & Restaurants,16.0,,100 days ending 2022-09-10,1
+Billy Graham,0.12903225806451613,2022-08-24,Prayer Line,,,,100 days ending 2022-09-10,1
+John Deere,0.12903225806451613,2022-08-20,John Deere,Hardware and Machinery,84.0,319.0,100 days ending 2022-09-10,1
+Grainger,0.12903225806451613,2022-08-20,Grainger,,,,100 days ending 2022-09-10,1
+LoveSac,0.12903225806451613,2022-08-19,LoveSac,,,,100 days ending 2022-09-10,1
+Waterpik,0.12903225806451613,2022-07-29,Waterpik,,,,100 days ending 2022-09-10,1
+Kraus and Kinsman,0.12903225806451613,2022-08-18,Camp Lejune Lawsuit,,,,100 days ending 2022-09-10,1
+Google,0.12903225806451613,2022-08-17,Google Safety,Ecommerce & Software,,,100 days ending 2022-09-10,1
+Exoticca,0.12903225806451613,2022-07-29,Exoticca,,,,100 days ending 2022-09-10,1
+Advantice Health,0.12903225806451613,2022-07-30,Kerasal,Healthcare,,,100 days ending 2022-09-10,1
+Progressive,0.12903225806451613,2022-08-17,Progessive Insurance,Insurance,86.0,323.0,100 days ending 2022-09-10,1
+Negligence Network ,0.12903225806451613,2022-08-17,Camp Lejune Lawsuit,,,,100 days ending 2022-09-10,1
+GoodRX,0.12903225806451613,2022-07-07,GoodRX,,,,100 days ending 2022-09-10,1
+Suburu,0.12903225806451613,2022-08-14,Forester,,,,100 days ending 2022-09-10,1
+Tempur-pedic,0.12903225806451613,2022-07-31,Tempur-pedic,Household & Food Products,,,100 days ending 2022-09-10,1
+Cerakote,0.12903225806451613,2022-08-14,Cerakote,,,,100 days ending 2022-09-10,1
+Fox Sports,0.12903225806451613,2022-08-14,Fox Sports,,,,100 days ending 2022-09-10,1
+Subaru,0.12903225806451613,2022-08-13,Subaru Crosstek,Motor Vehicles & Automotive,,459.0,100 days ending 2022-09-10,1
+Behr,0.12903225806451613,2022-08-02,Behr Paint,,,,100 days ending 2022-09-10,1
+Knightline Legal,0.12903225806451613,2022-08-04,Knightline Legal,Other,,,100 days ending 2022-09-10,1
+Direct Bullion,0.12903225806451613,2022-08-05,Direct Bullion,,,,100 days ending 2022-09-10,1
+TheRealReal,0.12903225806451613,2022-08-06,TheRealReal,,,,100 days ending 2022-09-10,1
+Sandals,0.12903225806451613,2022-08-06,Sandals Resorts,Other,,,100 days ending 2022-09-10,1
+TD Ameritrade,0.12903225806451613,2022-07-24,TD Ameritrade,Financial,509.0,,100 days ending 2022-09-10,1
+Homelight,0.12903225806451613,2022-07-24,Homelight,Household Services,,,100 days ending 2022-09-10,1
+Carlin Consumer Health,0.12903225806451613,2022-08-24,Zegerid,,,,100 days ending 2022-09-10,1
+Chewy,0.12903225806451613,2022-08-26,Chewy,,,,100 days ending 2022-09-10,1
+ZeroWater,0.12903225806451613,2022-07-09,ZeroWater,,,,100 days ending 2022-09-10,1
+Made In,0.12903225806451613,2022-07-09,Made In Cookware,Household & Food Products,,,100 days ending 2022-09-10,1
+Advantage,0.12903225806451613,2022-07-12,AdvantageDIY,,,,100 days ending 2022-09-10,1
+Brad Thor,0.12903225806451613,2022-07-12,Rising Tiger,,,,100 days ending 2022-09-10,1
+Pepcid,0.12903225806451613,2022-09-03,Pepcid AC,,,,100 days ending 2022-09-10,1
+3M,0.12903225806451613,2022-07-12,Filrete,Household & Food Products,102.0,,100 days ending 2022-09-10,1
+Deal Dash,0.12903225806451613,2022-09-03,Deal Dash,Ecommerce & Software,,,100 days ending 2022-09-10,1
+Argenx,0.12903225806451613,2022-07-13,Vyvgart,,,,100 days ending 2022-09-10,1
+Reperate,0.12903225806451613,2022-07-14,Reperate,,,,100 days ending 2022-09-10,1
+Sieze the Night,0.12903225806451613,2022-09-01,Sieze the Night,,,,100 days ending 2022-09-10,1
+Idorsia,0.12903225806451613,2022-09-01,Seize the Night,,,,100 days ending 2022-09-10,1
+World Gold Council,0.12903225806451613,2022-09-01,World Gold Council,Financial,,,100 days ending 2022-09-10,1
+White Heart Legal,0.12903225806451613,2022-09-01,Camp Lejune,,,,100 days ending 2022-09-10,1
+Kia,0.12903225806451613,2022-07-16,Sportage,Motor Vehicles & Automotive,,215.0,100 days ending 2022-09-10,1
+Angi,0.12903225806451613,2022-07-18,Angi,Household Services,740.0,,100 days ending 2022-09-10,1
+Hylands,0.12903225806451613,2022-07-18,Leg Cramps,,,,100 days ending 2022-09-10,1
+MDHearing,0.12903225806451613,2022-09-01,MDHearing,,,,100 days ending 2022-09-10,1
+SimpliSafe,0.12903225806451613,2022-07-20,SimpliSafe,Ecommerce & Software,,,100 days ending 2022-09-10,1
+Oofos,0.12903225806451613,2022-08-30,Oofos,,,,100 days ending 2022-09-10,1
+Simon and Schuster,0.12903225806451613,2022-07-21,Taking Back Trumps America,Telecommunications,116.0,,100 days ending 2022-09-10,1
+Empire,0.12903225806451613,2022-08-28,Empire Flooring,,,,100 days ending 2022-09-10,1
+Empire,0.12903225806451613,2022-08-28,Empire Flooring,,,,100 days ending 2022-09-10,1
+ATT,0.12903225806451613,2022-06-03,ATT Business,Telecommunications,9.0,11.0,100 days ending 2022-09-10,1
