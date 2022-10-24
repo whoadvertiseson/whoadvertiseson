@@ -1,115 +1,118 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-MyPillow,10.28368794326241,2022-10-22,"MySlippers, MyPillow, MyPillow Mattress Topper, MyPillow Sheets, MyCoffee, MyPillow Towels, MyPillow Premium",Household & Food Products,,,100 days ending 2022-09-30,29
-Balance of Nature,8.156028368794328,2022-10-20,"Fruits, Veggies, Balance of Nature, Return911",Supplements & Weight Loss,,,100 days ending 2022-09-30,23
-Golden Corral,3.1914893617021276,2022-09-03,Golden Corral,Retail & Restaurants,,,100 days ending 2022-09-30,9
-CashNetUSA,2.8368794326241136,2022-10-12,NetCredit,,,,100 days ending 2022-09-30,8
-NortonLifeLock,2.4822695035460995,2022-09-26,LifeLock,Ecommerce & Software,573.0,,100 days ending 2022-09-30,7
-Lectric eBikes,2.4822695035460995,2022-09-10,Lectric eBikes,,,,100 days ending 2022-09-30,7
-Relaxium,2.127659574468085,2022-09-03,Relaxium,,,,100 days ending 2022-09-30,6
-Quincy Bioscience,2.127659574468085,2022-10-22,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-09-30,6
-GOLO,2.127659574468085,2022-10-20,GOLO,Supplements & Weight Loss,,,100 days ending 2022-09-30,6
-Novo Nordisk,1.773049645390071,2022-09-29,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2022-09-30,5
-Lume Deo,1.773049645390071,2022-10-22,Lume Deo,,,,100 days ending 2022-09-30,5
-Qunol,1.773049645390071,2022-10-11,"Tumeric Gummies, Ultra CoQ10, Sleep Support",Supplements & Weight Loss,,,100 days ending 2022-09-30,5
-Solo Stove,1.773049645390071,2022-10-15,Solo Stove,,,,100 days ending 2022-09-30,5
-AstraZeneca,1.4184397163120568,2022-10-06,"Farxiga, Up The Anibodies, Breztri",Healthcare,,462.0,100 days ending 2022-09-30,4
-Relief Factor,1.4184397163120568,2022-09-14,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-09-30,4
-SelectQuote,1.4184397163120568,2022-10-22,SelectQuote,Ecommerce & Software,,,100 days ending 2022-09-30,4
-Strikeman ,1.0638297872340425,2022-10-06,Laser Firearm Training,,,,100 days ending 2022-09-30,3
-Patriot Gold and Silver,1.0638297872340425,2022-09-14,Patriot Gold and Silver,,,,100 days ending 2022-09-30,3
-Jinx,1.0638297872340425,2022-09-13,Jinx,,,,100 days ending 2022-09-30,3
-Victims Justice Group,1.0638297872340425,2022-09-11,"Camp Lejeune Lawsuit, Victims Justice Group",,,,100 days ending 2022-09-30,3
-BlendJet,1.0638297872340425,2022-09-10,BlendJet,,,,100 days ending 2022-09-30,3
-Zoetis Petcare,1.0638297872340425,2022-10-01,Simparica,Household & Food Products,,,100 days ending 2022-09-30,3
-True Classic,1.0638297872340425,2022-10-01,True Classic,,,,100 days ending 2022-09-30,3
-Espired,1.0638297872340425,2022-08-17,"Kids Guide to Fight Socialism, Kids Guide to President Trump",,,,100 days ending 2022-09-30,3
-Boehringer Ingelheim,1.0638297872340425,2022-08-07,Jardiance,Healthcare,,464.0,100 days ending 2022-09-30,3
-Immuno150,1.0638297872340425,2022-10-19,Immuno150,,,,100 days ending 2022-09-30,3
-NewDayUSA,1.0638297872340425,2022-08-18,NewDayUSA,Financial,,,100 days ending 2022-09-30,3
-Humanix Books,1.0638297872340425,2022-09-14,War on Cash 911,,,,100 days ending 2022-09-30,3
-Mammoth Nation,1.0638297872340425,2022-10-20,Mammoth Nation,Ecommerce & Software,,,100 days ending 2022-09-30,3
-PCH,0.7092198581560284,2022-09-07,Publishers Clearing House,,,,100 days ending 2022-09-30,2
-Better ,0.7092198581560284,2022-08-05,Better,,,,100 days ending 2022-09-30,2
-Choice Home Warranty,0.7092198581560284,2022-09-13,Choice Home Warranty,,,,100 days ending 2022-09-30,2
-MRHFM,0.7092198581560284,2022-08-31,Mesobook,Other,,,100 days ending 2022-09-30,2
-BioFreeze,0.7092198581560284,2022-08-07,BioFreeze,,,,100 days ending 2022-09-30,2
-BeActive,0.7092198581560284,2022-08-13,BeActive Plus,,,,100 days ending 2022-09-30,2
-Generac,0.7092198581560284,2022-08-15,"PWRCell, PRWCell",,,,100 days ending 2022-09-30,2
-Harrelsons Own,0.7092198581560284,2022-08-17,Harrelsons Own,,,,100 days ending 2022-09-30,2
-New Vitality,0.7092198581560284,2022-09-06,Ageless Male Max,Supplements & Weight Loss,,,100 days ending 2022-09-30,2
-Nutrisystem,0.7092198581560284,2022-09-06,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-09-30,2
-Ideal Agent,0.7092198581560284,2022-08-30,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-09-30,2
-ShipStation,0.7092198581560284,2022-09-10,ShipStation,Business Services,,,100 days ending 2022-09-30,2
-Sokolove Law,0.7092198581560284,2022-08-24,Camp Lejeune Water,,,,100 days ending 2022-09-30,2
-Magnilife,0.7092198581560284,2022-10-22,"Magnilife Pain Relief, Magnilife",,,,100 days ending 2022-09-30,2
-Thomas J Henry,0.7092198581560284,2022-10-11,Camp Lejune Lawsuit,,,,100 days ending 2022-09-30,2
-HumanN,0.7092198581560284,2022-10-19,SuperBeets Heart Chews,,,,100 days ending 2022-09-30,2
-HearingAssist,0.7092198581560284,2022-10-09,HearingAssist,,,,100 days ending 2022-09-30,2
-Averitas,0.7092198581560284,2022-10-06,Qutenza,,,,100 days ending 2022-09-30,2
-TheZebra,0.7092198581560284,2022-07-15,TheZebra,,,,100 days ending 2022-09-30,2
-The Scoop,0.7092198581560284,2022-10-12,The Scoop,,,,100 days ending 2022-09-30,2
-Consumer Tort Group,0.7092198581560284,2022-10-15,Camp Lejune,,,,100 days ending 2022-09-30,2
-Silver Singles,0.7092198581560284,2022-07-06,Silver Singles,,,,100 days ending 2022-09-30,2
-Ferndale Healthcare ,0.7092198581560284,2022-10-11,DerMend,Healthcare,,,100 days ending 2022-09-30,2
-MicroVisor,0.7092198581560284,2022-10-22,MicroVisor,,,,100 days ending 2022-09-30,2
-Stihl,0.7092198581560284,2022-10-22,"Stihl Blowers, Stihl Chainsaws",Hardware and Machinery,,,100 days ending 2022-09-30,2
-Standard Manufacturing,0.3546099290780142,2022-07-06,Switch Gun,,,,100 days ending 2022-09-30,1
-Annuity General,0.3546099290780142,2022-07-30,Annuity Dos and Donts,Financial,,,100 days ending 2022-09-30,1
-Dormeo,0.3546099290780142,2022-07-11,Dormeo,,,,100 days ending 2022-09-30,1
-Pooph,0.3546099290780142,2022-07-04,Pooph,,,,100 days ending 2022-09-30,1
-Fuller Brush,0.3546099290780142,2022-07-31,Carpet Sweeper,,,,100 days ending 2022-09-30,1
-Dynamo Emergency Band Radio,0.3546099290780142,2022-06-30,Dynamo Emergency Band Radio,Household & Food Products,,,100 days ending 2022-09-30,1
-Bell Howell,0.3546099290780142,2022-07-30,Monster Solar Zapper,,,,100 days ending 2022-09-30,1
-Blue Sky Recovery,0.3546099290780142,2022-06-30,Blue Sky Recovery,,,,100 days ending 2022-09-30,1
-Gotham Steel,0.3546099290780142,2022-07-10,Gotham Steel Cookware,,,,100 days ending 2022-09-30,1
-SunSetter,0.3546099290780142,2022-07-23,SunSetter,,,,100 days ending 2022-09-30,1
-Tommy John,0.3546099290780142,2022-07-11,Tommy John,Retail & Restaurants,,,100 days ending 2022-09-30,1
-Swiss America,0.3546099290780142,2022-07-28,Swiss America,,,,100 days ending 2022-09-30,1
-American Medical Plans,0.3546099290780142,2022-07-26,American Medical Plans,,,,100 days ending 2022-09-30,1
-American Home Shield,0.3546099290780142,2022-07-27,American Home Shield,Household Services,,,100 days ending 2022-09-30,1
-Pods,0.3546099290780142,2022-07-28,PC Matic,,,,100 days ending 2022-09-30,1
-Rosland Capital,0.3546099290780142,2022-07-20,Rosland Capital,Financial,,,100 days ending 2022-09-30,1
-Lonestar Transfer,0.3546099290780142,2022-07-20,Lonestar Transfer,,,,100 days ending 2022-09-30,1
-Elite Singles,0.3546099290780142,2022-08-08,Elite Singles,,,,100 days ending 2022-09-30,1
-SmartBiz Loans,0.3546099290780142,2022-07-17,SmartBiz Loans,,,,100 days ending 2022-09-30,1
-Lume,0.3546099290780142,2022-07-23,Lume,,,,100 days ending 2022-09-30,1
-CreditAssociates,0.3546099290780142,2022-07-16,CreditAssociates,,,,100 days ending 2022-09-30,1
-eLogHomes,0.3546099290780142,2022-07-29,eLogHomes,,,,100 days ending 2022-09-30,1
-Stansberry Research,0.3546099290780142,2022-07-29,GreenGambleWealth100,,,,100 days ending 2022-09-30,1
-PC Matic,0.3546099290780142,2022-07-29,PC Matic,Ecommerce & Software,,,100 days ending 2022-09-30,1
-GovMint,0.3546099290780142,2022-07-15,GovMint,Financial,,,100 days ending 2022-09-30,1
-Teeter,0.3546099290780142,2022-07-12,FreeStep,,,,100 days ending 2022-09-30,1
-Novex Biotech,0.3546099290780142,2022-07-17,GF-9,,,,100 days ending 2022-09-30,1
-General Steel,0.3546099290780142,2022-09-12,General Steel,,,,100 days ending 2022-09-30,1
-Miracle Ear,0.3546099290780142,2022-08-08,Miracle Ear,,,,100 days ending 2022-09-30,1
-Realtor.com,0.3546099290780142,2022-08-13,Realtor.com,Ecommerce & Software,,,100 days ending 2022-09-30,1
-Dexcom,0.3546099290780142,2022-10-22,Dexcom G6,,,,100 days ending 2022-09-30,1
-Reckitt,0.3546099290780142,2022-10-22,Mucinex,,,,100 days ending 2022-09-30,1
-Hint,0.3546099290780142,2022-10-22,Hint,,,,100 days ending 2022-09-30,1
-Gold Alliance,0.3546099290780142,2022-10-20,Gold Guide,,,,100 days ending 2022-09-30,1
-Medicare Advantage Advisors,0.3546099290780142,2022-10-17,Medicare Advantage Advisors,,,,100 days ending 2022-09-30,1
-Daily Wire Entertainment,0.3546099290780142,2022-10-17,Candace Owens,,,,100 days ending 2022-09-30,1
-Schiff Vitamins,0.3546099290780142,2022-10-17,Neuriva,Supplements & Weight Loss,,,100 days ending 2022-09-30,1
-Avadim Health,0.3546099290780142,2022-10-11,Theraworx,Healthcare,,,100 days ending 2022-09-30,1
-Michaels,0.3546099290780142,2022-09-29,Michaels,,,,100 days ending 2022-09-30,1
-Balsam Hill,0.3546099290780142,2022-09-26,Balsam Hill,,,,100 days ending 2022-09-30,1
-PureTalk,0.3546099290780142,2022-09-26,PureTalk,Telecommunications,,,100 days ending 2022-09-30,1
-Surety Health,0.3546099290780142,2022-09-23,Surety Health,,,,100 days ending 2022-09-30,1
-Bulb Head,0.3546099290780142,2022-09-23,Eye Candy,,,,100 days ending 2022-09-30,1
-The Stream,0.3546099290780142,2022-09-20,The Stream,,,,100 days ending 2022-09-30,1
-QC Kinetix,0.3546099290780142,2022-09-19,QC Kinetix,,,,100 days ending 2022-09-30,1
-Horizon,0.3546099290780142,2022-09-19,Tepezza,Healthcare,,,100 days ending 2022-09-30,1
-Brightstar Care,0.3546099290780142,2022-09-18,Brightstar Care,,,,100 days ending 2022-09-30,1
-Real Trumpy Bear,0.3546099290780142,2022-09-17,Trumpy Bears,,,,100 days ending 2022-09-30,1
-Sketchers,0.3546099290780142,2022-09-17,Sketchers,,,,100 days ending 2022-09-30,1
-Ox Care Care,0.3546099290780142,2022-09-16,Ox Care Care,,,,100 days ending 2022-09-30,1
-Ship Station,0.3546099290780142,2022-09-16,Ship Station,,,,100 days ending 2022-09-30,1
-White Heart Legal,0.3546099290780142,2022-09-13,Camp Lejeune Lawsuit,,,,100 days ending 2022-09-30,1
-Strive Funds,0.3546099290780142,2022-09-12,Strive Funds,,,,100 days ending 2022-09-30,1
-Vanda Pharma,0.3546099290780142,2022-09-12,Vanda Pharma,,,,100 days ending 2022-09-30,1
-Henry USA,0.3546099290780142,2022-09-12,Henry USA,,,,100 days ending 2022-09-30,1
-American Advisors Group,0.3546099290780142,2022-09-06,AAG Reverse ,Financial,,,100 days ending 2022-09-30,1
-PLX Pharma,0.3546099290780142,2022-09-05,Vazalore,,,,100 days ending 2022-09-30,1
-Coursera,0.3546099290780142,2022-09-03,Coursera,,,,100 days ending 2022-09-30,1
-JG Wentworth,0.3546099290780142,2022-08-30,JG Wentworth,Other,,,100 days ending 2022-09-30,1
-Focus Factor,0.3546099290780142,2022-06-22,Focus Factor,,,,100 days ending 2022-09-30,1
+MyPillow,10.309278350515463,2022-10-24,"MyPillow Towels, MySlippers, MyPillow, MyPillow Mattress Topper, MyPillow Sheets, MyCoffee, MyPillow Premium",Household & Food Products,,,100 days ending 2022-09-30,30
+Balance of Nature,7.903780068728522,2022-10-20,"Fruits, Veggies, Balance of Nature, Return911",Supplements & Weight Loss,,,100 days ending 2022-09-30,23
+Golden Corral,3.0927835051546393,2022-09-03,Golden Corral,Retail & Restaurants,,,100 days ending 2022-09-30,9
+CashNetUSA,2.7491408934707904,2022-10-12,NetCredit,,,,100 days ending 2022-09-30,8
+Lectric eBikes,2.405498281786942,2022-09-10,Lectric eBikes,,,,100 days ending 2022-09-30,7
+NortonLifeLock,2.405498281786942,2022-09-26,LifeLock,Ecommerce & Software,573.0,,100 days ending 2022-09-30,7
+Relaxium,2.0618556701030926,2022-09-03,Relaxium,,,,100 days ending 2022-09-30,6
+Quincy Bioscience,2.0618556701030926,2022-10-22,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-09-30,6
+GOLO,2.0618556701030926,2022-10-20,GOLO,Supplements & Weight Loss,,,100 days ending 2022-09-30,6
+Lume Deo,1.718213058419244,2022-10-22,Lume Deo,,,,100 days ending 2022-09-30,5
+Qunol,1.718213058419244,2022-10-11,"Tumeric Gummies, Ultra CoQ10, Sleep Support",Supplements & Weight Loss,,,100 days ending 2022-09-30,5
+Novo Nordisk,1.718213058419244,2022-09-29,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2022-09-30,5
+Solo Stove,1.718213058419244,2022-10-15,Solo Stove,,,,100 days ending 2022-09-30,5
+AstraZeneca,1.3745704467353952,2022-10-06,"Farxiga, Up The Anibodies, Breztri",Healthcare,,462.0,100 days ending 2022-09-30,4
+SelectQuote,1.3745704467353952,2022-10-22,SelectQuote,Ecommerce & Software,,,100 days ending 2022-09-30,4
+Relief Factor,1.3745704467353952,2022-09-14,Relief Factor,Supplements & Weight Loss,,,100 days ending 2022-09-30,4
+Humanix Books,1.0309278350515463,2022-09-14,War on Cash 911,,,,100 days ending 2022-09-30,3
+Boehringer Ingelheim,1.0309278350515463,2022-08-07,Jardiance,Healthcare,,464.0,100 days ending 2022-09-30,3
+Patriot Gold and Silver,1.0309278350515463,2022-09-14,Patriot Gold and Silver,,,,100 days ending 2022-09-30,3
+Victims Justice Group,1.0309278350515463,2022-09-11,"Camp Lejeune Lawsuit, Victims Justice Group",,,,100 days ending 2022-09-30,3
+Zoetis Petcare,1.0309278350515463,2022-10-01,Simparica,Household & Food Products,,,100 days ending 2022-09-30,3
+True Classic,1.0309278350515463,2022-10-01,True Classic,,,,100 days ending 2022-09-30,3
+Strikeman ,1.0309278350515463,2022-10-06,Laser Firearm Training,,,,100 days ending 2022-09-30,3
+BlendJet,1.0309278350515463,2022-09-10,BlendJet,,,,100 days ending 2022-09-30,3
+Espired,1.0309278350515463,2022-08-17,"Kids Guide to Fight Socialism, Kids Guide to President Trump",,,,100 days ending 2022-09-30,3
+NewDayUSA,1.0309278350515463,2022-08-18,NewDayUSA,Financial,,,100 days ending 2022-09-30,3
+Jinx,1.0309278350515463,2022-09-13,Jinx,,,,100 days ending 2022-09-30,3
+PCH,1.0309278350515463,2022-10-24,Publishers Clearing House,,,,100 days ending 2022-09-30,3
+Immuno150,1.0309278350515463,2022-10-19,Immuno150,,,,100 days ending 2022-09-30,3
+Mammoth Nation,1.0309278350515463,2022-10-20,Mammoth Nation,Ecommerce & Software,,,100 days ending 2022-09-30,3
+The Scoop,0.6872852233676976,2022-10-12,The Scoop,,,,100 days ending 2022-09-30,2
+Ideal Agent,0.6872852233676976,2022-08-30,Ideal Agent,Ecommerce & Software,,,100 days ending 2022-09-30,2
+Choice Home Warranty,0.6872852233676976,2022-09-13,Choice Home Warranty,,,,100 days ending 2022-09-30,2
+Magnilife,0.6872852233676976,2022-10-22,"Magnilife Pain Relief, Magnilife",,,,100 days ending 2022-09-30,2
+Dynamo Emergency Band Radio,0.6872852233676976,2022-10-23,Dynamo Emergency Band Radio,Household & Food Products,,,100 days ending 2022-09-30,2
+ShipStation,0.6872852233676976,2022-09-10,ShipStation,Business Services,,,100 days ending 2022-09-30,2
+Nutrisystem,0.6872852233676976,2022-09-06,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-09-30,2
+New Vitality,0.6872852233676976,2022-09-06,Ageless Male Max,Supplements & Weight Loss,,,100 days ending 2022-09-30,2
+Consumer Tort Group,0.6872852233676976,2022-10-15,Camp Lejune,,,,100 days ending 2022-09-30,2
+White Heart Legal,0.6872852233676976,2022-10-23,Camp Lejeune Lawsuit,,,,100 days ending 2022-09-30,2
+MRHFM,0.6872852233676976,2022-08-31,Mesobook,Other,,,100 days ending 2022-09-30,2
+Harrelsons Own,0.6872852233676976,2022-08-17,Harrelsons Own,,,,100 days ending 2022-09-30,2
+Sokolove Law,0.6872852233676976,2022-08-24,Camp Lejeune Water,,,,100 days ending 2022-09-30,2
+MicroVisor,0.6872852233676976,2022-10-22,MicroVisor,,,,100 days ending 2022-09-30,2
+Dexcom,0.6872852233676976,2022-10-24,Dexcom G6,,,,100 days ending 2022-09-30,2
+Generac,0.6872852233676976,2022-08-15,"PWRCell, PRWCell",,,,100 days ending 2022-09-30,2
+BeActive,0.6872852233676976,2022-08-13,BeActive Plus,,,,100 days ending 2022-09-30,2
+BioFreeze,0.6872852233676976,2022-08-07,BioFreeze,,,,100 days ending 2022-09-30,2
+Better ,0.6872852233676976,2022-08-05,Better,,,,100 days ending 2022-09-30,2
+TheZebra,0.6872852233676976,2022-07-15,TheZebra,,,,100 days ending 2022-09-30,2
+Silver Singles,0.6872852233676976,2022-07-06,Silver Singles,,,,100 days ending 2022-09-30,2
+Stihl,0.6872852233676976,2022-10-22,"Stihl Blowers, Stihl Chainsaws",Hardware and Machinery,,,100 days ending 2022-09-30,2
+Schiff Vitamins,0.6872852233676976,2022-10-23,"Airborne, Neuriva",Supplements & Weight Loss,,,100 days ending 2022-09-30,2
+HearingAssist,0.6872852233676976,2022-10-09,HearingAssist,,,,100 days ending 2022-09-30,2
+Thomas J Henry,0.6872852233676976,2022-10-11,Camp Lejune Lawsuit,,,,100 days ending 2022-09-30,2
+Ferndale Healthcare ,0.6872852233676976,2022-10-11,DerMend,Healthcare,,,100 days ending 2022-09-30,2
+HumanN,0.6872852233676976,2022-10-19,SuperBeets Heart Chews,,,,100 days ending 2022-09-30,2
+Averitas,0.6872852233676976,2022-10-06,Qutenza,,,,100 days ending 2022-09-30,2
+eLogHomes,0.3436426116838488,2022-07-29,eLogHomes,,,,100 days ending 2022-09-30,1
+American Medical Plans,0.3436426116838488,2022-07-26,American Medical Plans,,,,100 days ending 2022-09-30,1
+American Home Shield,0.3436426116838488,2022-07-27,American Home Shield,Household Services,,,100 days ending 2022-09-30,1
+Pods,0.3436426116838488,2022-07-28,PC Matic,,,,100 days ending 2022-09-30,1
+Swiss America,0.3436426116838488,2022-07-28,Swiss America,,,,100 days ending 2022-09-30,1
+Ship Station,0.3436426116838488,2022-09-16,Ship Station,,,,100 days ending 2022-09-30,1
+Stansberry Research,0.3436426116838488,2022-07-29,GreenGambleWealth100,,,,100 days ending 2022-09-30,1
+PC Matic,0.3436426116838488,2022-07-29,PC Matic,Ecommerce & Software,,,100 days ending 2022-09-30,1
+Lume,0.3436426116838488,2022-07-23,Lume,,,,100 days ending 2022-09-30,1
+Bell Howell,0.3436426116838488,2022-07-30,Monster Solar Zapper,,,,100 days ending 2022-09-30,1
+Fuller Brush,0.3436426116838488,2022-07-31,Carpet Sweeper,,,,100 days ending 2022-09-30,1
+Annuity General,0.3436426116838488,2022-07-30,Annuity Dos and Donts,Financial,,,100 days ending 2022-09-30,1
+Rosland Capital,0.3436426116838488,2022-07-20,Rosland Capital,Financial,,,100 days ending 2022-09-30,1
+SunSetter,0.3436426116838488,2022-07-23,SunSetter,,,,100 days ending 2022-09-30,1
+Lonestar Transfer,0.3436426116838488,2022-07-20,Lonestar Transfer,,,,100 days ending 2022-09-30,1
+Novex Biotech,0.3436426116838488,2022-07-17,GF-9,,,,100 days ending 2022-09-30,1
+SmartBiz Loans,0.3436426116838488,2022-07-17,SmartBiz Loans,,,,100 days ending 2022-09-30,1
+CreditAssociates,0.3436426116838488,2022-07-16,CreditAssociates,,,,100 days ending 2022-09-30,1
+GovMint,0.3436426116838488,2022-07-15,GovMint,Financial,,,100 days ending 2022-09-30,1
+Avadim Health,0.3436426116838488,2022-10-11,Theraworx,Healthcare,,,100 days ending 2022-09-30,1
+Teeter,0.3436426116838488,2022-07-12,FreeStep,,,,100 days ending 2022-09-30,1
+Tommy John,0.3436426116838488,2022-07-11,Tommy John,Retail & Restaurants,,,100 days ending 2022-09-30,1
+Dormeo,0.3436426116838488,2022-07-11,Dormeo,,,,100 days ending 2022-09-30,1
+Gotham Steel,0.3436426116838488,2022-07-10,Gotham Steel Cookware,,,,100 days ending 2022-09-30,1
+Standard Manufacturing,0.3436426116838488,2022-07-06,Switch Gun,,,,100 days ending 2022-09-30,1
+Pooph,0.3436426116838488,2022-07-04,Pooph,,,,100 days ending 2022-09-30,1
+Blue Sky Recovery,0.3436426116838488,2022-06-30,Blue Sky Recovery,,,,100 days ending 2022-09-30,1
+Daily Wire Entertainment,0.3436426116838488,2022-10-17,Candace Owens,,,,100 days ending 2022-09-30,1
+Elite Singles,0.3436426116838488,2022-08-08,Elite Singles,,,,100 days ending 2022-09-30,1
+Ox Care Care,0.3436426116838488,2022-09-16,Ox Care Care,,,,100 days ending 2022-09-30,1
+Miracle Ear,0.3436426116838488,2022-08-08,Miracle Ear,,,,100 days ending 2022-09-30,1
+Reckitt,0.3436426116838488,2022-10-22,Mucinex,,,,100 days ending 2022-09-30,1
+Sketchers,0.3436426116838488,2022-09-17,Sketchers,,,,100 days ending 2022-09-30,1
+Real Trumpy Bear,0.3436426116838488,2022-09-17,Trumpy Bears,,,,100 days ending 2022-09-30,1
+Humana,0.3436426116838488,2022-10-24,Humana Medicare Advantage,Healthcare,73.0,,100 days ending 2022-09-30,1
+Strive Funds,0.3436426116838488,2022-09-12,Strive Funds,,,,100 days ending 2022-09-30,1
+Vanda Pharma,0.3436426116838488,2022-09-12,Vanda Pharma,,,,100 days ending 2022-09-30,1
+Henry USA,0.3436426116838488,2022-09-12,Henry USA,,,,100 days ending 2022-09-30,1
+General Steel,0.3436426116838488,2022-09-12,General Steel,,,,100 days ending 2022-09-30,1
+Brightstar Care,0.3436426116838488,2022-09-18,Brightstar Care,,,,100 days ending 2022-09-30,1
+Horizon,0.3436426116838488,2022-09-19,Tepezza,Healthcare,,,100 days ending 2022-09-30,1
+CCW Safe,0.3436426116838488,2022-10-23,CCW Safe,,,,100 days ending 2022-09-30,1
+QC Kinetix,0.3436426116838488,2022-09-19,QC Kinetix,,,,100 days ending 2022-09-30,1
+The Stream,0.3436426116838488,2022-09-20,The Stream,,,,100 days ending 2022-09-30,1
+American Advisors Group,0.3436426116838488,2022-09-06,AAG Reverse ,Financial,,,100 days ending 2022-09-30,1
+Bulb Head,0.3436426116838488,2022-09-23,Eye Candy,,,,100 days ending 2022-09-30,1
+PLX Pharma,0.3436426116838488,2022-09-05,Vazalore,,,,100 days ending 2022-09-30,1
+Coursera,0.3436426116838488,2022-09-03,Coursera,,,,100 days ending 2022-09-30,1
+Surety Health,0.3436426116838488,2022-09-23,Surety Health,,,,100 days ending 2022-09-30,1
+PureTalk,0.3436426116838488,2022-09-26,PureTalk,Telecommunications,,,100 days ending 2022-09-30,1
+Hint,0.3436426116838488,2022-10-22,Hint,,,,100 days ending 2022-09-30,1
+JG Wentworth,0.3436426116838488,2022-08-30,JG Wentworth,Other,,,100 days ending 2022-09-30,1
+Balsam Hill,0.3436426116838488,2022-09-26,Balsam Hill,,,,100 days ending 2022-09-30,1
+Michaels,0.3436426116838488,2022-09-29,Michaels,,,,100 days ending 2022-09-30,1
+TogetherHealth,0.3436426116838488,2022-10-23,Medicare Coverage Helpline,Healthcare,,,100 days ending 2022-09-30,1
+Gold Alliance,0.3436426116838488,2022-10-20,Gold Guide,,,,100 days ending 2022-09-30,1
+Medicare Advantage Advisors,0.3436426116838488,2022-10-17,Medicare Advantage Advisors,,,,100 days ending 2022-09-30,1
+Realtor.com,0.3436426116838488,2022-08-13,Realtor.com,Ecommerce & Software,,,100 days ending 2022-09-30,1
+Focus Factor,0.3436426116838488,2022-06-22,Focus Factor,,,,100 days ending 2022-09-30,1
