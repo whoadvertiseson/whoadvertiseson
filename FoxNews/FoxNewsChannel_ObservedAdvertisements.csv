@@ -1,4 +1,25 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Carlin Consumer Health,Zegerid OTC,10/24/22,Afternoon,Fox News,The FIVE
+Subway,Subway,10/24/22,Afternoon,Fox News,The FIVE
+Balance of Nature,Veggies,10/24/22,Afternoon,Fox News,The FIVE
+Espired,Kids Guide to President Trump,10/24/22,Afternoon,Fox News,The FIVE
+Old Dominion Freight,Old Dominion Freight,10/24/22,Afternoon,Fox News,The FIVE
+Safelite Group,Safelite AutoGlass,10/24/22,Afternoon,Fox News,The FIVE
+Keller Postman ,Camp Lejune Lawsuit,10/24/22,Afternoon,Fox News,The FIVE
+MyPillow,MyPillow Sheets,10/24/22,Afternoon,Fox News,The FIVE
+BlackRock,iShares,10/24/22,Afternoon,Fox News,America Reports
+Abbott Laboratories ,Ensure,10/24/22,Afternoon,Fox News,America Reports
+Lear Capital,Lear Capital,10/24/22,Afternoon,Fox News,America Reports
+NewDayUSA,NewDayUSA,10/24/22,Afternoon,Fox News,America Reports
+Injury Law Center,Camp Lejune Lawsuit,10/24/22,Afternoon,Fox News,America Reports
+Ancestry,Ancestry,10/22/22,Afternoon,Fox News,Fox News Live
+T-Mobile,T-Mobile For Buisness,10/22/22,Afternoon,Fox News,Fox News Live
+Americas Best,Americas Best,10/22/22,Afternoon,Fox News,Fox News Live
+Carlin Consumer Health,Zegerid OTC,10/22/22,Afternoon,Fox News,Fox News Live
+TogetherHealth,Medicare Coverage Helpline,10/22/22,Afternoon,Fox News,Fox News Live
+Dish TV,Dish TV,10/22/22,Afternoon,Fox News,Fox News Live
+AbbVie,Ubrevely,10/22/22,Afternoon,Fox News,Fox News Live
+Rosland Capital,Rosland Capital,10/22/22,Afternoon,Fox News,Fox News Live
 Choice Hotels,Choice Hotels,10/21/22,Morning,Fox News,Fox and Friends
 Subway,Subway,10/21/22,Morning,Fox News,Fox and Friends
 Creative Planning,Creative Planning,10/21/22,Morning,Fox News,Fox and Friends
@@ -1605,16 +1626,16 @@ PureTalk,PureTalk,3/7/22,Evening,Fox News,Jesse Watters Primetime
 Hero,Hero,3/7/22,Evening,Fox News,Jesse Watters Primetime
 Comcast,NBC,3/7/22,Evening,Fox News,Jesse Watters Primetime
 HumanN,SuperBeets,3/7/22,Evening,Fox News,Jesse Watters Primetime
-NewDayUSA,NewDayUSA,3/7/22,Morning,Fox News,America's Newsroom
-Nutrisystem,Nutrisystem Men,3/7/22,Morning,Fox News,America's Newsroom
-Mammoth Nation,Mammoth Nation,3/7/22,Morning,Fox News,America's Newsroom
-Liberty Mutual,Liberty Mutual Insurance,3/7/22,Morning,Fox News,America's Newsroom
-Balance of Nature,Veggies,3/7/22,Morning,Fox News,America's Newsroom
-Cuddly,Cuddly,3/7/22,Morning,Fox News,America's Newsroom
-Priceline,Priceline,3/7/22,Morning,Fox News,America's Newsroom
-NewDayUSA,NewDayUSA,3/7/22,Morning,Fox News,America's Newsroom
-Resperate,Resperate,3/7/22,Morning,Fox News,America's Newsroom
-Thirdhome,Thirdhome,3/7/22,Morning,Fox News,America's Newsroom
+NewDayUSA,NewDayUSA,3/7/22,Morning,Fox News,Americas Newsroom
+Nutrisystem,Nutrisystem Men,3/7/22,Morning,Fox News,Americas Newsroom
+Mammoth Nation,Mammoth Nation,3/7/22,Morning,Fox News,Americas Newsroom
+Liberty Mutual,Liberty Mutual Insurance,3/7/22,Morning,Fox News,Americas Newsroom
+Balance of Nature,Veggies,3/7/22,Morning,Fox News,Americas Newsroom
+Cuddly,Cuddly,3/7/22,Morning,Fox News,Americas Newsroom
+Priceline,Priceline,3/7/22,Morning,Fox News,Americas Newsroom
+NewDayUSA,NewDayUSA,3/7/22,Morning,Fox News,Americas Newsroom
+Resperate,Resperate,3/7/22,Morning,Fox News,Americas Newsroom
+Thirdhome,Thirdhome,3/7/22,Morning,Fox News,Americas Newsroom
 OnDeck,OnDeck,3/6/22,Evening,Fox News,The Next Revolution
 Dine Brands,Applebees,3/6/22,Evening,Fox News,The Next Revolution
 Liberty Mutual,Liberty Mutual Insurance,3/6/22,Evening,Fox News,The Next Revolution
@@ -4194,11 +4215,11 @@ Coventry Direct,Coventry Direct,4/8/21,Afternoon,Fox News,America Reports
 Dish TV,Dish TV,4/8/21,Afternoon,Fox News,America Reports
 Relief Factor,Relief Factor,4/8/21,Afternoon,Fox News,America Reports
 Rocket Mortgage,Rocket Mortgage,4/8/21,Afternoon,Fox News,America Reports
-AbbVie,Linzess,4/7/21,Morning,Fox News,America's Newsroom
-Charter Communications,Spectrum Mobile,4/7/21,Morning,Fox News,America's Newsroom
-Colonial Penn,995 Plan,4/7/21,Morning,Fox News,America's Newsroom
-Lear Capital,Lear Capital,4/7/21,Morning,Fox News,America's Newsroom
-TheraBreath,TheraBreath,4/7/21,Morning,Fox News,America's Newsroom
+AbbVie,Linzess,4/7/21,Morning,Fox News,Americas Newsroom
+Charter Communications,Spectrum Mobile,4/7/21,Morning,Fox News,Americas Newsroom
+Colonial Penn,995 Plan,4/7/21,Morning,Fox News,Americas Newsroom
+Lear Capital,Lear Capital,4/7/21,Morning,Fox News,Americas Newsroom
+TheraBreath,TheraBreath,4/7/21,Morning,Fox News,Americas Newsroom
 AliveCor,KardiaMobile,4/6/21,Evening,Fox News,Fox News Primetime
 Charter Communications,Spectrum Mobile,4/6/21,Evening,Fox News,Fox News Primetime
 Ideal Agent,Idealagent.com,4/6/21,Evening,Fox News,Fox News Primetime
@@ -4530,7 +4551,7 @@ USAA,USAA Insurance,2/17/21,Morning,Fox News,Americas Newsroom
 Vroom,Vroom,2/17/21,Evening,Fox News,Fox News Primetime
 WeatherTech,WeatherTech,2/17/21,Evening,Fox News,Fox News Primetime
 Acadia,Nuplazid,2/16/21,Afternoon,Fox News,The Breaking Story
-America's Best,America's Best,2/16/21,Afternoon,Fox News,The Breaking Story
+Americas Best,Americas Best,2/16/21,Afternoon,Fox News,The Breaking Story
 Consumer Cellular,Consumer Cellular,2/16/21,Afternoon,Fox News,The Breaking Story
 Johnson and Johnson,Aveeno,2/16/21,Afternoon,Fox News,The Breaking Story
 Liberty Mutual,Liberty Mutual Insurance,2/16/21,Afternoon,Fox News,The Breaking Story
@@ -4682,18 +4703,18 @@ Force Factor,Force Factor,1/30/21,Evening,Fox News,Life Liberty and Levin
 HomeTitleLock,HomeTitleLock.com,1/30/21,Evening,Fox News,Life Liberty and Levin
 The Ridge,The Ridge,1/30/21,Evening,Fox News,Life Liberty and Levin
 WeatherTech,CupFone,1/30/21,Evening,Fox News,Life Liberty and Levin
-CarGurus,CarGurus,1/29/21,Morning,Fox News,America's Newsroom
+CarGurus,CarGurus,1/29/21,Morning,Fox News,Americas Newsroom
 coursera,coursera.org,1/29/21,Morning,Fox News,The Faulkner Focus
 Eargo,Eargo,1/29/21,Morning,Fox News,The Faulkner Focus
 Fingerhut,Fingerhut,1/29/21,Morning,Fox News,The Faulkner Focus
 Idaho Potatoes,Idaho Potatoes,1/29/21,Morning,Fox News,The Faulkner Focus
-Ideal Agent,Idealagent.com,1/29/21,Morning,Fox News,America's Newsroom
+Ideal Agent,Idealagent.com,1/29/21,Morning,Fox News,Americas Newsroom
 Liberty Mutual,Liberty Mutual Insurance,1/29/21,Morning,Fox News,The Faulkner Focus
 TogetherHealth,Medicare Coverage Helpline,1/29/21,Morning,Fox News,The Faulkner Focus
 Musely.com,Musely.com,1/29/21,Morning,Fox News,The Faulkner Focus
-NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,America's Newsroom
+NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,Americas Newsroom
 NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,The Faulkner Focus
-Nutrisystem,Nutrisystem,1/29/21,Morning,Fox News,America's Newsroom
+Nutrisystem,Nutrisystem,1/29/21,Morning,Fox News,Americas Newsroom
 ATT,ATT Wireless,1/28/21,Afternoon,Fox News,Special Report
 Balance of Nature,Veggies,1/28/21,Afternoon,Fox News,Special Report
 Consumer Cellular,Consumer Cellular,1/28/21,Afternoon,Fox News,Special Report
