@@ -1,4 +1,20 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Bayer,Aleve,10/31/22,Evening,Fox News,Jesse Watters Primetime
+Horizon,Treat TED,10/31/22,Evening,Fox News,Jesse Watters Primetime
+Black Label Media,Devotion,10/31/22,Evening,Fox News,Jesse Watters Primetime
+Safelite Group,Safelite AutoGlass,10/30/22,Evening,Fox News,The Next Revolution 
+Nutrisystem,Nutrisystem,10/30/22,Evening,Fox News,The Next Revolution 
+Angi,Angi,10/30/22,Evening,Fox News,The Next Revolution 
+General Motors,Chevrolet,10/30/22,Evening,Fox News,The Next Revolution 
+Keller Postman ,Camp Lejune Lawsuit,10/30/22,Evening,Fox News,The Next Revolution 
+SeroVital,SeroVital,10/30/22,Evening,Fox News,The Next Revolution 
+Grainger,Grainger,10/30/22,Evening,Fox News,The Next Revolution 
+MyPillow,MyPillow Sheets,10/30/22,Evening,Fox News,The Next Revolution 
+Suburu,Suburu,10/29/22,Evening,Fox News,Unfiltered with Dan Bongino
+Aspen Dental,Aspen Dental,10/29/22,Evening,Fox News,Unfiltered with Dan Bongino
+bulbHead,Angel View,10/29/22,Evening,Fox News,Unfiltered with Dan Bongino
+Angi,Angi,10/29/22,Evening,Fox News,Unfiltered with Dan Bongino
+Dish TV,Dish TV,10/29/22,Evening,Fox News,Unfiltered with Dan Bongino
 Kings Hawaiian Bread,Kings Hawaiian Bread,10/28/22,Morning,Fox News,Fox and Friends
 Bausch and Lomb,Ocuvite,10/28/22,Morning,Fox News,Fox and Friends
 Camping World,Camping World,10/28/22,Morning,Fox News,Fox and Friends
@@ -10,6 +26,29 @@ MyPillow,MySlippers,10/28/22,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,10/28/22,Morning,Fox News,Fox and Friends
 ZipRecruiter,ZipRecruiter,10/28/22,Morning,Fox News,Fox and Friends
 Lowes,Lowes,10/28/22,Morning,Fox News,Fox and Friends
+NewDayUSA,NewDayUSA,10/28/22,Morning,Fox News,The Faulkner Focus
+Ancestry,Ancestry,10/28/22,Morning,Fox News,The Faulkner Focus
+Red Lobster,Red Lobster,10/28/22,Morning,Fox News,The Faulkner Focus
+Abbott Laboratories ,Glucerna,10/28/22,Morning,Fox News,The Faulkner Focus
+Balance of Nature,Veggies,10/28/22,Morning,Fox News,The Faulkner Focus
+Avadim Health,Theraworx,10/28/22,Morning,Fox News,The Faulkner Focus
+Keller Postman ,Camp Lejune Lawsuit,10/28/22,Morning,Fox News,The Faulkner Focus
+Aspen Dental,Aspen Dental,10/28/22,Morning,Fox News,The Faulkner Focus
+Google,Google Safety,10/28/22,Morning,Fox News,The Faulkner Focus
+Principal,Principal Retirement,10/28/22,Morning,Fox News,The Faulkner Focus
+Crowe Global,Crowe Global LLP,10/28/22,Morning,Fox News,The Faulkner Focus
+Ford Motor Company,Lincoln,10/28/22,Morning,Fox News,The Faulkner Focus
+Sono Bello,Sono Bello,10/28/22,Morning,Fox News,The Faulkner Focus
+Lear Capital,Lear Capital,10/28/22,Afternoon,Fox News,The Story with Martha MacCallum
+Keller Postman ,Camp Lejune Lawsuit,10/28/22,Afternoon,Fox News,The Story with Martha MacCallum
+Wellcare,Wellcare,10/28/22,Afternoon,Fox News,The Story with Martha MacCallum
+Novo Nordisk,Get Real About Diabetes,10/28/22,Afternoon,Fox News,The Story with Martha MacCallum
+Bausch and Lomb,PreserVision,10/28/22,Evening,Fox News,The Ingraham Angle
+MyPillow,MyPillow Sheets,10/28/22,Evening,Fox News,The Ingraham Angle
+Keller Postman ,Camp Lejune Lawsuit,10/28/22,Evening,Fox News,The Ingraham Angle
+Espired,Kids Guide to President Trump,10/28/22,Evening,Fox News,The Ingraham Angle
+SeroVital,SeroVital,10/28/22,Evening,Fox News,The Ingraham Angle
+Ford Motor Company,Lincoln,10/28/22,Evening,Fox News,The Ingraham Angle
 WeatherTech,WeatherTech,10/27/22,Evening,Fox News,Hannity
 SurePayroll,SurePayroll,10/27/22,Evening,Fox News,Hannity
 GetRefunds,GetRefunds,10/27/22,Evening,Fox News,Hannity
@@ -4828,16 +4867,3 @@ Balance of Nature,Veggies,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Fracture,Fracture Me,1/17/21,Morning,Fox News,Fox and Friends Sunday
 HumanN,SuperBeets,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Kraft Heinz Company,Kraft Macaroni and Cheese,1/17/21,Morning,Fox News,Fox and Friends Sunday
-NewDayUSA,NewDayUSA,10/28/22,Morning,Fox News,The Faulkner Focus
-Ancestry,Ancestry,10/28/22,Morning,Fox News,The Faulkner Focus
-Red Lobster,Red Lobster,10/28/22,Morning,Fox News,The Faulkner Focus
-Abbott Laboratories ,Glucerna,10/28/22,Morning,Fox News,The Faulkner Focus
-Balance of Nature,Veggies,10/28/22,Morning,Fox News,The Faulkner Focus
-Avadim Health,Theraworx,10/28/22,Morning,Fox News,The Faulkner Focus
-Keller Postman ,Camp Lejune Lawsuit,10/28/22,Morning,Fox News,The Faulkner Focus
-Aspen Dental,Aspen Dental,10/28/22,Morning,Fox News,The Faulkner Focus
-Google,Google Safety,10/28/22,Morning,Fox News,The Faulkner Focus
-Principal,Principal Retirement,10/28/22,Morning,Fox News,The Faulkner Focus
-Crowe Global,Crowe Global LLP,10/28/22,Morning,Fox News,The Faulkner Focus
-Ford Motor Company,Lincoln,10/28/22,Morning,Fox News,The Faulkner Focus
-Sono Bello,Sono Bello,10/28/22,Morning,Fox News,The Faulkner Focus
