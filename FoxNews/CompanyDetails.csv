@@ -15,6 +15,7 @@ Bayer,,214,Healthcare,Global 500 / Fortune 1000
 BMW,,56,Motor Vehicles & Automotive,Global 500 / Fortune 1000
 Boehringer Ingelheim,,464,Healthcare,Global 500 / Fortune 1000
 Boston Scientific,296,,Healthcare,Global 500 / Fortune 1000
+BlackRock,184,,Financial,Global 500 / Fortune 1000
 Bristol Meyers Squibb,75,,Healthcare,Global 500 / Fortune 1000
 Charles Schwab,251,,Financial,Global 500 / Fortune 1000
 Charter Communications,71,258,Telecommunications,Global 500 / Fortune 1000
@@ -537,7 +538,7 @@ Wolf and Shepherd,,,Retail & Restaurants,Venture Funded
 ZipRecruiter,,,Business Services,Venture Funded
 Win Reality,,,,Other Companies
 LegalHelp247,,,,Other Companies
-Camping World,475,,,Global 500 / Fortune 1000
+Camping World,475,,Motor Vehicles & Automotive,Global 500 / Fortune 1000
 Boll and Branch,,,Household & Food Products,Venture Funded
 BlendJet,,,,Other Companies
 Blue Emu,,,,Other Companies
@@ -551,3 +552,4 @@ Mayo Clinic,,,,Other Companies
 Reperate,,,,Other Companies
 Exoticca,,,,Other Companies
 Simon and Schuster,116,,Telecommunications,Global 500 / Fortune 1000
+JetBlue,523,,Other,Global 500 / Fortune 1000
