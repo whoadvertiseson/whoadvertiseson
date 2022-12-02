@@ -1,4 +1,39 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+AbbVie,Rinvoq,12/1/22,Morning,Fox News,Fox and Friends
+Vroom,Vroom,12/1/22,Morning,Fox News,Fox and Friends
+Solo Stove,Solo Stove,12/1/22,Morning,Fox News,Fox and Friends
+Lowes,Lowes,12/1/22,Morning,Fox News,Fox and Friends
+TogetherHealth,Medicare Coverage Helpline,12/1/22,Morning,Fox News,Fox and Friends
+General Motors,Cadillac,12/1/22,Afternoon,Fox News,The FIVE
+Novo Nordisk,Rybelsus,12/1/22,Afternoon,Fox News,The FIVE
+Noble Gold Investments,Noble Gold Investments,12/1/22,Afternoon,Fox News,The FIVE
+PragerU,PragerU,12/1/22,Afternoon,Fox News,The FIVE
+Relief Factor,Relief Factor,12/1/22,Afternoon,Fox News,The FIVE
+Mahindra,Mahindra Tractors,11/30/22,Morning,Fox News,Fox and Friends
+Balance of Nature,Veggies,11/30/22,Morning,Fox News,Fox and Friends
+Facet Wealth,Facet Wealth,11/30/22,Morning,Fox News,Fox and Friends
+Lowes,Lowes,11/30/22,Morning,Fox News,Fox and Friends
+Procter and Gamble,Vicks Nyquil,11/30/22,Morning,Fox News,Fox and Friends
+Relief Factor,Relief Factor,11/30/22,Evening,Fox News,Jesse Watters Primetime
+A Place for Mom,A Place for Mom,11/30/22,Evening,Fox News,Jesse Watters Primetime
+WeatherTech,WeatherTech,11/30/22,Evening,Fox News,Jesse Watters Primetime
+Waterpik,Sonic Fusion,11/30/22,Evening,Fox News,Jesse Watters Primetime
+MyPillow,MySlippers,11/30/22,Evening,Fox News,Jesse Watters Primetime
+Espired,Kids Guide to The Bible,11/30/22,Evening,Fox News,Jesse Watters Primetime
+Eargo,Eargo,11/30/22,Evening,Fox News,Jesse Watters Primetime
+TogetherHealth,Medicare Coverage Helpline,11/30/22,Evening,Fox News,Jesse Watters Primetime
+MyPillow,MyPillow Sheets,11/30/22,Evening,Fox News,The Ingraham Angle
+Balance of Nature,Fruits,11/30/22,Evening,Fox News,The Ingraham Angle
+ClearCaptions,ClearCaptions,11/30/22,Evening,Fox News,The Ingraham Angle
+FuboTV,FuboTV,11/30/22,Evening,Fox News,The Ingraham Angle
+Michaels,Holiday Sake,11/28/22,Evening,Fox News,Hannity
+New Vitality,Ageless Male Max,11/28/22,Evening,Fox News,Hannity
+MyPillow,Bedding Sale,11/28/22,Evening,Fox News,Hannity
+Wolf and Shepherd,Wolf and Shepherd,11/28/22,Evening,Fox News,Hannity
+PureTalk,PureTalk,11/28/22,Evening,Fox News,Hannity
+Solo Stove,Solo Stove,11/28/22,Evening,Fox News,Hannity
+SeroVital,SeroVital,11/28/22,Evening,Fox News,Hannity
+Annuity General,Annuity Dos and Donts,11/28/22,Evening,Fox News,Hannity
 AeroGardern,AeroGardern,11/27/22,Morning,Fox News,Fox and Friends Sunday
 Safelite Group,Safelite AutoGlass,11/27/22,Morning,Fox News,Fox and Friends Sunday
 X-Chair,X-Chair,11/27/22,Morning,Fox News,Fox and Friends Sunday
@@ -113,7 +148,7 @@ Carvana,Carvana,11/3/22,Afternoon,Fox News,Special Report
 Balance of Nature,Fruits,11/3/22,Afternoon,Fox News,Special Report
 FastSigns,FastSigns,11/3/22,Afternoon,Fox News,Special Report
 Jersey Mikes,Jersey Mikes,11/3/22,Afternoon,Fox News,Special Report
-fuboTV,fuboTV,11/3/22,Afternoon,Fox News,Special Report
+FuboTV,FuboTV,11/3/22,Afternoon,Fox News,Special Report
 PNC Bank,PNC Private Bank,11/3/22,Afternoon,Fox News,America Reports
 Balance of Nature,Veggies,11/3/22,Afternoon,Fox News,America Reports
 World Gold Council,World Gold Council,11/3/22,Afternoon,Fox News,America Reports
@@ -294,7 +329,7 @@ Liberty Mutual,Liberty Mutual Insurance,10/9/22,Afternoon,Fox News,Fox Report
 Booking.com,Booking.com,10/9/22,Afternoon,Fox News,Fox Report
 Verizon,Verizon Business,10/9/22,Afternoon,Fox News,Fox Report
 Fabletics,Fabletics,10/9/22,Afternoon,Fox News,Fox Report
-fuboTV,fuboTV,10/9/22,Afternoon,Fox News,Fox Report
+FuboTV,FuboTV,10/9/22,Afternoon,Fox News,Fox Report
 Realtor.com,Realtor.com,10/9/22,Afternoon,Fox News,Fox Report
 Burns and Harris,Injury Law ,10/9/22,Afternoon,Fox News,Fox Report
 CBS,NCIS,10/9/22,Afternoon,Fox News,Fox Report
@@ -381,7 +416,7 @@ SharperImage,Calming Heat Back,9/25/22,Morning,Fox News,Fox and Friends Sunday
 AbbVie,Rinvoq,9/25/22,Morning,Fox News,Fox and Friends Sunday
 AliveCor,KardiaMobile,9/24/22,Evening,Fox News,Unfiltered with Dan Bongino
 Force Factor,Smarter Greens,9/24/22,Evening,Fox News,Unfiltered with Dan Bongino
-fuboTV,fuboTV,9/24/22,Evening,Fox News,Unfiltered with Dan Bongino
+FuboTV,FuboTV,9/24/22,Evening,Fox News,Unfiltered with Dan Bongino
 Jamaica Tourism,Jamaica Tourism,9/22/22,Morning,Fox News,Americas Newsroom
 Verizon,Verizon Business,9/22/22,Morning,Fox News,Americas Newsroom
 Inspire Medical Systems,Inspire Sleep,9/22/22,Morning,Fox News,Americas Newsroom
@@ -3392,7 +3427,7 @@ Abbott Laboratories ,Abbott,8/15/21,Morning,Fox News,Fox and Friends Sunday
 ADT,ADT,8/15/21,Morning,Fox News,Fox and Friends Sunday
 ClearChoice,ClearChoice,8/15/21,Morning,Fox News,Fox and Friends Sunday
 Dine Brands,Applebees,8/15/21,Morning,Fox News,Fox and Friends Sunday
-fuboTV,fuboTV,8/15/21,Morning,Fox News,Fox and Friends Sunday
+FuboTV,FuboTV,8/15/21,Morning,Fox News,Fox and Friends Sunday
 GlaxoSmithKline,Emergency,8/15/21,Morning,Fox News,Fox and Friends Sunday
 Old Dominion Freight,Old Dominion Freight,8/15/21,Morning,Fox News,Fox and Friends Sunday
 RockAuto,RockAuto,8/15/21,Morning,Fox News,Fox and Friends Sunday
