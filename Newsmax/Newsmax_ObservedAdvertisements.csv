@@ -1,4 +1,7 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Gotham Steel,Aqua Blue,1/1/23,Afternoon,Newsmax,The Record
+Quincy Bioscience,Prevagen,1/1/23,Afternoon,Newsmax,The Record
+HungryRoot,HungryRoot,1/1/23,Afternoon,Newsmax,The Record
 Consumer Cellular,Consumer Cellular,12/27/22,Afternoon,Newsmax,Spicer and Co
 Balsam Hill,Balsam Hill,12/27/22,Afternoon,Newsmax,Spicer and Co
 Espired,Kids Guide to One Nation Under God,12/27/22,Afternoon,Newsmax,Spicer and Co
@@ -860,4 +863,3 @@ SleepASAP,NutriStrips,5/25/21,Morning,Newsmax,Wake up America
 Generac,PRWCell,5/25/21,Morning,Newsmax,Wake up America
 MyPillow,MyPillow Mattress Topper,5/25/21,Morning,Newsmax,Wake up America
 Waterpik,ToothBrushes,5/25/21,Morning,Newsmax,Wake up America
-,,, ,,
