@@ -1,12 +1,23 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Ameriprise,Ameriprise,2/6/23,Morning,Fox News,Fox and Friends
+SleepNumber,SleepNumber,2/6/23,Morning,Fox News,Fox and Friends
+Keepsake,Keepsake Frames,2/6/23,Morning,Fox News,Fox and Friends
+PureTalk,PureTalk,2/6/23,Morning,Fox News,Fox and Friends
+Nutrisystem,Nutrisystem,2/6/23,Morning,Fox News,Fox and Friends
+Novartis,Entresto,2/6/23,Morning,Fox News,Fox and Friends
+MyPillow,MyPillow Sheets,2/5/23,Afternoon,Fox News,Fox Report
+Nutrisystem,Nutrisystem Complete,2/5/23,Afternoon,Fox News,Fox Report
+Wolf and Shepherd,Wolf and Shepherd,2/5/23,Afternoon,Fox News,Fox Report
+Realtor.com,Realtor.com,2/5/23,Afternoon,Fox News,Fox Report
+New Vitality,Ageless Male Max,2/5/23,Afternoon,Fox News,Fox Report
+Novartis,Entresto,2/3/23,Morning,Fox News,Fox and Friends
+Paycom,Paycom,2/3/23,Morning,Fox News,Fox and Friends
+Nano Hearing Aids,Nano Hearing Aids,2/3/23,Morning,Fox News,Fox and Friends
 General Motors,Chevrolet,1/31/23,Evening,Fox News,Jesse Watters Primetime
 Del Webb,Del Webb Communities,1/31/23,Evening,Fox News,Jesse Watters Primetime
 Consumer Cellular,Consumer Cellular,1/31/23,Evening,Fox News,Jesse Watters Primetime
 WeatherTech,WeatherTech,1/31/23,Evening,Fox News,Jesse Watters Primetime
 HumanN,SuperBeets,1/31/23,Evening,Fox News,Jesse Watters Primetime
-Pretzels.com,Pretzels.com,1/30/23,Evening,Fox News,Jesse Watters Primetime
-Espired,Kids Guide to President Trump,1/30/23,Evening,Fox News,Jesse Watters Primetime
-Balance of Nature,Veggies,1/30/23,Evening,Fox News,Jesse Watters Primetime
 Consumer Cellular,Consumer Cellular,1/31/23,Morning,Fox News,Fox and Friends
 Instacart,Instacart,1/31/23,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,1/31/23,Morning,Fox News,Fox and Friends
@@ -19,6 +30,9 @@ NewDayUSA,NewDayUSA,1/31/23,Afternoon,Fox News,America Reports
 Musely.com,Musely.com,1/31/23,Afternoon,Fox News,America Reports
 Subway,Subway,1/31/23,Afternoon,Fox News,America Reports
 Safelite Group,Safelite AutoGlass,1/31/23,Afternoon,Fox News,America Reports
+Pretzels.com,Pretzels.com,1/30/23,Evening,Fox News,Jesse Watters Primetime
+Espired,Kids Guide to President Trump,1/30/23,Evening,Fox News,Jesse Watters Primetime
+Balance of Nature,Veggies,1/30/23,Evening,Fox News,Jesse Watters Primetime
 BlackRock,BlackRock,1/28/23,Evening,Fox News,Fox News Live
 GlaxoSmithKline,Shingles Vaccine,1/28/23,Evening,Fox News,Fox News Live
 Nutrisystem,Nutrisystem,1/28/23,Evening,Fox News,Fox News Live
