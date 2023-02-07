@@ -1,105 +1,93 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-MyPillow,9.691629955947137,2023-01-11,"MyPillow Sheets, MyPillow, MySlippers, Bedding Sale, MyPillow Sale, MyPillow Towels, MyPillow Mattress Topper",Household & Food Products,,,100 days ending 2022-12-30,22
-Balance of Nature,3.524229074889868,2023-01-11,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2022-12-30,8
-CashNetUSA,3.524229074889868,2023-01-06,"NetCredit, CashNetUSA",,,,100 days ending 2022-12-30,8
-Qunol,3.0837004405286343,2023-01-11,"Tumeric, Magnesium Gummies, Tumeric Gummies, Ultra CoQ10",Supplements & Weight Loss,,,100 days ending 2022-12-30,7
-Relief Factor,3.0837004405286343,2022-12-23,"Relief Factor, Relief Factor Sleep",Supplements & Weight Loss,,,100 days ending 2022-12-30,7
-Espired,2.643171806167401,2022-12-27,"Kids Guide to One Nation Under God, Kids Guide to The Bible, Kids Guide to Our One Nation Under God",Other,,,100 days ending 2022-12-30,6
-Stihl,2.643171806167401,2022-12-17,"Stihl Tools, Stihl Blowers, Stihl Chainsaws",Hardware and Machinery,,,100 days ending 2022-12-30,6
-GOLO,2.2026431718061676,2023-01-12,GOLO,Supplements & Weight Loss,,,100 days ending 2022-12-30,5
-Mammoth Nation,2.2026431718061676,2022-11-15,Mammoth Nation,Ecommerce & Software,,,100 days ending 2022-12-30,5
-Solo Stove,2.2026431718061676,2022-12-04,Solo Stove,Household & Food Products,,,100 days ending 2022-12-30,5
-TogetherHealth,2.2026431718061676,2022-11-30,"Medicare Helpline, Medicare Coverage Helpline",Healthcare,,,100 days ending 2022-12-30,5
-Immuno150,1.762114537444934,2022-12-19,Immuno150,,,,100 days ending 2022-12-30,4
-Quincy Bioscience,1.762114537444934,2023-01-02,Prevagen,Supplements & Weight Loss,,,100 days ending 2022-12-30,4
-Balsam Hill,1.3215859030837005,2022-12-27,Balsam Hill,,,,100 days ending 2022-12-30,3
-Dexcom,1.3215859030837005,2022-10-28,Dexcom G6,,,,100 days ending 2022-12-30,3
-Humana,1.3215859030837005,2022-12-06,Humana Medicare Advantage,Healthcare,73.0,,100 days ending 2022-12-30,3
-Lume Deo,1.3215859030837005,2023-01-03,Lume Deo,,,,100 days ending 2022-12-30,3
-MicroVisor,1.3215859030837005,2022-12-04,MicroVisor,,,,100 days ending 2022-12-30,3
-Novo Nordisk,1.3215859030837005,2022-12-27,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2022-12-30,3
-PureTalk,1.3215859030837005,2023-01-12,PureTalk,Telecommunications,,,100 days ending 2022-12-30,3
-Reckitt,1.3215859030837005,2022-10-23,"Airborne, Mucinex, Neuriva",,,,100 days ending 2022-12-30,3
-Roasted RINO,1.3215859030837005,2022-12-27,Roasted RINO,,,,100 days ending 2022-12-30,3
-SelectQuote,1.3215859030837005,2022-10-22,SelectQuote,Ecommerce & Software,,,100 days ending 2022-12-30,3
-SharperImage,1.3215859030837005,2022-11-21,"Calming Heat Sauna, Calming Heat Back",,,,100 days ending 2022-12-30,3
-Tommy John,1.3215859030837005,2022-12-14,Tommy John,Retail & Restaurants,,,100 days ending 2022-12-30,3
-WeatherTech,1.3215859030837005,2022-12-07,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2022-12-30,3
-Averitas,0.881057268722467,2022-10-06,Qutenza,,,,100 days ending 2022-12-30,2
-Beyond Flawless,0.881057268722467,2023-01-05,Beyond Flawless Second Skin,,,,100 days ending 2022-12-30,2
-Cerakote,0.881057268722467,2023-01-12,Cerakote,,,,100 days ending 2022-12-30,2
-Consumer Cellular,0.881057268722467,2023-01-04,Consumer Cellular,Telecommunications,,,100 days ending 2022-12-30,2
-GovMint,0.881057268722467,2023-01-11,GovMint,Financial,,,100 days ending 2022-12-30,2
-HearingAssist,0.881057268722467,2022-10-31,HearingAssist,,,,100 days ending 2022-12-30,2
-Horizon,0.881057268722467,2023-01-16,Tepezza,Healthcare,,,100 days ending 2022-12-30,2
-Lear Capital,0.881057268722467,2022-11-16,"Lear Gold, Lear Capital",Financial,,,100 days ending 2022-12-30,2
-Magnilife,0.881057268722467,2022-11-05,Magnilife Pain Relief,,,,100 days ending 2022-12-30,2
-Medicare Advantage Advisors,0.881057268722467,2023-01-11,Medicare Advantage Advisors,,,,100 days ending 2022-12-30,2
-Menange a Trois ,0.881057268722467,2022-11-27,"Menange a Trois Wiines , Menange a Trois Wines",,,,100 days ending 2022-12-30,2
-Mortach Financial,0.881057268722467,2022-12-27,Mortach Financial,,,,100 days ending 2022-12-30,2
-Smileactives,0.881057268722467,2023-01-16,Smileactives,,,,100 days ending 2022-12-30,2
-Sokolove Law,0.881057268722467,2022-11-21,Camp Lejeune Water,,,,100 days ending 2022-12-30,2
-Swiss America,0.881057268722467,2022-12-20,"The Secret War, Swiss America",,,,100 days ending 2022-12-30,2
-The Scoop,0.881057268722467,2022-10-12,The Scoop,,,,100 days ending 2022-12-30,2
-Thomas J Henry,0.881057268722467,2022-10-11,Camp Lejune Lawsuit,,,,100 days ending 2022-12-30,2
-True Classic,0.881057268722467,2022-12-04,True Classic,,,,100 days ending 2022-12-30,2
-AstraZeneca,0.4405286343612335,2022-10-06,Farxiga,Healthcare,,462.0,100 days ending 2022-12-30,1
-Avadim Health,0.4405286343612335,2022-10-11,Theraworx,Healthcare,,,100 days ending 2022-12-30,1
-Brightstar Care,0.4405286343612335,2023-01-06,Brightstar Care,,,,100 days ending 2022-12-30,1
-Bulb Head,0.4405286343612335,2022-09-23,Eye Candy,,,,100 days ending 2022-12-30,1
-CCW Safe,0.4405286343612335,2022-10-23,CCW Safe,,,,100 days ending 2022-12-30,1
-Carpe,0.4405286343612335,2022-12-27,Carpe Antipersierant,,,,100 days ending 2022-12-30,1
-ClearCaptions,0.4405286343612335,2022-11-23,ClearCaptions,Healthcare,,,100 days ending 2022-12-30,1
-Consumer Tort Group,0.4405286343612335,2022-10-15,Camp Lejune,,,,100 days ending 2022-12-30,1
-Daily Wire Entertainment,0.4405286343612335,2022-10-17,Candace Owens,,,,100 days ending 2022-12-30,1
-Disabled American Veterans,0.4405286343612335,2022-12-06,Disabled American Veterans,,,,100 days ending 2022-12-30,1
-Dynamo Emergency Band Radio,0.4405286343612335,2022-10-23,Dynamo Emergency Band Radio,Household & Food Products,,,100 days ending 2022-12-30,1
-Emeril Lagassi,0.4405286343612335,2022-11-26,French Door 360,,,,100 days ending 2022-12-30,1
-Ferndale Healthcare ,0.4405286343612335,2022-10-11,DerMend,Healthcare,,,100 days ending 2022-12-30,1
-FightCamp,0.4405286343612335,2022-11-10,FightCamp,,,,100 days ending 2022-12-30,1
-Force Factor,0.4405286343612335,2023-01-02,Test180,Supplements & Weight Loss,,,100 days ending 2022-12-30,1
-Generac,0.4405286343612335,2022-12-23,Generac,,,,100 days ending 2022-12-30,1
-GetRefunds,0.4405286343612335,2023-01-03,GetRefunds,,,,100 days ending 2022-12-30,1
-Gold Alliance,0.4405286343612335,2022-10-20,Gold Guide,,,,100 days ending 2022-12-30,1
-Golden Corral,0.4405286343612335,2022-12-06,Golden Corral,Retail & Restaurants,,,100 days ending 2022-12-30,1
-Gotham Steel,0.4405286343612335,2023-01-01,Aqua Blue,,,,100 days ending 2022-12-30,1
-Grow Advertising,0.4405286343612335,2022-10-27,Grow Advertising,,,,100 days ending 2022-12-30,1
-Harry and David,0.4405286343612335,2022-12-17,Harry and David,Household & Food Products,,,100 days ending 2022-12-30,1
-Henry USA,0.4405286343612335,2022-11-11,Henry USA,,,,100 days ending 2022-12-30,1
-Hint,0.4405286343612335,2022-10-22,Hint,,,,100 days ending 2022-12-30,1
-HomeTitleLock,0.4405286343612335,2022-12-01,HomeTitleLock,Household Services,,,100 days ending 2022-12-30,1
-HumanN,0.4405286343612335,2022-10-19,SuperBeets Heart Chews,,,,100 days ending 2022-12-30,1
-HungryRoot,0.4405286343612335,2023-01-01,HungryRoot,,,,100 days ending 2022-12-30,1
-Jinx,0.4405286343612335,2022-11-10,Jinx,,,,100 days ending 2022-12-30,1
-Kardia,0.4405286343612335,2022-11-22,Kardia Mobile,Healthcare,,,100 days ending 2022-12-30,1
-Lifevac,0.4405286343612335,2022-12-06,Lifevac,,,,100 days ending 2022-12-30,1
-Medi-Share,0.4405286343612335,2022-11-15,Medi-Share 65 Plus,,,,100 days ending 2022-12-30,1
-Medicare Enroll,0.4405286343612335,2022-12-01,Medicare Enroll,,,,100 days ending 2022-12-30,1
-Michaels,0.4405286343612335,2022-09-29,Michaels,,,,100 days ending 2022-12-30,1
-Monetary Gold,0.4405286343612335,2022-11-28,Monetary Gold,,,,100 days ending 2022-12-30,1
-New Vitality,0.4405286343612335,2022-12-27,Ageless Male Max,Supplements & Weight Loss,,,100 days ending 2022-12-30,1
-NortonLifeLock,0.4405286343612335,2022-09-26,LifeLock,Ecommerce & Software,573.0,,100 days ending 2022-12-30,1
-Nutrisystem,0.4405286343612335,2023-01-11,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2022-12-30,1
-OptimaTax,0.4405286343612335,2022-12-27,OptimaTax Relief,,,,100 days ending 2022-12-30,1
-PC Matic,0.4405286343612335,2023-01-16,PC Matic,Ecommerce & Software,,,100 days ending 2022-12-30,1
-PCH,0.4405286343612335,2022-10-24,Publishers Clearing House,,,,100 days ending 2022-12-30,1
-Patriot Gold and Silver,0.4405286343612335,2023-01-04,Patriot Gold and Silver,,,,100 days ending 2022-12-30,1
-Qunol ,0.4405286343612335,2022-10-31,Tumeric,,,,100 days ending 2022-12-30,1
-Relaxium,0.4405286343612335,2022-11-05,Relaxium,Supplements & Weight Loss,,,100 days ending 2022-12-30,1
-ReliefFactor,0.4405286343612335,2022-10-31,ReliefFactor,,,,100 days ending 2022-12-30,1
-ResetSmile,0.4405286343612335,2022-12-04,ResetSmile,,,,100 days ending 2022-12-30,1
-Sell Easy,0.4405286343612335,2022-11-30,Sell Easy,,,,100 days ending 2022-12-30,1
-Sharper Image,0.4405286343612335,2022-11-27,Calming,,,,100 days ending 2022-12-30,1
-Ship Skis,0.4405286343612335,2023-01-03,Ship Skis,,,,100 days ending 2022-12-30,1
-Sketchers,0.4405286343612335,2022-12-21,Sketchers,,,,100 days ending 2022-12-30,1
-Stanley Law,0.4405286343612335,2022-11-11,Camp Lejune Lawsuit,,,,100 days ending 2022-12-30,1
-StoveGuard,0.4405286343612335,2023-01-06,StoveGuard,,,,100 days ending 2022-12-30,1
-Strikeman ,0.4405286343612335,2022-10-06,Laser Firearm Training,,,,100 days ending 2022-12-30,1
-Surety Health,0.4405286343612335,2022-09-23,Surety Health,,,,100 days ending 2022-12-30,1
-The Bonati Institute,0.4405286343612335,2022-12-12,The Bonati Institute,,,,100 days ending 2022-12-30,1
-The Jewelry Exchange,0.4405286343612335,2022-12-21,The Jewelry Exchange,,,,100 days ending 2022-12-30,1
-Vanda Pharma,0.4405286343612335,2022-11-11,Motion Sickness Study,,,,100 days ending 2022-12-30,1
-WaxRx,0.4405286343612335,2023-01-09,WaxRx,,,,100 days ending 2022-12-30,1
-White Heart Legal,0.4405286343612335,2022-10-23,Camp Lejeune Lawsuit,,,,100 days ending 2022-12-30,1
-Zicam,0.4405286343612335,2022-11-16,Zicam,,,,100 days ending 2022-12-30,1
-Zoetis Petcare,0.4405286343612335,2022-10-01,Simparica,Household & Food Products,,,100 days ending 2022-12-30,1
+MyPillow,9.13978494623656,2023-02-03,"MyPillow Sheets, MyPillow Sale, MyPillow, MySlippers, Bedding Sale",Household & Food Products,,,100 days ending 2023-02-06,17
+CashNetUSA,3.763440860215054,2023-02-06,"NetCredit, CashNetUSA",,,,100 days ending 2023-02-06,7
+Espired,3.225806451612903,2022-12-27,"Kids Guide to One Nation Under God, Kids Guide to The Bible, Kids Guide to Our One Nation Under God",Other,,,100 days ending 2023-02-06,6
+Relief Factor,3.225806451612903,2022-12-23,"Relief Factor, Relief Factor Sleep",Supplements & Weight Loss,,,100 days ending 2023-02-06,6
+Balance of Nature,2.6881720430107525,2023-01-11,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2023-02-06,5
+Horizon,2.1505376344086025,2023-01-23,Tepezza,Healthcare,,,100 days ending 2023-02-06,4
+Qunol,2.1505376344086025,2023-02-06,"Tumeric Gummies, Magnesium Gummies",Supplements & Weight Loss,,,100 days ending 2023-02-06,4
+Ship Skis,2.1505376344086025,2023-01-25,Ship Skis,,,,100 days ending 2023-02-06,4
+TogetherHealth,2.1505376344086025,2022-11-30,"Medicare Helpline, Medicare Coverage Helpline",Healthcare,,,100 days ending 2023-02-06,4
+Humana,1.6129032258064515,2023-01-17,Humana Medicare Advantage,Healthcare,73.0,,100 days ending 2023-02-06,3
+Immuno150,1.6129032258064515,2022-12-19,Immuno150,,,,100 days ending 2023-02-06,3
+Novo Nordisk,1.6129032258064515,2023-01-18,"Ozempic, Rybelsus",Healthcare,,,100 days ending 2023-02-06,3
+Quincy Bioscience,1.6129032258064515,2023-01-02,Prevagen,Supplements & Weight Loss,,,100 days ending 2023-02-06,3
+ResetSmile,1.6129032258064515,2023-02-01,ResetSmile,,,,100 days ending 2023-02-06,3
+Roasted RINO,1.6129032258064515,2022-12-27,Roasted RINO,,,,100 days ending 2023-02-06,3
+SharperImage,1.6129032258064515,2022-11-21,"Calming Heat Sauna, Calming Heat Back",,,,100 days ending 2023-02-06,3
+Stihl,1.6129032258064515,2022-12-17,Stihl Tools,Hardware and Machinery,,,100 days ending 2023-02-06,3
+Swiss America,1.6129032258064515,2023-01-18,"The Secret War, Swiss America",,,,100 days ending 2023-02-06,3
+The Bonati Institute,1.6129032258064515,2023-01-25,The Bonati Institute,,,,100 days ending 2023-02-06,3
+Tommy John,1.6129032258064515,2022-12-14,Tommy John,Retail & Restaurants,,,100 days ending 2023-02-06,3
+WeatherTech,1.6129032258064515,2022-12-07,WeatherTech,Motor Vehicles & Automotive,,,100 days ending 2023-02-06,3
+Zicam,1.6129032258064515,2023-01-23,Zicam,,,,100 days ending 2023-02-06,3
+Beyond Flawless,1.0752688172043012,2023-01-05,Beyond Flawless Second Skin,,,,100 days ending 2023-02-06,2
+Brightstar Care,1.0752688172043012,2023-01-25,Brightstar Care,,,,100 days ending 2023-02-06,2
+Carpe,1.0752688172043012,2023-02-01,Carpe Antipersierant,,,,100 days ending 2023-02-06,2
+Cerakote,1.0752688172043012,2023-01-12,Cerakote,,,,100 days ending 2023-02-06,2
+Consumer Cellular,1.0752688172043012,2023-01-04,Consumer Cellular,Telecommunications,,,100 days ending 2023-02-06,2
+Force Factor,1.0752688172043012,2023-02-03,"Prostate Advanced, Test180",Supplements & Weight Loss,,,100 days ending 2023-02-06,2
+GOLO,1.0752688172043012,2023-01-12,GOLO,Supplements & Weight Loss,,,100 days ending 2023-02-06,2
+GetRefunds,1.0752688172043012,2023-01-22,GetRefunds,,,,100 days ending 2023-02-06,2
+GovMint,1.0752688172043012,2023-01-11,GovMint,Financial,,,100 days ending 2023-02-06,2
+HungryRoot,1.0752688172043012,2023-02-06,HungryRoot,,,,100 days ending 2023-02-06,2
+Lear Capital,1.0752688172043012,2022-11-16,"Lear Gold, Lear Capital",Financial,,,100 days ending 2023-02-06,2
+Mammoth Nation,1.0752688172043012,2022-11-15,Mammoth Nation,Ecommerce & Software,,,100 days ending 2023-02-06,2
+Medicare Advantage Advisors,1.0752688172043012,2023-02-06,Medicare Advantage Advisors,,,,100 days ending 2023-02-06,2
+Menange a Trois ,1.0752688172043012,2022-11-27,"Menange a Trois Wiines , Menange a Trois Wines",,,,100 days ending 2023-02-06,2
+Mortach Financial,1.0752688172043012,2022-12-27,Mortach Financial,,,,100 days ending 2023-02-06,2
+New Vitality,1.0752688172043012,2023-01-25,"Super Beta Prostate, Ageless Male Max",Supplements & Weight Loss,,,100 days ending 2023-02-06,2
+PureTalk,1.0752688172043012,2023-01-12,PureTalk,Telecommunications,,,100 days ending 2023-02-06,2
+Smileactives,1.0752688172043012,2023-01-16,Smileactives,,,,100 days ending 2023-02-06,2
+Sokolove Law,1.0752688172043012,2022-11-21,Camp Lejeune Water,,,,100 days ending 2023-02-06,2
+Solo Stove,1.0752688172043012,2022-12-04,Solo Stove,Household & Food Products,,,100 days ending 2023-02-06,2
+American Home Shield,0.5376344086021506,2023-02-06,American Home Shield,Household Services,,,100 days ending 2023-02-06,1
+AstraZeneca,0.5376344086021506,2023-02-01,Farxiga,Healthcare,,462.0,100 days ending 2023-02-06,1
+Balsam Hill,0.5376344086021506,2022-12-27,Balsam Hill,,,,100 days ending 2023-02-06,1
+Bath Fitter,0.5376344086021506,2023-01-17,Bath Fitter,,,,100 days ending 2023-02-06,1
+CarShield,0.5376344086021506,2023-01-23,CarShield,Household & Food Products,,,100 days ending 2023-02-06,1
+ClearCaptions,0.5376344086021506,2022-11-23,ClearCaptions,Healthcare,,,100 days ending 2023-02-06,1
+Disabled American Veterans,0.5376344086021506,2022-12-06,Disabled American Veterans,,,,100 days ending 2023-02-06,1
+Emeril Lagassi,0.5376344086021506,2022-11-26,French Door 360,,,,100 days ending 2023-02-06,1
+Ferndale Healthcare ,0.5376344086021506,2023-01-25,DerMend,Healthcare,,,100 days ending 2023-02-06,1
+FightCamp,0.5376344086021506,2022-11-10,FightCamp,,,,100 days ending 2023-02-06,1
+Generac,0.5376344086021506,2022-12-23,Generac,,,,100 days ending 2023-02-06,1
+Golden Corral,0.5376344086021506,2022-12-06,Golden Corral,Retail & Restaurants,,,100 days ending 2023-02-06,1
+Gotham Steel,0.5376344086021506,2023-01-01,Aqua Blue,,,,100 days ending 2023-02-06,1
+GraniteStone,0.5376344086021506,2023-02-03,NutriBlade,,,,100 days ending 2023-02-06,1
+GrowAds,0.5376344086021506,2023-01-18,GrowAds,,,,100 days ending 2023-02-06,1
+Harry and David,0.5376344086021506,2022-12-17,Harry and David,Household & Food Products,,,100 days ending 2023-02-06,1
+HearingAssist,0.5376344086021506,2022-10-31,HearingAssist,,,,100 days ending 2023-02-06,1
+Henry USA,0.5376344086021506,2022-11-11,Henry USA,,,,100 days ending 2023-02-06,1
+HomeLight,0.5376344086021506,2023-01-22,HomeLight,Household & Food Products,,,100 days ending 2023-02-06,1
+HomeTitleLock,0.5376344086021506,2022-12-01,HomeTitleLock,Household Services,,,100 days ending 2023-02-06,1
+InteractiveBrokers,0.5376344086021506,2023-01-17,InteractiveBrokers,Financial,,,100 days ending 2023-02-06,1
+Jinx,0.5376344086021506,2022-11-10,Jinx,,,,100 days ending 2023-02-06,1
+Kardia,0.5376344086021506,2022-11-22,Kardia Mobile,Healthcare,,,100 days ending 2023-02-06,1
+Lifevac,0.5376344086021506,2022-12-06,Lifevac,,,,100 days ending 2023-02-06,1
+Lonestar Transfer,0.5376344086021506,2023-02-01,Lonestar Transfer,,,,100 days ending 2023-02-06,1
+Lume Deo,0.5376344086021506,2023-01-03,Lume Deo,,,,100 days ending 2023-02-06,1
+Magnilife,0.5376344086021506,2022-11-05,Magnilife Pain Relief,,,,100 days ending 2023-02-06,1
+Medi-Share,0.5376344086021506,2022-11-15,Medi-Share 65 Plus,,,,100 days ending 2023-02-06,1
+Medicare Enroll,0.5376344086021506,2022-12-01,Medicare Enroll,,,,100 days ending 2023-02-06,1
+MicroVisor,0.5376344086021506,2022-12-04,MicroVisor,,,,100 days ending 2023-02-06,1
+Monetary Gold,0.5376344086021506,2022-11-28,Monetary Gold,,,,100 days ending 2023-02-06,1
+Nutrisystem,0.5376344086021506,2023-01-11,Nutrisystem,Supplements & Weight Loss,,,100 days ending 2023-02-06,1
+OptimaTax,0.5376344086021506,2022-12-27,OptimaTax Relief,,,,100 days ending 2023-02-06,1
+PC Matic,0.5376344086021506,2023-01-16,PC Matic,Ecommerce & Software,,,100 days ending 2023-02-06,1
+Patriot Gold and Silver,0.5376344086021506,2023-01-04,Patriot Gold and Silver,,,,100 days ending 2023-02-06,1
+Pretty Litter,0.5376344086021506,2023-01-23,Pretty Litter,,,,100 days ending 2023-02-06,1
+Qunol ,0.5376344086021506,2022-10-31,Tumeric,,,,100 days ending 2023-02-06,1
+Relaxium,0.5376344086021506,2022-11-05,Relaxium,Supplements & Weight Loss,,,100 days ending 2023-02-06,1
+ReliefFactor,0.5376344086021506,2022-10-31,ReliefFactor,,,,100 days ending 2023-02-06,1
+Rosland Capital,0.5376344086021506,2023-01-23,Rosland Capital,Financial,,,100 days ending 2023-02-06,1
+Sell Easy,0.5376344086021506,2022-11-30,Sell Easy,,,,100 days ending 2023-02-06,1
+Sharper Image,0.5376344086021506,2022-11-27,Calming,,,,100 days ending 2023-02-06,1
+Sketchers,0.5376344086021506,2022-12-21,Sketchers,,,,100 days ending 2023-02-06,1
+Stanley Law,0.5376344086021506,2022-11-11,Camp Lejune Lawsuit,,,,100 days ending 2023-02-06,1
+StoveGuard,0.5376344086021506,2023-01-06,StoveGuard,,,,100 days ending 2023-02-06,1
+Strikeman ,0.5376344086021506,2023-02-01,Laser Firearm Training,,,,100 days ending 2023-02-06,1
+The Jewelry Exchange,0.5376344086021506,2022-12-21,The Jewelry Exchange,,,,100 days ending 2023-02-06,1
+True Classic,0.5376344086021506,2022-12-04,True Classic,,,,100 days ending 2023-02-06,1
+Vanda Pharma,0.5376344086021506,2022-11-11,Motion Sickness Study,,,,100 days ending 2023-02-06,1
+WaxRx,0.5376344086021506,2023-01-09,WaxRx,,,,100 days ending 2023-02-06,1
