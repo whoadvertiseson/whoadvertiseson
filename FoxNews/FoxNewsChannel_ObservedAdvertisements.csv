@@ -1,4 +1,14 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+SelectQuote,SelectQuote,2/14/23,Evening,Fox News,The Ingraham Angle
+Kardia,Kardia Mobile,2/14/23,Evening,Fox News,The Ingraham Angle
+Balance of Nature,Fruits,2/14/23,Evening,Fox News,The Ingraham Angle
+MyPillow,MySlippers,2/14/23,Evening,Fox News,The Ingraham Angle
+General Steel,General Steel Buildings,2/14/23,Evening,Fox News,The Ingraham Angle
+Force Factor,Prostate Advanced,2/14/23,Evening,Fox News,The Ingraham Angle
+Keepsake,Keepsake Frames,2/13/23,Evening,Fox News,Tucker Carlson
+Balance of Nature,Fruits,2/13/23,Evening,Fox News,Tucker Carlson
+Balance of Nature,Veggies,2/13/23,Evening,Fox News,Tucker Carlson
+Billy Graham,24 Hour Prayer Line,2/13/23,Evening,Fox News,Tucker Carlson
 Balance of Nature,Veggies,2/10/23,Afternoon,Fox News,The FIVE
 TheRealReal,TheRealReal,2/10/23,Afternoon,Fox News,The FIVE
 JG Wentworth,JG Wentworth,2/10/23,Afternoon,Fox News,The FIVE
@@ -604,7 +614,7 @@ Brightstar Care,Brightstar Care,10/16/22,Evening,Fox News,The Big Midterms Show
 Constant Contact,Constant Contact,10/16/22,Evening,Fox News,The Big Midterms Show
 Farmers Insurance,Farmers Insurance,10/15/22,Morning,Fox News,Fox and Friends Weekend
 Grainger,Grainger,10/15/22,Morning,Fox News,Fox and Friends Weekend
-Billy Graham,24 Hour Prayer Line,10/15/22,Morning,Fox News,Fox and Friends Weekend
+,,10/15/22,Morning,Fox News,Fox and Friends Weekend
 Sandals,Beaches Resorts,10/15/22,Morning,Fox News,Fox and Friends Weekend
 Keller Postman ,Camp Lejune Lawsuit,10/15/22,Morning,Fox News,Fox and Friends Weekend
 Dish TV,Dish TV,10/15/22,Morning,Fox News,Fox and Friends Weekend
