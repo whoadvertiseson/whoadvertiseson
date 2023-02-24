@@ -1,4 +1,44 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+NewDayUSA,NewDayUSA,2/23/23,Afternoon,Fox News,America Reports
+GOLO,GOLO,2/23/23,Afternoon,Fox News,America Reports
+ArgenX,Vyvgart,2/23/23,Afternoon,Fox News,America Reports
+InnovationRefunds,GetRefunds,2/23/23,Afternoon,Fox News,America Reports
+Revela,Revela,2/23/23,Afternoon,Fox News,America Reports
+Boehringer Ingelheim,Jardiance,2/23/23,Afternoon,Fox News,Special Report
+Verizon ,Verizon Business,2/23/23,Afternoon,Fox News,Special Report
+Upwork,Upwork,2/23/23,Afternoon,Fox News,Special Report
+Voya Financial,Voya Financial,2/23/23,Afternoon,Fox News,Special Report
+Balance of Nature,Fruits,2/23/23,Afternoon,Fox News,Special Report
+RexMD,RexMD,2/23/23,Afternoon,Fox News,Special Report
+Musely.com,Musely.com,2/23/23,Afternoon,Fox News,Special Report
+SurePayroll,SurePayroll,2/22/23,Morning,Fox News,Fox and Friends
+Natures Health,Australian Dream,2/22/23,Morning,Fox News,Fox and Friends
+Consumer Cellular,Consumer Cellular,2/22/23,Morning,Fox News,Fox and Friends
+Instacart,Instacart,2/22/23,Morning,Fox News,Fox and Friends
+FuboTV,FuboTV,2/22/23,Morning,Fox News,Fox and Friends
+Bristol Meyers Squibb,Sotyktu,2/22/23,Morning,Fox News,Fox and Friends
+Safelite Group,Safelite AutoGlass,2/22/23,Morning,Fox News,Fox and Friends
+LeafFilter,LeafFilter,2/22/23,Morning,Fox News,Fox and Friends
+Sleep Number,Sleep Number,2/22/23,Morning,Fox News,Fox and Friends
+SelectQuote,SelectQuote,2/22/23,Morning,Fox News,Fox and Friends
+Ferndale Healthcare ,DerMend,2/22/23,Morning,Fox News,Fox and Friends
+GOLO,GOLO,2/22/23,Morning,Fox News,Fox and Friends
+Reckitt,Mucinex,2/22/23,Evening,Fox News,Hannity
+Nutrisystem,Nutrisystem Partner,2/22/23,Evening,Fox News,Hannity
+Kardia,Kardia Mobile,2/22/23,Evening,Fox News,Hannity
+Alpecin,Alpecin,2/22/23,Evening,Fox News,Hannity
+Kidney COP,Kidney COP,2/22/23,Evening,Fox News,Hannity
+Force Factor,Test 180 Alpha,2/22/23,Evening,Fox News,Hannity
+SelectQuote,SelectQuote,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Nutrisystem,Nutrisystem,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Mercedes Benz,Mercedes Benz,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Safelite Group,Safelite AutoGlass,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Balance of Nature,Veggies,2/21/23,Evening,Fox News,Jesse Watters Primetime
+MyPillow,MyPillow 2.0,2/21/23,Evening,Fox News,Jesse Watters Primetime
+HomeTitleLock,HomeTitleLock,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Angi,Angi,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Procter and Gamble,Charmin,2/21/23,Evening,Fox News,Jesse Watters Primetime
+Qunol,Tumeric Gummies,2/21/23,Evening,Fox News,Jesse Watters Primetime
 NewDayUSA,NewDayUSA,2/20/23,Morning,Fox News,Americas Newsroom
 FastSigns,FastSigns,2/20/23,Morning,Fox News,Americas Newsroom
 Golden Corral,Golden Corral,2/20/23,Morning,Fox News,Americas Newsroom
@@ -10,6 +50,10 @@ Procter and Gamble,Metamucil,2/20/23,Morning,Fox News,Americas Newsroom
 Verizon,Verizon Business,2/20/23,Morning,Fox News,Americas Newsroom
 Novo Nordisk,Rybelsus,2/20/23,Morning,Fox News,Americas Newsroom
 Rosland Capital,Rosland Capital,2/20/23,Morning,Fox News,Americas Newsroom
+Balance of Nature,Fruits,2/20/23,Evening,Fox News,The Ingraham Angle
+Vyper Industrial,Shop Chair,2/20/23,Evening,Fox News,The Ingraham Angle
+MyPillow,MySlippers,2/20/23,Evening,Fox News,The Ingraham Angle
+Century Biotics,Crystal Flush,2/20/23,Evening,Fox News,The Ingraham Angle
 Red Lobster,Red Lobster,2/19/23,Afternoon,Fox News,Fox Report
 Bausch and Lomb,Ocuvite,2/19/23,Afternoon,Fox News,Fox Report
 Chase,Chase Freedom Unlimited,2/19/23,Afternoon,Fox News,Fox Report
