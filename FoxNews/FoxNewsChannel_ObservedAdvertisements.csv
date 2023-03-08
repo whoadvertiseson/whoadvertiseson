@@ -2,7 +2,7 @@ CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
 Coventry Direct,Coventry Direct,3/7/23,Afternoon,Fox News,Special Report
 FuboTV,FuboTV,3/7/23,Afternoon,Fox News,Special Report
 Lumber Liquidators,LL Floors,3/7/23,Afternoon,Fox News,Special Report
-JP Morgan,JP Morgan,3/7/23,Afternoon,Fox News,Special Report
+JP Morgan Chase,JP Morgan,3/7/23,Afternoon,Fox News,Special Report
 GlaxoSmithKline,WhatisShingles,3/7/23,Afternoon,Fox News,Special Report
 Golden Corral,Golden Corral,3/7/23,Afternoon,Fox News,Special Report
 American Cruise Lines,American Cruise Lines,3/7/23,Afternoon,Fox News,Special Report
@@ -145,7 +145,7 @@ MyPillow,MySlippers,2/20/23,Evening,Fox News,The Ingraham Angle
 Century Biotics,Crystal Flush,2/20/23,Evening,Fox News,The Ingraham Angle
 Red Lobster,Red Lobster,2/19/23,Afternoon,Fox News,Fox Report
 Bausch and Lomb,Ocuvite,2/19/23,Afternoon,Fox News,Fox Report
-Chase,Chase Freedom Unlimited,2/19/23,Afternoon,Fox News,Fox Report
+JP Morgan Chase,Chase Freedom Unlimited,2/19/23,Afternoon,Fox News,Fox Report
 Ancestry,Ancestry,2/19/23,Afternoon,Fox News,Fox Report
 Old Dominion Freight,Old Dominion Freight,2/19/23,Afternoon,Fox News,Fox Report
 Relaxium,Relaxium,2/19/23,Afternoon,Fox News,Fox Report
@@ -253,7 +253,7 @@ Nutrisystem,Nutrisystem,1/28/23,Evening,Fox News,Fox News Live
 Annuity General,Annuity Dos and Donts,1/28/23,Evening,Fox News,Fox News Live
 The Farmers Dog,The Farmers Dog,1/28/23,Morning,Fox News,Fox and Friends
 Del Webb,Del Webb Communities,1/28/23,Morning,Fox News,Fox and Friends
-Chase,Chase Banking,1/28/23,Morning,Fox News,Fox and Friends
+JP Morgan Chase,Chase Banking,1/28/23,Morning,Fox News,Fox and Friends
 ShipStation,ShipStation,1/28/23,Morning,Fox News,Fox and Friends
 Espired,Kids Guide to Fighting Socialism,1/28/23,Morning,Fox News,Fox and Friends
 Kardia,Kardia Mobile,1/28/23,Morning,Fox News,Fox and Friends
@@ -293,7 +293,7 @@ Nutrisystem,Nutrisystem,1/18/23,Evening,Fox News,Hannity
 Kardia,Kardia Mobile,1/18/23,Evening,Fox News,Hannity
 LeafFilter,LeafFilter,1/18/23,Evening,Fox News,Hannity
 Avadim Health,Theraworx,1/18/23,Evening,Fox News,Hannity
-Chase,Chase First Banking,1/17/23,Afternoon,Fox News,Special Report
+JP Morgan Chase,Chase First Banking,1/17/23,Afternoon,Fox News,Special Report
 Quincy Bioscience,Prevagen,1/17/23,Afternoon,Fox News,Special Report
 Safelite Group,Safelite AutoGlass,1/17/23,Afternoon,Fox News,Special Report
 VisionWorks,VisionWorks,1/17/23,Afternoon,Fox News,Special Report
@@ -588,7 +588,7 @@ Carvana,Carvana,11/12/22,Morning,Fox News,Fox and Friends Saturday
 Sling,Sling,11/12/22,Morning,Fox News,Fox and Friends Saturday
 Tempur-pedic,Tempur-pedic,11/12/22,Morning,Fox News,Fox and Friends Saturday
 Choice Hotels,Comfort Inn,11/12/22,Morning,Fox News,Fox and Friends Saturday
-Chase,Freedom Unlimited,11/12/22,Morning,Fox News,Fox and Friends Saturday
+JP Morgan Chase,Freedom Unlimited,11/12/22,Morning,Fox News,Fox and Friends Saturday
 Best Western,Best Western,11/11/22,Afternoon,Fox News,America Reports
 Balance of Nature,Fruits,11/11/22,Afternoon,Fox News,America Reports
 Meta,Meta,11/11/22,Afternoon,Fox News,America Reports
@@ -1903,7 +1903,7 @@ Greenlight,Greenlight,5/8/22,Evening,Fox News,The Next Revolution
 Force Factor,Prostate Advanced,5/8/22,Evening,Fox News,The Next Revolution 
 Ownerly,Ownerly,5/8/22,Evening,Fox News,The Next Revolution 
 PestWorld,PestWorld,5/8/22,Evening,Fox News,The Next Revolution 
-Chase,Freedom Unlimited,5/7/22,Afternoon,Fox News,Fox News Live
+JP Morgan Chase,Freedom Unlimited,5/7/22,Afternoon,Fox News,Fox News Live
 Quincy Bioscience,Prevagen,5/7/22,Afternoon,Fox News,Fox News Live
 MyPillow,MyPillow Sheets,5/7/22,Afternoon,Fox News,Fox News Live
 General Motors,Cadillac,5/6/22,Afternoon,Fox News,America Reports
@@ -1970,7 +1970,7 @@ Balance of Nature,Veggies,4/26/22,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Cabenuva,4/26/22,Morning,Fox News,Fox and Friends
 Ford Motor Company,Lincoln,4/25/22,Afternoon,Fox News,Special Report
 Bayer,Claritin,4/25/22,Afternoon,Fox News,Special Report
-Chase,Freedom Unlimited,4/25/22,Afternoon,Fox News,Special Report
+JP Morgan Chase,Freedom Unlimited,4/25/22,Afternoon,Fox News,Special Report
 WeatherTech,WeatherTech,4/25/22,Afternoon,Fox News,Special Report
 Dish TV,Dish TV,4/25/22,Afternoon,Fox News,Special Report
 Angi,Angi,4/25/22,Afternoon,Fox News,Special Report
@@ -2024,7 +2024,7 @@ Angi,Angi,4/17/22,Evening,Fox News,The Next Revolution
 General Motors,Chevrolet,4/17/22,Evening,Fox News,The Next Revolution 
 Fisher Investments,Fisher Investments,4/17/22,Evening,Fox News,The Next Revolution 
 Nugenix,Total-T,4/17/22,Evening,Fox News,The Next Revolution 
-Chase,Chase Checking,4/17/22,Evening,Fox News,The Next Revolution 
+JP Morgan Chase,Chase Checking,4/17/22,Evening,Fox News,The Next Revolution 
 LegalZoom,LegalZoom,4/17/22,Evening,Fox News,The Next Revolution 
 Nissan,Infiniti,4/17/22,Evening,Fox News,The Next Revolution 
 Safelite Group,Safelite AutoGlass,4/17/22,Evening,Fox News,The Next Revolution 
@@ -2503,7 +2503,7 @@ Relief Factor,Relief Factor,2/17/22,Afternoon,Fox News,America Reports
 Jamaica Tourism,Jamaica Tourism,2/17/22,Afternoon,Fox News,America Reports
 Indeed,Indeed,2/17/22,Afternoon,Fox News,America Reports
 Balance of Nature,Veggies,2/17/22,Afternoon,Fox News,America Reports
-Chase,Chase Freedom Unlimited,2/17/22,Afternoon,Fox News,America Reports
+JP Morgan Chase,Chase Freedom Unlimited,2/17/22,Afternoon,Fox News,America Reports
 Subway,Subway,2/17/22,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,2/17/22,Morning,Fox News,Fox and Friends
 Jackson Hewitt,Jackson Hewitt,2/17/22,Morning,Fox News,Fox and Friends
@@ -2528,7 +2528,7 @@ Lear Capital,Lear Silver,2/14/22,Morning,Fox News,Americas Newsroom
 HomeTitleLock,HomeTitleLock,2/14/22,Morning,Fox News,Americas Newsroom
 SurePayroll,SurePayroll,2/14/22,Morning,Fox News,Americas Newsroom
 Ancestry,Ancestry,2/13/22,Morning,Fox News,Sunday Morning Futures
-Chase,Chase Checking,2/13/22,Morning,Fox News,Sunday Morning Futures
+JP Morgan Chase,Chase Checking,2/13/22,Morning,Fox News,Sunday Morning Futures
 AliveCor,KardiaMobile,2/13/22,Morning,Fox News,Sunday Morning Futures
 Lively,Lively,2/13/22,Morning,Fox News,Sunday Morning Futures
 Novartis,Kisqali,2/13/22,Morning,Fox News,Sunday Morning Futures
@@ -2748,7 +2748,7 @@ Farmers Insurance,Farmers Insurance,1/20/22,Afternoon,Fox News,The FIVE
 Amphastar,Primatene Mist,1/20/22,Afternoon,Fox News,The FIVE
 TommieCopper,TommieCopper,1/20/22,Afternoon,Fox News,The FIVE
 Lively,Lively,1/20/22,Afternoon,Fox News,The FIVE
-Chase,Freedom Unlimited,1/20/22,Afternoon,Fox News,The FIVE
+JP Morgan Chase,Freedom Unlimited,1/20/22,Afternoon,Fox News,The FIVE
 ShipStation,ShipStation,1/20/22,Afternoon,Fox News,The FIVE
 HomeTitleLock,HomeTitleLock,1/20/22,Afternoon,Fox News,The FIVE
 Liberty Mutual,Liberty Mutual Insurance,1/20/22,Morning,Fox News,Fox and Friends
@@ -3378,7 +3378,7 @@ United Healthcare,Medicare Advantage,11/7/21,Evening,Fox News,Sunday Night in Am
 Angi,Angi,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
 Balance of Nature,Fruits,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
 Balance of Nature,Veggies,11/6/21,Morning,Fox News,Fox and Friends
-Chase,Chase Freedom Unlimited,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
+JP Morgan Chase,Chase Freedom Unlimited,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
 Cuisinart,Cuisinart Griddler,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
 Force Factor,Alpha King Immortal,11/6/21,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Trellegy,11/6/21,Evening,Fox News,Unfiltered with Dan Bongino
