@@ -19,7 +19,7 @@ JG Wentworth,JG Wentworth,3/7/23,Afternoon,Fox News,The FIVE
 Booking.com,Booking.com,3/7/23,Morning,Fox News,Fox and Friends
 Kardia,Kardia Mobile,3/7/23,Morning,Fox News,Fox and Friends
 AbbVie,Skyrizi,3/7/23,Morning,Fox News,Fox and Friends
-InnovationRefunds,GetRefunds,3/6/23,Morning,Fox News,The Faulkner Focus
+Innovation Refunds,GetRefunds,3/6/23,Morning,Fox News,The Faulkner Focus
 Nature Made ,Nature Made ,3/6/23,Morning,Fox News,The Faulkner Focus
 Red Land Cotton,Red Land Cotton,3/6/23,Morning,Fox News,The Faulkner Focus
 The Farmers Dog,The Farmers Dog,3/6/23,Morning,Fox News,The Faulkner Focus
@@ -37,7 +37,7 @@ GlaxoSmithKline,Shingrix,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
 Nutrisystem,Nutrisystem Partner,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
 Mass General Brigham,Mass General Brigham,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
 GlaxoSmithKline,Nexium 24,3/3/23,Morning,Fox News,Fox and Friends
-SleepNumber,SleepNumber,3/3/23,Morning,Fox News,Fox and Friends
+Sleep Number,Sleep Number,3/3/23,Morning,Fox News,Fox and Friends
 Consumer Cellular,Consumer Cellular,3/3/23,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,3/3/23,Morning,Fox News,Fox and Friends
 Kardia,Kardia Mobile,3/3/23,Morning,Fox News,Fox and Friends
@@ -48,7 +48,7 @@ Chevron,Chevron,3/2/23,Evening,Fox News,The Ingraham Angle
 Relaxium,Relaxium Sleep,3/2/23,Evening,Fox News,The Ingraham Angle
 Balance of Nature,Fruits,3/2/23,Evening,Fox News,The Ingraham Angle
 WeatherTech,WeatherTech,3/2/23,Evening,Fox News,The Ingraham Angle
-Musely.com,Musely.com,3/2/23,Evening,Fox News,The Ingraham Angle
+Musely,Musely,3/2/23,Evening,Fox News,The Ingraham Angle
 SelectQuote,SelectQuote,3/2/23,Evening,Fox News,The Ingraham Angle
 Reckitt,Mucinex,3/1/23,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Chapstick,3/1/23,Morning,Fox News,Fox and Friends
@@ -79,7 +79,7 @@ Amgen,Otezla,2/27/23,Afternoon,Fox News,America Reports
 MyPillow,MyPillow,2/27/23,Afternoon,Fox News,America Reports
 GOLO,GOLO,2/27/23,Afternoon,Fox News,America Reports
 Safelite Group,Safelite AutoGlass,2/27/23,Afternoon,Fox News,America Reports
-InnovationRefunds,GetRefunds,2/27/23,Afternoon,Fox News,America Reports
+Innovation Refunds,GetRefunds,2/27/23,Afternoon,Fox News,America Reports
 Americaneagle.com,Web design,2/26/23,Morning,Fox News,Fox and Friends Sunday
 Amgen,Enbrel,2/26/23,Morning,Fox News,Fox and Friends Sunday
 Brilliant Earth,Brilliant Earth,2/26/23,Morning,Fox News,Fox and Friends Sunday
@@ -91,7 +91,7 @@ Sandals,Beaches Resorts,2/26/23,Evening,Fox News,The Next Revolution
 NewDayUSA,NewDayUSA,2/23/23,Afternoon,Fox News,America Reports
 GOLO,GOLO,2/23/23,Afternoon,Fox News,America Reports
 ArgenX,Vyvgart,2/23/23,Afternoon,Fox News,America Reports
-InnovationRefunds,GetRefunds,2/23/23,Afternoon,Fox News,America Reports
+Innovation Refunds,GetRefunds,2/23/23,Afternoon,Fox News,America Reports
 Revela,Revela,2/23/23,Afternoon,Fox News,America Reports
 Boehringer Ingelheim,Jardiance,2/23/23,Afternoon,Fox News,Special Report
 Verizon ,Verizon Business,2/23/23,Afternoon,Fox News,Special Report
@@ -99,7 +99,7 @@ Upwork,Upwork,2/23/23,Afternoon,Fox News,Special Report
 Voya Financial,Voya Financial,2/23/23,Afternoon,Fox News,Special Report
 Balance of Nature,Fruits,2/23/23,Afternoon,Fox News,Special Report
 RexMD,RexMD,2/23/23,Afternoon,Fox News,Special Report
-Musely.com,Musely.com,2/23/23,Afternoon,Fox News,Special Report
+Musely,Musely,2/23/23,Afternoon,Fox News,Special Report
 SurePayroll,SurePayroll,2/22/23,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,2/22/23,Morning,Fox News,Fox and Friends
 Consumer Cellular,Consumer Cellular,2/22/23,Morning,Fox News,Fox and Friends
@@ -133,7 +133,7 @@ FastSigns,FastSigns,2/20/23,Morning,Fox News,Americas Newsroom
 Golden Corral,Golden Corral,2/20/23,Morning,Fox News,Americas Newsroom
 Safelite Group,Safelite AutoGlass,2/20/23,Morning,Fox News,Americas Newsroom
 Hallow,Hallow App,2/20/23,Morning,Fox News,Americas Newsroom
-InnovationRefunds,GetRefunds,2/20/23,Morning,Fox News,Americas Newsroom
+Innovation Refunds,GetRefunds,2/20/23,Morning,Fox News,Americas Newsroom
 The Farmers Dog,The Farmers Dog,2/20/23,Morning,Fox News,Americas Newsroom
 Procter and Gamble,Metamucil,2/20/23,Morning,Fox News,Americas Newsroom
 Verizon,Verizon Business,2/20/23,Morning,Fox News,Americas Newsroom
@@ -162,7 +162,7 @@ Coventry Direct,Coventry Direct,2/16/23,Morning,Fox News,Americas Newsroom
 NewDayUSA,NewDayUSA,2/16/23,Morning,Fox News,Americas Newsroom
 HungryRoot,HungryRoot,2/16/23,Morning,Fox News,Americas Newsroom
 Ken Rusk,BlueCollarCash,2/16/23,Morning,Fox News,Americas Newsroom
-InnovationRefunds,GetRefunds,2/16/23,Morning,Fox News,Americas Newsroom
+Innovation Refunds,GetRefunds,2/16/23,Morning,Fox News,Americas Newsroom
 AbbVie,Qultipa,2/16/23,Morning,Fox News,Americas Newsroom
 Nutrisystem,Nutrisystem Complete,2/16/23,Morning,Fox News,Americas Newsroom
 Bank of America,Merill Investing,2/16/23,Morning,Fox News,Americas Newsroom
@@ -214,7 +214,7 @@ Constant Contact,Constant Contact,2/7/23,Afternoon,Fox News,Your World with Neil
 DraftKings,DraftKings,2/7/23,Afternoon,Fox News,Your World with Neil Cavuto
 Paychex,Paychex,2/7/23,Afternoon,Fox News,Your World with Neil Cavuto
 Ameriprise,Ameriprise,2/6/23,Morning,Fox News,Fox and Friends
-SleepNumber,SleepNumber,2/6/23,Morning,Fox News,Fox and Friends
+Sleep Number,Sleep Number,2/6/23,Morning,Fox News,Fox and Friends
 Keepsake,Keepsake Frames,2/6/23,Morning,Fox News,Fox and Friends
 PureTalk,PureTalk,2/6/23,Morning,Fox News,Fox and Friends
 Nutrisystem,Nutrisystem,2/6/23,Morning,Fox News,Fox and Friends
@@ -237,11 +237,11 @@ Instacart,Instacart,1/31/23,Morning,Fox News,Fox and Friends
 Natures Health,Australian Dream,1/31/23,Morning,Fox News,Fox and Friends
 SurePayroll,SurePayroll,1/31/23,Morning,Fox News,Fox and Friends
 Similasan,iVizia,1/31/23,Morning,Fox News,Fox and Friends
-SleepNumber,SleepNumber,1/31/23,Morning,Fox News,Fox and Friends
+Sleep Number,Sleep Number,1/31/23,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,Shingles Vaccine,1/31/23,Morning,Fox News,Fox and Friends
 The Farmers Dog,The Farmers Dog,1/31/23,Afternoon,Fox News,America Reports
 NewDayUSA,NewDayUSA,1/31/23,Afternoon,Fox News,America Reports
-Musely.com,Musely.com,1/31/23,Afternoon,Fox News,America Reports
+Musely,Musely,1/31/23,Afternoon,Fox News,America Reports
 Subway,Subway,1/31/23,Afternoon,Fox News,America Reports
 Safelite Group,Safelite AutoGlass,1/31/23,Afternoon,Fox News,America Reports
 Pretzels.com,Pretzels.com,1/30/23,Evening,Fox News,Jesse Watters Primetime
@@ -288,7 +288,7 @@ Horizon,Treat TED,1/19/23,Afternoon,Fox News,The Story with Martha MacCallum
 GovMint,GovMint,1/19/23,Afternoon,Fox News,The Story with Martha MacCallum
 NewDayUSA,NewDayUSA,1/19/23,Afternoon,Fox News,The Story with Martha MacCallum
 Hisamitsu,Salonpas,1/18/23,Evening,Fox News,Hannity
-GetRefunds,GetRefunds,1/18/23,Evening,Fox News,Hannity
+Innovation Refunds,GetRefunds,1/18/23,Evening,Fox News,Hannity
 Nutrisystem,Nutrisystem,1/18/23,Evening,Fox News,Hannity
 Kardia,Kardia Mobile,1/18/23,Evening,Fox News,Hannity
 LeafFilter,LeafFilter,1/18/23,Evening,Fox News,Hannity
@@ -351,7 +351,7 @@ Natures Health,Australian Dream,1/6/23,Morning,Fox News,Fox and Friends
 Opendoor,Opendoor,1/6/23,Morning,Fox News,Fox and Friends
 Consumer Cellular,Consumer Cellular,1/6/23,Morning,Fox News,Fox and Friends
 Care.com,Care.com,1/6/23,Morning,Fox News,Fox and Friends
-GetRefunds,GetRefunds,1/6/23,Morning,Fox News,Fox and Friends
+Innovation Refunds,GetRefunds,1/6/23,Morning,Fox News,Fox and Friends
 Intra-Cellular Therapies,Caplyta,1/5/23,Morning,Fox News,Fox and Friends
 Liberty Mutual,Liberty Mutual,1/5/23,Morning,Fox News,Fox and Friends
 Toyota,Lexus,1/5/23,Morning,Fox News,Fox and Friends
@@ -375,7 +375,7 @@ GOLO,GOLO,1/1/23,Afternoon,Fox News,Fox News Live
 Sling,Sling TV,1/1/23,Afternoon,Fox News,Fox News Live
 Consumer Cellular,Consumer Cellular,1/1/23,Afternoon,Fox News,Fox News Live
 Keepsake,Keepsake Frames,1/1/23,Afternoon,Fox News,Fox News Live
-SleepNumber,SleepNumber,1/1/23,Afternoon,Fox News,Fox News Live
+Sleep Number,Sleep Number,1/1/23,Afternoon,Fox News,Fox News Live
 Babbel,Babbel,1/1/23,Afternoon,Fox News,Fox News Live
 WeatherTech,WeatherTech,1/1/23,Afternoon,Fox News,Fox News Live
 HomeLight,HomeLight,1/1/23,Afternoon,Fox News,Fox News Live
@@ -443,7 +443,7 @@ Paychex,Paychex,12/14/22,Morning,Fox News,Fox and Friends
 WeatherTech,WeatherTech,12/13/22,Evening,Fox News,Hannity
 Balance of Nature,Veggies,12/13/22,Evening,Fox News,Hannity
 Vitrazza,Chair Mats,12/13/22,Evening,Fox News,Hannity
-GetRefunds,GetRefunds,12/13/22,Evening,Fox News,Hannity
+Innovation Refunds,GetRefunds,12/13/22,Evening,Fox News,Hannity
 Nano Hearing Aids,Nano Hearing Aids,12/11/22,Evening,Fox News,Life Liberty and Levin
 Hisamitsu,Salonpas,12/11/22,Evening,Fox News,Life Liberty and Levin
 BlackRock,iShares,12/11/22,Evening,Fox News,Life Liberty and Levin
@@ -653,7 +653,7 @@ Bayer,Aleve,10/31/22,Evening,Fox News,Jesse Watters Primetime
 Horizon,Treat TED,10/31/22,Evening,Fox News,Jesse Watters Primetime
 Black Label Media,Devotion Movie,10/31/22,Evening,Fox News,Jesse Watters Primetime
 Stanley Steemer,Stanley Steemer,10/31/22,Evening,Fox News,The Ingraham Angle
-GetRefunds,GetRefunds,10/31/22,Evening,Fox News,The Ingraham Angle
+Innovation Refunds,GetRefunds,10/31/22,Evening,Fox News,The Ingraham Angle
 Jacuzzi,Jacuzzi Bath Remodel,10/31/22,Evening,Fox News,The Ingraham Angle
 New Vitality,Super Beta Prostate,10/31/22,Evening,Fox News,The Ingraham Angle
 Avadim Health,Theraworx,10/31/22,Evening,Fox News,The Ingraham Angle
@@ -708,7 +708,7 @@ SeroVital,SeroVital,10/28/22,Evening,Fox News,The Ingraham Angle
 Ford Motor Company,Lincoln,10/28/22,Evening,Fox News,The Ingraham Angle
 WeatherTech,WeatherTech,10/27/22,Evening,Fox News,Hannity
 SurePayroll,SurePayroll,10/27/22,Evening,Fox News,Hannity
-GetRefunds,GetRefunds,10/27/22,Evening,Fox News,Hannity
+Innovation Refunds,GetRefunds,10/27/22,Evening,Fox News,Hannity
 Keller Postman ,Camp Lejune Lawsuit,10/27/22,Evening,Fox News,Hannity
 Win Reality,Win Reality,10/27/22,Evening,Fox News,Hannity
 Ford Motor Company,Lincoln,10/27/22,Evening,Fox News,Hannity
@@ -4046,7 +4046,7 @@ TogetherHealth,Medicare Coverage Helpline,7/28/21,Evening,Fox News,Special Repor
 Nutrisystem,Nutrisystem,7/28/21,Evening,Fox News,Special Report
 Qunol,Qunol CoQ10,7/28/21,Evening,Fox News,Special Report
 Sandals,Sandals Resorts,7/28/21,Evening,Fox News,Special Report
-SleepNumber,SleepNumber,7/28/21,Evening,Fox News,Special Report
+Sleep Number,Sleep Number,7/28/21,Evening,Fox News,Special Report
 Verizon,Verizon,7/28/21,Evening,Fox News,Special Report
 VisionWorks,VisionWorks,7/28/21,Evening,Fox News,Special Report
 Visiting Angels,Visiting Angels,7/28/21,Evening,Fox News,Special Report
@@ -5443,7 +5443,7 @@ Idaho Potatoes,Idaho Potatoes,1/29/21,Morning,Fox News,The Faulkner Focus
 Ideal Agent,Idealagent.com,1/29/21,Morning,Fox News,Americas Newsroom
 Liberty Mutual,Liberty Mutual Insurance,1/29/21,Morning,Fox News,The Faulkner Focus
 TogetherHealth,Medicare Coverage Helpline,1/29/21,Morning,Fox News,The Faulkner Focus
-Musely.com,Musely.com,1/29/21,Morning,Fox News,The Faulkner Focus
+Musely,Musely,1/29/21,Morning,Fox News,The Faulkner Focus
 NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,Americas Newsroom
 NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,The Faulkner Focus
 Nutrisystem,Nutrisystem,1/29/21,Morning,Fox News,Americas Newsroom
