@@ -1,4 +1,17 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+NewDayUSA,NewDayUSA,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Boehringer Ingelheim,Jardiance,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+American Petroleum Institute,American Petroleum Institute,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Stearns and Foster,Stearns and Foster Mattresses,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Vroom,Vroom,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+HomeTitleLock,HomeTitleLock,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Keepsake,Keepsake Frames,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Angi,Angi,3/22/23,Afternoon,FoxNews,The Story with Martha MacCallum
+Progressive,Progessive Insurance,3/21/23,Afternoon,Fox News,The FIVE
+Balance of Nature,Fruits,3/21/23,Afternoon,Fox News,The FIVE
+Empire,Empire Flooring,3/21/23,Afternoon,Fox News,The FIVE
+Abbott Laboratories ,Ensure,3/21/23,Afternoon,Fox News,The FIVE
+Ryder,Ryder Logistics,3/21/23,Afternoon,Fox News,The FIVE
 General Steel Buildings,General Steel Buildings,3/20/23,Evening,Fox News,Hannity
 Rebath,Rebath,3/20/23,Evening,Fox News,Hannity
 SiriusXM,SiriusXM Sports,3/20/23,Evening,Fox News,Hannity
@@ -95,7 +108,7 @@ MyPillow,MyPillow 2.0,3/9/23,Morning,Fox News,America Reports
 NewDayUSA,NewDayUSA,3/9/23,Morning,Fox News,America Reports
 USPS,USPS,3/9/23,Morning,Fox News,America Reports
 Angi,Angi,3/9/23,Evening,Fox News,Jesse Watters Primetime
-GlaxoSmithKline,Chapstick,3/9/23,Evening,Fox News,Jesse Watters Primetime
+Haleon,Chapstick,3/9/23,Evening,Fox News,Jesse Watters Primetime
 Exact Sciences,Cologuard,3/9/23,Evening,Fox News,Jesse Watters Primetime
 Consumer Cellular,Consumer Cellular,3/9/23,Evening,Fox News,Jesse Watters Primetime
 Similasan,iVizia,3/9/23,Evening,Fox News,Jesse Watters Primetime
@@ -113,7 +126,7 @@ AbbVie,Skyrizi,3/7/23,Morning,Fox News,Fox and Friends
 American Cruise Lines,American Cruise Lines,3/7/23,Afternoon,Fox News,Special Report
 Constant Contact,Constant Contact,3/7/23,Afternoon,Fox News,Special Report
 Coventry Direct,Coventry Direct,3/7/23,Afternoon,Fox News,Special Report
-GlaxoSmithKline,Flonase,3/7/23,Afternoon,Fox News,Special Report
+Haleon,Flonase,3/7/23,Afternoon,Fox News,Special Report
 FuboTV,FuboTV,3/7/23,Afternoon,Fox News,Special Report
 Golden Corral,Golden Corral,3/7/23,Afternoon,Fox News,Special Report
 John Deere,John Deere,3/7/23,Afternoon,Fox News,Special Report
@@ -148,7 +161,7 @@ Natures Health,Australian Dream,3/3/23,Morning,Fox News,Fox and Friends
 Consumer Cellular,Consumer Cellular,3/3/23,Morning,Fox News,Fox and Friends
 GOLO,GOLO,3/3/23,Morning,Fox News,Fox and Friends
 Kardia,Kardia Mobile,3/3/23,Morning,Fox News,Fox and Friends
-GlaxoSmithKline,Nexium 24,3/3/23,Morning,Fox News,Fox and Friends
+Haleon,Nexium 24,3/3/23,Morning,Fox News,Fox and Friends
 SimpliSafe,SimpliSafe,3/3/23,Morning,Fox News,Fox and Friends
 SingleCare,SingleCare,3/3/23,Morning,Fox News,Fox and Friends
 Sleep Number,Sleep Number,3/3/23,Morning,Fox News,Fox and Friends
@@ -159,7 +172,7 @@ Relaxium,Relaxium Sleep,3/2/23,Evening,Fox News,The Ingraham Angle
 SelectQuote,SelectQuote,3/2/23,Evening,Fox News,The Ingraham Angle
 WeatherTech,WeatherTech,3/2/23,Evening,Fox News,The Ingraham Angle
 Abacus Pays,Abacus Pays,3/1/23,Morning,Fox News,Fox and Friends
-GlaxoSmithKline,Chapstick,3/1/23,Morning,Fox News,Fox and Friends
+Haleon,Chapstick,3/1/23,Morning,Fox News,Fox and Friends
 Consumer Cellular,Consumer Cellular,3/1/23,Morning,Fox News,Fox and Friends
 Creative Planning,Creative Planning,3/1/23,Morning,Fox News,Fox and Friends
 LeafFilter,LeafFilter,3/1/23,Morning,Fox News,Fox and Friends
@@ -410,7 +423,7 @@ VisionWorks,VisionWorks,1/17/23,Afternoon,Fox News,Special Report
 Chewy,Chewy Pets,1/16/23,Morning,Fox News,Fox and Friends
 MyPillow,MyPillow,1/16/23,Morning,Fox News,Fox and Friends
 Nutrisystem,Nutrisystem,1/16/23,Morning,Fox News,Fox and Friends
-GlaxoSmithKline,Robitussin,1/16/23,Morning,Fox News,Fox and Friends
+Haleon,Robitussin,1/16/23,Morning,Fox News,Fox and Friends
 SelectQuote,SelectQuote,1/16/23,Morning,Fox News,Fox and Friends
 Force Factor,Amazing Ashwa,1/14/23,Evening,Fox News,One Nation With Brian Kilmeade
 FuboTV,FuboTV,1/14/23,Evening,Fox News,One Nation With Brian Kilmeade
@@ -547,7 +560,7 @@ Idaho Potatoes,Idaho Potatoes,12/14/22,Morning,Fox News,Fox and Friends
 Novartis,Kisqali,12/14/22,Morning,Fox News,Fox and Friends
 Paychex,Paychex,12/14/22,Morning,Fox News,Fox and Friends
 Balance of Nature,Veggies,12/14/22,Morning,Fox News,Fox and Friends
-GlaxoSmithKline,Voltaren,12/14/22,Morning,Fox News,Fox and Friends
+Haleon,Voltaren,12/14/22,Morning,Fox News,Fox and Friends
 Vitrazza,Chair Mats,12/13/22,Evening,Fox News,Hannity
 Innovation Refunds,GetRefunds,12/13/22,Evening,Fox News,Hannity
 Balance of Nature,Veggies,12/13/22,Evening,Fox News,Hannity
@@ -558,7 +571,7 @@ Nano Hearing Aids,Nano Hearing Aids,12/11/22,Evening,Fox News,Life Liberty and L
 Hisamitsu,Salonpas,12/11/22,Evening,Fox News,Life Liberty and Levin
 X-Chair,X-Chair,12/11/22,Evening,Fox News,Life Liberty and Levin
 Golden Corral,Golden Corral,12/10/22,Evening,Fox News,Lawrence Jones Cross Country
-GlaxoSmithKline,Nexium 24,12/10/22,Evening,Fox News,Lawrence Jones Cross Country
+Haleon,Nexium 24,12/10/22,Evening,Fox News,Lawrence Jones Cross Country
 Relief Factor,Relief Factor,12/10/22,Evening,Fox News,Lawrence Jones Cross Country
 Procter and Gamble,Vicks Nyquil,12/10/22,Evening,Fox News,Lawrence Jones Cross Country
 Aspen Dental,Aspen Dental,12/8/22,Morning,Fox News,Fox and Friends
@@ -580,7 +593,7 @@ Relief Factor,Relief Factor,12/6/22,Afternoon,Fox News,America Reports
 Safelite Group,Safelite AutoGlass,12/6/22,Afternoon,Fox News,America Reports
 Subway,Subway,12/6/22,Afternoon,Fox News,America Reports
 Mercedes Benz,Avatar Movie Tie-In,12/5/22,Afternoon,Fox News,The FIVE
-GlaxoSmithKline,Centrum,12/5/22,Afternoon,Fox News,The FIVE
+Haleon,Centrum,12/5/22,Afternoon,Fox News,The FIVE
 Balance of Nature,Fruits,12/5/22,Afternoon,Fox News,The FIVE
 Innovation Refunds,Innovation Refunds,12/5/22,Afternoon,Fox News,The FIVE
 Kardia,Kardia Mobile,12/5/22,Afternoon,Fox News,The FIVE
@@ -5639,8 +5652,3 @@ Fracture,Fracture Me,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Kraft Heinz Company,Kraft Macaroni and Cheese,1/17/21,Morning,Fox News,Fox and Friends Sunday
 HumanN,SuperBeets,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Balance of Nature,Veggies,1/17/21,Morning,Fox News,Fox and Friends Sunday
-Progressive,Progessive Insurance,3/21/23,Afternoon,Fox News,The FIVE
-Balance of Nature,Fruits,3/21/23,Afternoon,Fox News,The FIVE
-Empire,Empire Flooring,3/21/23,Afternoon,Fox News,The FIVE
-Abbott Laboratories ,Ensure,3/21/23,Afternoon,Fox News,The FIVE
-Ryder,Ryder Logistics,3/21/23,Afternoon,Fox News,The FIVE

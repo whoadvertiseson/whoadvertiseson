@@ -15,6 +15,8 @@ ServiceNow,,,Business Services,Venture Funded
 SurePayroll,,,Business Services,Venture Funded
 Upwork,,,Business Services,Venture Funded
 ZipRecruiter,,,Business Services,Venture Funded
+Innovation Refunds,,,Business Services,Other Companies
+Constant Contact,,,Business Services,Other Companies
 Amazon,2,9,Ecommerce & Software,Global 500 / Fortune 1000
 Facebook,34,86,Ecommerce & Software,Global 500 / Fortune 1000
 Google,,,Ecommerce & Software,Global 500 / Fortune 1000
@@ -50,6 +52,8 @@ SimpliSafe,,,Ecommerce & Software,Venture Funded
 Trivago,,,Ecommerce & Software,Venture Funded
 TrueCar,,,Ecommerce & Software,Venture Funded
 Vroom,,,Ecommerce & Software,Venture Funded
+Booking.com,,,Ecommerce & Software,Other Companies
+Instacart,,,Ecommerce & Software,Venture Funded
 Ameritrade,251,,Financial,Global 500 / Fortune 1000
 Bank of America,29,77,Financial,Global 500 / Fortune 1000
 BlackRock,184,,Financial,Global 500 / Fortune 1000
@@ -96,6 +100,7 @@ Greenlight,,,Financial,Venture Funded
 M1 Finance,,,Financial,Venture Funded
 NerdWallet,,,Financial,Venture Funded
 Robinhood,,,Financial,Venture Funded
+Noble Gold Investments,,,Financial,Other Companies
 Dell Technologies,34,81,Hardware and Machinery,Global 500 / Fortune 1000
 Honeywell,94,374,Hardware and Machinery,Global 500 / Fortune 1000
 John Deere,84,319,Hardware and Machinery,Global 500 / Fortune 1000
@@ -112,6 +117,7 @@ Boehringer Ingelheim,,464,Healthcare,Global 500 / Fortune 1000
 Boston Scientific,296,,Healthcare,Global 500 / Fortune 1000
 Bristol Meyers Squibb,75,,Healthcare,Global 500 / Fortune 1000
 Eli Lilly,118,,Healthcare,Global 500 / Fortune 1000
+Haleon,,282,Healthcare,Global 500 / Fortune 1000
 GlaxoSmithKline,,282,Healthcare,Global 500 / Fortune 1000
 Humana,73,,Healthcare,Global 500 / Fortune 1000
 Johnson and Johnson,35,104,Healthcare,Global 500 / Fortune 1000
@@ -169,11 +175,14 @@ Ro,,,Healthcare,Venture Funded
 Tivic Health,,,Healthcare,Venture Funded
 Kardia,,,Healthcare,Other Companies
 Carlin Consumer Health,,,Healthcare,Other Companies
+Musely,,,Healthcare,Other Companies
+Reckitt,,,Healthcare,Other Companies
+Similasan,,,Healthcare,Other Companies
 Energizer,834,,Household & Food Products,Global 500 / Fortune 1000
 Kraft Heinz Company,122,,Household & Food Products,Global 500 / Fortune 1000
 Nestle,,82,Household & Food Products,Global 500 / Fortune 1000
 Procter and Gamble,50,156,Household & Food Products,Global 500 / Fortune 1000
-Scotts Miracle-Gro,753,,Household & Food Products,Global 500 / Fortune 1000
+Scotts,753,,Household & Food Products,Global 500 / Fortune 1000
 Alien Tape,,,Household & Food Products,Other Companies
 Bissel,,,Household & Food Products,Other Companies
 Boston Beer Co,,,Household & Food Products,Other Companies
@@ -215,6 +224,8 @@ Purple,,,Household & Food Products,Venture Funded
 Boll and Branch,,,Household & Food Products,Venture Funded
 BlendJet,,,Household & Food Products,Other Companies
 3M,102,,Household & Food Products,Global 500 / Fortune 1000
+Keepsake,,,Household & Food Products,Other Companies
+Chewy,,,Household & Food Products,Other Companies
 ADT,541,,Household Services,Global 500 / Fortune 1000
 Angi,740,,Household Services,Global 500 / Fortune 1000
 American Home Shield,,,Household Services,Other Companies
@@ -271,6 +282,9 @@ JetBlue,523,,Other,Global 500 / Fortune 1000
 Nat. Inj. Law Center,,,Other,Other Companies
 Keller Postman ,,,Other,Other Companies
 Negligence Network,,,Other,
+Billy Graham,,,Other,Other Companies
+Norwegian Cruise Line,,,Other,Other Companies
+American Cruise Lines,,,Other,Other Companies
 Gap,221,,Retail & Restaurants,Global 500 / Fortune 1000
 Lowes,31,80,Retail & Restaurants,Global 500 / Fortune 1000
 Tailored Brands,784,,Retail & Restaurants,Global 500 / Fortune 1000
@@ -290,6 +304,7 @@ Subway,,,Retail & Restaurants,Other Companies
 Tommy John,,,Retail & Restaurants,Other Companies
 Walgreens,16,,Retail & Restaurants,Other Companies
 Wolf and Shepherd,,,Retail & Restaurants,Venture Funded
+Oofos,,,Retail & Restaurants,Other Companies
 Balance of Nature,,,Supplements & Weight Loss,Other Companies
 Built Bar,,,Supplements & Weight Loss,Other Companies
 Calibrate,,,Supplements & Weight Loss,Other Companies
@@ -307,6 +322,9 @@ Relaxium,,,Supplements & Weight Loss,Other Companies
 Relief Factor,,,Supplements & Weight Loss,Other Companies
 Schiff Vitamins,,,Supplements & Weight Loss,Other Companies
 SeroVital,,,Supplements & Weight Loss,Other Companies
+Weight Watchers,,,Supplements & Weight Loss,Other Companies
+RexMD,,,Supplements & Weight Loss,Other Companies
+HumanN,,,Supplements & Weight Loss,Other Companies
 AT&T,9,22,Telecommunications,Global 500 / Fortune 1000
 ATT,9,11,Telecommunications,Global 500 / Fortune 1000
 Charter Communications,71,258,Telecommunications,Global 500 / Fortune 1000
@@ -329,7 +347,6 @@ Sling,,,Telecommunications,Other Companies
 T-Mobile,,,Telecommunications,Other Companies
 United Arts Corporation,,,Telecommunications,Other Companies
 Simon and Schuster,116,,Telecommunications,Global 500 / Fortune 1000
-Weight Watchers,,,Supplements & Weight Loss,Other Companies
 4Ocean,,,,Other Companies
 A&E Networks,,,,Other Companies
 Acadia,,,,Other Companies
@@ -351,16 +368,14 @@ Babbel,,,,Other Companies
 BD,,,,Other Companies
 BeenVerified,,,,Other Companies
 Bell Howell,,,,Other Companies
-Billy Graham,,,,Other Companies
 Biovanta,,,,Other Companies
 Black Rifle Coffee,,,,Other Companies
 Blue Diamond,,,,Other Companies
 Bona,,,,Other Companies
-Booking.com,,,,Other Companies
 Brightstar Care,,,,Other Companies
 Carewell,,,,Other Companies
 Chaffin and Luhana,,,,Other Companies
-Chevron,27,75,,Global 500 / Fortune 1000
+Chevron,27,75,Other,Global 500 / Fortune 1000
 ChromaDex,,,,Other Companies
 CleanBossMask,,,,Other Companies
 Combe Incorporated,,,,Other Companies
@@ -411,7 +426,6 @@ HobbyLobby,,,,Other Companies
 Homeserv,,,,Other Companies
 Honda,,,,Other Companies
 Hormel,,,,Other Companies
-HumanN,,,,Other Companies
 Hylands,,,,Other Companies
 ID Tech,,,,Other Companies
 IdealAgent,,,,Other Companies
@@ -446,17 +460,14 @@ MedicareEnroll,,,,Other Companies
 Midas,,,,Other Companies
 Miracle Ear,,,,Other Companies
 Miso Robotics,,,,Other Companies
-Musely.com,,,,Other Companies
 Mutrafax,,,,Other Companies
 Mylan,,,,Other Companies
 Navage,,,,Other Companies
 NetCredit,,,,Other Companies
 Nonyx,,,,Other Companies
-Norwegian Cruise Line,,,,Other Companies
 Nufinish,,,,Other Companies
 Nugenix,,,,Other Companies
 Nutramax Laboratories,,,,Other Companies
-OOFOS,,,,Other Companies
 Opti-Nail,,,,Other Companies
 Oral Care Products,,,,Other Companies
 Pajamagram,,,,Other Companies
@@ -471,9 +482,7 @@ Pretty Litter,,,,Other Companies
 Pulte Group,,,,Other Companies
 Re-Bath,,,,Other Companies
 Rebath,,,,Other Companies
-Reckitt Benckiser,,,,Other Companies
 Resperate,,,,Other Companies
-RexMD,,,,Other Companies
 Ridge Wallet,,,,Other Companies
 RoboKiller,,,,Other Companies
 Rockland Capital,,,,Other Companies
@@ -485,7 +494,6 @@ ShipGo,,,,Other Companies
 Silac Insurance,,,,Other Companies
 Silver Double Eagle Coin,,,,Other Companies
 Silver Singles,,,,Other Companies
-Similasan,,,,Other Companies
 Simplisafe,,,,Other Companies
 SKIL,,,,Other Companies
 SmartBiz,,,,Other Companies
