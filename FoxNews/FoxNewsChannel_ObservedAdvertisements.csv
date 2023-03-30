@@ -1,15 +1,4 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
-AbbVie,Skyrizi,3/29/23,Morning,Fox News,Fox and Friends
-GoDaddy,GoDaddy,3/29/23,Morning,Fox News,Fox and Friends
-Harry and David,Harry and David,3/29/23,Morning,Fox News,Fox and Friends
-Saatva,Saatva,3/29/23,Morning,Fox News,Fox and Friends
-Espired,Kids Guide to Fighting Indoctrination,3/29/23,Morning,Fox News,Fox and Friends
-Balance of Nature,Veggies,3/29/23,Morning,Fox News,Fox and Friends
-Balance of Nature,Fruits,3/29/23,Evening,Fox News,Tucker Carlson
-Nutrisystem,Nutrisystem,3/29/23,Evening,Fox News,Tucker Carlson
-MyPillow,MyPillow 2.0,3/29/23,Evening,Fox News,Tucker Carlson
-Resperate,Resperate,3/29/23,Evening,Fox News,Tucker Carlson
-FuboTV,FuboTV,3/29/23,Evening,Fox News,Tucker Carlson
 Balance of Nature,Fruits,3/29/23,Evening,Fox News,The Ingraham Angle
 Dr Reddys,Doans,3/29/23,Evening,Fox News,The Ingraham Angle
 FreshPet,FreshPet,3/29/23,Evening,Fox News,The Ingraham Angle
@@ -17,6 +6,17 @@ Saatva,Saatva,3/29/23,Evening,Fox News,The Ingraham Angle
 Wolf and Shepherd,Wolf and Shepherd,3/29/23,Evening,Fox News,The Ingraham Angle
 New Vitality,Ageless Male Max,3/29/23,Evening,Fox News,The Ingraham Angle
 Procter and Gamble,Vicks Dayquil,3/29/23,Evening,Fox News,The Ingraham Angle
+Balance of Nature,Fruits,3/29/23,Evening,Fox News,Tucker Carlson
+Nutrisystem,Nutrisystem,3/29/23,Evening,Fox News,Tucker Carlson
+MyPillow,MyPillow 2.0,3/29/23,Evening,Fox News,Tucker Carlson
+Resperate,Resperate,3/29/23,Evening,Fox News,Tucker Carlson
+FuboTV,FuboTV,3/29/23,Evening,Fox News,Tucker Carlson
+AbbVie,Skyrizi,3/29/23,Morning,Fox News,Fox and Friends
+GoDaddy,GoDaddy,3/29/23,Morning,Fox News,Fox and Friends
+Harry and David,Harry and David,3/29/23,Morning,Fox News,Fox and Friends
+Saatva,Saatva,3/29/23,Morning,Fox News,Fox and Friends
+Espired,Kids Guide to Fighting Indoctrination,3/29/23,Morning,Fox News,Fox and Friends
+Balance of Nature,Veggies,3/29/23,Morning,Fox News,Fox and Friends
 Balance of Nature,Fruits,3/28/23,Evening,Fox News,Hannity
 MyPillow,MyPillow 2.0,3/28/23,Evening,Fox News,Hannity
 LeafFilter,LeafFilter,3/28/23,Evening,Fox News,Hannity
