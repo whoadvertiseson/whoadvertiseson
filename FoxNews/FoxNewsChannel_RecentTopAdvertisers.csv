@@ -1,221 +1,223 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-Balance of Nature,6.156405990016639,2023-03-27,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2023-03-27,37
-MyPillow,4.658901830282862,2023-03-26,"MyPillow Sale, MyPillow 2.0, MyPillow, MySlippers, MyPillow Sheets",Household & Food Products,,,100 days ending 2023-03-27,28
-Nutrisystem,3.1613976705490847,2023-03-26,"Nutrisystem Partner, Nutrisystem Complete, Nutrisystem Offers , Nutrisystem, Nutrisystem For Men",Supplements & Weight Loss,,,100 days ending 2023-03-27,19
-Consumer Cellular,2.1630615640599005,2023-03-24,Consumer Cellular,Telecommunications,,,100 days ending 2023-03-27,13
-NewDayUSA,2.1630615640599005,2023-03-22,NewDayUSA,Financial,,,100 days ending 2023-03-27,13
-GOLO,1.9966722129783694,2023-03-27,GOLO,Supplements & Weight Loss,,,100 days ending 2023-03-27,12
-Safelite Group,1.8302828618968388,2023-03-26,Safelite AutoGlass,Motor Vehicles & Automotive,,,100 days ending 2023-03-27,11
-SelectQuote,1.6638935108153077,2023-03-13,SelectQuote,Ecommerce & Software,,,100 days ending 2023-03-27,10
-Innovation Refunds,1.497504159733777,2023-03-24,GetRefunds,Business Services,,,100 days ending 2023-03-27,9
-Kardia,1.497504159733777,2023-03-20,Kardia Mobile,Healthcare,,,100 days ending 2023-03-27,9
-Procter and Gamble,1.497504159733777,2023-03-22,"Vicks Sinex, Downy, Nervive, Gain, Charmin, Metamucil, Priolosec, Vicks Dayquil, Vicks Nyquil",Household & Food Products,50.0,156.0,100 days ending 2023-03-27,9
-GSK,1.1647254575707155,2023-03-25,"Trelegy, Cabenuva, WhatisShingles, Shingrix, Shingles Vaccine, Cabevuva",Healthcare,,282.0,100 days ending 2023-03-27,7
-Haleon (GSK spinoff),1.1647254575707155,2023-03-23,"EmergenC, Chapstick, Flonase, Nexium 24, Nicorette, Robitussin",Healthcare,,282.0,100 days ending 2023-03-27,7
-Natures Health,1.1647254575707155,2023-03-03,Australian Dream,Supplements & Weight Loss,,,100 days ending 2023-03-27,7
-Sleep Number,1.1647254575707155,2023-03-03,"Sleep Number, Sleep Number Sale",Household & Food Products,,,100 days ending 2023-03-27,7
-WeatherTech,1.1647254575707155,2023-03-25,"WeatherTech, ComfortMat Connect, Winshield Phone",Motor Vehicles & Automotive,,,100 days ending 2023-03-27,7
-BlackRock,0.9983361064891847,2023-03-20,"BlackRock, iShares",Financial,184.0,,100 days ending 2023-03-27,6
-JP Morgan Chase,0.9983361064891847,2023-03-27,"Chase for Business, Chase Freedom Card, JP Morgan, Chase Freedom Unlimited, Chase Banking, Chase First Banking",Financial,19.0,48.0,100 days ending 2023-03-27,6
-Novo Nordisk,0.9983361064891847,2023-03-17,"Ozempic, Get Real About Diabetes, Rybelsus",Healthcare,,,100 days ending 2023-03-27,6
-Abbott Laboratories ,0.8319467554076538,2023-03-21,"Ensure, Freestyle Libre",Healthcare,104.0,393.0,100 days ending 2023-03-27,5
-Angi,0.8319467554076538,2023-03-22,Angi,Household Services,740.0,,100 days ending 2023-03-27,5
-Coventry Direct,0.8319467554076538,2023-03-07,Coventry Direct,Financial,,,100 days ending 2023-03-27,5
-Force Factor,0.8319467554076538,2023-03-14,"Prostate Advanced, Test 180 Alpha, Amazing Ashwa",Supplements & Weight Loss,,,100 days ending 2023-03-27,5
-Golden Corral,0.8319467554076538,2023-03-20,Golden Corral,Retail & Restaurants,,,100 days ending 2023-03-27,5
-JG Wentworth,0.8319467554076538,2023-03-13,JG Wentworth,Other,,,100 days ending 2023-03-27,5
-Keepsake,0.8319467554076538,2023-03-22,Keepsake Frames,Household & Food Products,,,100 days ending 2023-03-27,5
-Liberty Mutual,0.8319467554076538,2023-03-09,"Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,100 days ending 2023-03-27,5
-Realtor.com,0.8319467554076538,2023-03-07,Realtor.com,Ecommerce & Software,,,100 days ending 2023-03-27,5
-Rosland Capital,0.8319467554076538,2023-02-20,Rosland Capital,Financial,,,100 days ending 2023-03-27,5
-AbbVie,0.6655574043261231,2023-03-22,"Rinvoq, Skyrizi, Qultipa",Healthcare,99.0,378.0,100 days ending 2023-03-27,4
-Allstate,0.6655574043261231,2023-03-27,"Allstate Drivewise, Allstate Insurance, Allstate",Insurance,72.0,263.0,100 days ending 2023-03-27,4
-Bausch and Lomb,0.6655574043261231,2023-03-15,"Ocuvite, Lumify",Healthcare,,,100 days ending 2023-03-27,4
-Del Webb,0.6655574043261231,2023-03-22,Del Webb Communities,,,,100 days ending 2023-03-27,4
-Ferndale Healthcare ,0.6655574043261231,2023-03-22,"DerMend, RectiCare",Healthcare,,,100 days ending 2023-03-27,4
-FuboTV,0.6655574043261231,2023-03-24,FuboTV,Telecommunications,,,100 days ending 2023-03-27,4
-General Motors,0.6655574043261231,2023-02-07,"Chevrolet, GMC, Cadillac",Motor Vehicles & Automotive,18.0,40.0,100 days ending 2023-03-27,4
-HomeTitleLock,0.6655574043261231,2023-03-24,HomeTitleLock,Household Services,,,100 days ending 2023-03-27,4
-Horizon,0.6655574043261231,2023-03-13,"TED, Treat TED, Tepezza",Healthcare,,,100 days ending 2023-03-27,4
-Nature Made ,0.6655574043261231,2023-03-27,Nature Made ,Supplements & Weight Loss,,,100 days ending 2023-03-27,4
-Novartis,0.6655574043261231,2023-02-06,"Entresto, Kisqali, Cosentyx",Healthcare,,225.0,100 days ending 2023-03-27,4
-PureTalk,0.6655574043261231,2023-03-20,PureTalk,Telecommunications,,,100 days ending 2023-03-27,4
-RexMD,0.6655574043261231,2023-03-27,"Generic Viagra, RexMD",Supplements & Weight Loss,,,100 days ending 2023-03-27,4
-Ryder,0.6655574043261231,2023-03-27,Ryder Logistics,Other,365.0,,100 days ending 2023-03-27,4
-Similasan,0.6655574043261231,2023-03-22,iVizia,Healthcare,,,100 days ending 2023-03-27,4
-SimpliSafe,0.6655574043261231,2023-03-22,SimpliSafe,Ecommerce & Software,,,100 days ending 2023-03-27,4
-SurePayroll,0.6655574043261231,2023-02-22,SurePayroll,Business Services,,,100 days ending 2023-03-27,4
-The Farmers Dog,0.6655574043261231,2023-03-06,The Farmers Dog,Household & Food Products,,,100 days ending 2023-03-27,4
-Billy Graham,0.49916805324459235,2023-02-28,"Prayer Line, 24 Hour Prayer Line",Other,,,100 days ending 2023-03-27,3
-Boehringer Ingelheim,0.49916805324459235,2023-03-22,Jardiance,Healthcare,,464.0,100 days ending 2023-03-27,3
-Booking.com,0.49916805324459235,2023-03-07,Booking.com,Ecommerce & Software,,,100 days ending 2023-03-27,3
-Mercedes Benz,0.49916805324459235,2023-03-20,Mercedes Benz,Motor Vehicles & Automotive,,20.0,100 days ending 2023-03-27,3
-Espired,0.49916805324459235,2023-01-30,"Kids Guide to President Trump, Kids Guide to Fighting Socialism",Other,,,100 days ending 2023-03-27,3
-HumanN,0.49916805324459235,2023-03-08,SuperBeets,Supplements & Weight Loss,,,100 days ending 2023-03-27,3
-LeafFilter,0.49916805324459235,2023-03-01,LeafFilter,Household Services,,,100 days ending 2023-03-27,3
-Musely,0.49916805324459235,2023-03-02,Musely,Healthcare,,,100 days ending 2023-03-27,3
-Qunol,0.49916805324459235,2023-02-21,"Tumeric Gummies, CoQ10",Supplements & Weight Loss,,,100 days ending 2023-03-27,3
-Rebath,0.49916805324459235,2023-03-26,Rebath,,,,100 days ending 2023-03-27,3
-Reckitt,0.49916805324459235,2023-03-01,"Mucinex, Neuriva",Healthcare,,,100 days ending 2023-03-27,3
-Relaxium,0.49916805324459235,2023-03-02,"Relaxium Sleep, Relaxium",Supplements & Weight Loss,,,100 days ending 2023-03-27,3
-ShipStation,0.49916805324459235,2023-03-09,ShipStation,Business Services,,,100 days ending 2023-03-27,3
-Subway,0.49916805324459235,2023-01-31,Subway,Retail & Restaurants,,,100 days ending 2023-03-27,3
-USPS,0.49916805324459235,2023-03-12,USPS,,,,100 days ending 2023-03-27,3
-Voya Financial,0.49916805324459235,2023-03-22,Voya Financial,Financial,353.0,,100 days ending 2023-03-27,3
-Vroom,0.49916805324459235,2023-03-22,Vroom,Ecommerce & Software,,,100 days ending 2023-03-27,3
-X-Chair,0.49916805324459235,2023-03-24,X-Chair,Household & Food Products,,,100 days ending 2023-03-27,3
-Allegiance Flag Supply,0.33277870216306155,2023-03-08,Allegiance Flag Supply,,,,100 days ending 2023-03-27,2
-American Cruise Lines,0.33277870216306155,2023-03-07,American Cruise Lines,Other,,,100 days ending 2023-03-27,2
-Amer. Petr. Inst.,0.33277870216306155,2023-03-22,American Petroleum Institute,,,,100 days ending 2023-03-27,2
-Americas Best,0.33277870216306155,2023-03-14,Americas Best,Retail & Restaurants,,,100 days ending 2023-03-27,2
-Ameriprise,0.33277870216306155,2023-03-09,Ameriprise,Financial,277.0,,100 days ending 2023-03-27,2
-Amgen,0.33277870216306155,2023-02-27,"Otezla, Enbrel",Healthcare,135.0,,100 days ending 2023-03-27,2
-Anolon X,0.33277870216306155,2023-01-12,Anolon X Cookware,,,,100 days ending 2023-03-27,2
-Bank of America,0.33277870216306155,2023-03-24,"Bank of America, Merill Investing",Financial,29.0,77.0,100 days ending 2023-03-27,2
-Charles Schwab,0.33277870216306155,2023-01-08,Charles Schwab,Financial,251.0,,100 days ending 2023-03-27,2
-Chewy,0.33277870216306155,2023-01-25,Chewy Pets,Household & Food Products,,,100 days ending 2023-03-27,2
-Circle,0.33277870216306155,2023-03-11,Circle Fintech,,,,100 days ending 2023-03-27,2
-ClearCaptions,0.33277870216306155,2023-02-28,ClearCaptions,Healthcare,,,100 days ending 2023-03-27,2
-Constant Contact,0.33277870216306155,2023-03-07,Constant Contact,Business Services,,,100 days ending 2023-03-27,2
-Creative Planning,0.33277870216306155,2023-03-01,Creative Planning,Financial,,,100 days ending 2023-03-27,2
-Empire,0.33277870216306155,2023-03-21,Empire Flooring,,,,100 days ending 2023-03-27,2
-General Steel Buildings,0.33277870216306155,2023-03-20,General Steel Buildings,,,,100 days ending 2023-03-27,2
-Grainger,0.33277870216306155,2023-03-26,Grainger,Hardware and Machinery,284.0,,100 days ending 2023-03-27,2
-Hallow,0.33277870216306155,2023-03-08,Hallow App,,,,100 days ending 2023-03-27,2
-Hisamitsu,0.33277870216306155,2023-01-18,Salonpas,Healthcare,,,100 days ending 2023-03-27,2
-Instacart,0.33277870216306155,2023-02-22,Instacart,Ecommerce & Software,,,100 days ending 2023-03-27,2
-Jacuzzi,0.33277870216306155,2023-03-13,Jacuzzi Bath Remodel,,,,100 days ending 2023-03-27,2
-Kidney COP,0.33277870216306155,2023-03-20,Kidney COP,,,,100 days ending 2023-03-27,2
-Kubota,0.33277870216306155,2023-03-13,Kubota Tractors,Hardware and Machinery,,,100 days ending 2023-03-27,2
-Lear Capital,0.33277870216306155,2023-03-20,Lear Gold,Financial,,,100 days ending 2023-03-27,2
-Licorice,0.33277870216306155,2023-03-26,Licorice.com,,,,100 days ending 2023-03-27,2
-Morgan and Morgan,0.33277870216306155,2023-03-17,Camp Lejune Lawsuit,,,,100 days ending 2023-03-27,2
-Mypurmist,0.33277870216306155,2023-01-14,Mypurmist,Healthcare,,,100 days ending 2023-03-27,2
-Neurocrine,0.33277870216306155,2023-03-22,Ingrezza,Healthcare,,,100 days ending 2023-03-27,2
-New Vitality,0.33277870216306155,2023-02-05,"Ageless Male Max, Super Beta Prostate",Supplements & Weight Loss,,,100 days ending 2023-03-27,2
-Noble Gold Investments,0.33277870216306155,2023-01-24,Noble Gold Investments,Financial,,,100 days ending 2023-03-27,2
-Old Dominion Freight,0.33277870216306155,2023-02-28,Old Dominion Freight,Other,634.0,,100 days ending 2023-03-27,2
-Oofos,0.33277870216306155,2023-02-18,Oofos,Retail & Restaurants,,,100 days ending 2023-03-27,2
-PC Matic,0.33277870216306155,2023-03-22,PC Matic,Ecommerce & Software,,,100 days ending 2023-03-27,2
-Progressive,0.33277870216306155,2023-03-21,Progessive Insurance,Insurance,86.0,323.0,100 days ending 2023-03-27,2
-Red Land Cotton,0.33277870216306155,2023-03-24,Red Land Cotton,,,,100 days ending 2023-03-27,2
-Red Lobster,0.33277870216306155,2023-02-19,Red Lobster,Retail & Restaurants,,,100 days ending 2023-03-27,2
-Resperate,0.33277870216306155,2023-03-23,Resperate,,,,100 days ending 2023-03-27,2
-Sandals,0.33277870216306155,2023-03-10,Beaches Resorts,Other,,,100 days ending 2023-03-27,2
-Sanofi,0.33277870216306155,2023-03-26,Gold Bond,Healthcare,,289.0,100 days ending 2023-03-27,2
-Scotts,0.33277870216306155,2023-03-26,Scotts Turf Builder,Household & Food Products,753.0,,100 days ending 2023-03-27,2
-TaxSlayer,0.33277870216306155,2023-02-17,TaxSlayer,Business Services,,,100 days ending 2023-03-27,2
-TheRealReal,0.33277870216306155,2023-02-17,TheRealReal,,,,100 days ending 2023-03-27,2
-Toyota (Lexus),0.33277870216306155,2023-02-10,Lexus,Motor Vehicles & Automotive,,10.0,100 days ending 2023-03-27,2
-University of Phoenix,0.33277870216306155,2023-03-18,University of Phoenix,Other,,,100 days ending 2023-03-27,2
-Upwork,0.33277870216306155,2023-02-23,Upwork,Business Services,,,100 days ending 2023-03-27,2
-VisionWorks,0.33277870216306155,2023-01-17,VisionWorks,Healthcare,,,100 days ending 2023-03-27,2
-Zoetis Petcare,0.33277870216306155,2023-03-08,Simparica,Household & Food Products,,,100 days ending 2023-03-27,2
- Nutrisystem,0.16638935108153077,2023-02-08, Nutrisystem Partner Plan,,,,100 days ending 2023-03-27,1
-45Books,0.16638935108153077,2023-03-15,Our Journey Together,,,,100 days ending 2023-03-27,1
-A Place for Mom,0.16638935108153077,2023-01-17,A Place for Mom,Healthcare,,,100 days ending 2023-03-27,1
-ADP,0.16638935108153077,2023-02-26,Roll,,,,100 days ending 2023-03-27,1
-ADT,0.16638935108153077,2023-02-16,ADT,Household Services,541.0,,100 days ending 2023-03-27,1
-ATT,0.16638935108153077,2023-03-05,DirectTV,Telecommunications,9.0,11.0,100 days ending 2023-03-27,1
-Abacus Pays,0.16638935108153077,2023-03-01,Abacus Pays,,,,100 days ending 2023-03-27,1
-Alpecin,0.16638935108153077,2023-02-22,Alpecin,,,,100 days ending 2023-03-27,1
-American Home Shield,0.16638935108153077,2023-03-11,American Home Shield,Household Services,,,100 days ending 2023-03-27,1
-Americaneagle.com,0.16638935108153077,2023-02-26,Web design,,,,100 days ending 2023-03-27,1
-AnalonX,0.16638935108153077,2023-01-09,AnalonX Cookware,,,,100 days ending 2023-03-27,1
-Ancestry,0.16638935108153077,2023-02-19,Ancestry,Ecommerce & Software,,,100 days ending 2023-03-27,1
-Annuity General,0.16638935108153077,2023-01-28,Annuity Dos and Donts,Financial,,,100 days ending 2023-03-27,1
-ArgenX,0.16638935108153077,2023-02-23,Vyvgart,,,,100 days ending 2023-03-27,1
-Ark Encounter,0.16638935108153077,2023-03-20,Ark Encounter,,,,100 days ending 2023-03-27,1
-Ashley,0.16638935108153077,2023-02-18,Ashley Furniture,,,,100 days ending 2023-03-27,1
-Avadim Health,0.16638935108153077,2023-01-18,Theraworx,Healthcare,,,100 days ending 2023-03-27,1
-Babbel,0.16638935108153077,2023-01-01,Babbel,,,,100 days ending 2023-03-27,1
-Bass Pro Shops,0.16638935108153077,2023-03-14,Bass Pro Shops,Retail & Restaurants,,,100 days ending 2023-03-27,1
-Bayer,0.16638935108153077,2023-01-19,Aleve,Healthcare,,214.0,100 days ending 2023-03-27,1
-Bissel,0.16638935108153077,2023-02-09,Bissel Vacuums,Household & Food Products,,,100 days ending 2023-03-27,1
-Blackrock,0.16638935108153077,2023-03-13,iShares,,,,100 days ending 2023-03-27,1
-Blue Emu,0.16638935108153077,2023-03-23,Blue Emu,,,,100 days ending 2023-03-27,1
-Brilliant Earth,0.16638935108153077,2023-02-26,Brilliant Earth,,,,100 days ending 2023-03-27,1
-Bristol Meyers Squibb,0.16638935108153077,2023-02-22,Sotyktu,Healthcare,75.0,,100 days ending 2023-03-27,1
-Camping World,0.16638935108153077,2023-02-09,Camping World,Motor Vehicles & Automotive,475.0,,100 days ending 2023-03-27,1
-Care.com,0.16638935108153077,2023-01-06,Care.com,Ecommerce & Software,,,100 days ending 2023-03-27,1
-Carfax,0.16638935108153077,2023-02-15,Carfax,Ecommerce & Software,,,100 days ending 2023-03-27,1
-Century Biotics,0.16638935108153077,2023-02-20,Crystal Flush,,,,100 days ending 2023-03-27,1
-Chevron,0.16638935108153077,2023-03-02,Chevron,Other,27.0,75.0,100 days ending 2023-03-27,1
-Colonial Penn,0.16638935108153077,2023-03-14,Colonial Penn Program,Financial,,,100 days ending 2023-03-27,1
-Contour Swan,0.16638935108153077,2023-01-21,Contour Swan Pillow,,,,100 days ending 2023-03-27,1
-Dexcom,0.16638935108153077,2023-03-10,Dexcom G6,,,,100 days ending 2023-03-27,1
-Dish TV,0.16638935108153077,2023-01-06,Dish TV,Telecommunications,251.0,,100 days ending 2023-03-27,1
-DraftKings,0.16638935108153077,2023-02-07,DraftKings,,,,100 days ending 2023-03-27,1
-EGO,0.16638935108153077,2023-02-28,EGO Mower,,,,100 days ending 2023-03-27,1
-Egglands Best,0.16638935108153077,2023-01-06,Egglands Best,Household & Food Products,,,100 days ending 2023-03-27,1
-Embr Labs,0.16638935108153077,2023-02-08,Embr Wave,,,,100 days ending 2023-03-27,1
-Endo,0.16638935108153077,2023-03-17,Peryoins Disease,,,,100 days ending 2023-03-27,1
-Exact Sciences,0.16638935108153077,2023-03-09,Cologuard,,,,100 days ending 2023-03-27,1
-FastSigns,0.16638935108153077,2023-02-20,FastSigns,Business Services,,,100 days ending 2023-03-27,1
-Flex Seal,0.16638935108153077,2022-12-27,Flex Seal,,,,100 days ending 2023-03-27,1
-Fracture,0.16638935108153077,2023-03-11,Fracture Frames,,,,100 days ending 2023-03-27,1
-GenStone,0.16638935108153077,2023-03-27,GenStone,,,,100 days ending 2023-03-27,1
-General Steel,0.16638935108153077,2023-02-09,General Steel Buildings,,,,100 days ending 2023-03-27,1
-Golden Corrall,0.16638935108153077,2023-03-27,Golden Corrall,,,,100 days ending 2023-03-27,1
-GovMint,0.16638935108153077,2023-01-19,GovMint,Financial,,,100 days ending 2023-03-27,1
-HearX,0.16638935108153077,2023-02-09,Lexie,,,,100 days ending 2023-03-27,1
-HomeLight,0.16638935108153077,2023-01-01,HomeLight,Household & Food Products,,,100 days ending 2023-03-27,1
-Humana,0.16638935108153077,2023-01-23,Humana Medicare,Healthcare,73.0,,100 days ending 2023-03-27,1
-HungryRoot,0.16638935108153077,2023-02-16,HungryRoot,,,,100 days ending 2023-03-27,1
-Idaho Potatoes,0.16638935108153077,2022-12-19,Idaho Potatoes,Household & Food Products,,,100 days ending 2023-03-27,1
-Inspire Medical Systems,0.16638935108153077,2023-01-04,Inspire Sleep,,,,100 days ending 2023-03-27,1
-Intra-Cellular Therapies,0.16638935108153077,2023-01-05,Caplyta,,,,100 days ending 2023-03-27,1
-Intuit,0.16638935108153077,2023-03-24,Intuit Quickbooks,Ecommerce & Software,445.0,,100 days ending 2023-03-27,1
-Jamaica Tourism,0.16638935108153077,2023-02-16,Jamaica Tourism,,,,100 days ending 2023-03-27,1
-Jenny Craig,0.16638935108153077,2023-03-05,Jenny Craig,Supplements & Weight Loss,,,100 days ending 2023-03-27,1
-John Deere,0.16638935108153077,2023-03-07,John Deere,Hardware and Machinery,84.0,319.0,100 days ending 2023-03-27,1
-Johnson and Johnson,0.16638935108153077,2023-01-08,Aveeno,Healthcare,35.0,104.0,100 days ending 2023-03-27,1
-Keller Postman ,0.16638935108153077,2023-03-06,Camp Lejune Lawsuit,Other,,,100 days ending 2023-03-27,1
-Ken Rusk,0.16638935108153077,2023-02-16,BlueCollarCash,,,,100 days ending 2023-03-27,1
-Kia,0.16638935108153077,2023-01-19,Sportage,Motor Vehicles & Automotive,,215.0,100 days ending 2023-03-27,1
-Liberty Legal,0.16638935108153077,2022-12-19,Liberty Legal,,,,100 days ending 2023-03-27,1
-LoveSac,0.16638935108153077,2022-12-20,LoveSac,,,,100 days ending 2023-03-27,1
-Lumber Liquidators,0.16638935108153077,2023-03-07,LL Floors,,,,100 days ending 2023-03-27,1
-Lume Deo,0.16638935108153077,2023-01-02,Lume Deo,,,,100 days ending 2023-03-27,1
-MDHearing,0.16638935108153077,2023-01-12,MDHearing,,,,100 days ending 2023-03-27,1
-Mahindra,0.16638935108153077,2023-03-15,Mahindra Roxor,Hardware and Machinery,,,100 days ending 2023-03-27,1
-Mass General Brigham,0.16638935108153077,2023-03-04,Mass General Brigham,,,,100 days ending 2023-03-27,1
-Museum of the Bible,0.16638935108153077,2023-03-15,Museum of the Bible,,,,100 days ending 2023-03-27,1
-Nano Hearing Aids,0.16638935108153077,2023-02-03,Nano Hearing Aids,Healthcare,,,100 days ending 2023-03-27,1
-New Chapter,0.16638935108153077,2023-03-18,New Chapter Multivitamin,,,,100 days ending 2023-03-27,1
-NewChapter,0.16638935108153077,2023-02-18,NewChapter Vitamins,,,,100 days ending 2023-03-27,1
-Nextmed,0.16638935108153077,2022-12-22,Nextmed,,,,100 days ending 2023-03-27,1
-Niocorette,0.16638935108153077,2023-03-13,Niocorette,,,,100 days ending 2023-03-27,1
-Nonyx,0.16638935108153077,2023-03-27,Nonyx Nail Gel,,,,100 days ending 2023-03-27,1
-NortonLifeLock,0.16638935108153077,2023-03-14,ReputationDefender,Ecommerce & Software,573.0,,100 days ending 2023-03-27,1
-Opendoor,0.16638935108153077,2023-01-06,Opendoor,,,,100 days ending 2023-03-27,1
-Paychex,0.16638935108153077,2023-02-07,Paychex,Business Services,617.0,,100 days ending 2023-03-27,1
-Paycom,0.16638935108153077,2023-02-03,Paycom,Business Services,617.0,,100 days ending 2023-03-27,1
-Plantur 39,0.16638935108153077,2023-03-15,Plantur 39 Shampoo,,,,100 days ending 2023-03-27,1
-Pretzels.com,0.16638935108153077,2023-01-30,Pretzels.com,,,,100 days ending 2023-03-27,1
-Qatar Financial Center,0.16638935108153077,2022-12-22,Qatar Financial Center,,,,100 days ending 2023-03-27,1
-Quincy Bioscience,0.16638935108153077,2023-01-17,Prevagen,Supplements & Weight Loss,,,100 days ending 2023-03-27,1
-Relief Factor,0.16638935108153077,2023-01-24,Relief Factor,Supplements & Weight Loss,,,100 days ending 2023-03-27,1
-Revela,0.16638935108153077,2023-02-23,Revela,,,,100 days ending 2023-03-27,1
-Silver Singles,0.16638935108153077,2023-03-24,Silver Singles ,,,,100 days ending 2023-03-27,1
-SingleCare,0.16638935108153077,2023-03-03,SingleCare,Healthcare,,,100 days ending 2023-03-27,1
-SiriusXM,0.16638935108153077,2023-03-20,SiriusXM Sports,Telecommunications,652.0,,100 days ending 2023-03-27,1
-Sling,0.16638935108153077,2023-01-01,Sling TV,Telecommunications,,,100 days ending 2023-03-27,1
-Stearns and Foster,0.16638935108153077,2023-03-22,Stearns and Foster Mattresses,,,,100 days ending 2023-03-27,1
-T-Mobile,0.16638935108153077,2023-03-07,T-Mobile For Buisness,Telecommunications,,,100 days ending 2023-03-27,1
-TIDL,0.16638935108153077,2023-01-24,TIDL Deoderant,,,,100 days ending 2023-03-27,1
-The Chosen,0.16638935108153077,2023-03-07,The Chosen,,,,100 days ending 2023-03-27,1
-The Jewelry Exchange,0.16638935108153077,2022-12-22,The Jewelry Exchange,,,,100 days ending 2023-03-27,1
-TheraBreath,0.16638935108153077,2023-03-06,TheraBreath,Healthcare,,,100 days ending 2023-03-27,1
-Trivago,0.16638935108153077,2023-01-06,Trivago,Ecommerce & Software,,,100 days ending 2023-03-27,1
-Trust and Will,0.16638935108153077,2023-02-26,Trust and Will,,,,100 days ending 2023-03-27,1
-Vanguard,0.16638935108153077,2023-02-10,Vanguard Investments,Financial,,,100 days ending 2023-03-27,1
-Verizon,0.16638935108153077,2023-02-20,Verizon Business,Telecommunications,20.0,44.0,100 days ending 2023-03-27,1
-Verizon ,0.16638935108153077,2023-02-23,Verizon Business,,,,100 days ending 2023-03-27,1
-Viking Cruises,0.16638935108153077,2023-01-06,Viking Cruises,,,,100 days ending 2023-03-27,1
-Visiting Angels,0.16638935108153077,2023-01-02,Visiting Angels,Healthcare,,,100 days ending 2023-03-27,1
-Vitapod,0.16638935108153077,2022-12-27,Vitapod,,,,100 days ending 2023-03-27,1
-Vyper Industrial,0.16638935108153077,2023-02-20,Shop Chair,,,,100 days ending 2023-03-27,1
-Walgreens,0.16638935108153077,2023-03-12,Walgreens,Retail & Restaurants,16.0,,100 days ending 2023-03-27,1
-Wells Fargo,0.16638935108153077,2022-12-23,Wells Fargo,,,,100 days ending 2023-03-27,1
-Wolf and Shepherd,0.16638935108153077,2023-02-05,Wolf and Shepherd,Retail & Restaurants,,,100 days ending 2023-03-27,1
+Balance of Nature,6.634304207119741,2023-03-29,"Veggies, Fruits",Supplements & Weight Loss,,,100 days ending 2023-03-29,41
+MyPillow,4.854368932038835,2023-03-29,"MyPillow 2.0, MyPillow Sale, MyPillow, MySlippers, MyPillow Sheets",Household & Food Products,,,100 days ending 2023-03-29,30
+Nutrisystem,3.3980582524271843,2023-03-29,"Nutrisystem, Nutrisystem Partner, Nutrisystem Complete, Nutrisystem Offers , Nutrisystem For Men",Supplements & Weight Loss,,,100 days ending 2023-03-29,21
+Consumer Cellular,2.103559870550162,2023-03-24,Consumer Cellular,Telecommunications,,,100 days ending 2023-03-29,13
+NewDayUSA,2.103559870550162,2023-03-22,NewDayUSA,Financial,,,100 days ending 2023-03-29,13
+GOLO,1.9417475728155338,2023-03-27,GOLO,Supplements & Weight Loss,,,100 days ending 2023-03-29,12
+Procter and Gamble,1.779935275080906,2023-03-29,"Vicks Dayquil, Vicks Sinex, Downy, Nervive, Gain, Charmin, Metamucil, Priolosec, Vicks Nyquil",Household & Food Products,50.0,156.0,100 days ending 2023-03-29,11
+Safelite Group,1.779935275080906,2023-03-26,Safelite AutoGlass,Motor Vehicles & Automotive,,,100 days ending 2023-03-29,11
+SelectQuote,1.6181229773462782,2023-03-13,SelectQuote,Ecommerce & Software,,,100 days ending 2023-03-29,10
+Innovation Refunds,1.4563106796116505,2023-03-24,GetRefunds,Business Services,,,100 days ending 2023-03-29,9
+Kardia,1.4563106796116505,2023-03-20,Kardia Mobile,Healthcare,,,100 days ending 2023-03-29,9
+GSK,1.132686084142395,2023-03-25,"Trelegy, Cabenuva, WhatisShingles, Shingrix, Shingles Vaccine, Cabevuva",Healthcare,,282.0,100 days ending 2023-03-29,7
+Haleon (GSK spinoff),1.132686084142395,2023-03-23,"EmergenC, Chapstick, Flonase, Nexium 24, Nicorette, Robitussin",Healthcare,,282.0,100 days ending 2023-03-29,7
+Natures Health,1.132686084142395,2023-03-03,Australian Dream,Supplements & Weight Loss,,,100 days ending 2023-03-29,7
+Sleep Number,1.132686084142395,2023-03-03,"Sleep Number, Sleep Number Sale",Household & Food Products,,,100 days ending 2023-03-29,7
+WeatherTech,1.132686084142395,2023-03-25,"WeatherTech, ComfortMat Connect, Winshield Phone",Motor Vehicles & Automotive,,,100 days ending 2023-03-29,7
+BlackRock,0.9708737864077669,2023-03-20,"BlackRock, iShares",Financial,184.0,,100 days ending 2023-03-29,6
+Golden Corral,0.9708737864077669,2023-03-27,Golden Corral,Retail & Restaurants,,,100 days ending 2023-03-29,6
+JP Morgan Chase,0.9708737864077669,2023-03-27,"Chase for Business, Chase Freedom Card, JP Morgan, Chase Freedom Unlimited, Chase Banking, Chase First Banking",Financial,19.0,48.0,100 days ending 2023-03-29,6
+AbbVie,0.8090614886731391,2023-03-29,"Skyrizi, Rinvoq, Qultipa",Healthcare,99.0,378.0,100 days ending 2023-03-29,5
+Abbott Laboratories ,0.8090614886731391,2023-03-21,"Ensure, Freestyle Libre",Healthcare,104.0,393.0,100 days ending 2023-03-29,5
+Angi,0.8090614886731391,2023-03-22,Angi,Household Services,740.0,,100 days ending 2023-03-29,5
+Coventry Direct,0.8090614886731391,2023-03-07,Coventry Direct,Financial,,,100 days ending 2023-03-29,5
+Force Factor,0.8090614886731391,2023-03-14,"Prostate Advanced, Test 180 Alpha, Amazing Ashwa",Supplements & Weight Loss,,,100 days ending 2023-03-29,5
+FuboTV,0.8090614886731391,2023-03-29,FuboTV,Telecommunications,,,100 days ending 2023-03-29,5
+JG Wentworth,0.8090614886731391,2023-03-13,JG Wentworth,Other,,,100 days ending 2023-03-29,5
+Keepsake,0.8090614886731391,2023-03-22,Keepsake Frames,Household & Food Products,,,100 days ending 2023-03-29,5
+Liberty Mutual,0.8090614886731391,2023-03-09,"Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,100 days ending 2023-03-29,5
+Novo Nordisk,0.8090614886731391,2023-03-17,"Ozempic, Get Real About Diabetes, Rybelsus",Healthcare,,,100 days ending 2023-03-29,5
+Realtor.com,0.8090614886731391,2023-03-07,Realtor.com,Ecommerce & Software,,,100 days ending 2023-03-29,5
+Rosland Capital,0.8090614886731391,2023-02-20,Rosland Capital,Financial,,,100 days ending 2023-03-29,5
+Allstate,0.6472491909385114,2023-03-27,"Allstate Drivewise, Allstate Insurance, Allstate",Insurance,72.0,263.0,100 days ending 2023-03-29,4
+Bausch and Lomb,0.6472491909385114,2023-03-15,"Ocuvite, Lumify",Healthcare,,,100 days ending 2023-03-29,4
+Del Webb,0.6472491909385114,2023-03-22,Del Webb Communities,,,,100 days ending 2023-03-29,4
+Espired,0.6472491909385114,2023-03-29,"Kids Guide to Fighting Indoctrination, Kids Guide to President Trump, Kids Guide to Fighting Socialism",Other,,,100 days ending 2023-03-29,4
+Ferndale Healthcare ,0.6472491909385114,2023-03-22,"DerMend, RectiCare",Healthcare,,,100 days ending 2023-03-29,4
+General Motors,0.6472491909385114,2023-02-07,"Chevrolet, GMC, Cadillac",Motor Vehicles & Automotive,18.0,40.0,100 days ending 2023-03-29,4
+HomeTitleLock,0.6472491909385114,2023-03-24,HomeTitleLock,Household Services,,,100 days ending 2023-03-29,4
+Horizon,0.6472491909385114,2023-03-13,"TED, Treat TED, Tepezza",Healthcare,,,100 days ending 2023-03-29,4
+LeafFilter,0.6472491909385114,2023-03-28,LeafFilter,Household Services,,,100 days ending 2023-03-29,4
+Nature Made ,0.6472491909385114,2023-03-27,Nature Made ,Supplements & Weight Loss,,,100 days ending 2023-03-29,4
+Novartis,0.6472491909385114,2023-02-06,"Entresto, Kisqali, Cosentyx",Healthcare,,225.0,100 days ending 2023-03-29,4
+PureTalk,0.6472491909385114,2023-03-20,PureTalk,Telecommunications,,,100 days ending 2023-03-29,4
+RexMD,0.6472491909385114,2023-03-27,"Generic Viagra, RexMD",Supplements & Weight Loss,,,100 days ending 2023-03-29,4
+Ryder,0.6472491909385114,2023-03-27,Ryder Logistics,Other,365.0,,100 days ending 2023-03-29,4
+Similasan,0.6472491909385114,2023-03-22,iVizia,Healthcare,,,100 days ending 2023-03-29,4
+SimpliSafe,0.6472491909385114,2023-03-22,SimpliSafe,Ecommerce & Software,,,100 days ending 2023-03-29,4
+SurePayroll,0.6472491909385114,2023-02-22,SurePayroll,Business Services,,,100 days ending 2023-03-29,4
+The Farmers Dog,0.6472491909385114,2023-03-06,The Farmers Dog,Household & Food Products,,,100 days ending 2023-03-29,4
+Billy Graham,0.48543689320388345,2023-02-28,"Prayer Line, 24 Hour Prayer Line",Other,,,100 days ending 2023-03-29,3
+Boehringer Ingelheim,0.48543689320388345,2023-03-22,Jardiance,Healthcare,,464.0,100 days ending 2023-03-29,3
+Mercedes Benz,0.48543689320388345,2023-03-20,Mercedes Benz,Motor Vehicles & Automotive,,20.0,100 days ending 2023-03-29,3
+HumanN,0.48543689320388345,2023-03-08,SuperBeets,Supplements & Weight Loss,,,100 days ending 2023-03-29,3
+Musely,0.48543689320388345,2023-03-02,Musely,Healthcare,,,100 days ending 2023-03-29,3
+New Vitality,0.48543689320388345,2023-03-29,"Ageless Male Max, Super Beta Prostate",Supplements & Weight Loss,,,100 days ending 2023-03-29,3
+Qunol,0.48543689320388345,2023-02-21,"Tumeric Gummies, CoQ10",Supplements & Weight Loss,,,100 days ending 2023-03-29,3
+Rebath,0.48543689320388345,2023-03-26,Rebath,,,,100 days ending 2023-03-29,3
+Reckitt,0.48543689320388345,2023-03-01,"Mucinex, Neuriva",Healthcare,,,100 days ending 2023-03-29,3
+Relaxium,0.48543689320388345,2023-03-02,"Relaxium Sleep, Relaxium",Supplements & Weight Loss,,,100 days ending 2023-03-29,3
+Resperate,0.48543689320388345,2023-03-29,Resperate,,,,100 days ending 2023-03-29,3
+ShipStation,0.48543689320388345,2023-03-09,ShipStation,Business Services,,,100 days ending 2023-03-29,3
+Subway,0.48543689320388345,2023-01-31,Subway,Retail & Restaurants,,,100 days ending 2023-03-29,3
+USPS,0.48543689320388345,2023-03-12,USPS,,,,100 days ending 2023-03-29,3
+Voya Financial,0.48543689320388345,2023-03-22,Voya Financial,Financial,353.0,,100 days ending 2023-03-29,3
+Vroom,0.48543689320388345,2023-03-22,Vroom,Ecommerce & Software,,,100 days ending 2023-03-29,3
+X-Chair,0.48543689320388345,2023-03-24,X-Chair,Household & Food Products,,,100 days ending 2023-03-29,3
+Allegiance Flag Supply,0.3236245954692557,2023-03-08,Allegiance Flag Supply,,,,100 days ending 2023-03-29,2
+American Cruise Lines,0.3236245954692557,2023-03-07,American Cruise Lines,Other,,,100 days ending 2023-03-29,2
+Amer. Petr. Inst.,0.3236245954692557,2023-03-22,American Petroleum Institute,,,,100 days ending 2023-03-29,2
+Americas Best,0.3236245954692557,2023-03-14,Americas Best,Retail & Restaurants,,,100 days ending 2023-03-29,2
+Ameriprise,0.3236245954692557,2023-03-09,Ameriprise,Financial,277.0,,100 days ending 2023-03-29,2
+Amgen,0.3236245954692557,2023-02-27,"Otezla, Enbrel",Healthcare,135.0,,100 days ending 2023-03-29,2
+Anolon X,0.3236245954692557,2023-01-12,Anolon X Cookware,,,,100 days ending 2023-03-29,2
+Bank of America,0.3236245954692557,2023-03-24,"Bank of America, Merill Investing",Financial,29.0,77.0,100 days ending 2023-03-29,2
+Booking.com,0.3236245954692557,2023-03-07,Booking.com,Ecommerce & Software,,,100 days ending 2023-03-29,2
+Charles Schwab,0.3236245954692557,2023-01-08,Charles Schwab,Financial,251.0,,100 days ending 2023-03-29,2
+Chewy,0.3236245954692557,2023-01-25,Chewy Pets,Household & Food Products,,,100 days ending 2023-03-29,2
+Circle,0.3236245954692557,2023-03-11,Circle Fintech,,,,100 days ending 2023-03-29,2
+ClearCaptions,0.3236245954692557,2023-02-28,ClearCaptions,Healthcare,,,100 days ending 2023-03-29,2
+Constant Contact,0.3236245954692557,2023-03-07,Constant Contact,Business Services,,,100 days ending 2023-03-29,2
+Creative Planning,0.3236245954692557,2023-03-01,Creative Planning,Financial,,,100 days ending 2023-03-29,2
+Empire,0.3236245954692557,2023-03-21,Empire Flooring,,,,100 days ending 2023-03-29,2
+General Steel Buildings,0.3236245954692557,2023-03-20,General Steel Buildings,,,,100 days ending 2023-03-29,2
+Grainger,0.3236245954692557,2023-03-26,Grainger,Hardware and Machinery,284.0,,100 days ending 2023-03-29,2
+Hallow,0.3236245954692557,2023-03-08,Hallow App,,,,100 days ending 2023-03-29,2
+Hisamitsu,0.3236245954692557,2023-01-18,Salonpas,Healthcare,,,100 days ending 2023-03-29,2
+Instacart,0.3236245954692557,2023-02-22,Instacart,Ecommerce & Software,,,100 days ending 2023-03-29,2
+Jacuzzi,0.3236245954692557,2023-03-13,Jacuzzi Bath Remodel,,,,100 days ending 2023-03-29,2
+Kidney COP,0.3236245954692557,2023-03-20,Kidney COP,,,,100 days ending 2023-03-29,2
+Kubota,0.3236245954692557,2023-03-13,Kubota Tractors,Hardware and Machinery,,,100 days ending 2023-03-29,2
+Lear Capital,0.3236245954692557,2023-03-20,Lear Gold,Financial,,,100 days ending 2023-03-29,2
+Licorice,0.3236245954692557,2023-03-26,Licorice.com,,,,100 days ending 2023-03-29,2
+Morgan and Morgan,0.3236245954692557,2023-03-17,Camp Lejune Lawsuit,,,,100 days ending 2023-03-29,2
+Neurocrine,0.3236245954692557,2023-03-22,Ingrezza,Healthcare,,,100 days ending 2023-03-29,2
+Noble Gold Investments,0.3236245954692557,2023-01-24,Noble Gold Investments,Financial,,,100 days ending 2023-03-29,2
+Old Dominion Freight,0.3236245954692557,2023-02-28,Old Dominion Freight,Other,634.0,,100 days ending 2023-03-29,2
+Oofos,0.3236245954692557,2023-02-18,Oofos,Retail & Restaurants,,,100 days ending 2023-03-29,2
+PC Matic,0.3236245954692557,2023-03-22,PC Matic,Ecommerce & Software,,,100 days ending 2023-03-29,2
+Progressive,0.3236245954692557,2023-03-21,Progessive Insurance,Insurance,86.0,323.0,100 days ending 2023-03-29,2
+Red Land Cotton,0.3236245954692557,2023-03-24,Red Land Cotton,,,,100 days ending 2023-03-29,2
+Red Lobster,0.3236245954692557,2023-02-19,Red Lobster,Retail & Restaurants,,,100 days ending 2023-03-29,2
+Saatva,0.3236245954692557,2023-03-29,Saatva,,,,100 days ending 2023-03-29,2
+Sandals,0.3236245954692557,2023-03-10,Beaches Resorts,Other,,,100 days ending 2023-03-29,2
+Sanofi,0.3236245954692557,2023-03-26,Gold Bond,Healthcare,,289.0,100 days ending 2023-03-29,2
+Scotts,0.3236245954692557,2023-03-26,Scotts Turf Builder,Household & Food Products,753.0,,100 days ending 2023-03-29,2
+TaxSlayer,0.3236245954692557,2023-02-17,TaxSlayer,Business Services,,,100 days ending 2023-03-29,2
+TheRealReal,0.3236245954692557,2023-02-17,TheRealReal,,,,100 days ending 2023-03-29,2
+Toyota (Lexus),0.3236245954692557,2023-02-10,Lexus,Motor Vehicles & Automotive,,10.0,100 days ending 2023-03-29,2
+University of Phoenix,0.3236245954692557,2023-03-18,University of Phoenix,Other,,,100 days ending 2023-03-29,2
+Upwork,0.3236245954692557,2023-02-23,Upwork,Business Services,,,100 days ending 2023-03-29,2
+VisionWorks,0.3236245954692557,2023-01-17,VisionWorks,Healthcare,,,100 days ending 2023-03-29,2
+Zoetis Petcare,0.3236245954692557,2023-03-08,Simparica,Household & Food Products,,,100 days ending 2023-03-29,2
+ Nutrisystem,0.16181229773462785,2023-02-08, Nutrisystem Partner Plan,,,,100 days ending 2023-03-29,1
+45Books,0.16181229773462785,2023-03-15,Our Journey Together,,,,100 days ending 2023-03-29,1
+A Place for Mom,0.16181229773462785,2023-01-17,A Place for Mom,Healthcare,,,100 days ending 2023-03-29,1
+ADP,0.16181229773462785,2023-02-26,Roll,,,,100 days ending 2023-03-29,1
+ADT,0.16181229773462785,2023-02-16,ADT,Household Services,541.0,,100 days ending 2023-03-29,1
+ATT,0.16181229773462785,2023-03-05,DirectTV,Telecommunications,9.0,11.0,100 days ending 2023-03-29,1
+Abacus Pays,0.16181229773462785,2023-03-01,Abacus Pays,,,,100 days ending 2023-03-29,1
+Alpecin,0.16181229773462785,2023-02-22,Alpecin,,,,100 days ending 2023-03-29,1
+American Home Shield,0.16181229773462785,2023-03-11,American Home Shield,Household Services,,,100 days ending 2023-03-29,1
+Americaneagle.com,0.16181229773462785,2023-02-26,Web design,,,,100 days ending 2023-03-29,1
+AnalonX,0.16181229773462785,2023-01-09,AnalonX Cookware,,,,100 days ending 2023-03-29,1
+Ancestry,0.16181229773462785,2023-02-19,Ancestry,Ecommerce & Software,,,100 days ending 2023-03-29,1
+Annuity General,0.16181229773462785,2023-01-28,Annuity Dos and Donts,Financial,,,100 days ending 2023-03-29,1
+ArgenX,0.16181229773462785,2023-02-23,Vyvgart,,,,100 days ending 2023-03-29,1
+Ark Encounter,0.16181229773462785,2023-03-20,Ark Encounter,,,,100 days ending 2023-03-29,1
+Ashley,0.16181229773462785,2023-02-18,Ashley Furniture,,,,100 days ending 2023-03-29,1
+Avadim Health,0.16181229773462785,2023-01-18,Theraworx,Healthcare,,,100 days ending 2023-03-29,1
+Babbel,0.16181229773462785,2023-01-01,Babbel,,,,100 days ending 2023-03-29,1
+Bass Pro Shops,0.16181229773462785,2023-03-14,Bass Pro Shops,Retail & Restaurants,,,100 days ending 2023-03-29,1
+Bayer,0.16181229773462785,2023-01-19,Aleve,Healthcare,,214.0,100 days ending 2023-03-29,1
+Bissel,0.16181229773462785,2023-02-09,Bissel Vacuums,Household & Food Products,,,100 days ending 2023-03-29,1
+Blackrock,0.16181229773462785,2023-03-13,iShares,,,,100 days ending 2023-03-29,1
+Blue Emu,0.16181229773462785,2023-03-23,Blue Emu,,,,100 days ending 2023-03-29,1
+Brilliant Earth,0.16181229773462785,2023-02-26,Brilliant Earth,,,,100 days ending 2023-03-29,1
+Bristol Meyers Squibb,0.16181229773462785,2023-02-22,Sotyktu,Healthcare,75.0,,100 days ending 2023-03-29,1
+Camping World,0.16181229773462785,2023-02-09,Camping World,Motor Vehicles & Automotive,475.0,,100 days ending 2023-03-29,1
+Care.com,0.16181229773462785,2023-01-06,Care.com,Ecommerce & Software,,,100 days ending 2023-03-29,1
+Carfax,0.16181229773462785,2023-02-15,Carfax,Ecommerce & Software,,,100 days ending 2023-03-29,1
+Century Biotics,0.16181229773462785,2023-02-20,Crystal Flush,,,,100 days ending 2023-03-29,1
+Chevron,0.16181229773462785,2023-03-02,Chevron,Other,27.0,75.0,100 days ending 2023-03-29,1
+Colonial Penn,0.16181229773462785,2023-03-14,Colonial Penn Program,Financial,,,100 days ending 2023-03-29,1
+Contour Swan,0.16181229773462785,2023-01-21,Contour Swan Pillow,,,,100 days ending 2023-03-29,1
+Dexcom,0.16181229773462785,2023-03-10,Dexcom G6,,,,100 days ending 2023-03-29,1
+Dish TV,0.16181229773462785,2023-01-06,Dish TV,Telecommunications,251.0,,100 days ending 2023-03-29,1
+Dr Reddys,0.16181229773462785,2023-03-29,Doans,,,,100 days ending 2023-03-29,1
+DraftKings,0.16181229773462785,2023-02-07,DraftKings,,,,100 days ending 2023-03-29,1
+EGO,0.16181229773462785,2023-02-28,EGO Mower,,,,100 days ending 2023-03-29,1
+Egglands Best,0.16181229773462785,2023-01-06,Egglands Best,Household & Food Products,,,100 days ending 2023-03-29,1
+Embr Labs,0.16181229773462785,2023-02-08,Embr Wave,,,,100 days ending 2023-03-29,1
+Endo,0.16181229773462785,2023-03-17,Peryoins Disease,,,,100 days ending 2023-03-29,1
+Exact Sciences,0.16181229773462785,2023-03-09,Cologuard,,,,100 days ending 2023-03-29,1
+FastSigns,0.16181229773462785,2023-02-20,FastSigns,Business Services,,,100 days ending 2023-03-29,1
+Flex Seal,0.16181229773462785,2022-12-27,Flex Seal,,,,100 days ending 2023-03-29,1
+Fracture,0.16181229773462785,2023-03-11,Fracture Frames,,,,100 days ending 2023-03-29,1
+FreshPet,0.16181229773462785,2023-03-29,FreshPet,,,,100 days ending 2023-03-29,1
+GenStone,0.16181229773462785,2023-03-27,GenStone,,,,100 days ending 2023-03-29,1
+General Steel,0.16181229773462785,2023-02-09,General Steel Buildings,,,,100 days ending 2023-03-29,1
+GoDaddy,0.16181229773462785,2023-03-29,GoDaddy,,,,100 days ending 2023-03-29,1
+GovMint,0.16181229773462785,2023-01-19,GovMint,Financial,,,100 days ending 2023-03-29,1
+Harry and David,0.16181229773462785,2023-03-29,Harry and David,Household & Food Products,,,100 days ending 2023-03-29,1
+HearX,0.16181229773462785,2023-02-09,Lexie,,,,100 days ending 2023-03-29,1
+HomeLight,0.16181229773462785,2023-01-01,HomeLight,Household & Food Products,,,100 days ending 2023-03-29,1
+Humana,0.16181229773462785,2023-01-23,Humana Medicare,Healthcare,73.0,,100 days ending 2023-03-29,1
+HungryRoot,0.16181229773462785,2023-02-16,HungryRoot,,,,100 days ending 2023-03-29,1
+Inspire Medical Systems,0.16181229773462785,2023-01-04,Inspire Sleep,,,,100 days ending 2023-03-29,1
+Intra-Cellular Therapies,0.16181229773462785,2023-01-05,Caplyta,,,,100 days ending 2023-03-29,1
+Intuit,0.16181229773462785,2023-03-24,Intuit Quickbooks,Ecommerce & Software,445.0,,100 days ending 2023-03-29,1
+Jamaica Tourism,0.16181229773462785,2023-02-16,Jamaica Tourism,,,,100 days ending 2023-03-29,1
+Jenny Craig,0.16181229773462785,2023-03-05,Jenny Craig,Supplements & Weight Loss,,,100 days ending 2023-03-29,1
+John Deere,0.16181229773462785,2023-03-07,John Deere,Hardware and Machinery,84.0,319.0,100 days ending 2023-03-29,1
+Johnson and Johnson,0.16181229773462785,2023-01-08,Aveeno,Healthcare,35.0,104.0,100 days ending 2023-03-29,1
+Keller Postman ,0.16181229773462785,2023-03-06,Camp Lejune Lawsuit,Other,,,100 days ending 2023-03-29,1
+Ken Rusk,0.16181229773462785,2023-02-16,BlueCollarCash,,,,100 days ending 2023-03-29,1
+Kia,0.16181229773462785,2023-01-19,Sportage,Motor Vehicles & Automotive,,215.0,100 days ending 2023-03-29,1
+LoveSac,0.16181229773462785,2022-12-20,LoveSac,,,,100 days ending 2023-03-29,1
+Lumber Liquidators,0.16181229773462785,2023-03-07,LL Floors,,,,100 days ending 2023-03-29,1
+Lume Deo,0.16181229773462785,2023-01-02,Lume Deo,,,,100 days ending 2023-03-29,1
+MDHearing,0.16181229773462785,2023-01-12,MDHearing,,,,100 days ending 2023-03-29,1
+Mahindra,0.16181229773462785,2023-03-15,Mahindra Roxor,Hardware and Machinery,,,100 days ending 2023-03-29,1
+Mass General Brigham,0.16181229773462785,2023-03-04,Mass General Brigham,,,,100 days ending 2023-03-29,1
+Museum of the Bible,0.16181229773462785,2023-03-15,Museum of the Bible,,,,100 days ending 2023-03-29,1
+Mypurmist,0.16181229773462785,2023-01-14,Mypurmist,Healthcare,,,100 days ending 2023-03-29,1
+Nano Hearing Aids,0.16181229773462785,2023-02-03,Nano Hearing Aids,Healthcare,,,100 days ending 2023-03-29,1
+New Chapter,0.16181229773462785,2023-03-18,New Chapter Multivitamin,,,,100 days ending 2023-03-29,1
+NewChapter,0.16181229773462785,2023-02-18,NewChapter Vitamins,,,,100 days ending 2023-03-29,1
+Nextmed,0.16181229773462785,2022-12-22,Nextmed,,,,100 days ending 2023-03-29,1
+Niocorette,0.16181229773462785,2023-03-13,Niocorette,,,,100 days ending 2023-03-29,1
+Nonyx,0.16181229773462785,2023-03-27,Nonyx Nail Gel,,,,100 days ending 2023-03-29,1
+NortonLifeLock,0.16181229773462785,2023-03-14,ReputationDefender,Ecommerce & Software,573.0,,100 days ending 2023-03-29,1
+Opendoor,0.16181229773462785,2023-01-06,Opendoor,,,,100 days ending 2023-03-29,1
+Paychex,0.16181229773462785,2023-02-07,Paychex,Business Services,617.0,,100 days ending 2023-03-29,1
+Paycom,0.16181229773462785,2023-02-03,Paycom,Business Services,617.0,,100 days ending 2023-03-29,1
+Plantur 39,0.16181229773462785,2023-03-15,Plantur 39 Shampoo,,,,100 days ending 2023-03-29,1
+Pretzels.com,0.16181229773462785,2023-01-30,Pretzels.com,,,,100 days ending 2023-03-29,1
+Qatar Financial Center,0.16181229773462785,2022-12-22,Qatar Financial Center,,,,100 days ending 2023-03-29,1
+Quincy Bioscience,0.16181229773462785,2023-01-17,Prevagen,Supplements & Weight Loss,,,100 days ending 2023-03-29,1
+Relief Factor,0.16181229773462785,2023-01-24,Relief Factor,Supplements & Weight Loss,,,100 days ending 2023-03-29,1
+Revela,0.16181229773462785,2023-02-23,Revela,,,,100 days ending 2023-03-29,1
+Silver Singles,0.16181229773462785,2023-03-24,Silver Singles ,,,,100 days ending 2023-03-29,1
+SingleCare,0.16181229773462785,2023-03-03,SingleCare,Healthcare,,,100 days ending 2023-03-29,1
+SiriusXM,0.16181229773462785,2023-03-20,SiriusXM Sports,Telecommunications,652.0,,100 days ending 2023-03-29,1
+Sling,0.16181229773462785,2023-01-01,Sling TV,Telecommunications,,,100 days ending 2023-03-29,1
+Stearns and Foster,0.16181229773462785,2023-03-22,Stearns and Foster Mattresses,,,,100 days ending 2023-03-29,1
+T-Mobile,0.16181229773462785,2023-03-07,T-Mobile For Buisness,Telecommunications,,,100 days ending 2023-03-29,1
+TIDL,0.16181229773462785,2023-01-24,TIDL Deoderant,,,,100 days ending 2023-03-29,1
+The Chosen,0.16181229773462785,2023-03-07,The Chosen,,,,100 days ending 2023-03-29,1
+The Jewelry Exchange,0.16181229773462785,2022-12-22,The Jewelry Exchange,,,,100 days ending 2023-03-29,1
+TheraBreath,0.16181229773462785,2023-03-06,TheraBreath,Healthcare,,,100 days ending 2023-03-29,1
+Trivago,0.16181229773462785,2023-01-06,Trivago,Ecommerce & Software,,,100 days ending 2023-03-29,1
+Trust and Will,0.16181229773462785,2023-02-26,Trust and Will,,,,100 days ending 2023-03-29,1
+Vanguard,0.16181229773462785,2023-02-10,Vanguard Investments,Financial,,,100 days ending 2023-03-29,1
+Verizon,0.16181229773462785,2023-02-20,Verizon Business,Telecommunications,20.0,44.0,100 days ending 2023-03-29,1
+Verizon ,0.16181229773462785,2023-02-23,Verizon Business,,,,100 days ending 2023-03-29,1
+Viking Cruises,0.16181229773462785,2023-01-06,Viking Cruises,,,,100 days ending 2023-03-29,1
+Visiting Angels,0.16181229773462785,2023-01-02,Visiting Angels,Healthcare,,,100 days ending 2023-03-29,1
+Vitapod,0.16181229773462785,2022-12-27,Vitapod,,,,100 days ending 2023-03-29,1
+Vyper Industrial,0.16181229773462785,2023-02-20,Shop Chair,,,,100 days ending 2023-03-29,1
+Walgreens,0.16181229773462785,2023-03-12,Walgreens,Retail & Restaurants,16.0,,100 days ending 2023-03-29,1
+Wells Fargo,0.16181229773462785,2022-12-23,Wells Fargo,,,,100 days ending 2023-03-29,1
+Wolf and Shepherd,0.16181229773462785,2023-03-29,Wolf and Shepherd,Retail & Restaurants,,,100 days ending 2023-03-29,1
