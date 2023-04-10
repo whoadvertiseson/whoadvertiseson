@@ -1,4 +1,18 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+BlackRock,BlackRock,4/9/23,Evening,Fox News,The Next Revolution 
+GlaxoSmithKline,WhatIsShingles,4/9/23,Evening,Fox News,The Next Revolution 
+Earth Breeze,Earth Breeze,4/9/23,Evening,Fox News,The Next Revolution 
+GOLO,GOLO,4/9/23,Evening,Fox News,The Next Revolution 
+Grainger,Grainger,4/9/23,Evening,Fox News,The Next Revolution 
+New Vitality,Ageless Male Max,4/9/23,Evening,Fox News,The Next Revolution 
+Heaven or Not,Heaven or Not,4/9/23,Evening,Fox News,The Next Revolution 
+Opti-Nail,Opti-Nail,4/9/23,Evening,Fox News,The Next Revolution 
+Old Dominion Freight,Old Dominion Freight,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
+Dr Reddys,Doans,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
+Heaven or Not,Heaven or Not,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
+Coursera,Coursera,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
+Closys,Closys,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
+ADT,ADT,4/8/23,Evening,Fox News,Unfiltered with Dan Bongino
 Fubo,FuboTV,4/6/23,Morning,Fox News,Fox and Friends
 Silver Singles,Silver Singles ,4/6/23,Morning,Fox News,Fox and Friends
 SurePayroll,SurePayroll,4/6/23,Morning,Fox News,Fox and Friends
@@ -266,7 +280,7 @@ Allstate,Allstate Insurance,3/5/23,Afternoon,Fox News,Fox Reports
 ATT,DirectTV,3/5/23,Afternoon,Fox News,Fox Reports
 Jenny Craig,Jenny Craig,3/5/23,Afternoon,Fox News,Fox Reports
 MyPillow,MyPillow 2.0,3/5/23,Afternoon,Fox News,Fox Reports
-Mass General Brigham,Mass General Brigham,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
+Mass General Brigham,Mass General Brigham,3/4/23,Evening,Fox News,old 
 Nutrisystem,Nutrisystem Partner,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
 GlaxoSmithKline,Shingrix,3/4/23,Evening,Fox News,Unfiltered with Dan Bongino
 Natures Health,Australian Dream,3/3/23,Morning,Fox News,Fox and Friends
@@ -5671,7 +5685,7 @@ CarGurus,CarGurus,1/29/21,Morning,Fox News,Americas Newsroom
 Ideal Agent,Idealagent.com,1/29/21,Morning,Fox News,Americas Newsroom
 NewDayUSA,NewDayUSA RefiPlus,1/29/21,Morning,Fox News,Americas Newsroom
 Nutrisystem,Nutrisystem,1/29/21,Morning,Fox News,Americas Newsroom
-coursera,coursera.org,1/29/21,Morning,Fox News,The Faulkner Focus
+Coursera,Coursera,1/29/21,Morning,Fox News,The Faulkner Focus
 Eargo,Eargo,1/29/21,Morning,Fox News,The Faulkner Focus
 Fingerhut,Fingerhut,1/29/21,Morning,Fox News,The Faulkner Focus
 Idaho Potatoes,Idaho Potatoes,1/29/21,Morning,Fox News,The Faulkner Focus
