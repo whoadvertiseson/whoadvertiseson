@@ -1,4 +1,12 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+BlackRock,BlackRock,5/18/23,Afternoon,Fox News,America Reports
+Johnson and Johnson,Neutrogena,5/18/23,Afternoon,Fox News,America Reports
+Horizon,TreatTED,5/18/23,Afternoon,Fox News,America Reports
+Balance of Nature,Veggies,5/18/23,Afternoon,Fox News,America Reports
+The Farmers Dog,The Farmers Dog,5/18/23,Afternoon,Fox News,America Reports
+Right at Home,Right at Home,5/18/23,Afternoon,Fox News,America Reports
+Aspen Dental,Aspen Dental,5/18/23,Afternoon,Fox News,America Reports
+Rosland Capital,Rosland Capital,5/18/23,Afternoon,Fox News,America Reports
 Rush Limbaugh Radio Legacy,Radios Greatest Book,5/17/23,Morning,Fox News,Fox and Friends
 Reckitt,Neuriva,5/17/23,Morning,Fox News,Fox and Friends
 Liberty Mutual,Liberty Mutual Insurance,5/17/23,Morning,Fox News,Fox and Friends
@@ -8,6 +16,8 @@ Procter and Gamble,Crest,5/17/23,Morning,Fox News,Fox and Friends
 ZipRecruiter,ZipRecruiter,5/17/23,Morning,Fox News,Fox and Friends
 BeActive,BeActivePlus,5/17/23,Morning,Fox News,Fox and Friends
 GlaxoSmithKline,MeningitisB,5/17/23,Morning,Fox News,Fox and Friends
+Sling,Sling Fox News,5/17/23,Afternoon,Fox News,Special Report
+A Place for Mom,A Place for Mom,5/17/23,Afternoon,Fox News,Special Report
 Rush Limbaugh Radio Legacy,Radios Greatest Book,5/16/23,Evening,Fox News,Hannity
 Licorice.com,Licorice.com,5/16/23,Evening,Fox News,Hannity
 Nutrisystem,Nutrisystem,5/16/23,Evening,Fox News,Hannity
