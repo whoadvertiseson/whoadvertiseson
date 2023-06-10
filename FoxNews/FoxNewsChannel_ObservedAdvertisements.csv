@@ -1,4 +1,9 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Kayak,Kayak,6/10/23,Morning,Fox News,Fox and Friends
+Horizon,Treat TED,6/10/23,Morning,Fox News,Fox and Friends
+SelectQuote,SelectQuote,6/10/23,Morning,Fox News,Fox and Friends
+University of Phoenix,University of Phoenix,6/10/23,Morning,Fox News,Fox and Friends
+Abbvie,Botox,6/10/23,Morning,Fox News,Fox and Friends
 Red Land Cotton,Red Land Cotton,6/8/23,Morning,Fox News,Americas Newsroom
 Johnson and Johnson,Listerine,6/8/23,Morning,Fox News,Americas Newsroom
 WM Barr,DampRid,6/8/23,Morning,Fox News,Americas Newsroom
@@ -17,6 +22,15 @@ GlaxoSmithKline,Cabenuva,6/8/23,Morning,Fox News,Fox and Friends
 American Action Network,American Action Network,6/8/23,Morning,Fox News,Fox and Friends
 Best Western,Best Western,6/8/23,Morning,Fox News,Fox and Friends
 NetCredit,NetCredit,6/8/23,Morning,Fox News,Fox and Friends
+LeafFilter,LeafFilter,6/8/23,Afternoon,Fox News,Special Report
+ZipRecruiter,ZipRecruiter,6/8/23,Afternoon,Fox News,Special Report
+NortonLifeLock,Lifelock,6/8/23,Afternoon,Fox News,Special Report
+Goldfish Swim School,Goldfish Swim School,6/8/23,Afternoon,Fox News,Special Report
+The Farmers Dog,The Farmers Dog,6/8/23,Afternoon,Fox News,Special Report
+USPS,USPS,6/8/23,Afternoon,Fox News,Special Report
+Johnson and Johnson,Listerine,6/8/23,Afternoon,Fox News,Special Report
+JP Morgan Chase,Chase Banking,6/8/23,Afternoon,Fox News,Special Report
+Kayak,Kayak,6/8/23,Afternoon,Fox News,Special Report
 Horizon,Treat TED,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
 Liberty Mutual,Liberty Mutual Insurance,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
 Novo Nordisk,Get Real About Diabetes,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
@@ -6216,3 +6230,10 @@ Fracture,Fracture Me,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Kraft Heinz Company,Kraft Macaroni and Cheese,1/17/21,Morning,Fox News,Fox and Friends Sunday
 HumanN,SuperBeets,1/17/21,Morning,Fox News,Fox and Friends Sunday
 Balance of Nature,Veggies,1/17/21,Morning,Fox News,Fox and Friends Sunday
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,S,
