@@ -1,8 +1,8 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-Balance of Nature,5.616438356164384,2023-06-19,"Fruits, Veggies, Balance of Nature, Fiber and Spice",Supplements & Weight Loss,,,100 days ending 2023-06-20,41
-MyPillow,4.383561643835616,2023-06-18,"MySlippers, MySlipper, MyPillow 2.0, MyPillow Sale, MyPillow Sheets",Household & Food Products,,,100 days ending 2023-06-20,32
+Balance of Nature,5.616438356164384,2023-06-19,"Veggies, Fruits, Balance of Nature, Fiber and Spice",Supplements & Weight Loss,,,100 days ending 2023-06-20,41
+MyPillow,4.383561643835616,2023-06-18,"MyPillow 2.0, MySlippers, MySlipper, MyPillow Sale, MyPillow Sheets",Household & Food Products,,,100 days ending 2023-06-20,32
 Nutrisystem,2.054794520547945,2023-06-03,"Nutrisystem For 2, Nutrisystem Quick 9, Nutrisystem, Nutrisystem Complete, Nutrisystem Partner, Nutrisystem Offers ",Supplements & Weight Loss,,,100 days ending 2023-06-20,15
-JP Morgan Chase,1.643835616438356,2023-06-18,"Chase for Business, Chase Banking, Chase Freedom Unlimited, Chase Bank, Chase Freedom Card",Financial,19.0,48.0,100 days ending 2023-06-20,12
+JP Morgan Chase,1.643835616438356,2023-06-18,"Chase Freedom Unlimited, Chase for Business, Chase Banking, Chase Bank, Chase Freedom Card",Financial,19.0,48.0,100 days ending 2023-06-20,12
 NewDayUSA,1.643835616438356,2023-06-12,NewDayUSA,Financial,,,100 days ending 2023-06-20,12
 GOLO,1.5068493150684932,2023-06-17,GOLO,Supplements & Weight Loss,,,100 days ending 2023-06-20,11
 Liberty Mutual,1.5068493150684932,2023-06-16,Liberty Mutual Insurance,Insurance,77.0,278.0,100 days ending 2023-06-20,11
@@ -24,7 +24,7 @@ Realtor.com,0.9589041095890412,2023-06-17,Realtor.com,Ecommerce & Software,,,100
 SiriusXM,0.9589041095890412,2023-06-13,"SiriusXM, Listen Free, SiriusXM Sports",Telecommunications,652.0,,100 days ending 2023-06-20,7
 Sling,0.9589041095890412,2023-06-07,"Sling Fox News, Sling TV",Telecommunications,,,100 days ending 2023-06-20,7
 The Farmers Dog,0.9589041095890412,2023-06-12,The Farmers Dog,Household & Food Products,,,100 days ending 2023-06-20,7
-Abbott Laboratories ,0.821917808219178,2023-06-19,"Ensure, Glucerna, Freestyle Libre",Healthcare,104.0,393.0,100 days ending 2023-06-20,6
+Abbott Laboratories ,0.821917808219178,2023-06-19,"Freestyle Libre, Ensure, Glucerna",Healthcare,104.0,393.0,100 days ending 2023-06-20,6
 Booking Holdings,0.821917808219178,2023-06-02,Booking.com,Ecommerce & Software,340.0,,100 days ending 2023-06-20,6
 GSK,0.821917808219178,2023-06-08,"Cabenuva, MeningitisB, WhatIsShingles, Nucala, Trelegy",Healthcare,,282.0,100 days ending 2023-06-20,6
 Golden Corral,0.821917808219178,2023-06-15,Golden Corral,Retail & Restaurants,,,100 days ending 2023-06-20,6
@@ -50,7 +50,7 @@ Kubota,0.547945205479452,2023-05-26,Kubota Tractors,Hardware and Machinery,,,100
 Marcum,0.547945205479452,2023-05-09,Marcum,Financial,,,100 days ending 2023-06-20,4
 Nature Made ,0.547945205479452,2023-05-12,Nature Made ,Supplements & Weight Loss,,,100 days ending 2023-06-20,4
 Sleep Number,0.547945205479452,2023-05-31,Sleep Number,Household & Food Products,,,100 days ending 2023-06-20,4
-Stellantis,0.547945205479452,2023-06-18,"Dodge, Jeep",Motor Vehicles & Automotive,,,100 days ending 2023-06-20,4
+Stellantis,0.547945205479452,2023-06-18,"Jeep, Dodge",Motor Vehicles & Automotive,,,100 days ending 2023-06-20,4
 Visiting Angels,0.547945205479452,2023-05-29,Visiting Angels,Healthcare,,,100 days ending 2023-06-20,4
 WonderTrust,0.547945205479452,2023-06-03,WonderTrust,,,,100 days ending 2023-06-20,4
 Allstate,0.410958904109589,2023-05-30,"Allstate, Allstate Drivewise",Insurance,72.0,263.0,100 days ending 2023-06-20,3
