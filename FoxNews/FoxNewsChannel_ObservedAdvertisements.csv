@@ -1,4 +1,24 @@
 CompanyName,ProductName,DateObserved,TimeOfDay,Channel,ShowName
+Lear Capital,Lear Capital,7/12/23,Afternoon,Fox News,America Reports
+Horizon,IsItTED,7/12/23,Afternoon,Fox News,America Reports
+South Dakota,South Dakota,7/12/23,Afternoon,Fox News,America Reports
+Subaru,Subaru,7/12/23,Afternoon,Fox News,America Reports
+The Farmers Dog,The Farmers Dog,7/12/23,Afternoon,Fox News,America Reports
+GOLO,GOLO,7/12/23,Afternoon,Fox News,America Reports
+LeafFilter,LeafFilter,7/12/23,Afternoon,Fox News,America Reports
+Nutrafol,Nutrafol,7/12/23,Afternoon,Fox News,America Reports
+Constant Contact,Constant Contact,7/12/23,Afternoon,Fox News,America Reports
+BlackRock,BlackRock,7/12/23,Afternoon,Fox News,America Reports
+Lipo Flavonoid,Lipo Flavonoid,7/11/23,Evening,Fox News,Fox News Tonight
+PureTalk,PureTalk,7/11/23,Evening,Fox News,Fox News Tonight
+X-Chair,X-Chair,7/11/23,Evening,Fox News,Fox News Tonight
+Vroom,Vroom,7/11/23,Evening,Fox News,Fox News Tonight
+Procter and Gamble,Charmin,7/11/23,Evening,Fox News,Fox News Tonight
+Toyota,Lexus,7/10/23,Evening,Fox News,Fox News Tonight
+CopperFit,CopperFit Ice,7/10/23,Evening,Fox News,Fox News Tonight
+Qunol,CoQ10,7/10/23,Evening,Fox News,Fox News Tonight
+PC Matic,PC Matic,7/10/23,Evening,Fox News,Fox News Tonight
+HumanN,SuperBeets,7/10/23,Evening,Fox News,Fox News Tonight
 Lear Capital,Lear Gold,7/7/23,Morning,Fox News,The Faulkner Focus
 Stihl,Stihl Tools,7/7/23,Morning,Fox News,The Faulkner Focus
 Balance of Nature,Veggies,7/7/23,Morning,Fox News,The Faulkner Focus
@@ -13,7 +33,7 @@ MyPillow,MySlippers,7/6/23,Morning,Fox News,Fox and Friends
 Novo Nordisk,Ozempic,7/6/23,Morning,Fox News,Fox and Friends
 Bayer,Aleve,7/5/23,Evening,Fox News,Hannity
 Licorice.com,Licorice.com,7/5/23,Evening,Fox News,Hannity
-Nutrisystem,Nutrisystem Quick 9,7/5/23,Evening,Fox News,Hannity
+Nutrisystem,Nutrisystem Quick 9,7/5/23,Evening,Fox News,reports
 Trivago,Trivago,7/5/23,Evening,Fox News,Hannity
 Earth Breeze,Earth Breeze,7/5/23,Evening,Fox News,Hannity
 GovX,GovX,7/5/23,Evening,Fox News,Hannity
@@ -183,6 +203,10 @@ Horizon,Treat TED,6/10/23,Morning,Fox News,Fox and Friends
 SelectQuote,SelectQuote,6/10/23,Morning,Fox News,Fox and Friends
 University of Phoenix,University of Phoenix,6/10/23,Morning,Fox News,Fox and Friends
 AbbVie,Botox,6/10/23,Morning,Fox News,Fox and Friends
+Balance of Nature,Fruits,6/9/23,Evening,Fox News,Life Liberty and Levin
+Consumer Cellular,Consumer Cellular,6/9/23,Evening,Fox News,Life Liberty and Levin
+Dr Reddys,Doans,6/9/23,Evening,Fox News,Life Liberty and Levin
+Fox News Books,Fox News Books,6/9/23,Evening,Fox News,Life Liberty and Levin
 Red Land Cotton,Red Land Cotton,6/8/23,Morning,Fox News,Americas Newsroom
 Johnson and Johnson,Listerine,6/8/23,Morning,Fox News,Americas Newsroom
 WM Barr,DampRid,6/8/23,Morning,Fox News,Americas Newsroom
@@ -210,6 +234,12 @@ USPS,USPS,6/8/23,Afternoon,Fox News,Special Report
 Johnson and Johnson,Listerine,6/8/23,Afternoon,Fox News,Special Report
 JP Morgan Chase,Chase Banking,6/8/23,Afternoon,Fox News,Special Report
 Kayak,Kayak,6/8/23,Afternoon,Fox News,Special Report
+Rosland Capital,Rosland Capital,6/8/23,Afternoon,Fox News,Fox News Live
+Sanofi,Dupixent,6/8/23,Afternoon,Fox News,Fox News Live
+Angi,Angi,6/8/23,Afternoon,Fox News,Fox News Live
+WeatherTech,WeatherTech,6/8/23,Afternoon,Fox News,Fox News Live
+BeActive,BeActivePlus,6/8/23,Afternoon,Fox News,Fox News Live
+Flex Seal,Flex Seal,6/8/23,Afternoon,Fox News,Fox News Live
 Horizon,Treat TED,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
 Liberty Mutual,Liberty Mutual Insurance,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
 Novo Nordisk,Get Real About Diabetes,6/7/23,Afternoon,Fox News,The Story with Martha MacCallum
