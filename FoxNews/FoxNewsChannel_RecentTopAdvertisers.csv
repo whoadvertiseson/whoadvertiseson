@@ -1,208 +1,201 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-Balance of Nature,3.0172413793103448,2025-02-14,"Fruits, Veggies",Supplements & Weight Loss,,,50 days ending 2025-02-16,14
-Liberty Mutual,2.586206896551724,2025-02-14,"Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,50 days ending 2025-02-16,12
-Ro,2.1551724137931036,2025-02-14,"Ro Weight Loss, Ro Weight Losss, Ro Sparks",Healthcare,,,50 days ending 2025-02-16,10
-Force Factor,1.9396551724137931,2025-02-14,"TotalBeets, Total Beets, Berberine",Supplements & Weight Loss,,,50 days ending 2025-02-16,9
-PrizePicks,1.9396551724137931,2025-02-14,PrizePicks,,,,50 days ending 2025-02-16,9
-Procter and Gamble,1.9396551724137931,2025-02-12,"Nervive, Spruce, Febreze, Head and Shoulders, Swiffer, Prilosec OTC, Vicks Dayquil",Household & Food Products,50.0,156.0,50 days ending 2025-02-16,9
-PureTalk,1.9396551724137931,2025-02-07,PureTalk,Telecommunications,,,50 days ending 2025-02-16,9
-Coventry Direct,1.5086206896551724,2025-02-14,Coventry Direct,Financial,,,50 days ending 2025-02-16,7
-SelectQuote,1.5086206896551724,2025-02-14,SelectQuote,Ecommerce & Software,,,50 days ending 2025-02-16,7
-AbbVie,1.293103448275862,2025-02-09,"Rinvoq, Skyrizi",Healthcare,99.0,378.0,50 days ending 2025-02-16,6
-Fabletics,1.293103448275862,2025-02-10,Fabletics,,,,50 days ending 2025-02-16,6
-LifeMD,1.293103448275862,2025-02-10,LifeMD,,,,50 days ending 2025-02-16,6
-Vrbo,1.293103448275862,2025-02-14,Vrbo,,,,50 days ending 2025-02-16,6
-Abbott Laboratories ,1.0775862068965518,2025-02-06,"Freestyle Libre, Ensure",Healthcare,104.0,393.0,50 days ending 2025-02-16,5
-Jones Road Beauty,1.0775862068965518,2025-02-07,Jones Road Beauty,,,,50 days ending 2025-02-16,5
-Mammoth Nation,1.0775862068965518,2025-02-14,Mammoth Nation,Ecommerce & Software,,,50 days ending 2025-02-16,5
-MyPillow,1.0775862068965518,2025-02-12,"MyPillow, MyPillow Sale",Household & Food Products,,,50 days ending 2025-02-16,5
-NewDayUSA,1.0775862068965518,2025-02-14,NewDayUSA,Financial,,,50 days ending 2025-02-16,5
-Quince,1.0775862068965518,2025-01-25,Quince,,,,50 days ending 2025-02-16,5
-Reckitt,1.0775862068965518,2025-02-14,"Mucinex, Neuriva",Healthcare,,,50 days ending 2025-02-16,5
-Saatva,1.0775862068965518,2025-02-14,Saatva,,,,50 days ending 2025-02-16,5
-Allegiance Flag Supply,0.8620689655172413,2025-02-07,Allegiance Flag Supply,,,,50 days ending 2025-02-16,4
-Americaneagle,0.8620689655172413,2025-01-21,"Web Design, Americaneagle.com",Business Services,,,50 days ending 2025-02-16,4
-ClearCaptions,0.8620689655172413,2025-01-19,ClearCaptions,Healthcare,,,50 days ending 2025-02-16,4
-Consumer Cellular,0.8620689655172413,2025-02-12,Consumer Cellular,Telecommunications,,,50 days ending 2025-02-16,4
-Doctors Preferred,0.8620689655172413,2025-01-25,Doctors Preferred,,,,50 days ending 2025-02-16,4
-Haleon,0.8620689655172413,2025-02-05,"Voltaren, Robitussin, Centrum",Healthcare,,282.0,50 days ending 2025-02-16,4
-SuperBeets,0.8620689655172413,2025-01-22,SuperBeets,Supplements & Weight Loss,,,50 days ending 2025-02-16,4
-Insurify,0.8620689655172413,2025-01-17,Insurify,,,,50 days ending 2025-02-16,4
-Kardia,0.8620689655172413,2025-02-06,Kardia Mobile,Healthcare,,,50 days ending 2025-02-16,4
-TommieCopper,0.8620689655172413,2025-01-31,TommieCopper,,,,50 days ending 2025-02-16,4
-WeatherTech,0.8620689655172413,2025-02-14,"WeatherTech, WeatherTech Floor Mats",Motor Vehicles & Automotive,,,50 days ending 2025-02-16,4
-Bausch and Lomb,0.646551724137931,2025-01-31,"Lumify, Miebo",Healthcare,,,50 days ending 2025-02-16,3
-Bullseye,0.646551724137931,2025-02-09,"BullseyePro, PocketAirPro",,,,50 days ending 2025-02-16,3
-CarShield,0.646551724137931,2025-01-27,CarShield,Household & Food Products,,,50 days ending 2025-02-16,3
-Endurance Auto Warranty,0.646551724137931,2025-02-12,Endurance Advantage,,,,50 days ending 2025-02-16,3
-Espired,0.646551724137931,2025-02-14,Kids Guide to President Trump,Other,,,50 days ending 2025-02-16,3
-First American Home Warranty,0.646551724137931,2025-02-14,First American Home Warranty,,,,50 days ending 2025-02-16,3
-Grainger,0.646551724137931,2025-01-20,Grainger,Hardware and Machinery,284.0,,50 days ending 2025-02-16,3
-HungryRoot,0.646551724137931,2025-02-09,HungryRoot,,,,50 days ending 2025-02-16,3
-Keepsake,0.646551724137931,2025-02-09,Keepsake Frames,Household & Food Products,,,50 days ending 2025-02-16,3
-LeafFilter,0.646551724137931,2025-02-10,LeafFilter,Household Services,,,50 days ending 2025-02-16,3
-Lilly,0.646551724137931,2025-02-14,"Zepbound, Lilly, Amyloid Info",,,,50 days ending 2025-02-16,3
-Nestle,0.646551724137931,2025-02-12,Boost,Household & Food Products,,82.0,50 days ending 2025-02-16,3
-NortonLifeLock,0.646551724137931,2025-01-22,"LifeLock, Lifelock",Ecommerce & Software,573.0,,50 days ending 2025-02-16,3
-Ontario,0.646551724137931,2025-02-12,Ontario Canada,,,,50 days ending 2025-02-16,3
-Particle,0.646551724137931,2025-01-07,Particle Men,,,,50 days ending 2025-02-16,3
-Quicken,0.646551724137931,2025-01-22,Quicken,Business Services,,,50 days ending 2025-02-16,3
-Qunol,0.646551724137931,2025-02-07,"Magnesium Glycinate, Qunol Tumeric, Qunol Magnesium Sulfate",Supplements & Weight Loss,,,50 days ending 2025-02-16,3
-RexMD,0.646551724137931,2025-01-18,Generic Cialis,Supplements & Weight Loss,,,50 days ending 2025-02-16,3
-Ridge,0.646551724137931,2025-01-07,Ridge Wallet,,,,50 days ending 2025-02-16,3
-RoofMaxx,0.646551724137931,2025-01-27,RoofMaxx,,,,50 days ending 2025-02-16,3
-SingleCare,0.646551724137931,2025-02-07,SingleCare,Healthcare,,,50 days ending 2025-02-16,3
-Tax Relief Advocates,0.646551724137931,2025-02-06,Tax Relief Advocates,,,,50 days ending 2025-02-16,3
-The Farmers Dog,0.646551724137931,2025-02-14,The Farmers Dog,Household & Food Products,,,50 days ending 2025-02-16,3
-TikTok,0.646551724137931,2025-02-09,"TikTok Small Business, TikTok Safety",,,,50 days ending 2025-02-16,3
-University of Phoenix,0.646551724137931,2025-01-23,University of Phoenix,Other,,,50 days ending 2025-02-16,3
-4Patriots,0.43103448275862066,2025-02-12,4Patriots,,,,50 days ending 2025-02-16,2
-ATT,0.43103448275862066,2025-02-14,DirecTV,Telecommunications,9.0,11.0,50 days ending 2025-02-16,2
-Allied Injury Group,0.43103448275862066,2025-01-19,Allied Injury Group,,,,50 days ending 2025-02-16,2
-Aquasana,0.43103448275862066,2025-01-09,Aquasana,,,,50 days ending 2025-02-16,2
-BetMGM,0.43103448275862066,2025-01-21,BetMGM,,,,50 days ending 2025-02-16,2
-Caraway,0.43103448275862066,2025-02-10,Caraway,,,,50 days ending 2025-02-16,2
-Carvana,0.43103448275862066,2025-01-25,Carvana,Ecommerce & Software,,,50 days ending 2025-02-16,2
-ClearChoice,0.43103448275862066,2025-01-28,"ClearChoice Dental, ClearChoice",Healthcare,,,50 days ending 2025-02-16,2
-Colonial Penn,0.43103448275862066,2025-01-05,Colonial Penn,Financial,,,50 days ending 2025-02-16,2
-Dr. Marty Pets,0.43103448275862066,2025-02-14,Dr. Marty Pets,,,,50 days ending 2025-02-16,2
-FastSigns,0.43103448275862066,2025-01-20,FastSigns,Business Services,,,50 days ending 2025-02-16,2
-Ferndale Healthcare ,0.43103448275862066,2025-02-12,DerMend,Healthcare,,,50 days ending 2025-02-16,2
-GL Homes,0.43103448275862066,2025-02-14,Valencia Florida,,,,50 days ending 2025-02-16,2
-GenStone,0.43103448275862066,2025-02-09,GenStone,,,,50 days ending 2025-02-16,2
-General Steel,0.43103448275862066,2025-02-06,General Steel Buildings,,,,50 days ending 2025-02-16,2
-GSK,0.43103448275862066,2025-02-09,"Trelegy, Trellegy",Healthcare,,282.0,50 days ending 2025-02-16,2
-Hillsdale College,0.43103448275862066,2025-02-07,Hillsdale College,,,,50 days ending 2025-02-16,2
-Hillsdale College,0.43103448275862066,2025-02-07,Hillsdale College,,,,50 days ending 2025-02-16,2
-Hisamitsu,0.43103448275862066,2025-01-23,Salonpas,Healthcare,,,50 days ending 2025-02-16,2
-Intuit,0.43103448275862066,2025-02-07,Intuit TurboTax,Ecommerce & Software,445.0,,50 days ending 2025-02-16,2
-JackPocket,0.43103448275862066,2025-02-10,JackPocket,,,,50 days ending 2025-02-16,2
-LA Golf,0.43103448275862066,2025-02-14,LA Golf,,,,50 days ending 2025-02-16,2
-Lume Deo,0.43103448275862066,2025-01-18,Lume Deo,,,,50 days ending 2025-02-16,2
-NatureMade,0.43103448275862066,2025-02-09,NatureMade Multi,,,,50 days ending 2025-02-16,2
-Natures Health,0.43103448275862066,2025-01-20,Australian Dream,Supplements & Weight Loss,,,50 days ending 2025-02-16,2
-NetCredit,0.43103448275862066,2025-01-23,NetCredit,,,,50 days ending 2025-02-16,2
-Nutrisystem,0.43103448275862066,2025-01-05,Nutrisystem,Supplements & Weight Loss,,,50 days ending 2025-02-16,2
-Opendoor,0.43103448275862066,2025-02-14,Opendoor,,,,50 days ending 2025-02-16,2
-Physicians Mutual,0.43103448275862066,2025-02-12,Physicians Mutual,,,,50 days ending 2025-02-16,2
-Progressive,0.43103448275862066,2025-01-18,"Progressive Insurance, Progessive Insurance",Insurance,86.0,323.0,50 days ending 2025-02-16,2
-Quincy Bioscience,0.43103448275862066,2025-02-14,Prevagen,Supplements & Weight Loss,,,50 days ending 2025-02-16,2
-Rebath,0.43103448275862066,2025-02-12,Rebath,,,,50 days ending 2025-02-16,2
-Relief Factor,0.43103448275862066,2025-01-22,Relief Factor,Supplements & Weight Loss,,,50 days ending 2025-02-16,2
-Replenza Labs,0.43103448275862066,2025-01-31,Replenza,,,,50 days ending 2025-02-16,2
-Resperate,0.43103448275862066,2025-02-12,Resperate,,,,50 days ending 2025-02-16,2
-Right at Home,0.43103448275862066,2025-01-09,Right at Home,Healthcare,,,50 days ending 2025-02-16,2
-Robinhood ,0.43103448275862066,2025-02-14,Robinhood Gold ,,,,50 days ending 2025-02-16,2
-Roof Maxx,0.43103448275862066,2025-01-17,Roof Maxx,,,,50 days ending 2025-02-16,2
-Rosland Capital,0.43103448275862066,2025-01-27,Rosland Capital,Financial,,,50 days ending 2025-02-16,2
-Safelite Group,0.43103448275862066,2025-01-28,Safelite AutoGlass,Motor Vehicles & Automotive,,,50 days ending 2025-02-16,2
-Sandals,0.43103448275862066,2025-02-10,"Sandals Valentines Day, Sandals Carribean",Other,,,50 days ending 2025-02-16,2
-Tommie Copper,0.43103448275862066,2025-02-14,Tommie Copper,,,,50 days ending 2025-02-16,2
-Tractive,0.43103448275862066,2025-01-04,Tractive,,,,50 days ending 2025-02-16,2
-Trivago,0.43103448275862066,2025-01-07,Trivago,Ecommerce & Software,,,50 days ending 2025-02-16,2
-Vanda,0.43103448275862066,2025-02-14,Fanapt,,,,50 days ending 2025-02-16,2
-ZipRecruiter,0.43103448275862066,2025-02-05,ZipRecruiter,Business Services,,,50 days ending 2025-02-16,2
-iTrustCapital,0.43103448275862066,2025-01-25,iTrustCapital,,,,50 days ending 2025-02-16,2
- JP Morgan Chase,0.21551724137931033,2025-02-05,Chase Banking,,,,50 days ending 2025-02-16,1
-AARP,0.21551724137931033,2024-12-31,Join AARP,,,,50 days ending 2025-02-16,1
-ADT,0.21551724137931033,2025-02-07,ADT,Household Services,541.0,,50 days ending 2025-02-16,1
-ARMRA,0.21551724137931033,2025-01-27,ARMRA Colostrum,,,,50 days ending 2025-02-16,1
-Abacus Pays,0.21551724137931033,2025-01-21,Abacus Pays,,,,50 days ending 2025-02-16,1
-AlienTape,0.21551724137931033,2025-02-09,AlienTape,,,,50 days ending 2025-02-16,1
-Allstate,0.21551724137931033,2025-02-05,Allstate,Insurance,72.0,263.0,50 days ending 2025-02-16,1
-American Cruise Lines,0.21551724137931033,2025-02-10,American Cruise Lines,Other,,,50 days ending 2025-02-16,1
-Amgen,0.21551724137931033,2025-02-09,Evenity,Healthcare,135.0,,50 days ending 2025-02-16,1
-Ancestry,0.21551724137931033,2025-01-17,Ancestry.com,Ecommerce & Software,,,50 days ending 2025-02-16,1
-Andersen,0.21551724137931033,2025-02-05,Renewal by Andersen,,,,50 days ending 2025-02-16,1
-Aspen Dental,0.21551724137931033,2025-02-07,Aspen Dental,Healthcare,,,50 days ending 2025-02-16,1
-AstraZeneca,0.21551724137931033,2025-01-27,Farxiga,Healthcare,,462.0,50 days ending 2025-02-16,1
-Bayer,0.21551724137931033,2025-01-23,Claritin,Healthcare,,214.0,50 days ending 2025-02-16,1
-Belfor,0.21551724137931033,2025-02-10,Belfor Property Restoration,,,,50 days ending 2025-02-16,1
-Bissell,0.21551724137931033,2025-02-14,Bissell Crosswave,,,,50 days ending 2025-02-16,1
-BlueChew,0.21551724137931033,2025-02-09,BlueChew,,,,50 days ending 2025-02-16,1
-CarGurus,0.21551724137931033,2025-01-07,CarGurus,Ecommerce & Software,,,50 days ending 2025-02-16,1
-Care.com,0.21551724137931033,2025-01-19,Care.com,Ecommerce & Software,,,50 days ending 2025-02-16,1
-Carewell,0.21551724137931033,2025-01-02,Carewell,,,,50 days ending 2025-02-16,1
-Celltrion,0.21551724137931033,2025-01-02,Zymfentra,,,,50 days ending 2025-02-16,1
-Chewy,0.21551724137931033,2025-01-02,Chewy,Household & Food Products,,,50 days ending 2025-02-16,1
-Clic,0.21551724137931033,2025-01-19,Clic Readers,,,,50 days ending 2025-02-16,1
-Colace,0.21551724137931033,2025-02-12,Colace,,,,50 days ending 2025-02-16,1
-CopperFit,0.21551724137931033,2025-01-02,CopperFit,,,,50 days ending 2025-02-16,1
-Cushion Lab,0.21551724137931033,2025-01-02,Cushion Lab,,,,50 days ending 2025-02-16,1
-Dexcom,0.21551724137931033,2025-01-21,Dexcom G7,,,,50 days ending 2025-02-16,1
-Donald Trump 2$ Bill,0.21551724137931033,2025-01-04,Donald Trump 2$ Bill,,,,50 days ending 2025-02-16,1
-Dr. Seuss Coins,0.21551724137931033,2025-02-10,Dr. Seuss Coins,,,,50 days ending 2025-02-16,1
-Eli Lilly,0.21551724137931033,2025-01-02,Mounjaro,Healthcare,118.0,,50 days ending 2025-02-16,1
-Empire,0.21551724137931033,2025-02-09,Empire Flooring,,,,50 days ending 2025-02-16,1
-Endo,0.21551724137931033,2025-01-22,Hand Specialist,,,,50 days ending 2025-02-16,1
-Ethos,0.21551724137931033,2025-01-07,Ethos,,,,50 days ending 2025-02-16,1
-Expedia,0.21551724137931033,2025-01-20,Expedia,,,,50 days ending 2025-02-16,1
-Experian,0.21551724137931033,2025-01-20,Experian,Financial,,,50 days ending 2025-02-16,1
-Factor,0.21551724137931033,2024-12-29,Factor Meals,,,,50 days ending 2025-02-16,1
-Finance of America,0.21551724137931033,2025-01-22,Finance of America,,,,50 days ending 2025-02-16,1
-Fisher Investments,0.21551724137931033,2025-01-25,Fisher Investments,Financial,,,50 days ending 2025-02-16,1
-ForceFactor,0.21551724137931033,2025-01-07,TotalBeets,,,,50 days ending 2025-02-16,1
-FrogFuel,0.21551724137931033,2025-01-26,FrogFuel,,,,50 days ending 2025-02-16,1
-GOLO,0.21551724137931033,2025-01-26,GOLO,Supplements & Weight Loss,,,50 days ending 2025-02-16,1
-GoodRanchers,0.21551724137931033,2025-02-14,GoodRanchers,,,,50 days ending 2025-02-16,1
-GovMint,0.21551724137931033,2024-12-31,GovMint,Financial,,,50 days ending 2025-02-16,1
-GovX,0.21551724137931033,2025-02-07,GovX,Financial,,,50 days ending 2025-02-16,1
-Harbor Freight,0.21551724137931033,2025-01-09,Harbor Freight,,,,50 days ending 2025-02-16,1
-HelloFresh,0.21551724137931033,2025-01-07,HelloFresh,,,,50 days ending 2025-02-16,1
-HomeServ,0.21551724137931033,2024-12-31,HomeServ,,,,50 days ending 2025-02-16,1
-Hotels.com,0.21551724137931033,2025-02-05,Hotels.com,,,,50 days ending 2025-02-16,1
-Il Makiaga,0.21551724137931033,2024-12-29,Il Makiaga,,,,50 days ending 2025-02-16,1
-Inspire Medical,0.21551724137931033,2025-01-05,Inspire Sleep,,,,50 days ending 2025-02-16,1
-JG Wentworth,0.21551724137931033,2025-01-06,JG Wentworth,Other,,,50 days ending 2025-02-16,1
-JP Morgan Chase,0.21551724137931033,2025-01-23,Chase Banking,Financial,19.0,48.0,50 days ending 2025-02-16,1
-Kapitus,0.21551724137931033,2025-01-02,Kapitus,,,,50 days ending 2025-02-16,1
-Lumber Liquidators,0.21551724137931033,2025-02-14,LL Floors,,,,50 days ending 2025-02-16,1
-MRHFM,0.21551724137931033,2025-01-05,Mesobook,Other,,,50 days ending 2025-02-16,1
-Mando,0.21551724137931033,2025-01-20, Deoderanrt,,,,50 days ending 2025-02-16,1
-MintMobile,0.21551724137931033,2025-01-02,MintMobile,,,,50 days ending 2025-02-16,1
-Morgan and Morgan,0.21551724137931033,2024-12-31,Morgan and Morgan,,,,50 days ending 2025-02-16,1
-Mott and Bow,0.21551724137931033,2025-01-27,Mott and Bow,,,,50 days ending 2025-02-16,1
-Navage,0.21551724137931033,2025-01-09,Navage,,,,50 days ending 2025-02-16,1
-Novex Biotech,0.21551724137931033,2025-02-10,GF-9,,,,50 days ending 2025-02-16,1
-Novo Nordisk,0.21551724137931033,2025-02-05,Ozempic,Healthcare,,,50 days ending 2025-02-16,1
-Nutrafol,0.21551724137931033,2025-01-09,Nutrafol,,,,50 days ending 2025-02-16,1
-Nuts.com,0.21551724137931033,2025-01-31,Nuts.com,,,,50 days ending 2025-02-16,1
-Oar Health,0.21551724137931033,2025-02-07,Oar Health,,,,50 days ending 2025-02-16,1
-Omnilux,0.21551724137931033,2025-01-23,Omnilux,,,,50 days ending 2025-02-16,1
-OnDeck,0.21551724137931033,2025-01-07,OnDeck,,,,50 days ending 2025-02-16,1
-OneFlight,0.21551724137931033,2025-01-23,BAJit,,,,50 days ending 2025-02-16,1
-Ontario Canada,0.21551724137931033,2024-12-30,Ontario,,,,50 days ending 2025-02-16,1
-Patriot Mobile,0.21551724137931033,2025-01-02,Patriot Mobile,,,,50 days ending 2025-02-16,1
-Paychex,0.21551724137931033,2025-01-07,Paychex,Business Services,617.0,,50 days ending 2025-02-16,1
-Paycom,0.21551724137931033,2025-01-26,Paycom,Business Services,617.0,,50 days ending 2025-02-16,1
-Plantur,0.21551724137931033,2025-02-10,Plantur,,,,50 days ending 2025-02-16,1
-Pooph,0.21551724137931033,2025-01-02,Pooph,,,,50 days ending 2025-02-16,1
-Public Rec,0.21551724137931033,2025-01-09,Public Rec,,,,50 days ending 2025-02-16,1
-ReadyRocker,0.21551724137931033,2025-01-26,ReadyRocker,,,,50 days ending 2025-02-16,1
-Redfin,0.21551724137931033,2025-02-05,Redfin,,,,50 days ending 2025-02-16,1
-Ro ,0.21551724137931033,2025-01-27,Ro Weight Loss,,,,50 days ending 2025-02-16,1
-Ruvio,0.21551724137931033,2025-01-19,Ruvio Vacuum,,,,50 days ending 2025-02-16,1
-SafeStep,0.21551724137931033,2025-02-14,SafeStep,,,,50 days ending 2025-02-16,1
-Safetussin,0.21551724137931033,2025-01-04,Safetussin,,,,50 days ending 2025-02-16,1
-Sanofi,0.21551724137931033,2025-02-07,XYZAL,Healthcare,,289.0,50 days ending 2025-02-16,1
-Scopely,0.21551724137931033,2025-01-07,Monopoly Go,,,,50 days ending 2025-02-16,1
-Senokot,0.21551724137931033,2025-02-07,Senokot,,,,50 days ending 2025-02-16,1
-Signal Relief,0.21551724137931033,2025-02-06,Signal Relief,,,,50 days ending 2025-02-16,1
-Sleep Number,0.21551724137931033,2025-02-05,Sleep Number,Household & Food Products,,,50 days ending 2025-02-16,1
-Sling,0.21551724137931033,2024-12-29,Sling TV,Telecommunications,,,50 days ending 2025-02-16,1
-Stellantis,0.21551724137931033,2024-12-29,Dodge,Motor Vehicles & Automotive,,,50 days ending 2025-02-16,1
-StraightDown,0.21551724137931033,2025-01-31,StraightDown,,,,50 days ending 2025-02-16,1
-T-Mobile,0.21551724137931033,2025-02-05,T-Mobile,Telecommunications,,,50 days ending 2025-02-16,1
-TY J Young,0.21551724137931033,2025-01-28,TY J Young,,,,50 days ending 2025-02-16,1
-Tempur-pedic,0.21551724137931033,2025-02-14,Tempur-pedic,Household & Food Products,,,50 days ending 2025-02-16,1
-TheRealReal,0.21551724137931033,2025-01-17,TheRealReal,,,,50 days ending 2025-02-16,1
-TurboHeat,0.21551724137931033,2025-01-21,TurboHeat,,,,50 days ending 2025-02-16,1
-Ty J Young,0.21551724137931033,2025-01-02,Ty J Young Wealth Management,,,,50 days ending 2025-02-16,1
-UBS,0.21551724137931033,2025-02-14,UBS Banking,Financial,,182.0,50 days ending 2025-02-16,1
-Uqora,0.21551724137931033,2025-02-05,Uqora,,,,50 days ending 2025-02-16,1
-Visiting Angels,0.21551724137931033,2024-12-30,Visiting Angels,Healthcare,,,50 days ending 2025-02-16,1
-Vyper Industrial,0.21551724137931033,2025-01-26,Vyper Chair,,,,50 days ending 2025-02-16,1
-WaxRx,0.21551724137931033,2025-01-06,WaxRx,,,,50 days ending 2025-02-16,1
-X-Chair,0.21551724137931033,2025-02-10,X-Chair,Household & Food Products,,,50 days ending 2025-02-16,1
-Yrefy,0.21551724137931033,2024-12-31,Yrefy,,,,50 days ending 2025-02-16,1
-iFlo,0.21551724137931033,2024-12-31,iFlo,,,,50 days ending 2025-02-16,1
+Balance of Nature,2.197802197802198,2025-02-14,"Fruits, Veggies",Supplements & Weight Loss,,,50 days ending 2025-02-22,10
+Force Factor,2.197802197802198,2025-02-18,"TotalBeets, Total Beets, Berberine",Supplements & Weight Loss,,,50 days ending 2025-02-22,10
+PrizePicks,2.197802197802198,2025-02-17,PrizePicks,,,,50 days ending 2025-02-22,10
+Ro,2.197802197802198,2025-02-18,"Weight Loss, Ro Weight Loss, Ro Weight Losss",Healthcare,,,50 days ending 2025-02-22,10
+Liberty Mutual,1.9780219780219779,2025-02-14,"Liberty Mutual Insurance, Liberty Mutual",Insurance,77.0,278.0,50 days ending 2025-02-22,9
+Procter and Gamble,1.9780219780219779,2025-02-12,"Nervive, Spruce, Febreze, Head and Shoulders, Swiffer, Prilosec OTC, Vicks Dayquil",Household & Food Products,50.0,156.0,50 days ending 2025-02-22,9
+Saatva,1.7582417582417582,2025-02-18,Saatva,,,,50 days ending 2025-02-22,8
+AbbVie,1.5384615384615385,2025-02-18,"Botox, Rinvoq, Skyrizi",Healthcare,99.0,378.0,50 days ending 2025-02-22,7
+Coventry Direct,1.5384615384615385,2025-02-22,Coventry Direct,Financial,,,50 days ending 2025-02-22,7
+PureTalk,1.5384615384615385,2025-02-18,PureTalk,Telecommunications,,,50 days ending 2025-02-22,7
+Jones Road Beauty,1.3186813186813187,2025-02-18,Jones Road Beauty,,,,50 days ending 2025-02-22,6
+Mammoth Nation,1.3186813186813187,2025-02-18,Mammoth Nation,Ecommerce & Software,,,50 days ending 2025-02-22,6
+Quince,1.3186813186813187,2025-02-22,Quince,,,,50 days ending 2025-02-22,6
+SelectQuote,1.3186813186813187,2025-02-14,SelectQuote,Ecommerce & Software,,,50 days ending 2025-02-22,6
+Vrbo,1.3186813186813187,2025-02-14,Vrbo,,,,50 days ending 2025-02-22,6
+Fabletics,1.098901098901099,2025-02-22,Fabletics,,,,50 days ending 2025-02-22,5
+SuperBeets,1.098901098901099,2025-02-18,SuperBeets,Supplements & Weight Loss,,,50 days ending 2025-02-22,5
+MyPillow,1.098901098901099,2025-02-12,"MyPillow, MyPillow Sale",Household & Food Products,,,50 days ending 2025-02-22,5
+NewDayUSA,1.098901098901099,2025-02-14,NewDayUSA,Financial,,,50 days ending 2025-02-22,5
+Reckitt,1.098901098901099,2025-02-14,"Mucinex, Neuriva",Healthcare,,,50 days ending 2025-02-22,5
+Abacus Pays,0.8791208791208791,2025-02-22,Abacus Pays,,,,50 days ending 2025-02-22,4
+Abbott Laboratories ,0.8791208791208791,2025-02-06,"Freestyle Libre, Ensure",Healthcare,104.0,393.0,50 days ending 2025-02-22,4
+Allegiance Flag Supply,0.8791208791208791,2025-02-07,Allegiance Flag Supply,,,,50 days ending 2025-02-22,4
+Consumer Cellular,0.8791208791208791,2025-02-12,Consumer Cellular,Telecommunications,,,50 days ending 2025-02-22,4
+Espired,0.8791208791208791,2025-02-17,Kids Guide to President Trump,Other,,,50 days ending 2025-02-22,4
+Grainger,0.8791208791208791,2025-02-17,Grainger,Hardware and Machinery,284.0,,50 days ending 2025-02-22,4
+Haleon,0.8791208791208791,2025-02-05,"Voltaren, Robitussin, Centrum",Healthcare,,282.0,50 days ending 2025-02-22,4
+Kardia,0.8791208791208791,2025-02-18,"KardiaMobile, Kardia Mobile",Healthcare,,,50 days ending 2025-02-22,4
+LeafFilter,0.8791208791208791,2025-02-17,LeafFilter,Household Services,,,50 days ending 2025-02-22,4
+LifeMD,0.8791208791208791,2025-02-10,LifeMD,,,,50 days ending 2025-02-22,4
+Lilly,0.8791208791208791,2025-02-18,"Ebglyss, Zepbound, Lilly, Amyloid Info",,,,50 days ending 2025-02-22,4
+Nestle,0.8791208791208791,2025-02-22,Boost,Household & Food Products,,82.0,50 days ending 2025-02-22,4
+Ontario,0.8791208791208791,2025-02-18,Ontario Canada,,,,50 days ending 2025-02-22,4
+RoofMaxx,0.8791208791208791,2025-02-22,RoofMaxx,,,,50 days ending 2025-02-22,4
+WeatherTech,0.8791208791208791,2025-02-14,"WeatherTech, WeatherTech Floor Mats",Motor Vehicles & Automotive,,,50 days ending 2025-02-22,4
+ JP Morgan Chase,0.6593406593406593,2025-02-18,Chase Banking,,,,50 days ending 2025-02-22,3
+Americaneagle,0.6593406593406593,2025-01-21,"Web Design, Americaneagle.com",Business Services,,,50 days ending 2025-02-22,3
+Bausch and Lomb,0.6593406593406593,2025-01-31,"Lumify, Miebo",Healthcare,,,50 days ending 2025-02-22,3
+Bullseye,0.6593406593406593,2025-02-09,"BullseyePro, PocketAirPro",,,,50 days ending 2025-02-22,3
+CarShield,0.6593406593406593,2025-01-27,CarShield,Household & Food Products,,,50 days ending 2025-02-22,3
+Doctors Preferred,0.6593406593406593,2025-01-25,Doctors Preferred,,,,50 days ending 2025-02-22,3
+Ferndale Healthcare ,0.6593406593406593,2025-02-18,DerMend,Healthcare,,,50 days ending 2025-02-22,3
+First American Home Warranty,0.6593406593406593,2025-02-14,First American Home Warranty,,,,50 days ending 2025-02-22,3
+General Steel,0.6593406593406593,2025-02-18,General Steel Buildings,,,,50 days ending 2025-02-22,3
+HungryRoot,0.6593406593406593,2025-02-09,HungryRoot,,,,50 days ending 2025-02-22,3
+Keepsake,0.6593406593406593,2025-02-09,Keepsake Frames,Household & Food Products,,,50 days ending 2025-02-22,3
+NortonLifeLock,0.6593406593406593,2025-01-22,"LifeLock, Lifelock",Ecommerce & Software,573.0,,50 days ending 2025-02-22,3
+Progressive,0.6593406593406593,2025-02-22,"Progressive Insurance, Progessive Insurance",Insurance,86.0,323.0,50 days ending 2025-02-22,3
+Quicken,0.6593406593406593,2025-02-22,Quicken,Business Services,,,50 days ending 2025-02-22,3
+Qunol,0.6593406593406593,2025-02-07,"Magnesium Glycinate, Qunol Tumeric, Qunol Magnesium Sulfate",Supplements & Weight Loss,,,50 days ending 2025-02-22,3
+Relief Factor,0.6593406593406593,2025-02-22,Relief Factor,Supplements & Weight Loss,,,50 days ending 2025-02-22,3
+Sandals,0.6593406593406593,2025-02-22,"Sandals Carribean, Sandals Valentines Day",Other,,,50 days ending 2025-02-22,3
+Tax Relief Advocates,0.6593406593406593,2025-02-06,Tax Relief Advocates,,,,50 days ending 2025-02-22,3
+The Farmers Dog,0.6593406593406593,2025-02-14,The Farmers Dog,Household & Food Products,,,50 days ending 2025-02-22,3
+TikTok,0.6593406593406593,2025-02-09,"TikTok Small Business, TikTok Safety",,,,50 days ending 2025-02-22,3
+TommieCopper,0.6593406593406593,2025-01-31,TommieCopper,,,,50 days ending 2025-02-22,3
+University of Phoenix,0.6593406593406593,2025-01-23,University of Phoenix,Other,,,50 days ending 2025-02-22,3
+Vanda,0.6593406593406593,2025-02-17,Fanapt,,,,50 days ending 2025-02-22,3
+4Patriots,0.43956043956043955,2025-02-12,4Patriots,,,,50 days ending 2025-02-22,2
+ADT,0.43956043956043955,2025-02-17,ADT,Household Services,541.0,,50 days ending 2025-02-22,2
+ATT,0.43956043956043955,2025-02-14,DirecTV,Telecommunications,9.0,11.0,50 days ending 2025-02-22,2
+Aquasana,0.43956043956043955,2025-01-09,Aquasana,,,,50 days ending 2025-02-22,2
+Bissell,0.43956043956043955,2025-02-18,Bissell Crosswave,,,,50 days ending 2025-02-22,2
+Caraway,0.43956043956043955,2025-02-10,Caraway,,,,50 days ending 2025-02-22,2
+Dr. Marty Pets,0.43956043956043955,2025-02-14,Dr. Marty Pets,,,,50 days ending 2025-02-22,2
+Endurance Auto Warranty,0.43956043956043955,2025-02-12,Endurance Advantage,,,,50 days ending 2025-02-22,2
+Experian,0.43956043956043955,2025-02-17,Experian,Financial,,,50 days ending 2025-02-22,2
+FastSigns,0.43956043956043955,2025-01-20,FastSigns,Business Services,,,50 days ending 2025-02-22,2
+GL Homes,0.43956043956043955,2025-02-14,Valencia Florida,,,,50 days ending 2025-02-22,2
+GenStone,0.43956043956043955,2025-02-09,GenStone,,,,50 days ending 2025-02-22,2
+GSK,0.43956043956043955,2025-02-09,"Trelegy, Trellegy",Healthcare,,282.0,50 days ending 2025-02-22,2
+GoDaddy,0.43956043956043955,2025-02-22,GoDaddy Airo,,,,50 days ending 2025-02-22,2
+GovMint,0.43956043956043955,2025-02-22,GovMint,Financial,,,50 days ending 2025-02-22,2
+Harbor Freight,0.43956043956043955,2025-02-17,Harbor Freight,,,,50 days ending 2025-02-22,2
+Hillsdale College,0.43956043956043955,2025-02-07,Hillsdale College,,,,50 days ending 2025-02-22,2
+Hillsdale College,0.43956043956043955,2025-02-07,Hillsdale College,,,,50 days ending 2025-02-22,2
+Hisamitsu,0.43956043956043955,2025-01-23,Salonpas,Healthcare,,,50 days ending 2025-02-22,2
+Insurify,0.43956043956043955,2025-01-17,Insurify,,,,50 days ending 2025-02-22,2
+Intuit,0.43956043956043955,2025-02-07,Intuit TurboTax,Ecommerce & Software,445.0,,50 days ending 2025-02-22,2
+LA Golf,0.43956043956043955,2025-02-14,LA Golf,,,,50 days ending 2025-02-22,2
+Lume Deo,0.43956043956043955,2025-01-18,Lume Deo,,,,50 days ending 2025-02-22,2
+NatureMade,0.43956043956043955,2025-02-09,NatureMade Multi,,,,50 days ending 2025-02-22,2
+Natures Health,0.43956043956043955,2025-02-18,Australian Dream,Supplements & Weight Loss,,,50 days ending 2025-02-22,2
+NetCredit,0.43956043956043955,2025-01-23,NetCredit,,,,50 days ending 2025-02-22,2
+Opendoor,0.43956043956043955,2025-02-14,Opendoor,,,,50 days ending 2025-02-22,2
+Particle,0.43956043956043955,2025-02-18,Particle Men,,,,50 days ending 2025-02-22,2
+Quincy Bioscience,0.43956043956043955,2025-02-14,Prevagen,Supplements & Weight Loss,,,50 days ending 2025-02-22,2
+Rebath,0.43956043956043955,2025-02-12,Rebath,,,,50 days ending 2025-02-22,2
+Replenza Labs,0.43956043956043955,2025-01-31,Replenza,,,,50 days ending 2025-02-22,2
+Resperate,0.43956043956043955,2025-02-12,Resperate,,,,50 days ending 2025-02-22,2
+RexMD,0.43956043956043955,2025-01-18,Generic Cialis,Supplements & Weight Loss,,,50 days ending 2025-02-22,2
+Ridge,0.43956043956043955,2025-01-07,Ridge Wallet,,,,50 days ending 2025-02-22,2
+Right at Home,0.43956043956043955,2025-01-09,Right at Home,Healthcare,,,50 days ending 2025-02-22,2
+Robinhood ,0.43956043956043955,2025-02-14,Robinhood Gold ,,,,50 days ending 2025-02-22,2
+Roof Maxx,0.43956043956043955,2025-01-17,Roof Maxx,,,,50 days ending 2025-02-22,2
+Rosland Capital,0.43956043956043955,2025-01-27,Rosland Capital,Financial,,,50 days ending 2025-02-22,2
+Safelite Group,0.43956043956043955,2025-01-28,Safelite AutoGlass,Motor Vehicles & Automotive,,,50 days ending 2025-02-22,2
+SingleCare,0.43956043956043955,2025-02-07,SingleCare,Healthcare,,,50 days ending 2025-02-22,2
+Tommie Copper,0.43956043956043955,2025-02-14,Tommie Copper,,,,50 days ending 2025-02-22,2
+Trivago,0.43956043956043955,2025-01-07,Trivago,Ecommerce & Software,,,50 days ending 2025-02-22,2
+ZipRecruiter,0.43956043956043955,2025-02-05,ZipRecruiter,Business Services,,,50 days ending 2025-02-22,2
+iTrustCapital,0.43956043956043955,2025-01-25,iTrustCapital,,,,50 days ending 2025-02-22,2
+3DayBlinds,0.21978021978021978,2025-02-18,3DayBlinds,,,,50 days ending 2025-02-22,1
+ARMRA,0.21978021978021978,2025-01-27,ARMRA Colostrum,,,,50 days ending 2025-02-22,1
+AlienTape,0.21978021978021978,2025-02-09,AlienTape,,,,50 days ending 2025-02-22,1
+Allied Injury Group,0.21978021978021978,2025-01-19,Allied Injury Group,,,,50 days ending 2025-02-22,1
+Allstate,0.21978021978021978,2025-02-05,Allstate,Insurance,72.0,263.0,50 days ending 2025-02-22,1
+American Cruise Lines,0.21978021978021978,2025-02-10,American Cruise Lines,Other,,,50 days ending 2025-02-22,1
+Amgen,0.21978021978021978,2025-02-09,Evenity,Healthcare,135.0,,50 days ending 2025-02-22,1
+Ancestry,0.21978021978021978,2025-01-17,Ancestry.com,Ecommerce & Software,,,50 days ending 2025-02-22,1
+Andersen,0.21978021978021978,2025-02-05,Renewal by Andersen,,,,50 days ending 2025-02-22,1
+Aspen Dental,0.21978021978021978,2025-02-07,Aspen Dental,Healthcare,,,50 days ending 2025-02-22,1
+AstraZeneca,0.21978021978021978,2025-01-27,Farxiga,Healthcare,,462.0,50 days ending 2025-02-22,1
+BDO,0.21978021978021978,2025-02-18,BDO,Business Services,,,50 days ending 2025-02-22,1
+Bayer,0.21978021978021978,2025-01-23,Claritin,Healthcare,,214.0,50 days ending 2025-02-22,1
+Belfor,0.21978021978021978,2025-02-10,Belfor Property Restoration,,,,50 days ending 2025-02-22,1
+BetMGM,0.21978021978021978,2025-01-21,BetMGM,,,,50 days ending 2025-02-22,1
+BlueChew,0.21978021978021978,2025-02-09,BlueChew,,,,50 days ending 2025-02-22,1
+CarGurus,0.21978021978021978,2025-01-07,CarGurus,Ecommerce & Software,,,50 days ending 2025-02-22,1
+Care.com,0.21978021978021978,2025-01-19,Care.com,Ecommerce & Software,,,50 days ending 2025-02-22,1
+Carvana,0.21978021978021978,2025-01-25,Carvana,Ecommerce & Software,,,50 days ending 2025-02-22,1
+ClearCaptions,0.21978021978021978,2025-01-19,ClearCaptions,Healthcare,,,50 days ending 2025-02-22,1
+ClearChoice,0.21978021978021978,2025-01-28,ClearChoice Dental,Healthcare,,,50 days ending 2025-02-22,1
+Clic,0.21978021978021978,2025-01-19,Clic Readers,,,,50 days ending 2025-02-22,1
+Colace,0.21978021978021978,2025-02-12,Colace,,,,50 days ending 2025-02-22,1
+Colonial Penn,0.21978021978021978,2025-01-05,Colonial Penn,Financial,,,50 days ending 2025-02-22,1
+Delsym,0.21978021978021978,2025-02-18,Delsym,,,,50 days ending 2025-02-22,1
+Dexcom,0.21978021978021978,2025-01-21,Dexcom G7,,,,50 days ending 2025-02-22,1
+Donald Trump 2$ Bill,0.21978021978021978,2025-01-04,Donald Trump 2$ Bill,,,,50 days ending 2025-02-22,1
+Dr. Seuss Coins,0.21978021978021978,2025-02-10,Dr. Seuss Coins,,,,50 days ending 2025-02-22,1
+Empire,0.21978021978021978,2025-02-09,Empire Flooring,,,,50 days ending 2025-02-22,1
+Endo,0.21978021978021978,2025-01-22,Hand Specialist,,,,50 days ending 2025-02-22,1
+Ethos,0.21978021978021978,2025-01-07,Ethos,,,,50 days ending 2025-02-22,1
+Expedia,0.21978021978021978,2025-01-20,Expedia,,,,50 days ending 2025-02-22,1
+Finance of America,0.21978021978021978,2025-01-22,Finance of America,,,,50 days ending 2025-02-22,1
+Fisher Investments,0.21978021978021978,2025-01-25,Fisher Investments,Financial,,,50 days ending 2025-02-22,1
+ForceFactor,0.21978021978021978,2025-01-07,TotalBeets,,,,50 days ending 2025-02-22,1
+FrogFuel,0.21978021978021978,2025-01-26,FrogFuel,,,,50 days ending 2025-02-22,1
+Fubo,0.21978021978021978,2025-02-22,FuboTV,Telecommunications,,,50 days ending 2025-02-22,1
+GE Vernova,0.21978021978021978,2025-02-18,GE Vernova,,,,50 days ending 2025-02-22,1
+GOLO,0.21978021978021978,2025-01-26,GOLO,Supplements & Weight Loss,,,50 days ending 2025-02-22,1
+Golden Corral,0.21978021978021978,2025-02-18,Golden Corral,Retail & Restaurants,,,50 days ending 2025-02-22,1
+Goldline,0.21978021978021978,2025-02-22,Goldline,,,,50 days ending 2025-02-22,1
+GoodRanchers,0.21978021978021978,2025-02-14,GoodRanchers,,,,50 days ending 2025-02-22,1
+GovX,0.21978021978021978,2025-02-07,GovX,Financial,,,50 days ending 2025-02-22,1
+HelloFresh,0.21978021978021978,2025-01-07,HelloFresh,,,,50 days ending 2025-02-22,1
+Hotels.com,0.21978021978021978,2025-02-05,Hotels.com,,,,50 days ending 2025-02-22,1
+Inspire Medical,0.21978021978021978,2025-01-05,Inspire Sleep,,,,50 days ending 2025-02-22,1
+Intra-Cellular Therapies,0.21978021978021978,2025-02-22,Caplyta,,,,50 days ending 2025-02-22,1
+JG Wentworth,0.21978021978021978,2025-01-06,JG Wentworth,Other,,,50 days ending 2025-02-22,1
+JP Morgan Chase,0.21978021978021978,2025-01-23,Chase Banking,Financial,19.0,48.0,50 days ending 2025-02-22,1
+JackPocket,0.21978021978021978,2025-02-10,JackPocket,,,,50 days ending 2025-02-22,1
+Kapitus,0.21978021978021978,2025-02-18,Kapitus,,,,50 days ending 2025-02-22,1
+Lumber Liquidators,0.21978021978021978,2025-02-14,LL Floors,,,,50 days ending 2025-02-22,1
+MRHFM,0.21978021978021978,2025-01-05,Mesobook,Other,,,50 days ending 2025-02-22,1
+Mando,0.21978021978021978,2025-01-20, Deoderanrt,,,,50 days ending 2025-02-22,1
+Miracle-Ear,0.21978021978021978,2025-02-17,Miracle-Ear,Healthcare,,,50 days ending 2025-02-22,1
+Mott and Bow,0.21978021978021978,2025-01-27,Mott and Bow,,,,50 days ending 2025-02-22,1
+Navage,0.21978021978021978,2025-01-09,Navage,,,,50 days ending 2025-02-22,1
+Novex Biotech,0.21978021978021978,2025-02-10,GF-9,,,,50 days ending 2025-02-22,1
+Novo Nordisk,0.21978021978021978,2025-02-05,Ozempic,Healthcare,,,50 days ending 2025-02-22,1
+Nutrafol,0.21978021978021978,2025-01-09,Nutrafol,,,,50 days ending 2025-02-22,1
+Nutrisystem,0.21978021978021978,2025-01-05,Nutrisystem,Supplements & Weight Loss,,,50 days ending 2025-02-22,1
+Nuts.com,0.21978021978021978,2025-01-31,Nuts.com,,,,50 days ending 2025-02-22,1
+Oar Health,0.21978021978021978,2025-02-07,Oar Health,,,,50 days ending 2025-02-22,1
+Omnilux,0.21978021978021978,2025-01-23,Omnilux,,,,50 days ending 2025-02-22,1
+OnDeck,0.21978021978021978,2025-01-07,OnDeck,,,,50 days ending 2025-02-22,1
+OneFlight,0.21978021978021978,2025-01-23,BAJit,,,,50 days ending 2025-02-22,1
+Paychex,0.21978021978021978,2025-01-07,Paychex,Business Services,617.0,,50 days ending 2025-02-22,1
+Paycom,0.21978021978021978,2025-01-26,Paycom,Business Services,617.0,,50 days ending 2025-02-22,1
+Physicians Mutual,0.21978021978021978,2025-02-12,Physicians Mutual,,,,50 days ending 2025-02-22,1
+Plantur,0.21978021978021978,2025-02-10,Plantur,,,,50 days ending 2025-02-22,1
+Public Rec,0.21978021978021978,2025-01-09,Public Rec,,,,50 days ending 2025-02-22,1
+ReadyRocker,0.21978021978021978,2025-01-26,ReadyRocker,,,,50 days ending 2025-02-22,1
+Redfin,0.21978021978021978,2025-02-05,Redfin,,,,50 days ending 2025-02-22,1
+Ro ,0.21978021978021978,2025-01-27,Ro Weight Loss,,,,50 days ending 2025-02-22,1
+Ruvio,0.21978021978021978,2025-01-19,Ruvio Vacuum,,,,50 days ending 2025-02-22,1
+SafeStep,0.21978021978021978,2025-02-14,SafeStep,,,,50 days ending 2025-02-22,1
+Safetussin,0.21978021978021978,2025-01-04,Safetussin,,,,50 days ending 2025-02-22,1
+Sanofi,0.21978021978021978,2025-02-07,XYZAL,Healthcare,,289.0,50 days ending 2025-02-22,1
+Scopely,0.21978021978021978,2025-01-07,Monopoly Go,,,,50 days ending 2025-02-22,1
+Senokot,0.21978021978021978,2025-02-07,Senokot,,,,50 days ending 2025-02-22,1
+Signal Relief,0.21978021978021978,2025-02-06,Signal Relief,,,,50 days ending 2025-02-22,1
+SimpliSafe,0.21978021978021978,2025-02-18,SimpliSafe,Ecommerce & Software,,,50 days ending 2025-02-22,1
+Sketchers,0.21978021978021978,2025-02-18,Sketchers,,,,50 days ending 2025-02-22,1
+Sleep Number,0.21978021978021978,2025-02-05,Sleep Number,Household & Food Products,,,50 days ending 2025-02-22,1
+StraightDown,0.21978021978021978,2025-01-31,StraightDown,,,,50 days ending 2025-02-22,1
+T-Mobile,0.21978021978021978,2025-02-05,T-Mobile,Telecommunications,,,50 days ending 2025-02-22,1
+TY J Young,0.21978021978021978,2025-01-28,TY J Young,,,,50 days ending 2025-02-22,1
+Tempur-pedic,0.21978021978021978,2025-02-14,Tempur-pedic,Household & Food Products,,,50 days ending 2025-02-22,1
+TheRealReal,0.21978021978021978,2025-01-17,TheRealReal,,,,50 days ending 2025-02-22,1
+Tractive,0.21978021978021978,2025-01-04,Tractive,,,,50 days ending 2025-02-22,1
+TurboHeat,0.21978021978021978,2025-01-21,TurboHeat,,,,50 days ending 2025-02-22,1
+UBS,0.21978021978021978,2025-02-14,UBS Banking,Financial,,182.0,50 days ending 2025-02-22,1
+USPS,0.21978021978021978,2025-02-17,USPS,,,,50 days ending 2025-02-22,1
+Uqora,0.21978021978021978,2025-02-05,Uqora,,,,50 days ending 2025-02-22,1
+Visiting Angels,0.21978021978021978,2025-02-18,Visiting Angels,Healthcare,,,50 days ending 2025-02-22,1
+Vyper Industrial,0.21978021978021978,2025-01-26,Vyper Chair,,,,50 days ending 2025-02-22,1
+WaxRx,0.21978021978021978,2025-01-06,WaxRx,,,,50 days ending 2025-02-22,1
+X-Chair,0.21978021978021978,2025-02-10,X-Chair,Household & Food Products,,,50 days ending 2025-02-22,1
