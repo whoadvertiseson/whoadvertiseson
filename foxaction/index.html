@@ -9,17 +9,50 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>WhoAdvertisesOn | Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="WhoAdvertisesOn: Take action on sponsors of toxic Fox News Channel" />
+<meta property="og:title" content="WhoAdvertisesOn" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Each month we use our data to choose three Fox News Channel sponsors from the previous month, and ask you to pick one to contact by email, or on Facebook or Instagram." />
-<meta property="og:description" content="Each month we use our data to choose three Fox News Channel corporate sponsors from the previous month, and ask you to pick one to contact by email, or on Facebook or Instagram." />
+<meta name="description" content="Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News." />
+<meta property="og:description" content="Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News." />
 <link rel="canonical" href="http://whoadvertiseson.org/" />
 <meta property="og:url" content="http://whoadvertiseson.org/" />
 <meta property="og:site_name" content="WhoAdvertisesOn" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="WhoAdvertisesOn" />
+  <script type="application/javascript">
+    
+    function loadWhich() {
+      queryString = window.location.search;
+      urlParams = new URLSearchParams(queryString);
+      tab = urlParams.get('tab')
+      if (tab) {
+        obj = document.getElementById(tab + 'but')
+        obj.click();
+      }
+    }
+    
+    function openTab(evt, tabName) {
+      // Declare all variables
+      var i, tabcontent, tablinks;
+
+      // Get all elements with class="tabcontent" and hide them
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+
+      // Get all elements with class="tablinks" and remove the class "active"
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+
+      // Show the current tab, and add an "active" class to the button that opened the tab
+      document.getElementById(tabName).style.display = "block";
+      evt.currentTarget.className += " active";
+    } 
+  </script>
 <script type="application/ld+json">
-{"headline":"WhoAdvertisesOn","description":"Each month we use our data to choose three Fox News Channel corporate sponsors from the previous month, and ask you to pick one to contact by email, or on Facebook or Instagram.","url":"http://whoadvertiseson.org/","@type":"WebSite","name":"WhoAdvertisesOn","@context":"https://schema.org"}</script>
+{"headline":"WhoAdvertisesOn","description":"Toolkit for tracking advertisers on partisan news channels with sampling, data science, and open data. Now tracking Fox News.","url":"http://whoadvertiseson.org/","@type":"WebSite","name":"WhoAdvertisesOn","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=2e36c5baa1641aa9683eb0a7cffe79f6321fb741">
@@ -40,13 +73,13 @@
   <link rel="stylesheet" href="/assets/css/styleCustom.css?v=252e36c5baa164k1aa9683eb0a7cffe79f6321fb741">    
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@WhoAdvertisesOn" />
-    <meta name="twitter:title" content="Take action on sponsors of toxic Fox News Channel" />
-    <meta name="twitter:description" content="Each month we use our data to choose three Fox News Channel corporate sponsors from the previous month, and ask you to pick one to contact by email, or on Facebook or Instagram."/>
-    <meta name="twitter:image" content="http://whoadvertiseson.org/assets/images/TwitterCardFoxAction.png" />
+    <meta name="twitter:title" content="Which companies sponsor right-wing Fox News Channel?" />
+    <meta name="twitter:description" content=" Browse our data. We track advertisers on partisan channels to bring accountability to companies funding disinformation."/>
+    <meta name="twitter:image" content="http://whoadvertiseson.org/assets/images/TwitterCardFoxNews.png" />
   </head>
   
   
-<body>
+<body onload="loadWhich()">
   <div style="width:100%; height:25px; background-color: black; margin-bottom: 30px; border-bottom: 4px solid #83b44b;">&nbsp;</div>
   <div class="wrapper">
     <div style="text-align:left; float:left; width:18%"><a href="http://whoadvertiseson.org/"><img src="https://avatars.githubusercontent.com/u/77581621?v=4"
@@ -54,81 +87,60 @@
     </div>
     <div style="float:left; width:78%; margin-left:5px">
       <h1 style="margin-bottom: 5px">WhoAdvertisesOn</h1>
-      <h2 style="color: #267CB9">Open Data About Sponsors of Partisan Cable Channels</h2>
+      <h2 style="color: #267CB9">Open Data About Sponsors of Right Wing Cable Channels</h2>
       <p
         style="font-size:30px; font-weight:bold; padding:1px; padding-left:12px; margin-left:40px; background-color:#ebebf2; border-top: 0px solid #351c75;  border-bottom: 0px solid #351c75; color:#666; text-align:center ">
         <span style="color:#CCC">[&nbsp;</span> FOX NEWS <span style="color:#CCC">&nbsp;]</span>
       </p>
     </div>
     <div style="float:left; width:100%; padding-bottom:10px">
-      <div style="border: 3px solid #14487b; color:#000000; min-width:500px">
+      <div style="border: 3px solid #14487b;">
         <div style="padding:8px 12px; margin-bottom:0px; background-color:#14487b; display:block; height:auto;">
           <div style="display:block; color:#eee; margin-bottom:0px; float:left; font-size: 20px;  font-weight:bold;">
-            Take Action by Contacting Fox News Sponsors</div>
+            Current Fox News Channel Sponsors</div>
           <div style="display:block; color:#eee; margin-bottom:0px; float:right; font-size: 14px;text-align:right">
-            Updated August 2023
+            Updated April 2025
             </br>
-            <a href="http://whoadvertiseson.org/foxnews/" style="color:#eee;">See Sponsor Data &gt;&gt;</a></div>
+            <a href="https://whofundstheright.org" style="color:#eee;">Also find this data on Who Funds the Right &gt;&gt;</a></div>
           <div style="clear:both"></div>
         </div>
-        <div style="clear:both; font-size:15px; color:#000000; padding:8px 80px 8px 80px">Each month we use our data to choose two Fox
-          News Channel sponsors from the previous month, and ask you to pick one to contact by email, or
-          on Facebook or Instagram. These two were among top sponsors for July 2023:
+        <div class=" tab" style="padding-left:32px; clear: both">
+          <button id="allsponsorsbut" class="tablinks active" onclick="openTab(event, 'AllSponsors')">All
+            Sponsors</button>
+          <button id="corporatesponsorsbut" class="tablinks" onclick="openTab(event, 'CorporateSponsors')">Corporate
+            Sponsors</button>
+          <button id="healthsponsorsbut" class="tablinks" onclick="openTab(event, 'HealthSponsors')">Health/Pharma
+            Sponsors</button>
+          <button id="vehiclesponsorsbut" class="tablinks" onclick="openTab(event, 'VehicleSponsors')">Motor Vehicle
+            Sponsors</button>
+          <button id="insfinsponsorsbut" class="tablinks" onclick="openTab(event, 'InsFinSponsors')">Insurance/Finance
+            Sponsors</button>
         </div>
-        <div style="width:94%; border: 1px solid #999; margin:8px 2% 2px 2%; clear:both"></div>
-        <div style="float:left; width:100%; font-weight:bold; padding:4px 0">
-          <div style="float:left; width:3%; padding:6px; padding-left:16px"> </div>
-          <div style="float:left; width:35%; padding:6px; text-decoration:underline">Company</div>
-          <div style="float:left; width:30%; padding:6px 6px 6px 8px; text-decoration:underline">Brands Advertised</div>
-          <div style="float:left; width:15%; padding:6px; text-decoration:underline">Contact Info</div>
+        <div id="AllSponsors" class="tabcontent"><iframe class="airtable-embed"
+            src="https://airtable.com/embed/shro4Bqh5sC8Fmrhw?backgroundColor=cyan" frameborder="0" onmousewheel=""
+            width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>
         </div>
-        <div style="width:94%; border: 1px solid #999; margin:8px 2%; clear:both"></div>
-        <div style="float:left; width:100%; padding:4px 0">
-          <div style="float:left; width:3%; padding:6px; padding-left:16px; font-size:16px; font-weight:bold">1.</div>
-          <div style="float:left; width:20%; padding:10px 1px 6px 6px;">BlackRock</div>
-          <div style="float:left; width:15%; padding:4px 6px 4px 2px; text-align:center">
-            <image src="logos/blackrock.png" width="120"></image>
-          </div>
-          <div style="float:left; width:25%; padding:10px 6px 6px 8px;">BlackRock</div>
-          <div style="float:left; width:25%; padding:10px 2px 6px 6px;"><a href="groupcorpcommsamrs@blackrock.com">groupcorpcommsamrs@blackrock.com</a>, <a
-              href="https://www.facebook.com/BlackRock/" target="_blank">Facebook</a></div>
+        <div id="CorporateSponsors" class="tabcontent hidden"><iframe class="airtable-embed"
+            src="https://airtable.com/embed/shrjITrVTVUMrHaV6?backgroundColor=cyan" frameborder="0" onmousewheel=""
+            width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>
         </div>
-        <div style="width:94%; border: 1px solid #999; margin:8px 2%; clear:both"></div>
-        <div style="float:left; width:100%; padding:6px 0">
-          <div style="float:left; width:3%; padding:6px; padding-left:16px; font-size:16px; font-weight:bold">2.</div>
-          <div style="float:left; width:20%; padding:10px 1px 6px 6px;">Procter and Gamble</div>
-          <div style="float:left; width:15%; padding:4px 6px 4px 2px; text-align:center">
-            <image src="logos/proctergamble.png" width="55"></image>
-          </div>
-          <div style="float:left; width:25%; padding:10px 6px 6px 8px;">Bounce, Cascade, Downy, Charmin</div>
-          <div style="float:left; width:25%; padding:10px 2px 6px 6px;"><a href="mailto:mediateam.im@pg.com"
-              target="_blank">mediateam.im@pg.com</a>, <a href="https://www.facebook.com/proctergamble/"
-              target="_blank">Facebook</a></div>
+        <div id="HealthSponsors" class="tabcontent hidden"><iframe class="airtable-embed"
+            src="https://airtable.com/embed/shrUeaXdRxOXeuW1T?backgroundColor=cyan" frameborder="0" onmousewheel=""
+            width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>
         </div>
-        <div style="width:94%; border: 1px solid #999; margin:8px 2%; clear:both"></div>
-        <div style="clear:both; color:#000000; padding:18px 80px; font-weight:bold; text-decoration:underline">Suggested
-          message text for this month:
+        <div id="VehicleSponsors" class="tabcontent hidden"><iframe class="airtable-embed"
+            src="https://airtable.com/embed/shrBJ8g5GHa6hzxm1?backgroundColor=cyan" frameborder="0" onmousewheel=""
+            width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>
         </div>
-        <div style="clear:both; color:#000000; padding:2px 160px 40px 160px; font-style:italic;">
-          Dear [Company Name],
-          <br /><br />
-          I was disappointed to learn that you ran ads on Fox News Channel and were among its top sponsors in July of 2023. Major
-          corporations have a responsibility to not amplify extreme hateful
-          partisan content. Yet using your dollars, Fox News politized the successful Barbie movie, turing using it to push right wing talking points with ludicrous chyrons 
-          like "Barbie Gets a Woke Makeover". Fox News also continued to falsely report about the Biden administration with chyrons such as "New Concerns Over Biden Family Scandals".
-          Is this kind of false divisive content what your company supports?
-          <br /><br />
-          I'm writing to ask you to end your sponsorship of one-sided Fox News Channel. The content is only getting more
-          extreme. It is the right thing for your brand and for our democracy. As a consumer, going forward I plan to
-          find alternatives to brands that continue to sponsor Fox News Channel.
-          <br /><br />
-          Thank You
+        <div id="InsFinSponsors" class="tabcontent hidden"><iframe class="airtable-embed"
+            src="https://airtable.com/embed/shrJbWTufedWTbV8r?backgroundColor=cyan" frameborder="0" onmousewheel=""
+            width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
         </div>
       </div>
 
       <p
         style="font-size:15px; padding:8px; background-color:#ebebf2; border-top: 0px solid #351c75; border-bottom: 0px solid #351c75; color:#555; margin-top:12px; ">
-        Estimates of top sponsors are based on daily sampling of advertisements on Fox News Channel excluding overnight, nonprofit
+        Estimates are based on daily sampling of advertisements on Fox News Channel excluding overnight, nonprofit
         orgs,
         local ads, and cable provider promos.
         Read about the methodology and see all data files, including individual sample records, in <a
