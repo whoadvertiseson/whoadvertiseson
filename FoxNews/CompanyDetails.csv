@@ -2,10 +2,10 @@ CompanyName,Fortune500Rank,Global500Rank,Sector,Size
 23andme,,,Healthcare,Venture Funded
 3M,102,,Household & Food Products,Global 500 / Fortune 1000
 4Ocean,,,,Other Companies
-4Patriots,,,,
+4Patriots,,,Household & Food Products,Other Companies
 A Place for Mom,,,Healthcare,Other Companies
 A&E Networks,,,,Other Companies
-Abacus Pays,,,,
+Abacus Pays,,,Financial,Other Companies
 Abbott Laboratories ,104,393,Healthcare,Global 500 / Fortune 1000
 AbbVie,99,378,Healthcare,Global 500 / Fortune 1000
 Abeka,,,Other,Other Companies
@@ -35,7 +35,7 @@ Ameritrade,251,,Financial,Global 500 / Fortune 1000
 Amgen,135,,Healthcare,Global 500 / Fortune 1000
 Amphastar,,,Healthcare,Other Companies
 Ancestry,,,Ecommerce & Software,Other Companies
-Andersen,,,,Other Companies
+Andersen,,,Household Services,Other Companies
 Angi,740,,Household Services,Global 500 / Fortune 1000
 Annuity General,,,Financial,Other Companies
 Arc Encounter,,,,Other Companies
@@ -54,7 +54,8 @@ Aurobindo Pharma,,,,Other Companies
 Avadim Health,,,Healthcare,Other Companies
 Avis Budget Group,378,,Ecommerce & Software,Global 500 / Fortune 1000
 Babbel,,,,Other Companies
-BAJit,,,,
+BAJit,,,Business Services,Other Companies
+OneFlight,,,Business Services,Other Companies
 Balance of Nature,,,Supplements & Weight Loss,Other Companies
 Bank of America,29,77,Financial,Global 500 / Fortune 1000
 Bass Pro Shops,,,Retail & Restaurants,Other Companies
@@ -146,7 +147,7 @@ Del Webb,,,,Other Companies
 Dell,,,,Other Companies
 Dell Technologies,34,81,Hardware and Machinery,Global 500 / Fortune 1000
 DentalPlans.com,,,,Other Companies
-Dexcom,,,,Other Companies
+Dexcom,,,Healthcare,Other Companies
 Dine Brands,,,Retail & Restaurants,Other Companies
 Discover,,,,Other Companies
 Dish TV,251,,Telecommunications,Global 500 / Fortune 1000
@@ -154,7 +155,7 @@ Doctors Preferred,,,,
 Doggondiments,,,,Other Companies
 Dr Reddys,,,,Other Companies
 Dr Scholls,,,Retail & Restaurants,Other Companies
-Dr. Marty Pets,,,,
+Dr. Marty Pets,,,Household & Food Products,Other Companies
 DraftKings,,,,Other Companies
 Dynamo Emergency Band Radio,,,Household & Food Products,Other Companies
 Eargo,,,Healthcare,Other Companies
@@ -172,13 +173,13 @@ Endurance Auto Warranty,,,,
 Energizer,834,,Household & Food Products,Global 500 / Fortune 1000
 Espired,,,Other,Other Companies
 Essilor,,,Healthcare,Other Companies
-Ethos,,,,
+Ethos,,,Financial,Other Companies
 Exact Sciences,,,,
 Exoticca,,,,Other Companies
-Expedia,,,,Other Companies
+Expedia,315,,Ecommerce & Software,Other Companies
 Experian,,,Financial,Other Companies
 Exults,,,,Other Companies
-Fabletics,,,,
+Fabletics,,,,Other Companies
 Facebook,34,86,Ecommerce & Software,Global 500 / Fortune 1000
 Factor,,,,
 Fage International,,,,Other Companies
@@ -207,8 +208,7 @@ Fox,247,,Telecommunications,Global 500 / Fortune 1000
 Fox Entertainment,,,Telecommunications,Other Companies
 Fracture,,,,Other Companies
 Freshly,,,,Venture Funded
-Freshpet,,,,Other Companies
-FreshPet,,,,Other Companies
+Freshpet,,,Household & Food Products,Other Companies
 Frontline Books,,,,Other Companies
 Fubo,,,Telecommunications,Other Companies
 Gap,221,,Retail & Restaurants,Global 500 / Fortune 1000
@@ -301,8 +301,8 @@ John Deere,84,319,Hardware and Machinery,Global 500 / Fortune 1000
 John Hagee Ministries,,,,Other Companies
 Johnson and Johnson,35,104,Healthcare,Global 500 / Fortune 1000
 JointFlex,,,,Other Companies
-Jolie Skin Co,,,,
-Jones Road,,,,
+Jolie Skin Co,,,Beauty and Personal Care,Other Companies
+Jones Road,,,Beauty and Personal Care,Other Companies
 JP Morgan Chase,19,48,Financial,Global 500 / Fortune 1000
 K12 Inc,,,,Other Companies
 Kajabi,,,Ecommerce & Software,Venture Funded
@@ -414,8 +414,8 @@ Ownerly,,,Ecommerce & Software,Other Companies
 Owning,,,Financial,Other Companies
 Pajamagram,,,,Other Companies
 Parker Waikman LLP,,,,Other Companies
-Particle,,,,
-Patriot Mobile,,,,
+Particle,,,Beauty and Personal Care,Other Companies
+Patriot Mobile,,,Telecommunications,Other Companies
 Paw.com,,,Retail & Restaurants,Other Companies
 Paychex,617,,Business Services,Global 500 / Fortune 1000
 Paycom,617,,Business Services,Global 500 / Fortune 1000
@@ -436,7 +436,7 @@ Pray.com,,,,Other Companies
 Pretty Litter,,,,Other Companies
 Priceline,340,,Ecommerce & Software,Global 500 / Fortune 1000
 Principal,,,Financial,Other Companies
-PrizePicks,,,,
+PrizePicks,,,Other,
 Procter and Gamble,50,156,Household & Food Products,Global 500 / Fortune 1000
 Product Madness,,,Ecommerce & Software,Other Companies
 Progressive,86,323,Insurance,Global 500 / Fortune 1000
@@ -446,7 +446,7 @@ Pulte Group,,,,Other Companies
 PureTalk,,,Telecommunications,Other Companies
 Purple,,,Household & Food Products,Venture Funded
 Quicken,,,Business Services,
-Quince,,,,
+Quince,,,Retail & Restaurants,
 Quincy Bioscience,,,Supplements & Weight Loss,Other Companies
 Qunol,,,Supplements & Weight Loss,Other Companies
 Re-Bath,,,,Other Companies
@@ -474,18 +474,18 @@ RoboKiller,,,,Other Companies
 RockAuto,,,Ecommerce & Software,Other Companies
 Rocket Mortgage,194,,Financial,Global 500 / Fortune 1000
 Rockland Capital,,,,Other Companies
-Roof Maxx,,,,
+Roof Maxx,,,,Other Companies
 Rosland Capital,,,Financial,Other Companies
 Rowpar Pharmaceuticals Inc,,,Healthcare,Other Companies
 Ryder,365,,Other,Global 500 / Fortune 1000
-Saatva,,,,
+Saatva,,,Household & Food Products,Other Companies
 Safe Step,,,,Other Companies
 Safelite Group,,,Motor Vehicles & Automotive,Other Companies
 Samsung,,19,Telecommunications,Global 500 / Fortune 1000
 Sandals,,,Other,Other Companies
 Sanofi,,289,Healthcare,Global 500 / Fortune 1000
 Schiff Vitamins,,,Supplements & Weight Loss,Other Companies
-Scopely,,,,
+Scopely,,,,Other Companies
 ScotteVest,,,Household & Food Products,Other Companies
 Scotts,753,,Household & Food Products,Global 500 / Fortune 1000
 Select Advisor,,,,Other Companies
@@ -497,7 +497,7 @@ ServPro,,,Household Services,Other Companies
 Shift,,,,Other Companies
 ShipGo,,,,Other Companies
 ShipStation,,,Business Services,Other Companies
-Shutterfly,,,,Venture Funded
+Shutterfly,,,Ecommerce & Software,Venture Funded
 Silac Insurance,,,,Other Companies
 Silver Double Eagle Coin,,,,Other Companies
 Silver Singles,,,,Other Companies
@@ -623,9 +623,18 @@ Wolf and Shepherd,,,Retail & Restaurants,Venture Funded
 Workhuman,,,,Other Companies
 World Gold Council,,,Financial,Other Companies
 X-Chair,,,Household & Food Products,Other Companies
-Yrefy,,,,
-ZeroWater,,,,Other Companies
+Yrefy,,,Financial,Other Companies
+ZeroWater,,,Supplements & Weight Loss,Other Companies
 ZestyPaws,,,,Other Companies
 Zevo,,,,Other Companies
 ZipRecruiter,,,Business Services,Venture Funded
 Zoetis Petcare,,,Household & Food Products,Other Companies
+Ace Hardware,,,Retail & Restaurants,Other Companies
+Jacuzzi,,,Household Services,Other Companies
+ARS Pharma,,,Healthcare,Other Companies
+CreditOne Bank,,,Financial,Other Companies
+Seed Health,,,Supplements & Weight Loss,Other Companies
+CarryPROOF,,,Other,Other Companies
+Signal Relief,,,Healthcare,Other Companies
+Takeda Pharma,,,Healthcare,Other Companies
+Alibaba,,,Ecommerce & Software,Other Companies

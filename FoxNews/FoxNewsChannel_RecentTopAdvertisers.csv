@@ -1,100 +1,99 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-LifeLock by Norton,3.658536585,1/6/26,"LifeLock, ReputationDefender",Ecommerce & Software,573,,7 sampling days between 12/5/25 and 1/7/26,6
-Coventry Direct,3.048780488,1/7/26,Coventry Direct,Financial,,,7 sampling days between 12/5/25 and 1/7/26,5
-Particle for Men,3.048780488,1/7/26,"Particle Men, Gravite",,,,7 sampling days between 12/5/25 and 1/7/26,5
-Yrefy,3.048780488,1/7/26,Yrefy,,,,7 sampling days between 12/5/25 and 1/7/26,5
-Shutterfly,2.43902439,1/7/26,Shutterfly,,,,7 sampling days between 12/5/25 and 1/7/26,4
-Trivago,2.43902439,1/7/26,Trivago,Ecommerce & Software,,,7 sampling days between 12/5/25 and 1/7/26,4
-4Patriots,1.829268293,1/7/26,4Patriots Food Kit,,,,7 sampling days between 12/5/25 and 1/7/26,3
-Ace Hardware,1.829268293,12/11/25,Ace Hardware,,,,7 sampling days between 12/5/25 and 1/7/26,3
-Dr. Marty Pets,1.829268293,1/6/26,Dr. Marty Pets,,,,7 sampling days between 12/5/25 and 1/7/26,3
-Force Factor,1.829268293,1/7/26,"Hair Growth, Total Beets, Berberine",Supplements & Weight Loss,,,7 sampling days between 12/5/25 and 1/7/26,3
-Jacuzzi,1.829268293,1/7/26,Jacuzzi Bath Remodel,,,,7 sampling days between 12/5/25 and 1/7/26,3
-Kardia,1.829268293,12/12/25,KardiaMobile,Healthcare,,,7 sampling days between 12/5/25 and 1/7/26,3
-Liberty Mutual,1.829268293,1/7/26,Liberty Mutual Insurance,Insurance,77,278,7 sampling days between 12/5/25 and 1/7/26,3
-BAJit,1.829268293,1/7/26,BAJit,,,,7 sampling days between 12/5/25 and 1/7/26,3
-Rosland Capital,1.829268293,1/6/26,Rosland Capital,Financial,,,7 sampling days between 12/5/25 and 1/7/26,3
-SelectQuote,1.829268293,1/7/26,SelectQuote,Ecommerce & Software,,,7 sampling days between 12/5/25 and 1/7/26,3
-WeatherTech,1.829268293,1/6/26,WeatherTech,Motor Vehicles & Automotive,,,7 sampling days between 12/5/25 and 1/7/26,3
-ARS Pharma,1.219512195,1/6/26,Neffy,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Ancestry,1.219512195,12/11/25,Ancestry,Ecommerce & Software,,,7 sampling days between 12/5/25 and 1/7/26,2
-Andersen,1.219512195,1/6/26,Renewal by Andersen,,,,7 sampling days between 12/5/25 and 1/7/26,2
-AstraZeneca,1.219512195,1/7/26,"Tagrisso, Ultomiris",Healthcare,,462,7 sampling days between 12/5/25 and 1/7/26,2
-Balance of Nature,1.219512195,1/7/26,"Veggies, Fruits",Supplements & Weight Loss,,,7 sampling days between 12/5/25 and 1/7/26,2
-CarryPROOF,1.219512195,1/7/26,CarryPROOF,,,,7 sampling days between 12/5/25 and 1/7/26,2
-CreditOne Bank,1.219512195,1/7/26,CreditOne Bank,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Ethos,1.219512195,1/6/26,Ethos Life Insurance,,,,7 sampling days between 12/5/25 and 1/7/26,2
-SuperBeets,1.219512195,12/9/25,SuperBeets,Supplements & Weight Loss,,,7 sampling days between 12/5/25 and 1/7/26,2
-NewDayUSA,1.219512195,1/6/26,NewDayUSA,Financial,,,7 sampling days between 12/5/25 and 1/7/26,2
-Patriot Mobile,1.219512195,1/6/26,Patriot Mobile,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Procter and Gamble,1.219512195,12/11/25,"Febreze, Tide",Household & Food Products,50,156,7 sampling days between 12/5/25 and 1/7/26,2
-Quicken,1.219512195,1/7/26,Quicken,Business Services,,,7 sampling days between 12/5/25 and 1/7/26,2
-Qunol (Sanofi),1.219512195,12/8/25,"Qunol CoQ10, Qunol Tumeric",Supplements & Weight Loss,,,7 sampling days between 12/5/25 and 1/7/26,2
-Sanofi,1.219512195,1/7/26,Aspercreme,Healthcare,,289,7 sampling days between 12/5/25 and 1/7/26,2
-Seed Health,1.219512195,1/7/26,Seed,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Signal Relief,1.219512195,1/7/26,Signal Relief,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Takeda Pharma,1.219512195,12/12/25,Entyvio,,,,7 sampling days between 12/5/25 and 1/7/26,2
-Visiting Angels,1.219512195,1/6/26,Visiting Angels,Healthcare,,,7 sampling days between 12/5/25 and 1/7/26,2
-ZipRecruiter,1.219512195,12/10/25,ZipRecruiter,Business Services,,,7 sampling days between 12/5/25 and 1/7/26,2
-ATT,0.609756098,12/11/25,DirecTV,Telecommunications,9,11,7 sampling days between 12/5/25 and 1/7/26,1
-Abacus Pays,0.609756098,1/7/26,Abacus Pays,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Abbott Laboratories ,0.609756098,1/7/26,Ensure,Healthcare,104,393,7 sampling days between 12/5/25 and 1/7/26,1
-Alibaba,0.609756098,12/10/25,Alibaba,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Allegiance Flag Supply,0.609756098,12/10/25,Allegiance Flag Supply,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Amgen,0.609756098,1/7/26,Amgen,Healthcare,135,,7 sampling days between 12/5/25 and 1/7/26,1
-CarGurus,0.609756098,1/7/26,CarGurus,Ecommerce & Software,,,7 sampling days between 12/5/25 and 1/7/26,1
-CarShield,0.609756098,12/11/25,CarShield,Household & Food Products,,,7 sampling days between 12/5/25 and 1/7/26,1
-Carvana,0.609756098,1/6/26,Carvana,Ecommerce & Software,,,7 sampling days between 12/5/25 and 1/7/26,1
-Chewy,0.609756098,12/12/25,Chewy,Household & Food Products,,,7 sampling days between 12/5/25 and 1/7/26,1
-Colonial Penn,0.609756098,1/6/26,Colonial Penn,Financial,,,7 sampling days between 12/5/25 and 1/7/26,1
-Consumer Cellular,0.609756098,12/8/25,Consumer Cellular,Telecommunications,,,7 sampling days between 12/5/25 and 1/7/26,1
-Dexcom,0.609756098,1/6/26,Dexcom G7,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Empire,0.609756098,1/7/26,Empire Flooring,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Ferndale Healthcare ,0.609756098,12/8/25,RectiCare,Healthcare,,,7 sampling days between 12/5/25 and 1/7/26,1
-ForceFactor,0.609756098,12/9/25,Hair Growth,,,,7 sampling days between 12/5/25 and 1/7/26,1
-FreshPet,0.609756098,12/5/25,FreshPet,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Garlique,0.609756098,1/6/26,Focus Consumer Healthcare,,,,7 sampling days between 12/5/25 and 1/7/26,1
-GenStone,0.609756098,12/9/25,GenStone,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Generac,0.609756098,12/12/25,Generac,,,,7 sampling days between 12/5/25 and 1/7/26,1
-GentleCure,0.609756098,12/9/25,GentleCure,,,,7 sampling days between 12/5/25 and 1/7/26,1
-GSK,0.609756098,12/9/25,Nucala,Healthcare,,282,7 sampling days between 12/5/25 and 1/7/26,1
-GoDaddy,0.609756098,1/6/26,GoDaddy Airo,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Guardio,0.609756098,1/6/26,Guardio,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Haleon,0.609756098,12/8/25,Voltaren,Healthcare,,282,7 sampling days between 12/5/25 and 1/7/26,1
-HomeServ,0.609756098,1/6/26,HomeServ,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Howard Capital Management ,0.609756098,12/10/25,Howard Capital Management ,,,,7 sampling days between 12/5/25 and 1/7/26,1
-JG Wentworth,0.609756098,1/6/26,JG Wentworth,Other,,,7 sampling days between 12/5/25 and 1/7/26,1
-Kalshi,0.609756098,1/6/26,Kalshi,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Kohler,0.609756098,1/6/26,Kohler Walk in Bath,,,,7 sampling days between 12/5/25 and 1/7/26,1
-LeafFilter,0.609756098,1/6/26,LeafFilter,Household Services,,,7 sampling days between 12/5/25 and 1/7/26,1
-LifeMD,0.609756098,1/6/26,LifeMD,,,,7 sampling days between 12/5/25 and 1/7/26,1
-LifeVac,0.609756098,1/6/26,LifeVac,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Merchant Gold Group,0.609756098,1/6/26,Merchant Gold Group,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Merck,0.609756098,1/7/26,Keytruda,Healthcare,65,,7 sampling days between 12/5/25 and 1/7/26,1
-MintMobile,0.609756098,1/7/26,MintMobile,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Mott and Bow,0.609756098,1/6/26,Mott and Bow,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Musely,0.609756098,1/6/26,Musely,Healthcare,,,7 sampling days between 12/5/25 and 1/7/26,1
-National Debt Relief,0.609756098,1/7/26,National Debt Relief,,,,7 sampling days between 12/5/25 and 1/7/26,1
-NatureMade,0.609756098,12/12/25,NatureMade Multi,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Nestle,0.609756098,1/6/26,Boost,Household & Food Products,,82,7 sampling days between 12/5/25 and 1/7/26,1
-Ninja Transfers,0.609756098,1/7/26,Ninja Transfers,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Noom,0.609756098,1/6/26,Noom,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Nutrafol,0.609756098,12/11/25,Nutrafol,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Omaha Steaks,0.609756098,12/11/25,Omaha Steaks,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Oura,0.609756098,12/10/25,Oura,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Rebath,0.609756098,1/6/26,Rebath,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Relief Factor,0.609756098,1/7/26,Relief Factor,Supplements & Weight Loss,,,7 sampling days between 12/5/25 and 1/7/26,1
-Ridge,0.609756098,1/7/26,Ridge Wallet,,,,7 sampling days between 12/5/25 and 1/7/26,1
-SafeStep,0.609756098,12/12/25,SafeStep Showers,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Safelite Group,0.609756098,1/6/26,Safelite AutoGlass,Motor Vehicles & Automotive,,,7 sampling days between 12/5/25 and 1/7/26,1
-ShipStation,0.609756098,1/7/26,ShipStation,Business Services,,,7 sampling days between 12/5/25 and 1/7/26,1
-Shopify,0.609756098,12/8/25,Shopify,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Sleep Number,0.609756098,12/12/25,Sleep Number,Household & Food Products,,,7 sampling days between 12/5/25 and 1/7/26,1
-Stanley Steemer,0.609756098,12/11/25,Stanley Steemer,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Stiltz Homelifts,0.609756098,1/7/26,Stiltz Homelifts,,,,7 sampling days between 12/5/25 and 1/7/26,1
-Tax Relief Advocates,0.609756098,1/7/26,Tax Relief Advocates,,,,7 sampling days between 12/5/25 and 1/7/26,1
-The Farmers Dog,0.609756098,1/7/26,The Farmers Dog,Household & Food Products,,,7 sampling days between 12/5/25 and 1/7/26,1
-TommieCopper,0.609756098,1/6/26,TommieCopper,,,,7 sampling days between 12/5/25 and 1/7/26,1
-VisionWorks,0.609756098,1/6/26,VisionWorks,Healthcare,,,7 sampling days between 12/5/25 and 1/7/26,1
-eskiin,0.609756098,1/6/26,eskiin,,,,7 sampling days between 12/5/25 and 1/7/26,1
-kitsch,0.609756098,1/6/26,kitsch,,,,7 sampling days between 12/5/25 and 1/7/26,1
+LifeLock by Norton,3.658536585,1/6/26,"LifeLock, ReputationDefender",Ecommerce & Software,573,,7 days between 12/5/25 and 1/7/26,6
+Coventry Direct,3.048780488,1/7/26,Coventry Direct,Financial,,,7 days between 12/5/25 and 1/7/26,5
+Particle for Men,3.048780488,1/7/26,"Particle Men, Gravite",Beauty and Personal Care,,,7 days between 12/5/25 and 1/7/26,5
+Yrefy,3.048780488,1/7/26,Yrefy,Financial,,,7 days between 12/5/25 and 1/7/26,5
+Force Factor,2.43902439,1/7/26,"Berberine, Hair Growth, Total Beets",Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,4
+Shutterfly,2.43902439,1/7/26,Shutterfly,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,4
+Trivago,2.43902439,1/7/26,Trivago,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,4
+4Patriots,1.829268293,1/7/26,4Patriots Food Kit,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,3
+Ace Hardware,1.829268293,12/11/25,Ace Hardware,Retail & Restaurants,,,7 days between 12/5/25 and 1/7/26,3
+Dr. Marty Pets,1.829268293,1/6/26,Dr. Marty Pets,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,3
+Jacuzzi,1.829268293,1/7/26,Jacuzzi Bath Remodel,Household Services,,,7 days between 12/5/25 and 1/7/26,3
+Kardia,1.829268293,12/12/25,KardiaMobile,Healthcare,,,7 days between 12/5/25 and 1/7/26,3
+Liberty Mutual,1.829268293,1/7/26,Liberty Mutual Insurance,Insurance,77,278,7 days between 12/5/25 and 1/7/26,3
+BAJit,1.829268293,1/7/26,BAJit,Business Services,,,7 days between 12/5/25 and 1/7/26,3
+Rosland Capital,1.829268293,1/6/26,Rosland Capital,Financial,,,7 days between 12/5/25 and 1/7/26,3
+SelectQuote,1.829268293,1/7/26,SelectQuote,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,3
+WeatherTech,1.829268293,1/6/26,WeatherTech,Motor Vehicles & Automotive,,,7 days between 12/5/25 and 1/7/26,3
+ARS Pharma,1.219512195,1/6/26,Neffy,Healthcare,,,7 days between 12/5/25 and 1/7/26,2
+Ancestry,1.219512195,12/11/25,Ancestry,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,2
+Andersen,1.219512195,1/6/26,Renewal by Andersen,Household Services,,,7 days between 12/5/25 and 1/7/26,2
+AstraZeneca,1.219512195,1/7/26,"Ultomiris, Tagrisso",Healthcare,,462,7 days between 12/5/25 and 1/7/26,2
+Balance of Nature,1.219512195,1/7/26,"Fruits, Veggies",Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,2
+CarryPROOF,1.219512195,1/7/26,CarryPROOF,Other,,,7 days between 12/5/25 and 1/7/26,2
+CreditOne Bank,1.219512195,1/7/26,CreditOne Bank,Financial,,,7 days between 12/5/25 and 1/7/26,2
+Ethos,1.219512195,1/6/26,Ethos Life Insurance,Financial,,,7 days between 12/5/25 and 1/7/26,2
+SuperBeets,1.219512195,12/9/25,SuperBeets,Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,2
+NewDayUSA,1.219512195,1/6/26,NewDayUSA,Financial,,,7 days between 12/5/25 and 1/7/26,2
+Patriot Mobile,1.219512195,1/6/26,Patriot Mobile,Telecommunications,,,7 days between 12/5/25 and 1/7/26,2
+Procter and Gamble,1.219512195,12/11/25,"Febreze, Tide",Household & Food Products,50,156,7 days between 12/5/25 and 1/7/26,2
+Quicken,1.219512195,1/7/26,Quicken,Business Services,,,7 days between 12/5/25 and 1/7/26,2
+Qunol (Sanofi),1.219512195,12/8/25,"Qunol CoQ10, Qunol Tumeric",Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,2
+Sanofi,1.219512195,1/7/26,Aspercreme,Healthcare,,289,7 days between 12/5/25 and 1/7/26,2
+Seed Health,1.219512195,1/7/26,Seed,Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,2
+Signal Relief,1.219512195,1/7/26,Signal Relief,Healthcare,,,7 days between 12/5/25 and 1/7/26,2
+Takeda Pharma,1.219512195,12/12/25,Entyvio,Healthcare,,,7 days between 12/5/25 and 1/7/26,2
+Visiting Angels,1.219512195,1/6/26,Visiting Angels,Healthcare,,,7 days between 12/5/25 and 1/7/26,2
+ZipRecruiter,1.219512195,12/10/25,ZipRecruiter,Business Services,,,7 days between 12/5/25 and 1/7/26,2
+ATT,0.609756098,12/11/25,DirecTV,Telecommunications,9,11,7 days between 12/5/25 and 1/7/26,1
+Abacus Pays,0.609756098,1/7/26,Abacus Pays,Financial,,,7 days between 12/5/25 and 1/7/26,1
+Abbott Laboratories ,0.609756098,1/7/26,Ensure,Healthcare,104,393,7 days between 12/5/25 and 1/7/26,1
+Alibaba,0.609756098,12/10/25,Alibaba,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,1
+Allegiance Flag Supply,0.609756098,12/10/25,Allegiance Flag Supply,,,,7 days between 12/5/25 and 1/7/26,1
+Amgen,0.609756098,1/7/26,Amgen,Healthcare,135,,7 days between 12/5/25 and 1/7/26,1
+CarGurus,0.609756098,1/7/26,CarGurus,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,1
+CarShield,0.609756098,12/11/25,CarShield,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,1
+Carvana,0.609756098,1/6/26,Carvana,Ecommerce & Software,,,7 days between 12/5/25 and 1/7/26,1
+Chewy,0.609756098,12/12/25,Chewy,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,1
+Colonial Penn,0.609756098,1/6/26,Colonial Penn,Financial,,,7 days between 12/5/25 and 1/7/26,1
+Consumer Cellular,0.609756098,12/8/25,Consumer Cellular,Telecommunications,,,7 days between 12/5/25 and 1/7/26,1
+Dexcom,0.609756098,1/6/26,Dexcom G7,Healthcare,,,7 days between 12/5/25 and 1/7/26,1
+Empire,0.609756098,1/7/26,Empire Flooring,,,,7 days between 12/5/25 and 1/7/26,1
+Ferndale Healthcare ,0.609756098,12/8/25,RectiCare,Healthcare,,,7 days between 12/5/25 and 1/7/26,1
+FreshPet,0.609756098,12/5/25,FreshPet,,,,7 days between 12/5/25 and 1/7/26,1
+Garlique,0.609756098,1/6/26,Focus Consumer Healthcare,,,,7 days between 12/5/25 and 1/7/26,1
+GenStone,0.609756098,12/9/25,GenStone,,,,7 days between 12/5/25 and 1/7/26,1
+Generac,0.609756098,12/12/25,Generac,,,,7 days between 12/5/25 and 1/7/26,1
+GentleCure,0.609756098,12/9/25,GentleCure,,,,7 days between 12/5/25 and 1/7/26,1
+GSK,0.609756098,12/9/25,Nucala,Healthcare,,282,7 days between 12/5/25 and 1/7/26,1
+GoDaddy,0.609756098,1/6/26,GoDaddy Airo,,,,7 days between 12/5/25 and 1/7/26,1
+Guardio,0.609756098,1/6/26,Guardio,,,,7 days between 12/5/25 and 1/7/26,1
+Haleon,0.609756098,12/8/25,Voltaren,Healthcare,,282,7 days between 12/5/25 and 1/7/26,1
+HomeServ,0.609756098,1/6/26,HomeServ,,,,7 days between 12/5/25 and 1/7/26,1
+Howard Capital Management ,0.609756098,12/10/25,Howard Capital Management ,,,,7 days between 12/5/25 and 1/7/26,1
+JG Wentworth,0.609756098,1/6/26,JG Wentworth,Other,,,7 days between 12/5/25 and 1/7/26,1
+Kalshi,0.609756098,1/6/26,Kalshi,,,,7 days between 12/5/25 and 1/7/26,1
+Kohler,0.609756098,1/6/26,Kohler Walk in Bath,,,,7 days between 12/5/25 and 1/7/26,1
+LeafFilter,0.609756098,1/6/26,LeafFilter,Household Services,,,7 days between 12/5/25 and 1/7/26,1
+LifeMD,0.609756098,1/6/26,LifeMD,,,,7 days between 12/5/25 and 1/7/26,1
+LifeVac,0.609756098,1/6/26,LifeVac,,,,7 days between 12/5/25 and 1/7/26,1
+Merchant Gold Group,0.609756098,1/6/26,Merchant Gold Group,,,,7 days between 12/5/25 and 1/7/26,1
+Merck,0.609756098,1/7/26,Keytruda,Healthcare,65,,7 days between 12/5/25 and 1/7/26,1
+MintMobile,0.609756098,1/7/26,MintMobile,,,,7 days between 12/5/25 and 1/7/26,1
+Mott and Bow,0.609756098,1/6/26,Mott and Bow,,,,7 days between 12/5/25 and 1/7/26,1
+Musely,0.609756098,1/6/26,Musely,Healthcare,,,7 days between 12/5/25 and 1/7/26,1
+National Debt Relief,0.609756098,1/7/26,National Debt Relief,,,,7 days between 12/5/25 and 1/7/26,1
+NatureMade,0.609756098,12/12/25,NatureMade Multi,,,,7 days between 12/5/25 and 1/7/26,1
+Nestle,0.609756098,1/6/26,Boost,Household & Food Products,,82,7 days between 12/5/25 and 1/7/26,1
+Ninja Transfers,0.609756098,1/7/26,Ninja Transfers,,,,7 days between 12/5/25 and 1/7/26,1
+Noom,0.609756098,1/6/26,Noom,,,,7 days between 12/5/25 and 1/7/26,1
+Nutrafol,0.609756098,12/11/25,Nutrafol,,,,7 days between 12/5/25 and 1/7/26,1
+Omaha Steaks,0.609756098,12/11/25,Omaha Steaks,,,,7 days between 12/5/25 and 1/7/26,1
+Oura,0.609756098,12/10/25,Oura,,,,7 days between 12/5/25 and 1/7/26,1
+Rebath,0.609756098,1/6/26,Rebath,,,,7 days between 12/5/25 and 1/7/26,1
+Relief Factor,0.609756098,1/7/26,Relief Factor,Supplements & Weight Loss,,,7 days between 12/5/25 and 1/7/26,1
+Ridge,0.609756098,1/7/26,Ridge Wallet,,,,7 days between 12/5/25 and 1/7/26,1
+SafeStep,0.609756098,12/12/25,SafeStep Showers,,,,7 days between 12/5/25 and 1/7/26,1
+Safelite Group,0.609756098,1/6/26,Safelite AutoGlass,Motor Vehicles & Automotive,,,7 days between 12/5/25 and 1/7/26,1
+ShipStation,0.609756098,1/7/26,ShipStation,Business Services,,,7 days between 12/5/25 and 1/7/26,1
+Shopify,0.609756098,12/8/25,Shopify,,,,7 days between 12/5/25 and 1/7/26,1
+Sleep Number,0.609756098,12/12/25,Sleep Number,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,1
+Stanley Steemer,0.609756098,12/11/25,Stanley Steemer,,,,7 days between 12/5/25 and 1/7/26,1
+Stiltz Homelifts,0.609756098,1/7/26,Stiltz Homelifts,,,,7 days between 12/5/25 and 1/7/26,1
+Tax Relief Advocates,0.609756098,1/7/26,Tax Relief Advocates,,,,7 days between 12/5/25 and 1/7/26,1
+The Farmers Dog,0.609756098,1/7/26,The Farmers Dog,Household & Food Products,,,7 days between 12/5/25 and 1/7/26,1
+TommieCopper,0.609756098,1/6/26,TommieCopper,,,,7 days between 12/5/25 and 1/7/26,1
+VisionWorks,0.609756098,1/6/26,VisionWorks,Healthcare,,,7 days between 12/5/25 and 1/7/26,1
+eskiin,0.609756098,1/6/26,eskiin,,,,7 days between 12/5/25 and 1/7/26,1
+kitsch,0.609756098,1/6/26,kitsch,,,,7 days between 12/5/25 and 1/7/26,1
