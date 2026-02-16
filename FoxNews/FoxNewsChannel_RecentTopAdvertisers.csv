@@ -1,129 +1,159 @@
 CompanyName,AdFrequencyPer100,LastObserved,ProductsAdvertised,Sector,Fortune500Rank,Global500Rank,SamplingTimeSpan,NumberAdsSampled
-Sanofi (incl. Qunol),3.91304347826087,2026-01-30,"Qunol Tumeric, IcyHot, Qunol CoQ10, Aspercreme, Dupixent",Healthcare,,289.0,50 days ending 2026-02-02,9
-AbbVie,3.0434782608695654,2026-02-02,"Skyrizi, My Raw Truth, Botox Cosmetic, Botox for Migraines",Healthcare,99.0,378.0,50 days ending 2026-02-02,7
-Force Factor,3.0434782608695654,2026-02-02,"Hair Growth, Total Beets, Berberine",Supplements & Weight Loss,,,50 days ending 2026-02-02,7
-LifeLock by Norton,2.608695652173913,2026-01-30,"ReputationDefender, LifeLock",Ecommerce & Software,573.0,,50 days ending 2026-02-02,6
-Yrefy,2.608695652173913,2026-02-02,Yrefy,Financial,,,50 days ending 2026-02-02,6
-Dr. Marty Pets,2.1739130434782608,2026-01-30,Dr. Marty Pets,Household & Food Products,,,50 days ending 2026-02-02,5
-Procter and Gamble,2.1739130434782608,2026-01-30,"Swiffer, Nervive, Vicks VapoFreeze, Febreze, Metamucil",Household & Food Products,50.0,156.0,50 days ending 2026-02-02,5
-4Patriots,1.7391304347826086,2026-01-13,4Patriots Food Kit,Household & Food Products,,,50 days ending 2026-02-02,4
-Andersen,1.7391304347826086,2026-01-30,Renewal by Andersen,Household Services,,,50 days ending 2026-02-02,4
-Balance of Nature,1.7391304347826086,2026-01-30,"Veggies, Fruits",Supplements & Weight Loss,,,50 days ending 2026-02-02,4
-Coventry Direct,1.7391304347826086,2026-01-26,Coventry Direct,Financial,,,50 days ending 2026-02-02,4
-Ethos,1.7391304347826086,2026-02-02,Ethos Life Insurance,Financial,,,50 days ending 2026-02-02,4
-Particle for Men,1.7391304347826086,2026-01-30,Particle Men,Beauty and Personal Care,,,50 days ending 2026-02-02,4
-Trivago,1.7391304347826086,2026-01-07,Trivago,Ecommerce & Software,,,50 days ending 2026-02-02,4
-Angi,1.3043478260869565,2026-02-02,Angi,Household Services,740.0,,50 days ending 2026-02-02,3
-Consumer Cellular,1.3043478260869565,2026-01-26,Consumer Cellular,Telecommunications,,,50 days ending 2026-02-02,3
-Haleon,1.3043478260869565,2026-01-30,"Tums, Advil, Sensodyne",Healthcare,,282.0,50 days ending 2026-02-02,3
-Jacuzzi,1.3043478260869565,2026-01-26,Jacuzzi Bath Remodel,Household Services,,,50 days ending 2026-02-02,3
-BAJit,1.3043478260869565,2026-01-26,BAJit,Business Services,,,50 days ending 2026-02-02,3
-Quicken,1.3043478260869565,2026-01-12,Quicken,Business Services,,,50 days ending 2026-02-02,3
-SelectQuote,1.3043478260869565,2026-01-07,SelectQuote,Ecommerce & Software,,,50 days ending 2026-02-02,3
-Sleep Number,1.3043478260869565,2026-02-02,Sleep Number,Household & Food Products,,,50 days ending 2026-02-02,3
-ARS Pharma,0.8695652173913043,2026-01-25,Neffy,Healthcare,,,50 days ending 2026-02-02,2
-Abacus Pays,0.8695652173913043,2026-02-02,Abacus Pays,Financial,,,50 days ending 2026-02-02,2
-AstraZeneca,0.8695652173913043,2026-01-07,"Ultomiris, Tagrisso",Healthcare,,462.0,50 days ending 2026-02-02,2
-Badlands Ranch,0.8695652173913043,2026-02-02,Badlands Ranch,,,,50 days ending 2026-02-02,2
-Bausch and Lomb,0.8695652173913043,2026-01-26,"Miebo, Lumify",Healthcare,,,50 days ending 2026-02-02,2
-Bayer,0.8695652173913043,2026-01-25,Aleve,Healthcare,,214.0,50 days ending 2026-02-02,2
-BetterHelp,0.8695652173913043,2026-01-30,BetterHelp,,,,50 days ending 2026-02-02,2
-CarryPROOF,0.8695652173913043,2026-01-07,CarryPROOF,Other,,,50 days ending 2026-02-02,2
-CreditOne Bank,0.8695652173913043,2026-01-07,CreditOne Bank,Financial,,,50 days ending 2026-02-02,2
-Dexcom,0.8695652173913043,2026-01-14,Dexcom G7,Healthcare,,,50 days ending 2026-02-02,2
-HomeServ,0.8695652173913043,2026-02-02,HomeServ,,,,50 days ending 2026-02-02,2
-SuperBeets,0.8695652173913043,2026-01-26,"SuperBeets, Cholesterol Health Daily",Supplements & Weight Loss,,,50 days ending 2026-02-02,2
-Intuit,0.8695652173913043,2026-01-26,Intuit TurboTax,Ecommerce & Software,445.0,,50 days ending 2026-02-02,2
-LifeMD,0.8695652173913043,2026-01-25,LifeMD,,,,50 days ending 2026-02-02,2
-Lilly,0.8695652173913043,2026-01-30,Ebglyss,,,,50 days ending 2026-02-02,2
-Nature Made ,0.8695652173913043,2026-01-15,Zero Sugar Gummies,Supplements & Weight Loss,,,50 days ending 2026-02-02,2
-NewDayUSA,0.8695652173913043,2026-01-26,NewDayUSA,Financial,,,50 days ending 2026-02-02,2
-Patriot Mobile,0.8695652173913043,2026-01-14,Patriot Mobile,Telecommunications,,,50 days ending 2026-02-02,2
-Rebath,0.8695652173913043,2026-01-15,Rebath,,,,50 days ending 2026-02-02,2
-Reckitt,0.8695652173913043,2026-01-14,Airborne,Healthcare,,,50 days ending 2026-02-02,2
-Ridge,0.8695652173913043,2026-01-13,Ridge Wallet,,,,50 days ending 2026-02-02,2
-Rosland Capital,0.8695652173913043,2026-01-26,Rosland Capital,Financial,,,50 days ending 2026-02-02,2
-Seed Health,0.8695652173913043,2026-01-07,Seed,Supplements & Weight Loss,,,50 days ending 2026-02-02,2
-ShipStation,0.8695652173913043,2026-01-13,ShipStation,Business Services,,,50 days ending 2026-02-02,2
-Signal Relief,0.8695652173913043,2026-01-07,Signal Relief,Healthcare,,,50 days ending 2026-02-02,2
-The Farmers Dog,0.8695652173913043,2026-01-26,The Farmers Dog,Household & Food Products,,,50 days ending 2026-02-02,2
-Visiting Angels,0.8695652173913043,2026-02-02,Visiting Angels,Healthcare,,,50 days ending 2026-02-02,2
-ATT,0.43478260869565216,2026-01-12,DirecTV,Telecommunications,9.0,11.0,50 days ending 2026-02-02,1
-Abbott Laboratories ,0.43478260869565216,2026-01-07,Ensure,Healthcare,104.0,393.0,50 days ending 2026-02-02,1
-Allegiance Flag Supply,0.43478260869565216,2026-01-25,Allegiance Flag Supply,,,,50 days ending 2026-02-02,1
-Amgen,0.43478260869565216,2026-01-07,Amgen,Healthcare,135.0,,50 days ending 2026-02-02,1
-Ancestry,0.43478260869565216,2026-01-26,Ancestry,Ecommerce & Software,,,50 days ending 2026-02-02,1
-Audien Hearing,0.43478260869565216,2026-01-14,Audien Hearing,,,,50 days ending 2026-02-02,1
-Boll and Branch,0.43478260869565216,2026-01-26,Boll and Branch,Household & Food Products,,,50 days ending 2026-02-02,1
-CabinetsToGo,0.43478260869565216,2026-01-12,CabinetsToGo,,,,50 days ending 2026-02-02,1
-CarGurus,0.43478260869565216,2026-01-07,CarGurus,Ecommerce & Software,,,50 days ending 2026-02-02,1
-Care.com,0.43478260869565216,2026-01-30,Care.com,Ecommerce & Software,,,50 days ending 2026-02-02,1
-Carvana,0.43478260869565216,2026-01-06,Carvana,Ecommerce & Software,,,50 days ending 2026-02-02,1
-Chewy,0.43478260869565216,2026-01-13,Chewy,Household & Food Products,,,50 days ending 2026-02-02,1
-Colace,0.43478260869565216,2026-01-12,Colace,,,,50 days ending 2026-02-02,1
-Colonial Penn,0.43478260869565216,2026-01-06,Colonial Penn,Financial,,,50 days ending 2026-02-02,1
-Doctors Preferred,0.43478260869565216,2026-01-26,Mindful Advantage,,,,50 days ending 2026-02-02,1
-Dr Reddys,0.43478260869565216,2026-01-26,Doans,,,,50 days ending 2026-02-02,1
-Empire,0.43478260869565216,2026-01-07,Empire Flooring,,,,50 days ending 2026-02-02,1
-Endurance Warranty,0.43478260869565216,2026-01-14,Endurance Advantage,,,,50 days ending 2026-02-02,1
-Fabletics,0.43478260869565216,2026-01-07,Fabletics,,,,50 days ending 2026-02-02,1
-Fubo,0.43478260869565216,2026-01-30,FuboTV,Telecommunications,,,50 days ending 2026-02-02,1
-GOLO,0.43478260869565216,2026-01-30,GOLO,Supplements & Weight Loss,,,50 days ending 2026-02-02,1
-Garlique,0.43478260869565216,2026-01-06,Focus Consumer Healthcare,,,,50 days ending 2026-02-02,1
-General Steel,0.43478260869565216,2026-02-02,General Steel Buildings,,,,50 days ending 2026-02-02,1
-GoDaddy,0.43478260869565216,2026-01-06,GoDaddy Airo,,,,50 days ending 2026-02-02,1
-Guardio,0.43478260869565216,2026-01-06,Guardio,,,,50 days ending 2026-02-02,1
-Harbor Freight,0.43478260869565216,2026-01-12,Harbor Freight,,,,50 days ending 2026-02-02,1
-HorsePower,0.43478260869565216,2026-01-30,BullShotGrease,,,,50 days ending 2026-02-02,1
-Humana,0.43478260869565216,2026-01-30,Humana Medicare,Healthcare,73.0,,50 days ending 2026-02-02,1
-HungryRoot,0.43478260869565216,2026-01-25,HungryRoot,,,,50 days ending 2026-02-02,1
-Indeed,0.43478260869565216,2026-01-14,Indeed,Business Services,,408.0,50 days ending 2026-02-02,1
-Insurify,0.43478260869565216,2026-01-26,Insurify,,,,50 days ending 2026-02-02,1
-JG Wentworth,0.43478260869565216,2026-01-06,JG Wentworth,Other,,,50 days ending 2026-02-02,1
-Javvy,0.43478260869565216,2026-01-26,Javvy Coffee,,,,50 days ending 2026-02-02,1
-Johnson and Johnson,0.43478260869565216,2026-01-14,Tremfya,Healthcare,35.0,104.0,50 days ending 2026-02-02,1
-Jones Road Beauty,0.43478260869565216,2026-01-25,Jones Road Beauty,,,,50 days ending 2026-02-02,1
-Kalshi,0.43478260869565216,2026-01-06,Kalshi,,,,50 days ending 2026-02-02,1
-Kapitus,0.43478260869565216,2026-01-12,Kapitus,,,,50 days ending 2026-02-02,1
-Keepsake,0.43478260869565216,2026-01-07,Keepsake Frames,Household & Food Products,,,50 days ending 2026-02-02,1
-Kohler,0.43478260869565216,2026-01-06,Kohler Walk in Bath,,,,50 days ending 2026-02-02,1
-LeafFilter,0.43478260869565216,2026-01-06,LeafFilter,Household Services,,,50 days ending 2026-02-02,1
-Liberty Mutual,0.43478260869565216,2026-01-07,Liberty Mutual Insurance,Insurance,77.0,278.0,50 days ending 2026-02-02,1
-LifeVac,0.43478260869565216,2026-01-06,LifeVac,,,,50 days ending 2026-02-02,1
-Lowes,0.43478260869565216,2026-01-30,Lowes,Retail & Restaurants,31.0,80.0,50 days ending 2026-02-02,1
-Mars Men,0.43478260869565216,2026-01-26,Mars Men Testosterone,,,,50 days ending 2026-02-02,1
-Merchant Gold Group,0.43478260869565216,2026-01-06,Merchant Gold Group,,,,50 days ending 2026-02-02,1
-Merck,0.43478260869565216,2026-01-07,Keytruda,Healthcare,65.0,,50 days ending 2026-02-02,1
-MintMobile,0.43478260869565216,2026-01-07,MintMobile,,,,50 days ending 2026-02-02,1
-Mott and Bow,0.43478260869565216,2026-01-06,Mott and Bow,,,,50 days ending 2026-02-02,1
-Musely,0.43478260869565216,2026-01-06,Musely,Healthcare,,,50 days ending 2026-02-02,1
-National Debt Relief,0.43478260869565216,2026-01-07,National Debt Relief,,,,50 days ending 2026-02-02,1
-Nestle,0.43478260869565216,2026-01-06,Boost,Household & Food Products,,82.0,50 days ending 2026-02-02,1
-Ninja Transfers,0.43478260869565216,2026-01-07,Ninja Transfers,,,,50 days ending 2026-02-02,1
-Noom,0.43478260869565216,2026-01-06,Noom,,,,50 days ending 2026-02-02,1
-Omnilux,0.43478260869565216,2026-01-26,Omnilux,,,,50 days ending 2026-02-02,1
-PC Matic,0.43478260869565216,2026-01-07,PC Matic,Ecommerce & Software,,,50 days ending 2026-02-02,1
-Quincy Bioscience,0.43478260869565216,2026-01-12,Prevagen,Supplements & Weight Loss,,,50 days ending 2026-02-02,1
-Relief Factor,0.43478260869565216,2026-01-07,Relief Factor,Supplements & Weight Loss,,,50 days ending 2026-02-02,1
-Right at Home,0.43478260869565216,2026-01-14,Right at Home,Healthcare,,,50 days ending 2026-02-02,1
-Roche,0.43478260869565216,2026-01-14,Vabysmo,,,,50 days ending 2026-02-02,1
-Ross Simons,0.43478260869565216,2026-01-30,Ross Simons,,,,50 days ending 2026-02-02,1
-Safelite Group,0.43478260869565216,2026-01-06,Safelite AutoGlass,Motor Vehicles & Automotive,,,50 days ending 2026-02-02,1
-Sandals,0.43478260869565216,2026-01-25,Sandals,Other,,,50 days ending 2026-02-02,1
-Senokot,0.43478260869565216,2026-01-12,Senokot,,,,50 days ending 2026-02-02,1
-Shutterfly,0.43478260869565216,2026-01-07,Shutterfly,Ecommerce & Software,,,50 days ending 2026-02-02,1
-SoFi,0.43478260869565216,2026-01-13,SoFi,Financial,,,50 days ending 2026-02-02,1
-Stiltz Homelifts,0.43478260869565216,2026-01-07,Stiltz Homelifts,,,,50 days ending 2026-02-02,1
-Tax Relief Advocates,0.43478260869565216,2026-01-07,Tax Relief Advocates,,,,50 days ending 2026-02-02,1
-Tecovas,0.43478260869565216,2026-01-30,Tecovas,,,,50 days ending 2026-02-02,1
-The Good Feet Store,0.43478260869565216,2026-01-25,The Good Feet Store,,,,50 days ending 2026-02-02,1
-The Wellness Company,0.43478260869565216,2026-01-26,Drop the Pounds,,,,50 days ending 2026-02-02,1
-The Zebra,0.43478260869565216,2026-01-30,The Zebra,,,,50 days ending 2026-02-02,1
-Tommie Copper,0.43478260869565216,2026-01-25,Tommie Copper,,,,50 days ending 2026-02-02,1
-TommieCopper,0.43478260869565216,2026-01-06,TommieCopper,,,,50 days ending 2026-02-02,1
-Verizon,0.43478260869565216,2026-01-26,Verizon iPhone17,Telecommunications,20.0,44.0,50 days ending 2026-02-02,1
-VisionWorks,0.43478260869565216,2026-01-06,VisionWorks,Healthcare,,,50 days ending 2026-02-02,1
-WeatherTech,0.43478260869565216,2026-01-06,WeatherTech,Motor Vehicles & Automotive,,,50 days ending 2026-02-02,1
-Zoetis,0.43478260869565216,2026-01-30,Librela,,,,50 days ending 2026-02-02,1
-eskiin,0.43478260869565216,2026-01-06,eskiin,,,,50 days ending 2026-02-02,1
-kitsch,0.43478260869565216,2026-01-06,kitsch,,,,50 days ending 2026-02-02,1
+Sanofi (incl. Qunol),3.582089552238806,2026-02-12,"Qunol Magnesium Glycinate, Qunol Tumeric, IcyHot, Qunol CoQ10, Aspercreme, Dupixent",Healthcare,,289.0,150 days ending 2026-02-15,12
+Force Factor,3.2835820895522385,2026-02-12,"Hair Growth, Total Beets, Berberine",Supplements & Weight Loss,,,150 days ending 2026-02-15,11
+LifeLock by Norton,2.9850746268656714,2026-02-12,"ReputationDefender, LifeLock",Ecommerce & Software,573.0,,150 days ending 2026-02-15,10
+Coventry Direct,2.6865671641791042,2026-02-12,Coventry Direct,Financial,,,150 days ending 2026-02-15,9
+Procter and Gamble,2.6865671641791042,2026-02-12,"Nyquil, Vicks VapoFreeze, Swiffer, Nervive, Febreze, Metamucil, Tide",Household & Food Products,50.0,156.0,150 days ending 2026-02-15,9
+Yrefy,2.6865671641791042,2026-02-12,Yrefy,Financial,,,150 days ending 2026-02-15,9
+AbbVie,2.3880597014925375,2026-02-02,"Skyrizi, My Raw Truth, Botox Cosmetic, Botox for Migraines, Rinvoq",Healthcare,99.0,378.0,150 days ending 2026-02-15,8
+Particle for Men,2.3880597014925375,2026-01-30,"Particle Men, Gravite",Beauty and Personal Care,,,150 days ending 2026-02-15,8
+Balance of Nature,1.791044776119403,2026-02-12,"Veggies, Fruits",Supplements & Weight Loss,,,150 days ending 2026-02-15,6
+Dr. Marty Pets,1.791044776119403,2026-01-30,Dr. Marty Pets,Household & Food Products,,,150 days ending 2026-02-15,6
+Haleon,1.4925373134328357,2026-02-12,"Perodontax, Tums, Advil, Sensodyne, Voltaren",Healthcare,,282.0,150 days ending 2026-02-15,5
+4Patriots,1.1940298507462688,2026-01-13,4Patriots Food Kit,Household & Food Products,,,150 days ending 2026-02-15,4
+ARS Pharma,1.1940298507462688,2026-01-25,Neffy,Healthcare,,,150 days ending 2026-02-15,4
+Allegiance Flag Supply,1.1940298507462688,2026-01-25,Allegiance Flag Supply,,,,150 days ending 2026-02-15,4
+Andersen,1.1940298507462688,2026-01-30,Renewal by Andersen,Household Services,,,150 days ending 2026-02-15,4
+Angi,1.1940298507462688,2026-02-12,Angi,Household Services,740.0,,150 days ending 2026-02-15,4
+Consumer Cellular,1.1940298507462688,2026-01-26,Consumer Cellular,Telecommunications,,,150 days ending 2026-02-15,4
+Ethos,1.1940298507462688,2026-02-02,Ethos Life Insurance,Financial,,,150 days ending 2026-02-15,4
+SuperBeets,1.1940298507462688,2026-01-26,"SuperBeets, Cholesterol Health Daily",Supplements & Weight Loss,,,150 days ending 2026-02-15,4
+Jacuzzi,1.1940298507462688,2026-01-26,Jacuzzi Bath Remodel,Household Services,,,150 days ending 2026-02-15,4
+Liberty Mutual,1.1940298507462688,2026-01-07,Liberty Mutual Insurance,Insurance,77.0,278.0,150 days ending 2026-02-15,4
+BAJit,1.1940298507462688,2026-01-26,BAJit,Business Services,,,150 days ending 2026-02-15,4
+Rosland Capital,1.1940298507462688,2026-01-26,Rosland Capital,Financial,,,150 days ending 2026-02-15,4
+SelectQuote,1.1940298507462688,2026-01-07,SelectQuote,Ecommerce & Software,,,150 days ending 2026-02-15,4
+Shutterfly,1.1940298507462688,2026-01-07,Shutterfly,Ecommerce & Software,,,150 days ending 2026-02-15,4
+Sleep Number,1.1940298507462688,2026-02-02,Sleep Number,Household & Food Products,,,150 days ending 2026-02-15,4
+Trivago,1.1940298507462688,2026-01-07,Trivago,Ecommerce & Software,,,150 days ending 2026-02-15,4
+Ace Hardware,0.8955223880597015,2025-12-11,Ace Hardware,Retail & Restaurants,,,150 days ending 2026-02-15,3
+Ancestry,0.8955223880597015,2026-01-26,Ancestry,Ecommerce & Software,,,150 days ending 2026-02-15,3
+Bausch and Lomb,0.8955223880597015,2026-02-12,"PreserVision, Miebo, Lumify",Healthcare,,,150 days ending 2026-02-15,3
+Kardia,0.8955223880597015,2025-12-12,KardiaMobile,Healthcare,,,150 days ending 2026-02-15,3
+NewDayUSA,0.8955223880597015,2026-01-26,NewDayUSA,Financial,,,150 days ending 2026-02-15,3
+Patriot Mobile,0.8955223880597015,2026-01-14,Patriot Mobile,Telecommunications,,,150 days ending 2026-02-15,3
+Quicken,0.8955223880597015,2026-01-12,Quicken,Business Services,,,150 days ending 2026-02-15,3
+Rebath,0.8955223880597015,2026-01-15,Rebath,,,,150 days ending 2026-02-15,3
+Reckitt,0.8955223880597015,2026-02-12,"Neuriva, Airborne",Healthcare,,,150 days ending 2026-02-15,3
+Visiting Angels,0.8955223880597015,2026-02-02,Visiting Angels,Healthcare,,,150 days ending 2026-02-15,3
+WeatherTech,0.8955223880597015,2026-01-06,WeatherTech,Motor Vehicles & Automotive,,,150 days ending 2026-02-15,3
+ATT,0.5970149253731344,2026-01-12,DirecTV,Telecommunications,9.0,11.0,150 days ending 2026-02-15,2
+Abacus Pays,0.5970149253731344,2026-02-02,Abacus Pays,Financial,,,150 days ending 2026-02-15,2
+AstraZeneca,0.5970149253731344,2026-01-07,"Ultomiris, Tagrisso",Healthcare,,462.0,150 days ending 2026-02-15,2
+Badlands Ranch,0.5970149253731344,2026-02-02,Badlands Ranch,,,,150 days ending 2026-02-15,2
+Bayer,0.5970149253731344,2026-01-25,Aleve,Healthcare,,214.0,150 days ending 2026-02-15,2
+BetterHelp,0.5970149253731344,2026-01-30,BetterHelp,,,,150 days ending 2026-02-15,2
+CarryPROOF,0.5970149253731344,2026-01-07,CarryPROOF,Other,,,150 days ending 2026-02-15,2
+Chewy,0.5970149253731344,2026-01-13,Chewy,Household & Food Products,,,150 days ending 2026-02-15,2
+CreditOne Bank,0.5970149253731344,2026-01-07,CreditOne Bank,Financial,,,150 days ending 2026-02-15,2
+Dexcom,0.5970149253731344,2026-01-14,Dexcom G7,Healthcare,,,150 days ending 2026-02-15,2
+HomeServ,0.5970149253731344,2026-02-02,HomeServ,,,,150 days ending 2026-02-15,2
+HorsePower,0.5970149253731344,2026-02-12,BullShotGrease,,,,150 days ending 2026-02-15,2
+Intuit,0.5970149253731344,2026-01-26,Intuit TurboTax,Ecommerce & Software,445.0,,150 days ending 2026-02-15,2
+LifeMD,0.5970149253731344,2026-01-25,LifeMD,,,,150 days ending 2026-02-15,2
+Lilly,0.5970149253731344,2026-01-30,Ebglyss,,,,150 days ending 2026-02-15,2
+Nature Made ,0.5970149253731344,2026-01-15,Zero Sugar Gummies,Supplements & Weight Loss,,,150 days ending 2026-02-15,2
+Omnilux,0.5970149253731344,2026-01-26,Omnilux,,,,150 days ending 2026-02-15,2
+Ridge,0.5970149253731344,2026-01-13,Ridge Wallet,,,,150 days ending 2026-02-15,2
+Seed Health,0.5970149253731344,2026-01-07,Seed,Supplements & Weight Loss,,,150 days ending 2026-02-15,2
+ShipStation,0.5970149253731344,2026-01-13,ShipStation,Business Services,,,150 days ending 2026-02-15,2
+Signal Relief,0.5970149253731344,2026-01-07,Signal Relief,Healthcare,,,150 days ending 2026-02-15,2
+Takeda Pharma,0.5970149253731344,2025-12-12,Entyvio,Healthcare,,,150 days ending 2026-02-15,2
+The Farmers Dog,0.5970149253731344,2026-01-26,The Farmers Dog,Household & Food Products,,,150 days ending 2026-02-15,2
+The Wellness Company,0.5970149253731344,2026-02-12,"Spike Detox, Drop the Pounds",,,,150 days ending 2026-02-15,2
+ZipRecruiter,0.5970149253731344,2025-12-10,ZipRecruiter,Business Services,,,150 days ending 2026-02-15,2
+Abbott Laboratories ,0.2985074626865672,2026-01-07,Ensure,Healthcare,104.0,393.0,150 days ending 2026-02-15,1
+Alibaba,0.2985074626865672,2025-12-10,Alibaba,Ecommerce & Software,,,150 days ending 2026-02-15,1
+Amgen,0.2985074626865672,2026-01-07,Amgen,Healthcare,135.0,,150 days ending 2026-02-15,1
+Aspen Dental,0.2985074626865672,2025-09-20,Aspen Dental,Healthcare,,,150 days ending 2026-02-15,1
+Audien Hearing,0.2985074626865672,2026-01-14,Audien Hearing,,,,150 days ending 2026-02-15,1
+Boll and Branch,0.2985074626865672,2026-01-26,Boll and Branch,Household & Food Products,,,150 days ending 2026-02-15,1
+CabinetsToGo,0.2985074626865672,2026-01-12,CabinetsToGo,,,,150 days ending 2026-02-15,1
+Camping World,0.2985074626865672,2025-09-20,Camping World,Motor Vehicles & Automotive,475.0,,150 days ending 2026-02-15,1
+CarGurus,0.2985074626865672,2026-01-07,CarGurus,Ecommerce & Software,,,150 days ending 2026-02-15,1
+CarShield,0.2985074626865672,2025-12-11,CarShield,Household & Food Products,,,150 days ending 2026-02-15,1
+Care.com,0.2985074626865672,2026-01-30,Care.com,Ecommerce & Software,,,150 days ending 2026-02-15,1
+Carvana,0.2985074626865672,2026-01-06,Carvana,Ecommerce & Software,,,150 days ending 2026-02-15,1
+Colace,0.2985074626865672,2026-01-12,Colace,,,,150 days ending 2026-02-15,1
+Colonial Penn,0.2985074626865672,2026-01-06,Colonial Penn,Financial,,,150 days ending 2026-02-15,1
+Doctors Preferred,0.2985074626865672,2026-01-26,Mindful Advantage,,,,150 days ending 2026-02-15,1
+Dr Reddys,0.2985074626865672,2026-01-26,Doans,,,,150 days ending 2026-02-15,1
+Eli Lilly,0.2985074626865672,2026-02-12,Mounjaro,Healthcare,118.0,,150 days ending 2026-02-15,1
+Empire,0.2985074626865672,2026-01-07,Empire Flooring,,,,150 days ending 2026-02-15,1
+Endurance Warranty,0.2985074626865672,2026-01-14,Endurance Advantage,,,,150 days ending 2026-02-15,1
+Fabletics,0.2985074626865672,2026-01-07,Fabletics,,,,150 days ending 2026-02-15,1
+Ferndale Healthcare ,0.2985074626865672,2025-12-08,RectiCare,Healthcare,,,150 days ending 2026-02-15,1
+FreshPet,0.2985074626865672,2025-12-05,FreshPet,,,,150 days ending 2026-02-15,1
+Fubo,0.2985074626865672,2026-01-30,FuboTV,Telecommunications,,,150 days ending 2026-02-15,1
+GOLO,0.2985074626865672,2026-01-30,GOLO,Supplements & Weight Loss,,,150 days ending 2026-02-15,1
+Garlique,0.2985074626865672,2026-01-06,Focus Consumer Healthcare,,,,150 days ending 2026-02-15,1
+GenStone,0.2985074626865672,2025-12-09,GenStone,,,,150 days ending 2026-02-15,1
+Generac,0.2985074626865672,2025-12-12,Generac,,,,150 days ending 2026-02-15,1
+General Steel,0.2985074626865672,2026-02-02,General Steel Buildings,,,,150 days ending 2026-02-15,1
+GentleCure,0.2985074626865672,2025-12-09,GentleCure,,,,150 days ending 2026-02-15,1
+GSK,0.2985074626865672,2025-12-09,Nucala,Healthcare,,282.0,150 days ending 2026-02-15,1
+GoDaddy,0.2985074626865672,2026-01-06,GoDaddy Airo,,,,150 days ending 2026-02-15,1
+Guardio,0.2985074626865672,2026-01-06,Guardio,,,,150 days ending 2026-02-15,1
+Harbor Freight,0.2985074626865672,2026-01-12,Harbor Freight,,,,150 days ending 2026-02-15,1
+Howard Capital Management ,0.2985074626865672,2025-12-10,Howard Capital Management ,,,,150 days ending 2026-02-15,1
+Humana,0.2985074626865672,2026-01-30,Humana Medicare,Healthcare,73.0,,150 days ending 2026-02-15,1
+HungryRoot,0.2985074626865672,2026-01-25,HungryRoot,,,,150 days ending 2026-02-15,1
+Indeed,0.2985074626865672,2026-01-14,Indeed,Business Services,,408.0,150 days ending 2026-02-15,1
+Insurify,0.2985074626865672,2026-01-26,Insurify,,,,150 days ending 2026-02-15,1
+JG Wentworth,0.2985074626865672,2026-01-06,JG Wentworth,Other,,,150 days ending 2026-02-15,1
+JP Morgan Chase,0.2985074626865672,2026-02-12,Chase Bank,Financial,19.0,48.0,150 days ending 2026-02-15,1
+Javvy,0.2985074626865672,2026-01-26,Javvy Coffee,,,,150 days ending 2026-02-15,1
+Johnson and Johnson,0.2985074626865672,2026-01-14,Tremfya,Healthcare,35.0,104.0,150 days ending 2026-02-15,1
+Jones Road Beauty,0.2985074626865672,2026-01-25,Jones Road Beauty,,,,150 days ending 2026-02-15,1
+Kalshi,0.2985074626865672,2026-01-06,Kalshi,,,,150 days ending 2026-02-15,1
+Kapitus,0.2985074626865672,2026-01-12,Kapitus,,,,150 days ending 2026-02-15,1
+Keepsake,0.2985074626865672,2026-01-07,Keepsake Frames,Household & Food Products,,,150 days ending 2026-02-15,1
+Kohler,0.2985074626865672,2026-01-06,Kohler Walk in Bath,,,,150 days ending 2026-02-15,1
+LeafFilter,0.2985074626865672,2026-01-06,LeafFilter,Household Services,,,150 days ending 2026-02-15,1
+LifeVac,0.2985074626865672,2026-01-06,LifeVac,,,,150 days ending 2026-02-15,1
+Lowes,0.2985074626865672,2026-01-30,Lowes,Retail & Restaurants,31.0,80.0,150 days ending 2026-02-15,1
+Mars Men,0.2985074626865672,2026-01-26,Mars Men Testosterone,,,,150 days ending 2026-02-15,1
+Merchant Gold Group,0.2985074626865672,2026-01-06,Merchant Gold Group,,,,150 days ending 2026-02-15,1
+Merck,0.2985074626865672,2026-01-07,Keytruda,Healthcare,65.0,,150 days ending 2026-02-15,1
+MintMobile,0.2985074626865672,2026-01-07,MintMobile,,,,150 days ending 2026-02-15,1
+Mott and Bow,0.2985074626865672,2026-01-06,Mott and Bow,,,,150 days ending 2026-02-15,1
+Musely,0.2985074626865672,2026-01-06,Musely,Healthcare,,,150 days ending 2026-02-15,1
+National Debt Relief,0.2985074626865672,2026-01-07,National Debt Relief,,,,150 days ending 2026-02-15,1
+NatureMade,0.2985074626865672,2025-12-12,NatureMade Multi,,,,150 days ending 2026-02-15,1
+Nestle,0.2985074626865672,2026-01-06,Boost,Household & Food Products,,82.0,150 days ending 2026-02-15,1
+Ninja Transfers,0.2985074626865672,2026-01-07,Ninja Transfers,,,,150 days ending 2026-02-15,1
+Noom,0.2985074626865672,2026-01-06,Noom,,,,150 days ending 2026-02-15,1
+Nutrafol,0.2985074626865672,2025-12-11,Nutrafol,,,,150 days ending 2026-02-15,1
+Omaha Steaks,0.2985074626865672,2025-12-11,Omaha Steaks,,,,150 days ending 2026-02-15,1
+Oura,0.2985074626865672,2025-12-10,Oura,,,,150 days ending 2026-02-15,1
+PC Matic,0.2985074626865672,2026-01-07,PC Matic,Ecommerce & Software,,,150 days ending 2026-02-15,1
+PureTalk,0.2985074626865672,2026-02-12,PureTalk,Telecommunications,,,150 days ending 2026-02-15,1
+Quincy Bioscience,0.2985074626865672,2026-01-12,Prevagen,Supplements & Weight Loss,,,150 days ending 2026-02-15,1
+Realtor.com,0.2985074626865672,2026-02-12,Realtor.com,Ecommerce & Software,,,150 days ending 2026-02-15,1
+Relief Factor,0.2985074626865672,2026-01-07,Relief Factor,Supplements & Weight Loss,,,150 days ending 2026-02-15,1
+Right at Home,0.2985074626865672,2026-01-14,Right at Home,Healthcare,,,150 days ending 2026-02-15,1
+Riverbend Ranch,0.2985074626865672,2025-09-20,Riverbend Ranch,,,,150 days ending 2026-02-15,1
+Roche,0.2985074626865672,2026-01-14,Vabysmo,,,,150 days ending 2026-02-15,1
+Ross Simons,0.2985074626865672,2026-01-30,Ross Simons,,,,150 days ending 2026-02-15,1
+SafeStep,0.2985074626865672,2025-12-12,SafeStep Showers,,,,150 days ending 2026-02-15,1
+Safelite Group,0.2985074626865672,2026-01-06,Safelite AutoGlass,Motor Vehicles & Automotive,,,150 days ending 2026-02-15,1
+Sandals,0.2985074626865672,2026-01-25,Sandals,Other,,,150 days ending 2026-02-15,1
+Senokot,0.2985074626865672,2026-01-12,Senokot,,,,150 days ending 2026-02-15,1
+Shopify,0.2985074626865672,2025-12-08,Shopify,,,,150 days ending 2026-02-15,1
+Sling,0.2985074626865672,2025-09-20,Sling,Telecommunications,,,150 days ending 2026-02-15,1
+SoFi,0.2985074626865672,2026-01-13,SoFi,Financial,,,150 days ending 2026-02-15,1
+Stanley Steemer,0.2985074626865672,2025-12-11,Stanley Steemer,,,,150 days ending 2026-02-15,1
+Stiltz Homelifts,0.2985074626865672,2026-01-07,Stiltz Homelifts,,,,150 days ending 2026-02-15,1
+Tax Relief Advocates,0.2985074626865672,2026-01-07,Tax Relief Advocates,,,,150 days ending 2026-02-15,1
+Tecovas,0.2985074626865672,2026-01-30,Tecovas,,,,150 days ending 2026-02-15,1
+The Good Feet Store,0.2985074626865672,2026-01-25,The Good Feet Store,,,,150 days ending 2026-02-15,1
+The Zebra,0.2985074626865672,2026-01-30,The Zebra,,,,150 days ending 2026-02-15,1
+Therabody,0.2985074626865672,2025-09-20,Theragun,Household & Food Products,,,150 days ending 2026-02-15,1
+Tommie Copper,0.2985074626865672,2026-01-25,Tommie Copper,,,,150 days ending 2026-02-15,1
+TommieCopper,0.2985074626865672,2026-01-06,TommieCopper,,,,150 days ending 2026-02-15,1
+Vanguard,0.2985074626865672,2026-02-12,Vanguard,Financial,,,150 days ending 2026-02-15,1
+Verizon,0.2985074626865672,2026-01-26,Verizon iPhone17,Telecommunications,20.0,44.0,150 days ending 2026-02-15,1
+VisionWorks,0.2985074626865672,2026-01-06,VisionWorks,Healthcare,,,150 days ending 2026-02-15,1
+Zoetis,0.2985074626865672,2026-01-30,Librela,,,,150 days ending 2026-02-15,1
+eskiin,0.2985074626865672,2026-01-06,eskiin,,,,150 days ending 2026-02-15,1
+kitsch,0.2985074626865672,2026-01-06,kitsch,,,,150 days ending 2026-02-15,1
